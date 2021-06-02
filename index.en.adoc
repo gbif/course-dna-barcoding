@@ -7,7 +7,7 @@ GBIF Secretariat <training@gbif.org>
 :numbered:
 :revnumber: {git-metadata-sha-short}
 :revdate: {git-metadata-date} {git-metadata-time} {git-metadata-timezone}
-:title-logo-image: img/web/photo.jpg
+:title-logo-image: img/web/Bombus_pascuorum_rehbinderi.jpg
 :license: https://creativecommons.org/licenses/by-sa/4.0/
 :docinfo: shared-head
 // :stylesheet: /adoc/gbif-stylesheet/stylesheets/gbif-training.css
@@ -19,8 +19,8 @@ endif::backend-pdf[]
 // add cover image to img directory and update filename below
 ifndef::backend-pdf[]
 :figure-caption!:
-.this is the image caption
-image::img/web/photo.jpg[align=center,width=640,height=360]
+.https://www.gbif.org/occurrence/2840632116[Bombus pascuorum (Scopoli, 1763)^] observed in Georgia by Jean-Sébastien Rousseau-Piot (licensed under http://creativecommons.org/licenses/by-nc-nd/4.0/[CC BY-NC^])
+image::img/web/Bombus_pascuorum_rehbinderi.jpg[align=center,width=640,height=360]
 endif::backend-pdf[]
 
 :sectnums!:
