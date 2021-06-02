@@ -1,5 +1,5 @@
 [multipage-level=2]
-== Section/chapter title 
+== Data as a first-class research citizen 
 
 Paragraph1, sentence1.
 Sentence 2.
