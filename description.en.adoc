@@ -2,10 +2,22 @@
 == Course description
 
 ****
-This course will teach you how to use DNA barcodes, collection and observation data to resolve research questions in biodiversity. The programme uses a combination of lectures, tutorials, and hands-on exercises. You will learn to handle biodiversity data including DNA barcoding. You will gain practical experience in using open and digitally documented biodiversity data through GBIF and BOLD to answer biodiversity research questions. You will understand and practice capturing observation, collection, and genetic data from analogue and digital sources. Finally, this course provides basic skills in data publishing through GBIF and BOLD.
+*Aim*
+
+This course will teach you how to use DNA barcodes, collection and observation data to resolve research questions in biodiversity. 
+The programme uses a combination of lectures, tutorials, and hands-on exercises. 
+You will learn to handle biodiversity data including DNA barcoding. 
+You will gain practical experience in using open and digitally documented biodiversity data through GBIF and BOLD to answer biodiversity research questions. 
+You will understand and practice capturing observation, collection, and genetic data from analogue and digital sources. 
+Finally, this course provides basic skills in data publishing through GBIF and BOLD.
+
+*Scope*
+
+Data management skills for accessing and publishing data through biodiversity data platforms. 
+This is an observation/specimen -> published record course that does not include wet lab steps.
+****
 
 This course is a collaboration between the https://diku.no/[Diku-funded^] University of Oslo project BioDATA, the BMBF-funded project Caucasus Barcode of Life (https://ggbc.eu/[CaBOL^]), and https://www.gbif.org/[GBIF^] - Global Biodiversity Information Facility as has been developed by Dag Endresen, Dmitry Schigel, Helena Wirta, Hugo de Boer, Laura Russell, and Stefaniya Kamenova.
-****
 
 === Audience
 
