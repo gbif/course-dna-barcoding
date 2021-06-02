@@ -2,7 +2,7 @@
 
 === Suggested citation
 
-GBIF Secretariat (2021) Accelerating biodiversity research through DNA barcodes, collection and observation data. 1st edition. GBIF Secretariat: Copenhagen. https://doi.org/10.35035/doc-xxxx-xxxx. [Date of course.]
+Accelerating biodiversity research through DNA barcodes, collection and observation data. 1st edition. GBIF Secretariat: Copenhagen. https://doi.org/10.35035/doc-xxxx-xxxx. [Date of course]
 
 === Contributors
 
