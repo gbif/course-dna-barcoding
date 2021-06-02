@@ -1,42 +1,30 @@
 [description]
-== Description
+== Course description
 
 ****
-this is the description...
+This course will teach you how to use DNA barcodes, collection and observation data to resolve research questions in biodiversity. The programme uses a combination of lectures, tutorials, and hands-on exercises. You will learn to handle biodiversity data including DNA barcoding. You will gain practical experience in using open and digitally documented biodiversity data through GBIF and BOLD to answer biodiversity research questions. You will understand and practice capturing observation, collection, and genetic data from analogue and digital sources. Finally, this course provides basic skills in data publishing through GBIF and BOLD.
 
-Topics include:
-
-* Topic
-* Topic
-* Topic
-* Topic
-
-This course is comprised of ... 
-Second sentence...
+This course is a collaboration between the https://diku.no/[Diku-funded^] University of Oslo project BioDATA, the BMBF-funded project Caucasus Barcode of Life (https://ggbc.eu/[CaBOL^]), and https://www.gbif.org/[GBIF^] - Global Biodiversity Information Facility as has been developed by Dag Endresen, Dmitry Schigel, Helena Wirta, Hugo de Boer, Laura Russell, and Stefaniya Kamenova.
 ****
 
 === Audience
-This course is for...
+
+The course is suitable for MSc and PhD students in biology and other professionals in relevant fields. 
 
 === Prerequisites
 
-. prerequisite 1 if any
+Participants should have an affinity or professional interest in biodiversity. 
+Participants need to have the motivation and interest to handle DNA barcodes, museum collection data, and observation data. 
+A good understanding of English is necessary to follow the course, carry out the exercises, and receive support during the teaching.
 
-. prerequisite 2 if any
+=== Intended learning outcomes
 
-=== Learning objectives
-
-* Objective
-* Objective
-* Objective
-* Objective
-
-// inlude if needed, otherwise remove
-=== Certification
-
-Upon successful completion of the course and successful assessment of assignments (by trainers/mentors), participants have the opportunity to receive an official certification in the form of a Mozilla Open Badge.
-
-Participants are required to submit ... and it is scored against the educational rubrics for the course. 
-
-* An overall score of ??? earns a BASIC badge
-* An overall score of ??? earns an ADVANCED badge
+* Understand and be able to explain the concept of species delimitation.
+* Learn to use genetic sequence data as a DNA barcode to identify a species.
+* Learn to publish and retrieve data from GBIF and BOLD.
+* Learn the basics of data capture, cleaning, storage, geo-referencing, and citation.
+* Critically assess the quality of own and external data and their fitness for purpose.
+* Practice the key tools and approaches to maximize data quality, data linking and data reuse.
+* Explore the benefits of FAIR and open data principles in biodiversity research and collaboration.
+* Understand the value of data management as a research-enabling tool.
+* Broadly understand the importance of international biodiversity infrastructures, and how these can contribute to biodiversity assessments, monitoring, conservation, and red- listing.
