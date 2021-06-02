@@ -49,6 +49,8 @@ include::metabarcoding-edna.en.adoc[]
 
 include::data-publishing.en.adoc[]
 
+include::conclusion.en.adoc[]
+
 :sectnums!:
 
 // include::assignments.en.adoc[]
