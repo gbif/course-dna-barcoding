@@ -1,0 +1,45 @@
+[Acknowledgements]
+
+== Acknowledgements 
+
+=== Course design and instruction
+
+The success of this course depends heavily on the support provided to participants from GBIF's network of capacity enhancement mentors. 
+Visit the GBIF page on https://www.gbif.org/article/5SExsCfj7UaUkMCsuc6Oec/mentors-and-trainers[capacity enhancement mentoring^] to read more about these individuals and their contributions.
+
+The following individuals are recognized for their significant contributions to the course design, materials and instruction:
+
+* instructor*
+* instructor
+* instructor*
+* instructor
+
+*Originators of the curriculum
+
+Special acknowledgement ...
+
+=== Translators
+
+==== Language 1
+
+* Name 1
+* Name 2
+
+==== Language 2
+
+* Name 1
+* Name 2
+
+=== Resources
+
+* Resource
+* Resource
+* Resource
+* Resource
+
+=== Resource support
+
+* Support
+* Support
+* Support
+* Support
