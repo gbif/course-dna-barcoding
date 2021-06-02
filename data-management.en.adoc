@@ -1,5 +1,7 @@
-[multipage-level=2]
-== Data as a first-class research citizen 
+== Data management 
+
+[NOTE.objectives]
+This module includes ...
 
 Paragraph1, sentence1.
 Sentence 2.
@@ -16,10 +18,11 @@ Sentence 3.
 === sub topic
 
 [NOTE.presentation]
-In this video (12:26), you will review ... used in this course. 
-If you are unable to watch the embeded Vimeo video, you can download it locally. (MP4 - 44.5 MB)
+Watch video on the key concepts of ...
 
-video::FZAF5Sy8Nsc[youtube, height=540, width=960, align=center]
+.In this video (12:26), you will review ... used in this course. 
+If you are unable to watch the embeded Vimeo video, you can download it locally. (MP4 - 44.5 MB)
+video::434713215[vimeo, height=480, width=640, align=center]
 
 
 [NOTE.activity]

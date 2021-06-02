@@ -1,5 +1,7 @@
-[multipage-level=2]
-== Data journey 
+== Data publishing
+
+[NOTE.objectives]
+This module includes ...
 
 Paragraph1, sentence1.
 Sentence 2.
