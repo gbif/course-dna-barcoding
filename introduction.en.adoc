@@ -3,44 +3,22 @@
 [NOTE.objectives]
 This module includes ...
 
-Paragraph1, sentence1.
-Sentence 2.
-Sentence 3.
-
-Paragraph2, sentence1.
-Sentence 2.
-Sentence 3.
-
-Paragraph3, sentence1.
-Sentence 2.
-Sentence 3.
-
-=== sub topic
+=== Barcoding, data and biodiversity
 
 [NOTE.presentation]
-In this video (12:26), you will review ... used in this course. 
-If you are unable to watch the embeded Vimeo video, you can download it locally. (MP4 - 44.5 MB)
+In this presentation, you will review ... used in this course. 
+If you are unable to view the embeded slideshow, you can download it locally. (MP4 - ??.? MB)
 
-video::FZAF5Sy8Nsc[youtube, height=540, width=960, align=center]
+++++
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRA46mk5bnvyomFFFTOO4AWeB9xAS9l3Qwe7sNnHInho6c8GhdJ4bf5HZe5v-KTcg/embed?start=false&loop=false" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+++++
 
+=== GBIF for science and policy
 
-[NOTE.activity]
-Become familiar with the ...
+[NOTE.presentation]
+In this presentation, you will review ... used in this course. 
+If you are unable to view the embeded slideshow, you can download it locally. (MP4 - ??.? MB)
 
-****
-this is an example of a block
-this second sentence
-
-this is second paragraph first sentence.
-this is second sentence
-****
-
-==== sub sub topic
-
-Paragraph1, sentence1.
-Sentence 2.
-Sentence 3.
-
-“Paragraph2, sentence1.
-Sentence 2.
-Sentence 3.
+++++
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ6KC1hGwLr_diPKzRLL3p58leeiFK55Rr5npG-EHiX_kVJQZKDzbNE3lE-2qXv5A/embed?start=false&loop=false" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+++++
