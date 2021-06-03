@@ -1,4 +1,4 @@
-== Metabarcoding and eDNA applications and biodiversity assessments  
+== Metabarcoding and eDNA applications
 
 [NOTE.objectives]
 This module includes ...
