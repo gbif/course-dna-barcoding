@@ -29,6 +29,8 @@ include::description.en.adoc[]
 
 include::downloads.en.adoc[]
 
+include::software.en.adoc[]
+
 :sectnums:
 
 include::introduction.en.adoc[]
