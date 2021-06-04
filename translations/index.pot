@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-06-02 16:30+0000\n"
+"POT-Creation-Date: 2021-06-04 10:07+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -832,11 +832,26 @@ msgstr ""
 #. type: Title ===
 #: colophon.en.adoc:11
 #, no-wrap
+msgid "Acknowledgements"
+msgstr ""
+
+#. type: delimited block +
+#: colophon.en.adoc:15
+#, no-wrap
+msgid ""
+"<div>Icons made by <a href=\"https://www.freepik.com\" "
+"title=\"Freepik\">Freepik</a> from <a href=\"https://www.flaticon.com/\" "
+"title=\"Flaticon\">www.flaticon.com</a></div>\n"
+msgstr ""
+
+#. type: Title ===
+#: colophon.en.adoc:17
+#, no-wrap
 msgid "Licence"
 msgstr ""
 
 #. type: Plain text
-#: colophon.en.adoc:14
+#: colophon.en.adoc:20
 msgid ""
 "_Accelerating biodiversity research through DNA barcodes, collection and "
 "observation data_ is licensed under "
@@ -845,24 +860,24 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: colophon.en.adoc:15
+#: colophon.en.adoc:21
 #, no-wrap
 msgid "Persistent URI"
 msgstr ""
 
 #. type: Plain text
-#: colophon.en.adoc:18
+#: colophon.en.adoc:24
 msgid "https://doi.org/10.35035/doc-xxxx-xxxx"
 msgstr ""
 
 #. type: Title ===
-#: colophon.en.adoc:19
+#: colophon.en.adoc:25
 #, no-wrap
 msgid "Document control"
 msgstr ""
 
 #. type: Plain text
-#: colophon.en.adoc:21
+#: colophon.en.adoc:27
 msgid "First edition, June 2021"
 msgstr ""
 
