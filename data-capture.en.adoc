@@ -1,47 +1,43 @@
 == Data capture
 
 [NOTE.objectives]
-This module includes ... 
+In this module, you will learn about the concept of standards, in particular, the Darwin Core Standard and its components. 
+You will also learn the types of primary biodiversity data and how to best share that information within GBIF. 
+Lastly, you will review principles of data quality in the context of data capture and will learn about data quality and coherence (especially on subjects such as georeferencing, dates, names and taxa cross-checking).
 
-Paragraph1, sentence1.
-Sentence 2.
-Sentence 3.
-
-Paragraph2, sentence1.
-Sentence 2.
-Sentence 3.
-
-Paragraph3, sentence1.
-Sentence 2.
-Sentence 3.
-
-=== sub topic
+=== Standards and Darwin Core
 
 [NOTE.presentation]
-Watch video on the key concepts of ...
+In this video (15:37), you will learn how you interact with standards every day. 
+Then you will be introduced to https://www.tdwg.org/[Biodiversity Information Standards^], including the https://www.tdwg.org/standards/dwc/[Darwin Core Standard^] with which you will continue to use throughout this course.
+If you are unable to watch the embedded video, you can link:../videos/Foundations_Standards_Darwin_Core.mp4[download^,opts=download] it locally. (MP4 - 27 MB)
 
-.In this video (12:26), you will review ... used in this course. 
-If you are unable to watch the embeded Vimeo video, you can download it locally. (MP4 - 44.5 MB)
-video::434713215[vimeo, height=480, width=640, align=center]
+video::S02PJHPsRAs[youtube,height=540,width=960,align=center]
 
+=== Data origins and types
+
+[NOTE.presentation]
+In this video (10:45), you will review https://www.gbif.org/dataset-classes[primary biodiversity data^] that can be shared within GBIF. 
+If you are unable to watch the embedded video, you can link:../videos/data_origins_types.mp4[download^,opts=download] it locally. (MP4 - 19 MB)
+
+video::wKeOveydjsw[youtube,height=540,width=960,align=center]
+
+=== iNaturalist
+
+[NOTE.presentation]
+In this presentation, you will review ... 
+If you are unable to view the embeded slideshow, you can download it locally. (MP4 - ??.? MB)
+
+++++
+<p style="text-align: center;">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTII4tP-7I40yo-wRIStynV1gOaS9HEu1j4j5tH5xZsnzUqOjXqgF5Pd6AXJ0UZqMH8KeY4-GWvrE4T/embed?start=false&loop=false" frameborder="0" width="768" height="432" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</p>
+++++
+
+[NOTE.field]
+In this activity, you will venture into the field for first-person data capture.
+
+=== Data journey step 6
 
 [NOTE.activity]
-Become familiar with the ...
-
-****
-this is an example of a block
-this second sentence
-
-this is second paragraph first sentence.
-this is second sentence
-****
-
-==== sub sub topic
-
-Paragraph1, sentence1.
-Sentence 2.
-Sentence 3.
-
-“Paragraph2, sentence1.
-Sentence 2.
-Sentence 3.
+In this activity, you will ...

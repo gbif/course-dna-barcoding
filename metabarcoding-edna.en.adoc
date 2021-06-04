@@ -1,47 +1,11 @@
 == Metabarcoding and eDNA applications
 
-[NOTE.objectives]
-This module includes ...
-
-Paragraph1, sentence1.
-Sentence 2.
-Sentence 3.
-
-Paragraph2, sentence1.
-Sentence 2.
-Sentence 3.
-
-Paragraph3, sentence1.
-Sentence 2.
-Sentence 3.
-
-=== sub topic
-
 [NOTE.presentation]
-Watch video on the key concepts of ...
+In this presentation, you will review ... 
+If you are unable to view the embeded slideshow, you can download it locally. (MP4 - ??.? MB)
 
-.In this video (12:26), you will review ... used in this course. 
-If you are unable to watch the embeded Vimeo video, you can download it locally. (MP4 - 44.5 MB)
-video::434713215[vimeo, height=480, width=640, align=center]
-
-
-[NOTE.activity]
-Become familiar with the ...
-
-****
-this is an example of a block
-this second sentence
-
-this is second paragraph first sentence.
-this is second sentence
-****
-
-==== sub sub topic
-
-Paragraph1, sentence1.
-Sentence 2.
-Sentence 3.
-
-“Paragraph2, sentence1.
-Sentence 2.
-Sentence 3.
+++++
+<p style="text-align: center;">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTKEimQN3VU5m4YqT0ONAUZQpv99Pp0niW536iFRMaN0nh-Mtcl59kPij13JQYJHQ/embed?start=false&loop=false" frameborder="0" width="768" height="432" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</p>
+++++
