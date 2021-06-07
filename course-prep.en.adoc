@@ -1,0 +1,32 @@
+== Course preparation 
+
+=== Required
+
+==== Registrations and accounts
+
+* Create an account at https://orcid.org/register[ORCID^]. 
+* Create a personal (user) account at https://www.gbif.org/[GBIF.org^], top right corner. You can login to GBIF using ORCID.
+* Create a personal (user) account at https://v3.boldsystems.org/index.php/resources/handbook?chapter=1_gettingstarted.html&section=registering#:~:text=To%20register%20for%20an%20account,mail%20within%20a%20few%20minutes.[BOLD^]. You can login to BOLD using ORCID.
+* Create an account at https://www.inaturalist.org/signup[iNaturalist^].
+
+==== Foundations videos
+
+To prepare for the course lectures, please watch the Foundations video playlist. These materials are terms-heavy, but will ensure that all participants have the same basis of knowledge to begin and will prepare you for the course lectures; please capture questions as you go through and ask them during the course.
+
+https://www.youtube.com/playlist?list=PLy6tIKN_kHB8N5_1Li19e2sXpNHjsbziG[Foundations videos^] - approximately 67 mins. 
+
+=== Recommended
+ 
+The course will include a practical part where you will design a research project and its data elements. This project and its “data journey” will be on a plant-pollinator system. To prepare for this part, please read the following. Skip if you are working on pollinators yourself already.
+
+* https://www.bbc.com/news/science-environment-55662985[Honey detective work raises fears for bees^]
+* https://www.theguardian.com/environment/2020/jul/29/bees-food-crops-shortage-study[Loss of bees causes shortage of key food crops, study finds^]
+
+=== Optional
+
+The following are optional activities if you have completed all of the above. Many aspects of these will be introduced during the course days.
+
+* https://vimeo.com/434831655[What is GBIF?^] - video 8 minutes  
+* https://ibol.org/site/wp-content/uploads/2021/03/DNA_Barcoding.mp4[What is BOLD?] - video 9.5 minutes 
+* https://docs.gbif.org/course-introduction-to-gbif[Introduction to GBIF^] - online course 
+* https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0185809[More than 75 percent decline over 27 years in total flying insect biomass in protected areas^] - paper
