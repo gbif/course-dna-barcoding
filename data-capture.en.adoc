@@ -33,13 +33,18 @@ video::QkDJIkmwBMA[youtube,height=432,width=768,align=center]
 
 [NOTE.presentation]
 In this presentation, you will review ... 
-If you are unable to view the embeded slideshow, you can download it locally. (MP4 - ??.? MB)
+If you are unable to view the embedded slideshow, you can download it locally. (MP4 - ??.? MB)
 
+ifdef::backend-pdf[]
+The presentation can be viewed in the online version of the course.
+endif::backend-pdf[]
+
+ifndef::backend-pdf[]
+[.center]
 ++++
-<p style="text-align: center;">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTII4tP-7I40yo-wRIStynV1gOaS9HEu1j4j5tH5xZsnzUqOjXqgF5Pd6AXJ0UZqMH8KeY4-GWvrE4T/embed?start=false&loop=false" frameborder="0" width="768" height="432" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-</p>
 ++++
+endif::backend-pdf[]
 
 [NOTE.field]
 In this activity, you will venture into the field for first-person data capture.
