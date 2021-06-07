@@ -9,11 +9,16 @@ This module includes ...
 In this presentation, you will review ... used in this course. 
 If you are unable to view the embeded slideshow, you can download it locally. (MP4 - ??.? MB)
 
+ifdef::backend-pdf[]
+The presentation can be viewed in the online version of the course.
+endif::backend-pdf[]
+
+ifndef::backend-pdf[]
+[.center]
 ++++
-<p style="text-align: center;">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRA46mk5bnvyomFFFTOO4AWeB9xAS9l3Qwe7sNnHInho6c8GhdJ4bf5HZe5v-KTcg/embed?start=false&loop=false" frameborder="0" width="768" height="432" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-</p>
 ++++
+endif::backend-pdf[]
 
 === GBIF for science and policy
 
@@ -21,8 +26,13 @@ If you are unable to view the embeded slideshow, you can download it locally. (M
 In this presentation, you will review ... used in this course. 
 If you are unable to view the embeded slideshow, you can download it locally. (MP4 - ??.? MB)
 
+ifdef::backend-pdf[]
+The presentation can be viewed in the online version of the course.
+endif::backend-pdf[]
+
+ifndef::backend-pdf[]
+[.center]
 ++++
-<p style="text-align: center;">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ6KC1hGwLr_diPKzRLL3p58leeiFK55Rr5npG-EHiX_kVJQZKDzbNE3lE-2qXv5A/embed?start=false&loop=false" frameborder="0" width="768" height="432" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-</p>
 ++++
+endif::backend-pdf[]
