@@ -14,9 +14,10 @@ The presentation can be viewed in the online version of the course.
 endif::backend-pdf[]
 
 ifndef::backend-pdf[]
-[.center]
 ++++
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ-WhvJBudZKVbbka1rjrLIuu-scCDae9zuAmAw7F4vi6aUSewgWayy5TxKSlPHYQ/embed?start=false&loop=false" frameborder="0" width="768" height="432" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<div class="responsive-slides">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ-WhvJBudZKVbbka1rjrLIuu-scCDae9zuAmAw7F4vi6aUSewgWayy5TxKSlPHYQ/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+</div>
 ++++
 endif::backend-pdf[]
 

@@ -14,9 +14,10 @@ The presentation can be viewed in the online version of the course.
 endif::backend-pdf[]
 
 ifndef::backend-pdf[]
-[.center]
 ++++
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTWA6W2GZ0DAcerKTPBhUZjCKIVO6giMDENRNF125ZZzD6lCQa5ObEGDexRDCxk7w/embed?start=false&loop=false" frameborder="0" width="768" height="432" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<div class="responsive-slides">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTWA6W2GZ0DAcerKTPBhUZjCKIVO6giMDENRNF125ZZzD6lCQa5ObEGDexRDCxk7w/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+</div>
 ++++
 endif::backend-pdf[]
 
@@ -41,8 +42,9 @@ The presentation can be viewed in the online version of the course.
 endif::backend-pdf[]
 
 ifndef::backend-pdf[]
-[.center]
 ++++
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS2juc-zyGzLnTqhLB6aRE-PRsv6VL0aycJBPVwg3KMVIK7pEscnmhybH4v0Izk0g/embed?start=false&loop=false" frameborder="0" width="768" height="432" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<div class="responsive-slides">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS2juc-zyGzLnTqhLB6aRE-PRsv6VL0aycJBPVwg3KMVIK7pEscnmhybH4v0Izk0g/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+</div>
 ++++
 endif::backend-pdf[]
