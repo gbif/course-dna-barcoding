@@ -64,7 +64,7 @@ NOTE: In a workshop setting, complete Step 1 as a group. Select a recorder/repor
 
 ==== Task 1
 
-image::img/web/DJC/DJC-9.png[align=left,width=75,height=75]
+image::img/web/DJC/DJC-9.png[align=left,width=100,height=100]
 
 Take 5 minutes to complete the following:
 
@@ -74,7 +74,7 @@ Take 5 minutes to complete the following:
 
 ==== Task 2
 
-image::img/web/DJC/DJC-10.png[align=left,width=75,height=75]
+image::img/web/DJC/DJC-10.png[align=left,width=100,height=100]
 
 Take 25 minutes to complete the following using publicly available databases:
 
@@ -86,7 +86,7 @@ Take 25 minutes to complete the following using publicly available databases:
 
 ==== Task 3
 
-image::img/web/DJC/DJC-11.png[align=left,width=75,height=75]
+image::img/web/DJC/DJC-11.png[align=left,width=100,height=100]
 
 Take 10 minutes to complete the following:
 
@@ -98,9 +98,9 @@ In Step 2, you will begin to work with species identifications using GBIF and th
 
 ==== Task 4
 
-image::img/web/DJC/DJC-10.png[align=left,width=75,height=75]
+image::img/web/DJC/DJC-10.png[align=left,width=100,height=100]
 
-image::img/web/DJC/DJC-12.png[align=left,width=75,height=75]
+image::img/web/DJC/DJC-12.png[align=left,width=100,height=100]
 
 Take 15 minutes to complete the following:
 
@@ -113,4 +113,27 @@ NOTE: In this exercise you will be manual editing / cleaning the list from GBD t
 
 ==== Task 5
 
+image::img/web/DJC/DJC-10.png[align=left,width=100,height=100]
 
+Take 15 minutes to complete the following:
+
+. Using the https://www.gbif.org/tools/species-lookup[GBIF species lookup^], produce a clean list of species with validated taxonomic names.
+
+image::img/web/DJC/DJC-13.png[align=center,width=640,height=360]
+
+NOTE: Synonyms may arise whenever the same taxon is described and named more than once, independently.
+
+==== Task 6
+
+image::img/web/DJC/DJC-10.png[align=left,width=100,height=100]
+
+Take 10 minutes to complete the following:
+
+. Reflect on what has been learned and experienced during Steps 1 and 2.
+. Explore the https://v3.boldsystems.org[BOLD^] database in preparation the next steps. 
+
+NOTE: In a workshop setting, complete task 6 as a group. Select a recorder/reporter to report back (1 minute per group) after task 6 is complete.
+
+=== Step 3
+
+==== Task 7
