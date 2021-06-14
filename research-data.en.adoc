@@ -1,13 +1,13 @@
 == Data as a first-class research citizen
 
 [NOTE.objectives]
-This module includes ...
+This module includes information about trends to treat research data as a first-class scientific citizen, to be independently cited, and contribute to researcher career assessment.
 
 === Open research data
 
 [NOTE.presentation]
 In this presentation, you will review ... used in this course. 
-If you are unable to view the embedded slideshow, you can download it locally. (MP4 - ??.? MB)
+If you are unable to view the embedded slideshow, you can download it locally. (Slides - ??.? MB)
 
 ifdef::backend-pdf[]
 The presentation can be viewed in the online version of the course.
