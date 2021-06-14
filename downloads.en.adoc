@@ -19,8 +19,4 @@ link:../videos/Management.zip[Management.zip,opts=download] (30.2 MB)
 link:../videos/Publishing.zip[Publishing.zip,opts=download] (77.9 MB)
 
 === Exercise data
-This link:../exercise-data/ExerciseData.zip[compressed file,opts=download] (ZIP ??.? MB) contains the exercise data. 
-
-=== Exercise sheets
-This link:../course-docs/ExerciseSheets.zip[compressed file,opts=download] (ZIP ?.? MB) contains the exercise sheet(s). 
-The exercises sheets are written in English and should be completed in English.
+This link:../exercise-data/???.zip[compressed file,opts=download] (ZIP ??.? MB) contains the exercise data. 
