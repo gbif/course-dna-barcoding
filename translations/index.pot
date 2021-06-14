@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-06-14 18:35+0000\n"
+"POT-Creation-Date: 2021-06-14 20:01+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -253,24 +253,10 @@ msgid "Exercise data"
 msgstr ""
 
 #. type: Plain text
-#: downloads.en.adoc:23
+#: downloads.en.adoc:22
 msgid ""
-"This link:../exercise-data/ExerciseData.zip[compressed file,opts=download] "
-"(ZIP ??.? MB) contains the exercise data."
-msgstr ""
-
-#. type: Title ===
-#: downloads.en.adoc:24
-#, no-wrap
-msgid "Exercise sheets"
-msgstr ""
-
-#. type: Plain text
-#: downloads.en.adoc:26
-msgid ""
-"This link:../course-docs/ExerciseSheets.zip[compressed file,opts=download] "
-"(ZIP ?.? MB) contains the exercise sheet(s).  The exercises sheets are "
-"written in English and should be completed in English."
+"This link:../exercise-data/???.zip[compressed file,opts=download] (ZIP ??.? "
+"MB) contains the exercise data."
 msgstr ""
 
 #. type: Title ==
