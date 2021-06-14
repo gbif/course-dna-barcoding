@@ -1,7 +1,69 @@
-== Data journey
+== Data journey - bumblebee pollinators
 
 [NOTE.objectives]
-This module includes ...
+This data journey is a series of practical exercises focusing on bumblebee pollinators. 
+Using GBIF and BOLD, you will learn: I. how to find and use already available biodiversity data in connexion with your research questions; II. How to efficiently capture and clean this data – i.e. put them in a standard format that is directly relevant and exploitable for you; III. How to generate and publish new data according to a international standards.
+
+image::img/web/DJC/DJC-0.png[align=center,width=640,height=360]
 
 [NOTE.activity]
-In this activity, you will ...
+This data journey is comprised of nine steps. 
+Each step (or set of steps), correlate to the different modules of the course. 
+After a series of theoretical lectures, you will return to the Data Journey to complete the practical exercises. 
+The practical exercises follow a path: I. the study system; II. questions and hypotheses; III. availability of data; IV. capture and cleaning of data; and V. generate and publish data.
+
+image::img/web/DJC/DJC-1.png[align=center,width=640,height=360]
+
+=== Study system
+
+:figure-caption!:
+.Bombus-Vicia pollination network
+image::img/web/DJC/DJC-2.png[align=center,width=640,height=360]
+
+==== Bumblebee pollinators
+
+. What do we know about bumblebees in the Caucasus region?
+..How many species? Where are they distributed?
+..What are their preferred plant resources?
+. Identify simple and clear research question
+.. What resources and type of data you will need?
+.. How much of this data already exists?
+
+==== Caucasus ecoregion
+
+image::img/web/DJC/DJC-3.png[align=center,width=640,height=360]
+
+* One of the most species-rich regions in the world
+* High endemism rates
+* Accelerate biodiversity discovery
+** Systematics
+** DNA barcoding
+** Biological metadata
+* Some biodiversity data is already available
+* Identify relevant datasets
+* Mobilize them for addressing scientific & conservation issues
+* Identify data gaps for future research
+
+==== Public biodiversity databases
+
+You may find the data in the ecoregion is not publicly available in all the databases so you will need to reflect on your strategy.
+
+image::img/web/DJC/DJC-4.png[align=center,width=640,height=360]
+
+image::img/web/DJC/DJC-5.png[align=center,width=640,height=360]
+
+image::img/web/DJC/DJC-6.png[align=center,width=640,height=360]
+
+image::img/web/DJC/DJC-7.png[align=center,width=640,height=360]
+
+=== Step 1
+
+image::img/web/DJC/DJC-9.png[align=left,width=200,height=200]
+
+Take approximately 5 minutes to complete the following:
+
+. Form your research question(s)
+. Where is data available (or not available)?
+. Draw a schematic of your question and plan to answer your question.
+
+NOTE: In a workshop setting, complete this activity as a group. Select a recorder/reporter to report back after the activity is complete.
