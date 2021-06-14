@@ -61,7 +61,7 @@ include::conclusion.en.adoc[]
 
 include::course-evaluation.en.adoc[]
 
-include::keydocs.en.adoc[]
+// include::keydocs.en.adoc[]
 
 include::glossary.en.adoc[]
 
