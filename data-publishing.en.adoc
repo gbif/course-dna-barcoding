@@ -40,16 +40,16 @@ video::eDH9IoTrMVE[youtube]
 === Data journey step 8
 
 [NOTE.activity]
-In this activity, you will ...
+Complete step 8, task 16.
 
 === Data journey step 9
 
 [NOTE.activity]
-In this activity, you will ...
+Complete step 9, task 17.
 
 === Data publishing benefits
 
-[NOTE.presentation]
-In this presentation, you will review ... 
-If you are unable to view the embedded slideshow, you can download it locally. (MP4 - ??.? MB)
+// [NOTE.presentation]
+// In this presentation, you will review ... 
+// If you are unable to view the embedded slideshow, you can download it locally. (MP4 - ??.? MB)
 

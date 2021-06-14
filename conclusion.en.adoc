@@ -1,4 +1,4 @@
 == Conclusion 
 
-[NOTE.objectives]
-This module includes ...
+// [NOTE.objectives]
+// This module includes ...

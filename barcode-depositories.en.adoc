@@ -1,13 +1,13 @@
 == Barcode reference depositories
 
-[NOTE.objectives]
-This module includes ...
+// [NOTE.objectives]
+// This module includes ...
 
 === Barcode reference depositories
 
-[NOTE.presentation]
-In this presentation, you will review ... 
-If you are unable to view the embedded slideshow, you can download it locally. (MP4 - ??.? MB)
+// [NOTE.presentation]
+// In this presentation, you will review ... 
+// If you are unable to view the embedded slideshow, you can download it locally. (MP4 - ??.? MB)
 
 ifdef::backend-pdf[]
 The presentation can be viewed in the online version of the course.
@@ -16,23 +16,21 @@ endif::backend-pdf[]
 ifndef::backend-pdf[]
 ++++
 <div class="responsive-slides">
-  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ-WhvJBudZKVbbka1rjrLIuu-scCDae9zuAmAw7F4vi6aUSewgWayy5TxKSlPHYQ/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS0tlxHjDzZllPtnOVZWDBYB00r5jAl469guYt-EeBmz2VPss8lCS9XA7zhrqT1kA/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
 </div>
 ++++
 endif::backend-pdf[]
 
 === Demonstration
-
-[NOTE.workspace]
-In this demonstration, you will ...
-
+// [NOTE.workspace]
+// In this demonstration, you will ...
 
 === Data journey step 4
 
 [NOTE.activity]
-In this activity, you will ...
+Complete step 4, task 10.
 
 === Data journey step 5
 
 [NOTE.activity]
-In this activity, you will ...
+Complete step 5, task 11.

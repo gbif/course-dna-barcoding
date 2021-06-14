@@ -1,13 +1,13 @@
 == Species identification
 
-[NOTE.objectives]
-This module includes ...
+// [NOTE.objectives]
+// This module includes ...
 
 === Why do we need to identify species
 
-[NOTE.presentation]
-In this presentation, you will review ... used in this course. 
-If you are unable to view the embedded slideshow, you can download it locally. (MP4 - ??.? MB)
+// [NOTE.presentation]
+// In this presentation, you will review ... used in this course. 
+// If you are unable to view the embedded slideshow, you can download it locally. (MP4 - ??.? MB)
 
 ifdef::backend-pdf[]
 The presentation can be viewed in the online version of the course.
@@ -24,18 +24,18 @@ endif::backend-pdf[]
 ==== Data journey step 2
 
 [NOTE.activity]
-In this activity you will, ...
+Complete step 2, tasks 4-6
 
 ==== Data journey step 3
 
 [NOTE.activity]
-In this activity you will, ...
+Complete step 3, tasks 7-9
 
 === Species identification and delimitation with DNA 
 
-[NOTE.presentation]
-In this presentation, you will review ... used in this course. 
-If you are unable to view the embedded slideshow, you can download it locally. (MP4 - ??.? MB)
+// [NOTE.presentation]
+// In this presentation, you will review ... used in this course. 
+// If you are unable to view the embedded slideshow, you can download it locally. (MP4 - ??.? MB)
 
 ifdef::backend-pdf[]
 The presentation can be viewed in the online version of the course.
@@ -44,7 +44,7 @@ endif::backend-pdf[]
 ifndef::backend-pdf[]
 ++++
 <div class="responsive-slides">
-  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS2juc-zyGzLnTqhLB6aRE-PRsv6VL0aycJBPVwg3KMVIK7pEscnmhybH4v0Izk0g/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQOQO0jmRRIJPOo76ZzIuos2QQdS6gttWF6fTrjXn7D9dA3UuJhYb6jg0LwsAwS_g/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
 </div>
 ++++
 endif::backend-pdf[]

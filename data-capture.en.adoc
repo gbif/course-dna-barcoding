@@ -1,19 +1,8 @@
 == Data capture
 
 [NOTE.objectives]
-In this module, you will learn about the concept of standards, in particular, the Darwin Core Standard and its components. 
-You will also learn the types of primary biodiversity data and how to best share that information within GBIF. 
-Lastly, you will review principles of data quality in the context of data capture and will learn about data quality and coherence (especially on subjects such as georeferencing, dates, names and taxa cross-checking).
-
-=== Standards and Darwin Core
-
-[NOTE.presentation]
-In this video (15:37), you will learn how you interact with standards every day. 
-Then you will be introduced to https://www.tdwg.org/[Biodiversity Information Standards^], including the https://www.tdwg.org/standards/dwc/[Darwin Core Standard^] with which you will continue to use throughout this course.
-If you are unable to watch the embedded video, you can link:../videos/Foundations_Standards_Darwin_Core.mp4[download^,opts=download] it locally. (MP4 - 27 MB)
-
-[.responsive-video]
-video::S02PJHPsRAs[youtube]
+In this module, you will learn the types of primary biodiversity data and how to best share that information within GBIF. 
+You will also review principles of data quality in the context of data capture and will learn about data quality and coherence (especially on subjects such as georeferencing, dates, names and taxa cross-checking).
 
 === Data origins and types
 
@@ -33,10 +22,12 @@ If you are unable to watch the embedded video, you can link:../videos/Data_captu
 video::QkDJIkmwBMA[youtube]
 
 === iNaturalist
+// [NOTE.presentation]
+// In this presentation, you will review ... 
+// If you are unable to view the embedded slideshow, you can download it locally. (MP4 - ??.? MB)
 
-[NOTE.presentation]
-In this presentation, you will review ... 
-If you are unable to view the embedded slideshow, you can download it locally. (MP4 - ??.? MB)
+[NOTE.field]
+In this activity, you will venture into the field for first-person data capture.
 
 ifdef::backend-pdf[]
 The presentation can be viewed in the online version of the course.
@@ -50,10 +41,7 @@ ifndef::backend-pdf[]
 ++++
 endif::backend-pdf[]
 
-[NOTE.field]
-In this activity, you will venture into the field for first-person data capture.
-
 === Data journey step 6
 
 [NOTE.activity]
-In this activity, you will ...
+Complete step 6, task 12.

@@ -1,13 +1,13 @@
 == Introduction 
 
-[NOTE.objectives]
-This module includes ...
+// [NOTE.objectives]
+// This module includes ...
 
 === Barcoding, data and biodiversity
 
-[NOTE.presentation]
-In this presentation, you will review ... used in this course. 
-If you are unable to view the embedded slideshow, you can download it locally. (MP4 - ??.? MB)
+// [NOTE.presentation]
+// In this presentation, you will review ... used in this course. 
+// If you are unable to view the embedded slideshow, you can download it locally. (MP4 - ??.? MB)
 
 ifdef::backend-pdf[]
 The presentation can be viewed in the online version of the course.
@@ -16,16 +16,16 @@ endif::backend-pdf[]
 ifndef::backend-pdf[]
 ++++
 <div class="responsive-slides">
-  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRA46mk5bnvyomFFFTOO4AWeB9xAS9l3Qwe7sNnHInho6c8GhdJ4bf5HZe5v-KTcg/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQBkg_BQt02Pwrhh_s6nBelBLE6LpNUyPnoTmAI1FRfUze3lNAL8BGJq9Vk_gJfRA/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
 </div>
 ++++
 endif::backend-pdf[]
 
 === GBIF for science and policy
 
-[NOTE.presentation]
-In this presentation, you will review ... used in this course. 
-If you are unable to view the embedded slideshow, you can download it locally. (MP4 - ??.? MB)
+// [NOTE.presentation]
+// In this presentation, you will review ... used in this course. 
+// If you are unable to view the embedded slideshow, you can download it locally. (MP4 - ??.? MB)
 
 ifdef::backend-pdf[]
 The presentation can be viewed in the online version of the course.

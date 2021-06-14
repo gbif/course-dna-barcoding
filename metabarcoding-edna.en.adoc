@@ -1,8 +1,8 @@
 == Metabarcoding and eDNA applications
 
-[NOTE.presentation]
-In this presentation, you will review ... 
-If you are unable to view the embedded slideshow, you can download it locally. (MP4 - ??.? MB)
+// [NOTE.presentation]
+// In this presentation, you will review ... 
+// If you are unable to view the embedded slideshow, you can download it locally. (MP4 - ??.? MB)
 
 ifdef::backend-pdf[]
 The presentation can be viewed in the online version of the course.
@@ -11,7 +11,7 @@ endif::backend-pdf[]
 ifndef::backend-pdf[]
 ++++
 <div class="responsive-slides">
-  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTKEimQN3VU5m4YqT0ONAUZQpv99Pp0niW536iFRMaN0nh-Mtcl59kPij13JQYJHQ/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSgzwh3c26F38-TtMNkjykJT_PI8uY4_5INkI9da6rZiDFLX6_c1TZmX26KesqzDA/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
 </div>
 ++++
 endif::backend-pdf[]

@@ -7,7 +7,7 @@ This module includes information about trends to treat research data as a first-
 
 [NOTE.presentation]
 In this presentation, you will review recent trends to treat research data as a first-class scientific citizen, to be independently cited, and contribute to researcher career assessment used in this course. 
-If you are unable to view the embedded slideshow, you can download it locally. (Slides - ??.? MB)
+// If you are unable to view the embedded slideshow, you can download it locally. (Slides - ??.? MB)
 
 ifdef::backend-pdf[]
 The presentation can be viewed in the online version of the course.

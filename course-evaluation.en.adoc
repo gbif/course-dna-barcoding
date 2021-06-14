@@ -3,3 +3,12 @@
 [NOTE.eval]
 Complete the course evaluation
 
+ifdef::backend-pdf[]
+The evaluation can be completed https://forms.gle/v1vYS82M4cUhrvEY9[online^].
+endif::backend-pdf[]
+
+ifndef::backend-pdf[]
+++++
+  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdaN-3Q1VoClLXEncxtnPKTGKu_PfHmUwqkm0IddqO4-HOh8Q/viewform?embedded=true" width="640" height="1728" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+++++
+endif::backend-pdf[]
