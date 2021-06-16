@@ -141,16 +141,15 @@ image::img/web/QDataTypes-threatened.png[align=center,width=640,height=360]
 
 ==== Data types review solutions
 
-=== Data capture review solutions
-Click to expand
-
+.Click to expand
 [%collapsible]
 ====
-. {blank}
+// . {blank}
 +
 [.float-group]
 --
 [.left]
+
 *What dataset type(s) would you choose for an ichthyology collection?*
 
 * occurrence +
