@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-06-14 20:01+0000\n"
+"POT-Creation-Date: 2021-06-16 05:07+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -255,8 +255,8 @@ msgstr ""
 #. type: Plain text
 #: downloads.en.adoc:22
 msgid ""
-"This link:../exercise-data/???.zip[compressed file,opts=download] (ZIP ??.? "
-"MB) contains the exercise data."
+"Data journey step 4: link:../exercise-data/sequences.zip[sequences.zip "
+"file,opts=download] (ZIP 5 KB)"
 msgstr ""
 
 #. type: Title ==
