@@ -145,11 +145,10 @@ image::img/web/QDataTypes-threatened.png[align=center,width=640,height=360]
 [%collapsible]
 ====
 // . {blank}
-+
-[.float-group]
+// +
+// [.float-group]
 --
-[.left]
-
+// [.left]
 *What dataset type(s) would you choose for an ichthyology collection?*
 
 * occurrence +
