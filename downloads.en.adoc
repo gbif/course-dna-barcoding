@@ -19,4 +19,4 @@ link:../videos/Management.zip[Management.zip,opts=download] (30.2 MB)
 link:../videos/Publishing.zip[Publishing.zip,opts=download] (77.9 MB)
 
 === Exercise data
-This link:../exercise-data/???.zip[compressed file,opts=download] (ZIP ??.? MB) contains the exercise data. 
+Data journey step 4: link:../exercise-data/sequences.zip[sequences.zip file,opts=download] (ZIP 5 KB)

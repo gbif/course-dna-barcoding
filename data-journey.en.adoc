@@ -179,7 +179,7 @@ NOTE: In a workshop setting, complete task 9 as a group. Select a recorder/repor
 image::img/web/DJC/DJC-12.png[align=left,width=100,height=100]
 
 Take 30 minutes to complete the following:
-
+. Download link:../exercise-data/sequences.zip[sequences.zip file,opts=download] (ZIP 5 KB)
 . Get an identification for a sequence by copying-pasting an “unknown” DNA sequence to BOLD.
 . Enter species names and check whether they have records in BOLD, look these sequences with the sequence analysis tools in BOLD.
 . Download all sequences for all available Bombus species known from Georgia in BOLD.

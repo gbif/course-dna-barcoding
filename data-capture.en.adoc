@@ -13,6 +13,206 @@ If you are unable to watch the embedded video, you can link:../videos/data_origi
 [.responsive-video]
 video::wKeOveydjsw[youtube]
 
+==== Data types review
+
+[NOTE.quiz]
+Quiz yourself on the concepts learned in this section.
+
+// Note the lack of empty lines between the end of the question (....) and the start of the next question
+// (. What…) is required, so I have added // comments to help separate them.
+// The + connects the question into the numbered list item, see https://docs.asciidoctor.org/asciidoc/latest/lists/continuation/
+
+****
+// Question 1
+. What dataset type(s) would you choose for an ichthyology collection?
++
+[question, mc]
+....
+:figure-caption!:
+.https://www.gbif.org/occurrence/441867173[Eutrigla gurnardus (Linnaeus, 1758)] | Muséum d’histoire naturelle de Nice
+image::img/web/QDataTypes-specimen.png[align=center,width=640,height=360]
+
+- [x] occurrence
+- [x] checklist
+- [ ] sampling event
+....
+// Question 2
+. What dataset type(s) would you choose for a list of invasive species?
++
+[question, mc]
+....
+:figure-caption!:
+.Water hyacinth (Eichhornia crassipes) observed in Bourail, New Caledonia, where it is an introduced and invasive species by GRIIS. Photo by gérard (2016) licensed under CC BY-SA 2.0
+image::img/web/QDataTypes-plant.png[align=center,width=640,height=360]
+
+- [x] occurrence
+- [x] checklist
+- [ ] sampling event
+....
+// Question 3
+. What dataset type(s) would you choose for the flora and fauna of an environmental impact study?
++
+[question, mc]
+....
+Environmental impact assessment studies are done by experts in order to assess the biodiversity and biotopes of a given area, before, during and after it is affected by human activities (road works, wind turbines, mining, building construction, etc.).
+
+:figure-caption!:
+.https://upload.wikimedia.org/wikipedia/commons/6/64/Entomologist_chasing_buterflies.jpg[Entomologist chasing butterflies] by Matthieu Gauvain (CC-BY-SA)
+image::img/web/QDataTypes-field.png[align=center,width=640,height=360]
+
+- [x] occurrence
+- [ ] checklist
+- [x] sampling event
+....
+// Question 4
+. What dataset type(s) would you choose for bird tracking data?
++
+[question, mc]
+....
+Bird-tracking data are recorded using specific devices, such as GPS trackers mounted on live birds, thus allowing scientists to track their migratory routes or breeding sites.
+
+:figure-caption!:
+.https://commons.wikimedia.org/wiki/File:Griffon_vulture_at_Gamla_nature_reserve.jpg[Griffin vulture] observed at Gamla Nature Reserve by מינוזיג - MinoZig (CC0) 
+image::img/web/QDataTypes-tracking.png[align=center,width=640,height=360]
+
+- [x] occurrence
+- [ ] checklist
+- [ ] sampling event
+....
+// Question 5
+. What dataset type(s) would you choose for insect trap data?
++
+[question, mc]
+....
+:figure-caption!:
+.https://www.flickr.com/photos/miheco/215305679/[Insect trap] by miheco (CC-BY-SA)
+image::img/web/QDataTypes-traps.png[align="center",width=640,height=360]
+
+- [x] occurrence
+- [ ] checklist
+- [x] sampling event
+....
+// Question 6
+. What dataset type(s) would you choose for national park management data?
++
+[question, mc]
+....
+Data acquired in the context of protected areas management (such as national parks but also smaller nature reserves) can be diverse and have different origins: botanical surveys, tagged animals tracking, observations from rangers and guards, and even ‘citizen science’ data or data inferred from pictures shared on social medias.
+
+:figure-caption!:
+.https://pixabay.com/photos/%C3%A9l%C3%A9phant-%C3%A9l%C3%A9phant-d-asie-4037451/[Sri Lankan elephants] observed by pen_ash.
+image::img/web/QDataTypes-Observations.png[align=center,width=640,height=360]
+
+- [x] occurrence
+- [x] checklist
+- [x] sampling event
+....
+// Question 7
+. What dataset type(s) would you choose for a citizen science bioblitz?
++
+[question, mc]
+....
+Citizen science data are often collected through thematic fieldwork days known as a “bioblitz.” Volunteers typically gather in a given area and spend the day trying to observe and identify as many species as they can in this area.
+
+Data from each participant are captured and merged into the citizen science programme’s data capture or data management tool.
+
+:figure-caption!:
+.https://www.nps.gov/experiences/citizen-scientists-bioblitz.htm?fullweb=1[Looking for birds with park staff] by US National Park Service (authorized reuse on google image search)
+image::img/web/QDataTypes-citizen.png[align=center,width=640,height=360]
+
+- [x] occurrence
+- [ ] checklist
+- [x] sampling event
+....
+// Question 8
+. What dataset type(s) would you choose for a regional species list?
++
+[question, mc]
+....
+:figure-caption!:
+.https://pixabay.com/photos/zoo-de-magdebourg-makibo-2876837/[Black rhino] observed at the Magdeburg Zoo in Germany by Mani300
+image::img/web/QDataTypes-threatened.png[align=center,width=640,height=360]
+
+- [ ] occurrence
+- [x] checklist
+- [ ] sampling event
+....
+****
+
+==== Data types review solutions
+
+=== Data capture review solutions
+Click to expand
+
+[%collapsible]
+====
+. {blank}
++
+[.float-group]
+--
+[.left]
+*What dataset type(s) would you choose for an ichthyology collection?*
+
+* occurrence +
+Most of the time, specimens from collection databases are shared as occurrence data.
+Each occurrence (specimen or group of specimens) has its own unique identifier (sometimes derived from its catalogue number in the source collection) and the Darwin Core fields used to share them within GBIF describe each specimen: scientific name, the date it was collected on the field, who collected and/or identified it, where, etc.
+Each collection can have more than one specimen from a same species, as long as each specimen is identified by a unique ID.  
+* checklist +
+It is also possible to create and share a taxonomical checklist derived from a collection database; in this case, it is recommended to share the checklist as a taxonomical dataset, with the occurrence (specimen) list associated with it by using the Occurrence core as an extension to the Taxon Core on the GBIF IPT.
+
+*What dataset type(s) would you choose for a list of invasive species?*
+
+* occurrence +
+Some data publishers will share occurrence datasets coming from studies or programs tracking specimens from some specific invasive species; when the data focuses on individuals instead of the invasive species, in general, they can be shared as occurrence data.
+* checklist +
+Invasive species can be tracked and monitored at different scales (regional, national, thematic…); as this type of dataset focuses more on the species and their distribution across a given geographical scope, they are mainly shared as taxonomical datasets within GBIF (https://www.gbif.org/dataset/search?project_id=GRIIS[see GRIIS search results]).
+
+*What dataset type(s) would you choose for the flora and fauna of an environmental impact study?*
+
+* occurrence +
+Data are recorded by naturalists on the field and can be shared as simple occurrence datasets.
+* sampling event +
+They can also be shared as event datasets if standardized protocols (such as vegetation plots, transects, traps…) are used to collect the data.
+
+*What dataset type(s) would you choose for bird tracking data?*
+
+* occurrence +
+These data are shared as occurrence datasets: ideally, each bird is identified with its organismID, and each occurrence (GPS ping) has its own occurrenceID, which is useful to track the different GPS locations of the same bird over the scope of the tracking programme or project. (See https://www.gbif.org/dataset/2fc1d8b5-9c99-4e03-8c3c-11a6e51a298f[example])
+
+*What dataset type(s) would you choose for insect trap data?*
+
+* occurrence +
+Although such data can be shared as simple occurrence datasets, it is best if they’re shared as event datasets, where the location, identifier and contents of each trap can be better detailed.
+* sampling event +
+Insect traps (as well as other traps such as pitfall traps, malaise traps…) are typically used in monitoring programmes to check the presence (or absence) of some species and/or assess their specific abundance. 
+Using the “eventID” field to identify each trap allows the users to get all of the specimens collected within each trap.
+The same logic applies to other field protocols such as transects, plots, remote cameras, etc.: by using the Event Core instead of the Occurrence core, you’ll be able to share much more information about the context of the data collection, and allow users to better understand (and even replicate) your work.
+
+*What dataset type(s) would you choose for national park management data?*
+
+* occurrence +
+record individuals of species
+* checklist +
+It is important to know how many species are present in the park/reserve perimeter and their conservation status.
+* sampling event +
+check and track the populations
+
+*What dataset type(s) would you choose for a citizen science bioblitz?*
+
+* occurrence +
+Bioblitz datasets are mainly shared as occurrence datasets.
+* sampling event +
+Depending on the citizen science programme, specific sampling protocols might be used by the volunteers, in which case, the data can be shared as an event dataset.
+
+*What dataset type(s) would you choose for a regional species list?*
+
+* checklist +
+Geographical or thematic species lists are often used to share information about the species present in a given area; most of the time, these lists also mention the distribution of each species as well as their conservation status in this area. 
+Regional species lists can give a useful insight into a region’s biodiversity and habitats, and need to be shared as taxonomical datasets, with or without associated occurrences.
+--
+
+====
+
 === Data capture, processing and quality
 [NOTE.presentation]
 In this video (09:11), you will explore the principles of data quality applied to data capture, specifically when capturing data from collection labels, fieldwork notebooks, spreadsheets, etc.
