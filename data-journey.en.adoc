@@ -227,16 +227,17 @@ image::img/web/DJC/DJC-12.png[align=left,width=100,height=100]
 
 Take 15 minutes to complete the following:
 
-. Download UC1-3ab-data-cleaning.csv. (207.5 KB)
-. Import the CSV file in Excel using the Excel wizard. See https://docs.gbif.org/course-data-mobilization/course-docs/Excel-tips-EN.pdf[Excel-tips-EN.pdf^] (PDF, 7 MB) for import instructions for your operating system (Windows, Mac, Linux).
+. You are now tasked with performing some standard data quality checks on the data.
+. Download link:../exercise-data/ViciaForCleaning.txt[ViciaForCleaning.txt file,opts=download] (ZIP 66 KB)
+. Import the file in Excel using the Excel wizard. See https://docs.gbif.org/course-data-mobilization/course-docs/Excel-tips-EN.pdf[Excel-tips-EN.pdf^] (PDF, 7 MB) for import instructions for your operating system (Windows, Mac, Linux).
 . Find and correct the errors manually.
-.. Country - Check for blanks
-.. YE- 2016 is the current year
-.. countryCode - Code should include only letters
-.. MO - JAN is 01, FEB is 02 and so on
-.. taxonRank - Check for blanks
-.. Elevation - 8872 is the elevation of Mt. Everest
-.. phylum - Maybe a new Phylum of Plantae?
+.. country - check for blanks
+.. year - do any years seem odd?
+.. countryCode - code should include only letters
+.. month - review the Darwin Core recommendation for https://dwc.tdwg.org/terms/#dwc:month[month^]
+.. taxonRank - check for blanks
+.. minimumElevationInMeters and maximumElevationInMeters - 8872 is the elevation of Mt. Everest
+.. kingdom -is kingdom correct?
 
 ==== Task 14
 
@@ -244,12 +245,12 @@ image::img/web/DJC/DJC-12.png[align=left,width=100,height=100]
 
 Take 15 minutes to complete the following:
 
-. Continue using the same file. Filter for the ???? family.
+. Continue using the same file. Filter for the cracca species.
 . Locate and correct the errors using tools of your choice.
 .. Full Name - Are the names valid?
 .. lat/lon - Are all the coordinates consistent and in decimal format? 
-.. lat/lon - Are all the occurrences taking place in Georgia?
-.. eventDate - Does the column exist? 
+.. lat/lon - Are all the occurrences with coordinates taking place in Armenia?
+.. eventDate - Does the data exist? 
 
 ==== Task 15
 
@@ -258,8 +259,8 @@ image::img/web/DJC/DJC-12.png[align=left,width=100,height=100]
 Take 60 minutes to complete the following:
 
 . Use OpenRefine to improve the quality of a dataset by using the default features, existing web services and regular expressions.
-. Download open-refine.csv. (207.5 KB)
-. Download and complete the exercises in OpenRefine-EN.pdf. (PDF, 1.1 MB)
+. Download link:../exercise-data/UC1-3c-open-refine.csv[UC1-3c-open-refine.csv,opts=download]. (207.5 KB)
+. Download and complete the exercises in link:../course-docs/OpenRefine-Exercise3c-EN.pdf[OpenRefine-Exercise3c-EN.pdf,opts=download]. (PDF, 1.1 MB)
 
 === Step 8
 
