@@ -212,9 +212,12 @@ image::img/web/DJC/DJC-12.png[align=left,width=100,height=100]
 
 Take 45 minutes to complete the following:
 
-. Imagine that you are the person assigned to transcribe the collected field data.
-. Transcribe the data from both a pinned specimen and a herbarium sheet using the provided spreadsheet template.
-. You may need to add fields to the spreadsheet as you may be able to capture more information from the labels that was planned for in the template.
+Imagine that you are the person assigned to transcribe the collected field data. You know you will share your data with GBIF so you decided to start with an https://github.com/gbif/ipt/wiki/occurrenceData#templates[occurrence template^]. However, you know that that you will share more data than the GBIF required and recommended fields.
+
+. Review the herbarium sheets and determine what information can be captured. Consider that all data should be captured verbatim.
+. Download the https://github.com/gbif/ipt/wiki/gbif-ipt-docs/downloads/occurrence_ipt_template_v2.xlsx[Excel template^] and add fields to the spreadsheet to accommodate all the data that can be captured.
+. Transcribe the verbatim data from the two herbariums sheets. link:../exercise-data/Vicia.zip[Vicia.zip file,opts=download] (ZIP 51 MB)
+. Consider other fields that you could add to the spreadsheet that can be derived from other known information.
 
 === Step 7
 
