@@ -25,3 +25,8 @@ Data journey step 6:
 
 . https://github.com/gbif/ipt/wiki/gbif-ipt-docs/downloads/occurrence_ipt_template_v2.xlsx[Excel template^]
 . link:../exercise-data/Vicia.zip[Vicia.zip file,opts=download] (ZIP 51 MB)
+
+Data journey step 7:
+
+. link:../exercise-data/ViciaForCleaning.txt[ViciaForCleaning.txt file,opts=download] (ZIP 66 KB)
+. link:../exercise-data/UC1-3c-open-refine.csv[UC1-3c-open-refine.csv,opts=download]. (207.5 KB)
