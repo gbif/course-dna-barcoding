@@ -275,10 +275,11 @@ image::img/web/DJC/DJC-14.png[align=left,width=100,height=100]
 Take 45 minutes to complete the following:
 
 . Login and explore the IPT.
-. Select a dataset published on the IPT and review the metadata.
+.. https://training-ipt-b.gbif.org/[^]
+. Select a https://training-ipt-b.gbif.org/resource?r=vicia_ar_ge[dataset^] published on the IPT and review the metadata.
 . Download the Darwin Core Archive.
 . Navigate to the dataset on GBIF.
-. Review the occurrence records through the GBIF portal.
+. Review the occurrence records through the GBIF dev portal.
 . Download the occurrences from GBIF.
 
 === Step 9
