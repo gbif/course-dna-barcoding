@@ -228,8 +228,8 @@ image::img/web/DJC/DJC-12.png[align=left,width=100,height=100]
 Take 15 minutes to complete the following:
 
 . You are now tasked with performing some standard data quality checks on the data.
-. Download link:../exercise-data/ViciaForCleaning.txt[ViciaForCleaning.txt file,opts=download] (ZIP 66 KB)
-. Import the file in Excel using the Excel wizard. See https://docs.gbif.org/course-data-mobilization/course-docs/Excel-tips-EN.pdf[Excel-tips-EN.pdf^] (PDF, 7 MB) for import instructions for your operating system (Windows, Mac, Linux).
+. Download link:../exercise-data/ViciaForCleaning.txt[ViciaForCleaning.txt,opts=download] (ZIP 66 KB)
+. Import the file in Excel using the Excel wizard. See https://docs.gbif.org/course-dna-barcoding/course-docs/Excel-tips-EN.pdf[Excel-tips-EN.pdf^] (PDF, 7 MB) for import instructions for your operating system (Windows, Mac, Linux).
 . Find and correct the errors manually.
 .. country - check for blanks
 .. year - do any years seem odd?
