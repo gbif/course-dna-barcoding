@@ -282,6 +282,11 @@ Take 45 minutes to complete the following:
 . Review the occurrence records through the GBIF dev portal.
 . Download the occurrences from GBIF.
 
+If you'd like to try publishing a dataset yourself, download the following files and use the IPT listed above to create an occurrence dataset with associated images:
+
+. Download link:../exercise-data/RBGE-occurrence.txt[RBGE-occurrence.txt,opts=download] (ZIP 76 KB)
+. Download link:../exercise-data/RBGE-multimedia.txt[RBGE-multimedia.txt,opts=download] (ZIP 65 KB)
+
 === Step 9
 
 ==== Task 17
