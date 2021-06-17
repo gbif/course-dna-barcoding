@@ -237,7 +237,7 @@ Take 15 minutes to complete the following:
 .. month - review the Darwin Core recommendation for https://dwc.tdwg.org/terms/#dwc:month[month^]
 .. taxonRank - check for blanks
 .. minimumElevationInMeters and maximumElevationInMeters - 8872 is the elevation of Mt. Everest
-.. kingdom -is kingdom correct?
+.. kingdom - is kingdom correct?
 
 ==== Task 14
 
@@ -247,9 +247,9 @@ Take 15 minutes to complete the following:
 
 . Continue using the same file. Filter for the cracca species.
 . Locate and correct the errors using tools of your choice.
-.. Full Name - Are the names valid?
-.. lat/lon - Are all the coordinates consistent and in decimal format? 
-.. lat/lon - Are all the occurrences with coordinates taking place in Armenia?
+.. species - Are the names valid?
+.. decimalLatitude and decimalLongitude - Are all the coordinates consistent and in decimal format? 
+.. decimalLatitude and decimalLongitude - Are all the occurrences with coordinates taking place in Armenia?
 .. eventDate - Does the data exist? 
 
 ==== Task 15
