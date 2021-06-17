@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-06-17 06:18+0000\n"
+"POT-Creation-Date: 2021-06-17 08:08+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -272,8 +272,27 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: downloads.en.adoc:27
+#: downloads.en.adoc:28
 msgid "link:../exercise-data/Vicia.zip[Vicia.zip file,opts=download] (ZIP 51 MB)"
+msgstr ""
+
+#. type: Plain text
+#: downloads.en.adoc:30
+msgid "Data journey step 7:"
+msgstr ""
+
+#. type: Plain text
+#: downloads.en.adoc:32
+msgid ""
+"link:../exercise-data/ViciaForCleaning.txt[ViciaForCleaning.txt "
+"file,opts=download] (ZIP 66 KB)"
+msgstr ""
+
+#. type: Plain text
+#: downloads.en.adoc:32
+msgid ""
+"link:../exercise-data/UC1-3c-open-refine.csv[UC1-3c-open-refine.csv,opts=download]. "
+"(207.5 KB)"
 msgstr ""
 
 #. type: Title ==
