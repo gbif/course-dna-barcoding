@@ -20,3 +20,8 @@ link:../videos/Publishing.zip[Publishing.zip,opts=download] (77.9 MB)
 
 === Exercise data
 Data journey step 4: link:../exercise-data/sequences.zip[sequences.zip file,opts=download] (ZIP 5 KB)
+
+Data journey step 6:
+
+. https://github.com/gbif/ipt/wiki/gbif-ipt-docs/downloads/occurrence_ipt_template_v2.xlsx[Excel template^]
+. link:../exercise-data/Vicia.zip[Vicia.zip file,opts=download] (ZIP 51 MB)
