@@ -221,6 +221,8 @@ Imagine that you are the person assigned to transcribe the collected field data.
 
 === Step 7
 
+Refer to <<Exercise tips>> in the data management section for information on types of errors and helpful tools.
+
 ==== Task 13
 
 image::img/web/DJC/DJC-12.png[align=left,width=100,height=100]
