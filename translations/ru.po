@@ -1,0 +1,3324 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: publishing-dna-derived-data\n"
+"POT-Creation-Date: 2021-09-09 10:07+0000\n"
+"PO-Revision-Date: 2021-09-09 10:12\n"
+"Last-Translator: \n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: publishing-dna-derived-data\n"
+"X-Crowdin-Project-ID: 446788\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: /1.0/translations/index.pot\n"
+"X-Crowdin-File-ID: 765\n"
+
+#. type: Title =
+#: index.en.adoc:1
+#, no-wrap
+msgid "Accelerating biodiversity research through DNA barcodes, collection and observation data"
+msgstr ""
+
+#. type: Plain text
+#: index.en.adoc:3
+msgid "GBIF Secretariat <training@gbif.org>"
+msgstr ""
+
+#. type: Plain text
+#: index.en.adoc:17
+msgid "languageLinks:combined[]"
+msgstr ""
+
+#. type: Block title
+#: index.en.adoc:22
+#, no-wrap
+msgid "https://www.gbif.org/occurrence/2840632116[Bombus pascuorum (Scopoli, 1763)^] observed in Georgia by Jean-Sébastien Rousseau-Piot (licensed under http://creativecommons.org/licenses/by-nc-nd/4.0/[CC BY-NC^])"
+msgstr ""
+
+#. type: Target for macro image
+#: index.en.adoc:23
+#, no-wrap
+msgid "img/web/Bombus_pascuorum_rehbinderi.jpg"
+msgstr ""
+
+#. type: Title ==
+#: description.en.adoc:2
+#, no-wrap
+msgid "Course description"
+msgstr ""
+
+#. type: delimited block *
+#: description.en.adoc:6
+#, no-wrap
+msgid "*Aim*\n"
+msgstr ""
+
+#. type: delimited block *
+#: description.en.adoc:13
+msgid "This course will teach you how to use DNA barcodes, collection and observation data to resolve research questions in biodiversity.  The programme uses a combination of lectures, tutorials, and hands-on exercises.  You will learn to handle biodiversity data including DNA barcoding.  You will gain practical experience in using open and digitally documented biodiversity data through GBIF and BOLD to answer biodiversity research questions.  You will understand and practice capturing observation, collection, and genetic data from analogue and digital sources.  Finally, this course provides basic skills in data publishing through GBIF and BOLD."
+msgstr ""
+
+#. type: delimited block *
+#: description.en.adoc:15
+#, no-wrap
+msgid "*Scope*\n"
+msgstr ""
+
+#. type: delimited block *
+#: description.en.adoc:18
+msgid "Data management skills for accessing and publishing data through biodiversity data platforms.  This is an observation/specimen -> published record course that does not include wet lab steps."
+msgstr ""
+
+#. type: Plain text
+#: description.en.adoc:21
+msgid "This course is a collaboration between the https://diku.no/[Diku-funded^] University of Oslo project BioDATA, the BMBF-funded project Caucasus Barcode of Life (https://ggbc.eu/[CaBOL^]), and https://www.gbif.org/[GBIF^] - Global Biodiversity Information Facility as has been developed by Dag Endresen, Dmitry Schigel, Helena Wirta, Hugo de Boer, Laura Russell, and Stefaniya Kamenova."
+msgstr ""
+
+#. type: Title ===
+#: description.en.adoc:22
+#, no-wrap
+msgid "Audience"
+msgstr ""
+
+#. type: Plain text
+#: description.en.adoc:25
+msgid "The course is suitable for MSc and PhD students in biology and other professionals in relevant fields."
+msgstr ""
+
+#. type: Title ===
+#: description.en.adoc:26
+#, no-wrap
+msgid "Prerequisites"
+msgstr ""
+
+#. type: Plain text
+#: description.en.adoc:31
+msgid "Participants should have an affinity or professional interest in biodiversity.  Participants need to have the motivation and interest to handle DNA barcodes, museum collection data, and observation data.  A good understanding of English is necessary to follow the course, carry out the exercises, and receive support during the teaching."
+msgstr ""
+
+#. type: Title ===
+#: description.en.adoc:32
+#, no-wrap
+msgid "Intended learning outcomes"
+msgstr ""
+
+#. type: Plain text
+#: description.en.adoc:35
+msgid "Understand and be able to explain the concept of species delimitation."
+msgstr ""
+
+#. type: Plain text
+#: description.en.adoc:36
+msgid "Learn to use genetic sequence data as a DNA barcode to identify a species."
+msgstr ""
+
+#. type: Plain text
+#: description.en.adoc:37
+msgid "Learn to publish and retrieve data from GBIF and BOLD."
+msgstr ""
+
+#. type: Plain text
+#: description.en.adoc:38
+msgid "Learn the basics of data capture, cleaning, storage, geo-referencing, and citation."
+msgstr ""
+
+#. type: Plain text
+#: description.en.adoc:39
+msgid "Critically assess the quality of own and external data and their fitness for purpose."
+msgstr ""
+
+#. type: Plain text
+#: description.en.adoc:40
+msgid "Practice the key tools and approaches to maximize data quality, data linking and data reuse."
+msgstr ""
+
+#. type: Plain text
+#: description.en.adoc:41
+msgid "Explore the benefits of FAIR and open data principles in biodiversity research and collaboration."
+msgstr ""
+
+#. type: Plain text
+#: description.en.adoc:42
+msgid "Understand the value of data management as a research-enabling tool."
+msgstr ""
+
+#. type: Plain text
+#: description.en.adoc:42
+msgid "Broadly understand the importance of international biodiversity infrastructures, and how these can contribute to biodiversity assessments, monitoring, conservation, and red- listing."
+msgstr ""
+
+#. type: Title ==
+#: course-prep.en.adoc:1
+#, no-wrap
+msgid "Course preparation "
+msgstr ""
+
+#. type: Title ===
+#: course-prep.en.adoc:3
+#, no-wrap
+msgid "Required"
+msgstr ""
+
+#. type: Title ====
+#: course-prep.en.adoc:5
+#, no-wrap
+msgid "Registrations and accounts"
+msgstr ""
+
+#. type: Plain text
+#: course-prep.en.adoc:8
+msgid "Create an account at https://orcid.org/register[ORCID^]."
+msgstr ""
+
+#. type: Plain text
+#: course-prep.en.adoc:9
+msgid "Create a personal (user) account at https://www.gbif.org/[GBIF.org^], top right corner. You can login to GBIF using ORCID."
+msgstr ""
+
+#. type: Plain text
+#: course-prep.en.adoc:10
+msgid "Create a personal (user) account at https://v3.boldsystems.org/index.php/MAS_Management_NewUserApp[BOLD^]. You can login to BOLD using ORCID."
+msgstr ""
+
+#. type: Plain text
+#: course-prep.en.adoc:11
+msgid "Create an account at https://www.inaturalist.org/signup[iNaturalist^]."
+msgstr ""
+
+#. type: Title ====
+#: course-prep.en.adoc:12
+#, no-wrap
+msgid "Foundations videos"
+msgstr ""
+
+#. type: Plain text
+#: course-prep.en.adoc:15
+msgid "To prepare for the course lectures, please watch the Foundations video playlist. These materials are terms-heavy, but will ensure that all participants have the same basis of knowledge to begin and will prepare you for the course lectures; please capture questions as you go through and ask them during the course."
+msgstr ""
+
+#. type: Plain text
+#: course-prep.en.adoc:17
+msgid "https://www.youtube.com/playlist?list=PLy6tIKN_kHB8N5_1Li19e2sXpNHjsbziG[Foundations videos^] - 6 videos, 67 mins."
+msgstr ""
+
+#. type: Title ===
+#: course-prep.en.adoc:18
+#, no-wrap
+msgid "Recommended"
+msgstr ""
+
+#. type: Plain text
+#: course-prep.en.adoc:21
+msgid "The course will include a practical part where you will design a research project and its data elements. This project and its “data journey” will be on a plant-pollinator system. To prepare for this part, please read the following. Skip if you are working on pollinators yourself already."
+msgstr ""
+
+#. type: Plain text
+#: course-prep.en.adoc:23
+msgid "https://www.bbc.com/news/science-environment-55662985[Honey detective work raises fears for bees^]"
+msgstr ""
+
+#. type: Plain text
+#: course-prep.en.adoc:24
+msgid "https://www.theguardian.com/environment/2020/jul/29/bees-food-crops-shortage-study[Loss of bees causes shortage of key food crops, study finds^]"
+msgstr ""
+
+#. type: Title ===
+#: course-prep.en.adoc:25
+#, no-wrap
+msgid "Optional"
+msgstr ""
+
+#. type: Plain text
+#: course-prep.en.adoc:28
+msgid "The following are optional activities if you have completed all of the above. Many aspects of these will be introduced during the course days."
+msgstr ""
+
+#. type: Plain text
+#: course-prep.en.adoc:30
+msgid "https://vimeo.com/434831655[What is GBIF?^] - video, 8 minutes"
+msgstr ""
+
+#. type: Plain text
+#: course-prep.en.adoc:31
+msgid "https://ibol.org/site/wp-content/uploads/2021/03/DNA_Barcoding.mp4[What is BOLD?] - video, 9.5 minutes"
+msgstr ""
+
+#. type: Plain text
+#: course-prep.en.adoc:32
+msgid "https://docs.gbif.org/course-introduction-to-gbif[Introduction to GBIF^] - online course"
+msgstr ""
+
+#. type: Plain text
+#: course-prep.en.adoc:32
+msgid "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0185809[More than 75 percent decline over 27 years in total flying insect biomass in protected areas^] - paper"
+msgstr ""
+
+#. type: Title ==
+#: downloads.en.adoc:1
+#, no-wrap
+msgid "Files for download"
+msgstr ""
+
+#. type: Plain text
+#: downloads.en.adoc:7
+msgid "All files for the course may be downloaded from this page.  Or if you prefer, all files are linked individually throughout the course as they occur in the curriculum.  The video files are embedded throughout the course, as well, and play from YouTube. Subtitles are available when playing from YouTube for most videos.  If you have difficulty accessing the embedded videos, please download the mp4 files to play them locally on your computer."
+msgstr ""
+
+#. type: Title ===
+#: downloads.en.adoc:8
+#, no-wrap
+msgid "Videos"
+msgstr ""
+
+#. type: Plain text
+#: downloads.en.adoc:10
+msgid "The videos are narrated in English. Subtitles are not available for the downloaded videos."
+msgstr ""
+
+#. type: Plain text
+#: downloads.en.adoc:12
+msgid "link:../videos/Foundations1.zip[Foundations1.zip,opts=download] (73.7 MB)"
+msgstr ""
+
+#. type: Plain text
+#: downloads.en.adoc:14
+msgid "link:../videos/Foundations2.zip[Foundations2.zip,opts=download] (90.2 MB)"
+msgstr ""
+
+#. type: Plain text
+#: downloads.en.adoc:16
+msgid "link:../videos/Capture.zip[Capture.zip,opts=download] (63.1 MB)"
+msgstr ""
+
+#. type: Plain text
+#: downloads.en.adoc:18
+msgid "link:../videos/Management.zip[Management.zip,opts=download] (30.2 MB)"
+msgstr ""
+
+#. type: Plain text
+#: downloads.en.adoc:20
+msgid "link:../videos/Publishing.zip[Publishing.zip,opts=download] (77.9 MB)"
+msgstr ""
+
+#. type: Title ===
+#: downloads.en.adoc:21
+#, no-wrap
+msgid "Exercise data"
+msgstr ""
+
+#. type: Plain text
+#: downloads.en.adoc:23
+msgid "Data journey step 4: link:../exercise-data/sequences.zip[sequences.zip file,opts=download] (ZIP 5 KB)"
+msgstr ""
+
+#. type: Plain text
+#: downloads.en.adoc:25
+msgid "Data journey step 6:"
+msgstr ""
+
+#. type: Plain text
+#: downloads.en.adoc:27
+msgid "https://github.com/gbif/ipt/wiki/gbif-ipt-docs/downloads/occurrence_ipt_template_v2.xlsx[Excel template^]"
+msgstr ""
+
+#. type: Plain text
+#: downloads.en.adoc:28
+msgid "link:../exercise-data/Vicia.zip[Vicia.zip file,opts=download] (ZIP 51 MB)"
+msgstr ""
+
+#. type: Plain text
+#: downloads.en.adoc:30
+msgid "Data journey step 7:"
+msgstr ""
+
+#. type: Plain text
+#: downloads.en.adoc:32
+msgid "link:../exercise-data/ViciaForCleaning.txt[ViciaForCleaning.txt file,opts=download] (ZIP 66 KB)"
+msgstr ""
+
+#. type: Plain text
+#: downloads.en.adoc:32
+msgid "link:../exercise-data/UC1-3c-open-refine.csv[UC1-3c-open-refine.csv,opts=download]. (207.5 KB)"
+msgstr ""
+
+#. type: Title ==
+#: software.en.adoc:1
+#, no-wrap
+msgid "Software installation"
+msgstr ""
+
+#. type: Title ===
+#: software.en.adoc:3
+#, no-wrap
+msgid "Install OpenRefine"
+msgstr ""
+
+#. type: Plain text
+#: software.en.adoc:6
+msgid "Install software required for activities later in the course"
+msgstr ""
+
+#. type: Positional ($1) AttributeList argument for macro 'image'
+#: software.en.adoc:7
+#, no-wrap
+msgid "Open Refine Logo"
+msgstr ""
+
+#. type: Target for macro image
+#: software.en.adoc:7
+#, no-wrap
+msgid "img/logos/open-refine-logo.png"
+msgstr ""
+
+#. type: Plain text
+#: software.en.adoc:12
+msgid "https://openrefine.org/[OpenRefine^] is a tool with a set of features for working with tabular data that improves the overall quality of a dataset.  It is an application that runs on your own computer as a small web server, and in order to use it your web browser should point at that web server.  So, think of OpenRefine as a personal and private web application."
+msgstr ""
+
+#. type: Plain text
+#: software.en.adoc:17
+msgid "We will use OpenRefine during the data mobilization portion of the course, especially during the practical exercises.  It will be necessary to install OpenRefine on your laptop.  If you are a skilled computer user, you can follow these steps to install the software on your computer.  If you are not confident, please ask for help. Refer to the https://openrefine.org/download.html[OpenRefine download page^] for more details."
+msgstr ""
+
+#. type: Plain text
+#: software.en.adoc:19
+msgid "Administrative passwords may be required to install software."
+msgstr ""
+
+#. type: Title ====
+#: software.en.adoc:20
+#, no-wrap
+msgid "Installation Requirements"
+msgstr ""
+
+#. type: Plain text
+#: software.en.adoc:23
+msgid "Linux users only: Java JRE installed."
+msgstr ""
+
+#. type: Plain text
+#: software.en.adoc:24
+msgid "Google Chrome, Microsoft Edge or Mozilla Firefox installed.  Internet Explorer is not supported."
+msgstr ""
+
+#. type: Plain text
+#: software.en.adoc:26
+msgid "The latest stable release is OpenRefine 3.4.1, released on September 24, 2020. Detailed installation instructions are available at https://docs.openrefine.org/manual/installing/[^]."
+msgstr ""
+
+#. type: Title ====
+#: software.en.adoc:27
+#, no-wrap
+msgid "Installation on MS Windows"
+msgstr ""
+
+#. type: delimited block =
+#: software.en.adoc:30 software.en.adoc:43
+msgid "Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-win-with-java-3.4.1.zip[Windows kit *with embedded Java*].  Choose to save the file rather than open it."
+msgstr ""
+
+#. type: Plain text
+#: software.en.adoc:31
+msgid "Find the downloaded file.  Right click it, and choose \"Extract all…\". Unzip, and double-click on openrefine.exe or refine.bat if the former does not work."
+msgstr ""
+
+#. type: Plain text
+#: software.en.adoc:32
+msgid "A command window will appear (don't close it) and soon after a new web browser window will show the application."
+msgstr ""
+
+#. type: Block title
+#: software.en.adoc:33
+#, no-wrap
+msgid "Detailed instructions for MS Windows (click to expand)"
+msgstr ""
+
+#. type: delimited block =
+#: software.en.adoc:37 software.en.adoc:46 software.en.adoc:55
+#: software.en.adoc:64 software.en.adoc:73 software.en.adoc:93
+#: software.en.adoc:102 software.en.adoc:111 software.en.adoc:120
+#: software.en.adoc:129 software.en.adoc:138 software.en.adoc:147
+#: software.en.adoc:156 software.en.adoc:165 software.en.adoc:174
+#: software.en.adoc:185 software.en.adoc:207 software.en.adoc:216
+#: software.en.adoc:225 software.en.adoc:234 software.en.adoc:243
+#: software.en.adoc:252
+msgid "{blank}"
+msgstr ""
+
+#. type: Target for macro image
+#: software.en.adoc:41
+#, no-wrap
+msgid "img/web/install-openrefine/win1-save-download.png"
+msgstr ""
+
+#. type: Target for macro image
+#: software.en.adoc:50
+#, no-wrap
+msgid "img/web/install-openrefine/win2-extract-all.png"
+msgstr ""
+
+#. type: delimited block =
+#: software.en.adoc:52
+msgid "Find the file you downloaded.  Right click it, and choose \"Extract All…\""
+msgstr ""
+
+#. type: Target for macro image
+#: software.en.adoc:59
+#, no-wrap
+msgid "img/web/install-openrefine/win3-extract-location.png"
+msgstr ""
+
+#. type: delimited block =
+#: software.en.adoc:61
+msgid "Click \"Extract\""
+msgstr ""
+
+#. type: Target for macro image
+#: software.en.adoc:68
+#, no-wrap
+msgid "img/web/install-openrefine/win4-create-shortcut.png"
+msgstr ""
+
+#. type: delimited block =
+#: software.en.adoc:70
+msgid "Find the extracted files.  Optionally, right click \"openrefine\" and choose \"Send to → Desktop (create shortcut)\" to create a shortcut on your desktop.  Then double click \"openrefine\""
+msgstr ""
+
+#. type: Target for macro image
+#: software.en.adoc:77
+#, no-wrap
+msgid "img/web/install-openrefine/win5-run.png"
+msgstr ""
+
+#. type: delimited block =
+#: software.en.adoc:79
+msgid "A black console window opens, and a short time later the browser opens.  OpenRefine is now ready to use."
+msgstr ""
+
+#. type: Title ====
+#: software.en.adoc:82
+#, no-wrap
+msgid "Installation on Mac"
+msgstr ""
+
+#. type: Plain text
+#: software.en.adoc:85
+msgid "Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-mac-3.4.1.dmg[Mac kit]."
+msgstr ""
+
+#. type: Plain text
+#: software.en.adoc:87
+msgid "Download, open, drag icon into the Applications folder.  You do not need to install Java separately."
+msgstr ""
+
+#. type: Plain text
+#: software.en.adoc:88
+msgid "Double click on it and a new web browser window will show the application."
+msgstr ""
+
+#. type: Block title
+#: software.en.adoc:89
+#, no-wrap
+msgid "Detailed instructions for Mac (click to expand)"
+msgstr ""
+
+#. type: Target for macro image
+#: software.en.adoc:97
+#, no-wrap
+msgid "img/web/install-openrefine/mac01-download-open.png"
+msgstr ""
+
+#. type: delimited block =
+#: software.en.adoc:99
+msgid "Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-mac-3.4.1.dmg[Mac kit], and choose to open it."
+msgstr ""
+
+#. type: Target for macro image
+#: software.en.adoc:106
+#, no-wrap
+msgid "img/web/install-openrefine/mac02-unidentified-developer.png"
+msgstr ""
+
+#. type: delimited block =
+#: software.en.adoc:108
+msgid "A warning is shown. Click \"OK\"."
+msgstr ""
+
+#. type: Target for macro image
+#: software.en.adoc:115
+#, no-wrap
+msgid "img/web/install-openrefine/mac03-system-preferences.png"
+msgstr ""
+
+#. type: delimited block =
+#: software.en.adoc:117
+msgid "Open System Preferences."
+msgstr ""
+
+#. type: Target for macro image
+#: software.en.adoc:124
+#, no-wrap
+msgid "img/web/install-openrefine/mac04-security-and-privacy.png"
+msgstr ""
+
+#. type: delimited block =
+#: software.en.adoc:126
+msgid "Open Security & Privacy"
+msgstr ""
+
+#. type: Target for macro image
+#: software.en.adoc:133
+#, no-wrap
+msgid "img/web/install-openrefine/mac05-open-anyway.png"
+msgstr ""
+
+#. type: delimited block =
+#: software.en.adoc:135
+msgid "Choose \"Open Anyway\" at the bottom."
+msgstr ""
+
+#. type: Target for macro image
+#: software.en.adoc:142
+#, no-wrap
+msgid "img/web/install-openrefine/mac06-yes-really-open.png"
+msgstr ""
+
+#. type: delimited block =
+#: software.en.adoc:144
+msgid "Choose \"Open\""
+msgstr ""
+
+#. type: Target for macro image
+#: software.en.adoc:151
+#, no-wrap
+msgid "img/web/install-openrefine/mac07-copy-to-applications.png"
+msgstr ""
+
+#. type: delimited block =
+#: software.en.adoc:153
+msgid "Finally, the application archive is opened! Drag it to your Applications folder."
+msgstr ""
+
+#. type: Target for macro image
+#: software.en.adoc:160
+#, no-wrap
+msgid "img/web/install-openrefine/mac08-who-owns-this-computer-anyway.png"
+msgstr ""
+
+#. type: delimited block =
+#: software.en.adoc:162
+msgid "Double-click the OpenRefine icon.  Another security warning appears!"
+msgstr ""
+
+#. type: Target for macro image
+#: software.en.adoc:169
+#, no-wrap
+msgid "img/web/install-openrefine/mac09-not-the-user.png"
+msgstr ""
+
+#. type: delimited block =
+#: software.en.adoc:171
+msgid "Go back to \"Security & Privacy\" and click \"Open Anyway\" — again."
+msgstr ""
+
+#. type: Target for macro image
+#: software.en.adoc:178
+#, no-wrap
+msgid "img/web/install-openrefine/mac10-use-linux-instead.png"
+msgstr ""
+
+#. type: delimited block =
+#: software.en.adoc:180
+msgid "(To avoid these warnings, the OpenRefine developers would need to pay Apple.)"
+msgstr ""
+
+#. type: delimited block =
+#: software.en.adoc:182
+msgid "Click \"Open\"."
+msgstr ""
+
+#. type: Target for macro image
+#: software.en.adoc:189
+#, no-wrap
+msgid "img/web/install-openrefine/mac11-run.png"
+msgstr ""
+
+#. type: delimited block =
+#: software.en.adoc:191
+msgid "Finally! The application is running."
+msgstr ""
+
+#. type: Title ====
+#: software.en.adoc:195
+#, no-wrap
+msgid "Installation on Linux"
+msgstr ""
+
+#. type: Plain text
+#: software.en.adoc:198
+msgid "Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-linux-3.4.1.tar.gz[Linux kit]."
+msgstr ""
+
+#. type: Plain text
+#: software.en.adoc:200
+msgid "Download, extract, then type ./refine to start.  This requires Java to be installed on your computer."
+msgstr ""
+
+#. type: Block title
+#: software.en.adoc:201
+#, no-wrap
+msgid "Detailed instructions for Linux (click to expand)"
+msgstr ""
+
+#. type: delimited block =
+#: software.en.adoc:205
+msgid "These instructions are for KDE (e.g. Kubuntu, SuSE), but the process is similar for Gnome (e.g. Ubuntu, Red Hat, CentOS)."
+msgstr ""
+
+#. type: Target for macro image
+#: software.en.adoc:211
+#, no-wrap
+msgid "img/web/install-openrefine/kde1-download-open.png"
+msgstr ""
+
+#. type: delimited block =
+#: software.en.adoc:213
+msgid "Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-linux-3.4.1.tar.gz[Linux kit].  Open it."
+msgstr ""
+
+#. type: Target for macro image
+#: software.en.adoc:220
+#, no-wrap
+msgid "img/web/install-openrefine/kde2-extract.png"
+msgstr ""
+
+#. type: delimited block =
+#: software.en.adoc:222
+msgid "Click \"Extract\" to unpack the downloaded application."
+msgstr ""
+
+#. type: Target for macro image
+#: software.en.adoc:229
+#, no-wrap
+msgid "img/web/install-openrefine/kde3-extract-all.png"
+msgstr ""
+
+#. type: delimited block =
+#: software.en.adoc:231
+msgid "Choose a suitable place.  I also selected \"Open destination folder after extraction\" and \"Close Ark after extraction\""
+msgstr ""
+
+#. type: Target for macro image
+#: software.en.adoc:238
+#, no-wrap
+msgid "img/web/install-openrefine/kde4-open.png"
+msgstr ""
+
+#. type: delimited block =
+#: software.en.adoc:240
+msgid "Right click \"refine\" and choose \"Run in Konsole\".  This is needed so you can safely exit OpenRefine later, by closing the Konsole window."
+msgstr ""
+
+#. type: Target for macro image
+#: software.en.adoc:247
+#, no-wrap
+msgid "img/web/install-openrefine/kde5-execute.png"
+msgstr ""
+
+#. type: delimited block =
+#: software.en.adoc:249
+msgid "Confirm that you wish to execute the downloaded application."
+msgstr ""
+
+#. type: Target for macro image
+#: software.en.adoc:256
+#, no-wrap
+msgid "img/web/install-openrefine/kde6-run.png"
+msgstr ""
+
+#. type: delimited block =
+#: software.en.adoc:258
+msgid "OpenRefine is now running."
+msgstr ""
+
+#. type: Title ==
+#: introduction.en.adoc:1
+#, no-wrap
+msgid "Introduction "
+msgstr ""
+
+#.  [NOTE.objectives]
+#.  This module includes ...
+#. type: Title ===
+#: introduction.en.adoc:6
+#, no-wrap
+msgid "Barcoding, data and biodiversity"
+msgstr ""
+
+#. type: Plain text
+#: introduction.en.adoc:14 introduction.en.adoc:32 research-data.en.adoc:14
+#: species-identification.en.adoc:14 species-identification.en.adoc:42
+#: barcode-depositories.en.adoc:14 data-capture.en.adoc:232
+#: metabarcoding-edna.en.adoc:9 data-publishing.en.adoc:60
+#: data-publishing.en.adoc:74
+msgid "The presentation can be viewed in the online version of the course."
+msgstr ""
+
+#. type: delimited block +
+#: introduction.en.adoc:21
+#, no-wrap
+msgid "<div class=\"responsive-slides\">\n"
+"  <iframe src=\"https://docs.google.com/presentation/d/e/2PACX-1vQBkg_BQt02Pwrhh_s6nBelBLE6LpNUyPnoTmAI1FRfUze3lNAL8BGJq9Vk_gJfRA/embed?start=false&loop=false\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>\n"
+"</div>\n"
+msgstr ""
+
+#. type: Title ===
+#: introduction.en.adoc:24
+#, no-wrap
+msgid "GBIF for science and policy"
+msgstr ""
+
+#. type: delimited block +
+#: introduction.en.adoc:39
+#, no-wrap
+msgid "<div class=\"responsive-slides\">\n"
+"  <iframe src=\"https://docs.google.com/presentation/d/e/2PACX-1vQ6KC1hGwLr_diPKzRLL3p58leeiFK55Rr5npG-EHiX_kVJQZKDzbNE3lE-2qXv5A/embed?start=false&loop=false\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>\n"
+"</div>\n"
+msgstr ""
+
+#. type: Title ==
+#: research-data.en.adoc:1
+#, no-wrap
+msgid "Data as a first-class research citizen"
+msgstr ""
+
+#. type: Plain text
+#: research-data.en.adoc:5
+msgid "This module includes information about trends to treat research data as a first-class scientific citizen, to be independently cited, and contribute to researcher career assessment."
+msgstr ""
+
+#. type: Title ===
+#: research-data.en.adoc:6
+#, no-wrap
+msgid "Open research data"
+msgstr ""
+
+#.  If you are unable to view the embedded slideshow, you can download it locally. (Slides - ??.? MB)
+#. type: Plain text
+#: research-data.en.adoc:11
+msgid "In this presentation, you will review recent trends to treat research data as a first-class scientific citizen, to be independently cited, and contribute to researcher career assessment used in this course."
+msgstr ""
+
+#. type: delimited block +
+#: research-data.en.adoc:21
+#, no-wrap
+msgid "<div class=\"responsive-slides responsive-slides-4-3\">\n"
+"  <iframe src=\"https://docs.google.com/presentation/d/e/2PACX-1vT6MKWw3QmPMVQF4I50Uy7SdssOvbpgzcDiBS05s5TNJ7bsQZf9fH09mP6A9vX_8g/embed?start=false&loop=false\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>\n"
+"</div>\n"
+msgstr ""
+
+#. type: Title ==
+#: data-journey.en.adoc:1
+#, no-wrap
+msgid "Data journey - bumblebee pollinators"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:6
+msgid "This data journey is a series of practical exercises focusing on bumblebee pollinators.  Using GBIF and BOLD, you will learn: I. how to find and use already available biodiversity data in connexion with your research questions; II. How to efficiently capture and clean this data – i.e. put them in a standard format that is directly relevant and exploitable for you; III. How to generate and publish new data according to a international standards."
+msgstr ""
+
+#. type: Target for macro image
+#: data-journey.en.adoc:7
+#, no-wrap
+msgid "img/web/DJC/DJC-0.png"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:14
+msgid "This data journey is comprised of nine steps.  Each step (or set of steps), correlate to the different modules of the course.  After a series of theoretical lectures, you will return to the Data Journey to complete the practical exercises.  The practical exercises follow a path: I. the study system; II. questions and hypotheses; III. availability of data; IV. capture and cleaning of data; and V. generate and publish data."
+msgstr ""
+
+#. type: Target for macro image
+#: data-journey.en.adoc:15
+#, no-wrap
+msgid "img/web/DJC/DJC-1.png"
+msgstr ""
+
+#. type: Title ===
+#: data-journey.en.adoc:17
+#, no-wrap
+msgid "Study system"
+msgstr ""
+
+#. type: Block title
+#: data-journey.en.adoc:20
+#, no-wrap
+msgid "Bombus-Vicia pollination network"
+msgstr ""
+
+#. type: Target for macro image
+#: data-journey.en.adoc:21
+#, no-wrap
+msgid "img/web/DJC/DJC-2.png"
+msgstr ""
+
+#. type: Title ====
+#: data-journey.en.adoc:23
+#, no-wrap
+msgid "Bumblebee pollinators"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:26
+msgid "What do we know about bumblebees in the Caucasus region?"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:27
+msgid "How many species? Where are they distributed?"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:28
+msgid "What are their preferred plant resources?"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:29
+msgid "Identify simple and clear research question"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:30
+msgid "What resources and type of data you will need?"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:31
+msgid "How much of this data already exists?"
+msgstr ""
+
+#. type: Title ====
+#: data-journey.en.adoc:32
+#, no-wrap
+msgid "Caucasus ecoregion"
+msgstr ""
+
+#. type: Target for macro image
+#: data-journey.en.adoc:34
+#, no-wrap
+msgid "img/web/DJC/DJC-3.png"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:37
+msgid "One of the most species-rich regions in the world"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:38
+msgid "High endemism rates"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:39
+msgid "Accelerate biodiversity discovery"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:40
+msgid "Systematics"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:41
+msgid "DNA barcoding"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:42
+msgid "Biological metadata"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:43
+msgid "Some biodiversity data is already available"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:44
+msgid "Identify relevant datasets"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:45
+msgid "Mobilize them for addressing scientific & conservation issues"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:46
+msgid "Identify data gaps for future research"
+msgstr ""
+
+#. type: Title ====
+#: data-journey.en.adoc:47
+#, no-wrap
+msgid "Public biodiversity databases"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:50
+msgid "You may find the data in the ecoregion is not publicly available in all the databases so you will need to reflect on your strategy."
+msgstr ""
+
+#. type: Target for macro image
+#: data-journey.en.adoc:51
+#, no-wrap
+msgid "img/web/DJC/DJC-4.png"
+msgstr ""
+
+#. type: Target for macro image
+#: data-journey.en.adoc:53
+#, no-wrap
+msgid "img/web/DJC/DJC-5.png"
+msgstr ""
+
+#. type: Target for macro image
+#: data-journey.en.adoc:55
+#, no-wrap
+msgid "img/web/DJC/DJC-6.png"
+msgstr ""
+
+#. type: Target for macro image
+#: data-journey.en.adoc:57
+#, no-wrap
+msgid "img/web/DJC/DJC-7.png"
+msgstr ""
+
+#. type: Title ===
+#: data-journey.en.adoc:59
+#, no-wrap
+msgid "Step 1"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:62
+msgid "In Step 1, you will develop your research questions."
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:64
+msgid "In a workshop setting, complete Step 1 as a group. Select a recorder/reporter to report back after task 3 is complete."
+msgstr ""
+
+#. type: Title ====
+#: data-journey.en.adoc:65
+#, no-wrap
+msgid "Task 1"
+msgstr ""
+
+#. type: Target for macro image
+#: data-journey.en.adoc:67
+#, no-wrap
+msgid "img/web/DJC/DJC-9.png"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:70
+msgid "Take 5 minutes to complete the following:"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:72
+msgid "Form your research question(s)"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:73
+msgid "Where is data available (or not available)?"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:74
+msgid "Draw a schematic of your question and plan to answer your question."
+msgstr ""
+
+#. type: Title ====
+#: data-journey.en.adoc:75
+#, no-wrap
+msgid "Task 2"
+msgstr ""
+
+#. type: Target for macro image
+#: data-journey.en.adoc:77 data-journey.en.adoc:101
+#, no-wrap
+msgid "img/web/DJC/DJC-10.png"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:80
+msgid "Take 25 minutes to complete the following using publicly available databases:"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:82
+msgid "Search for different species based on their names."
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:83
+msgid "Are there any records?"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:84
+msgid "How much overlap in available records do you observe between different databases?"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:85
+msgid "What possible research questions can you formulate?"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:86
+msgid "Do you have the necessary data?"
+msgstr ""
+
+#. type: Title ====
+#: data-journey.en.adoc:87
+#, no-wrap
+msgid "Task 3"
+msgstr ""
+
+#. type: Target for macro image
+#: data-journey.en.adoc:89
+#, no-wrap
+msgid "img/web/DJC/DJC-11.png"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:92 data-journey.en.adoc:131
+msgid "Take 10 minutes to complete the following:"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:94
+msgid "Reflect on your experience in task 2 and further refine your project goals."
+msgstr ""
+
+#. type: Title ===
+#: data-journey.en.adoc:95
+#, no-wrap
+msgid "Step 2"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:98
+msgid "In Step 2, you will begin to work with species identifications using GBIF and the Georgian Biodiversity Database (GBD)."
+msgstr ""
+
+#. type: Title ====
+#: data-journey.en.adoc:99
+#, no-wrap
+msgid "Task 4"
+msgstr ""
+
+#. type: Target for macro image
+#: data-journey.en.adoc:103 data-journey.en.adoc:116 data-journey.en.adoc:128
+#: data-journey.en.adoc:141 data-journey.en.adoc:153 data-journey.en.adoc:165
+#: data-journey.en.adoc:179 data-journey.en.adoc:195 data-journey.en.adoc:211
+#: data-journey.en.adoc:228 data-journey.en.adoc:246 data-journey.en.adoc:259
+#: data-journey.en.adoc:271 data-journey.en.adoc:294
+#, no-wrap
+msgid "img/web/DJC/DJC-12.png"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:106 data-journey.en.adoc:119 data-journey.en.adoc:156
+#: data-journey.en.adoc:231 data-journey.en.adoc:249
+msgid "Take 15 minutes to complete the following:"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:108
+msgid "Search Bombus records in both GBIF and GBD."
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:109
+msgid "What species of Bombus are known to occur in Georgia?"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:110
+msgid "Combine lists from the two databases into a final list in Excel of species names occurring in Georgia."
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:111
+msgid "If you have time, do the same for Vicia records."
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:113
+msgid "In this exercise you will be manual editing / cleaning the list from GBD to prepare for the next task."
+msgstr ""
+
+#. type: Title ====
+#: data-journey.en.adoc:114
+#, no-wrap
+msgid "Task 5"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:121
+msgid "Using the https://www.gbif.org/tools/species-lookup[GBIF species lookup^], produce a clean list of species with validated taxonomic names."
+msgstr ""
+
+#. type: Target for macro image
+#: data-journey.en.adoc:122
+#, no-wrap
+msgid "img/web/DJC/DJC-13.png"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:125
+msgid "Synonyms may arise whenever the same taxon is described and named more than once, independently."
+msgstr ""
+
+#. type: Title ====
+#: data-journey.en.adoc:126
+#, no-wrap
+msgid "Task 6"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:133
+msgid "Reflect on what has been learned and experienced during Steps 1 and 2."
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:134
+msgid "Explore the https://v3.boldsystems.org[BOLD^] database in preparation the next steps."
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:136
+msgid "In a workshop setting, complete task 6 as a group. Select a recorder/reporter to report back (1 minute per group) after task 6 is complete."
+msgstr ""
+
+#. type: Title ===
+#: data-journey.en.adoc:137
+#, no-wrap
+msgid "Step 3"
+msgstr ""
+
+#. type: Title ====
+#: data-journey.en.adoc:139
+#, no-wrap
+msgid "Task 7"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:144 data-journey.en.adoc:214 data-journey.en.adoc:276
+msgid "Take 45 minutes to complete the following:"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:146
+msgid "Explore Bombus-Vicia records in https://v3.boldsystems.org/[BOLD^]."
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:147
+msgid "Are there DNA barcodes available for the species of Bombus and Vicia you listed from Georgia?"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:148
+msgid "If yes, download the data."
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:149
+msgid "How many specimens per species?"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:150
+msgid "Which and how many of these species lack a DNA barcode? Mark in your list."
+msgstr ""
+
+#. type: Title ====
+#: data-journey.en.adoc:151
+#, no-wrap
+msgid "Task 8"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:158
+msgid "Explore more automatized ways for accessing DNA barcoding data in BOLD."
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:160
+msgid "Use the GBIF shortcut for Bombus hortorum (https://www.gbif.org/species/1340542)"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:161
+msgid "Click around for different species"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:162
+msgid "Are you able to access all and the same type of data?"
+msgstr ""
+
+#. type: Title ====
+#: data-journey.en.adoc:163
+#, no-wrap
+msgid "Task 9"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:168
+msgid "Take 35 minutes to complete the following:"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:170
+msgid "How much information is needed for referencing a DNA barcode?"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:171
+msgid "Find out what data and metadata is available for each DNA barcode for the specimen you just located."
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:172
+msgid "Examine what information is given in BOLD for a specimen and download the available data for one Bombus specimen."
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:174
+msgid "In a workshop setting, complete task 9 as a group. Select a recorder/reporter to report back (2 minutes per group) after task 9 is complete."
+msgstr ""
+
+#. type: Title ===
+#: data-journey.en.adoc:175
+#, no-wrap
+msgid "Step 4"
+msgstr ""
+
+#. type: Title ====
+#: data-journey.en.adoc:177
+#, no-wrap
+msgid "Task 10"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:182 data-journey.en.adoc:198
+msgid "Take 30 minutes to complete the following:"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:184
+msgid "Download link:../exercise-data/sequences.zip[sequences.zip file,opts=download] (ZIP 5 KB)"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:185
+msgid "Get an identification for a sequence by copying-pasting an “unknown” DNA sequence to BOLD."
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:186
+msgid "Enter species names and check whether they have records in BOLD, look these sequences with the sequence analysis tools in BOLD."
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:187
+msgid "Download all sequences for all available Bombus species known from Georgia in BOLD."
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:188
+msgid "Select three Bombus species and make a map."
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:189
+msgid "How are species distributed (i.e. located in your area of interest)?"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:190
+msgid "Are all of them useful for your research?"
+msgstr ""
+
+#. type: Title ===
+#: data-journey.en.adoc:191
+#, no-wrap
+msgid "Step 5"
+msgstr ""
+
+#. type: Title ====
+#: data-journey.en.adoc:193
+#, no-wrap
+msgid "Task 11"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:200
+msgid "Using the BOLD sequence analysis tools:"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:201
+msgid "Make a tree to check how well the sequences group by species"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:202
+msgid "Look at the BINs vs species"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:203
+msgid "Look at barcode gaps"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:204
+msgid "Among the barcodes for Bombus, are all of them useful for your research?"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:205
+msgid "Are there cryptic species or misidentifications?"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:206
+msgid "If you have time, use the https://www.gbif.org/tools/sequence-id[GBIF sequence id tool^]"
+msgstr ""
+
+#. type: Title ===
+#: data-journey.en.adoc:207
+#, no-wrap
+msgid "Step 6"
+msgstr ""
+
+#. type: Title ====
+#: data-journey.en.adoc:209
+#, no-wrap
+msgid "Task 12"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:216
+msgid "Imagine that you are the person assigned to transcribe the collected field data. You know you will share your data with GBIF so you decided to start with an https://github.com/gbif/ipt/wiki/occurrenceData#templates[occurrence template^]. However, you know that that you will share more data than the GBIF required and recommended fields."
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:218
+msgid "Review the herbarium sheets and determine what information can be captured. Consider that all data should be captured verbatim."
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:219
+msgid "Download the https://github.com/gbif/ipt/wiki/gbif-ipt-docs/downloads/occurrence_ipt_template_v2.xlsx[Excel template^] and add fields to the spreadsheet to accommodate all the data that can be captured."
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:220
+msgid "Transcribe the verbatim data from the two herbariums sheets. link:../exercise-data/Vicia.zip[Vicia.zip file,opts=download] (ZIP 51 MB)"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:221
+msgid "Consider other fields that you could add to the spreadsheet that can be derived from other known information."
+msgstr ""
+
+#. type: Title ===
+#: data-journey.en.adoc:222
+#, no-wrap
+msgid "Step 7"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:225
+msgid "Refer to <<Exercise tips>> in the data management section for information on types of errors and helpful tools."
+msgstr ""
+
+#. type: Title ====
+#: data-journey.en.adoc:226
+#, no-wrap
+msgid "Task 13"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:233
+msgid "You are now tasked with performing some standard data quality checks on the data."
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:234
+msgid "Download link:../exercise-data/ViciaForCleaning.txt[ViciaForCleaning.txt,opts=download] (ZIP 66 KB)"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:235
+msgid "Import the file in Excel using the Excel wizard. See https://docs.gbif.org/course-dna-barcoding/course-docs/Excel-tips-EN.pdf[Excel-tips-EN.pdf^] (PDF, 7 MB) for import instructions for your operating system (Windows, Mac, Linux)."
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:236
+msgid "Find and correct the errors manually."
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:237
+msgid "country - check for blanks"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:238
+msgid "year - do any years seem odd?"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:239
+msgid "countryCode - code should include only letters"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:240
+msgid "month - review the Darwin Core recommendation for https://dwc.tdwg.org/terms/#dwc:month[month^]"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:241
+msgid "taxonRank - check for blanks"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:242
+msgid "minimumElevationInMeters and maximumElevationInMeters - 8872 is the elevation of Mt. Everest"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:243
+msgid "kingdom - is kingdom correct?"
+msgstr ""
+
+#. type: Title ====
+#: data-journey.en.adoc:244
+#, no-wrap
+msgid "Task 14"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:251
+msgid "Continue using the same file. Filter for the cracca species."
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:252
+msgid "Locate and correct the errors using tools of your choice."
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:253
+msgid "species - Are the names valid?"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:254
+msgid "decimalLatitude and decimalLongitude - Are all the coordinates consistent and in decimal format?"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:255
+msgid "decimalLatitude and decimalLongitude - Are all the occurrences with coordinates taking place in Armenia?"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:256
+msgid "eventDate - Does the data exist?"
+msgstr ""
+
+#. type: Title ====
+#: data-journey.en.adoc:257
+#, no-wrap
+msgid "Task 15"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:262 data-journey.en.adoc:299
+msgid "Take 60 minutes to complete the following:"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:264
+msgid "Use OpenRefine to improve the quality of a dataset by using the default features, existing web services and regular expressions."
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:265
+msgid "Download link:../exercise-data/UC1-3c-open-refine.csv[UC1-3c-open-refine.csv,opts=download]. (207.5 KB)"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:266
+msgid "Download and complete the exercises in link:../course-docs/OpenRefine-Exercise3c-EN.pdf[OpenRefine-Exercise3c-EN.pdf,opts=download]. (PDF, 1.1 MB)"
+msgstr ""
+
+#. type: Title ===
+#: data-journey.en.adoc:267
+#, no-wrap
+msgid "Step 8"
+msgstr ""
+
+#. type: Title ====
+#: data-journey.en.adoc:269
+#, no-wrap
+msgid "Task 16"
+msgstr ""
+
+#. type: Target for macro image
+#: data-journey.en.adoc:273 data-journey.en.adoc:296
+#, no-wrap
+msgid "img/web/DJC/DJC-14.png"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:278
+msgid "Login and explore the IPT."
+msgstr ""
+
+#.  https://training-ipt-a.gbif.org/[^]
+#. type: Plain text
+#: data-journey.en.adoc:279 data-publishing.en.adoc:29
+msgid "https://training-ipt-b.gbif.org/[^]"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:280
+msgid "Select a https://training-ipt-b.gbif.org/resource?r=vicia_ar_ge[dataset^] published on the IPT and review the metadata."
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:281
+msgid "Download the Darwin Core Archive."
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:282
+msgid "Navigate to the dataset on GBIF."
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:283
+msgid "Review the occurrence records through the GBIF dev portal."
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:284
+msgid "Download the occurrences from GBIF."
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:286
+msgid "If you'd like to try publishing a dataset yourself, download the following files and use the IPT listed above to create an occurrence dataset with associated images:"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:288
+msgid "Download link:../exercise-data/RBGE-occurrence.txt[RBGE-occurrence.txt,opts=download] (ZIP 76 KB)"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:289
+msgid "Download link:../exercise-data/RBGE-multimedia.txt[RBGE-multimedia.txt,opts=download] (ZIP 65 KB)"
+msgstr ""
+
+#. type: Title ===
+#: data-journey.en.adoc:290
+#, no-wrap
+msgid "Step 9"
+msgstr ""
+
+#. type: Title ====
+#: data-journey.en.adoc:292
+#, no-wrap
+msgid "Task 17"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:301
+msgid "Upload specimen data"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:302
+msgid "Upload images"
+msgstr ""
+
+#. type: Plain text
+#: data-journey.en.adoc:302
+msgid "Upload sequence & trace files"
+msgstr ""
+
+#. type: Title ==
+#: species-identification.en.adoc:1
+#, no-wrap
+msgid "Species identification"
+msgstr ""
+
+#.  [NOTE.objectives]
+#.  This module includes ...
+#. type: Title ===
+#: species-identification.en.adoc:6
+#, no-wrap
+msgid "Why do we need to identify species"
+msgstr ""
+
+#. type: delimited block +
+#: species-identification.en.adoc:21
+#, no-wrap
+msgid "<div class=\"responsive-slides\">\n"
+"  <iframe src=\"https://docs.google.com/presentation/d/e/2PACX-1vTWA6W2GZ0DAcerKTPBhUZjCKIVO6giMDENRNF125ZZzD6lCQa5ObEGDexRDCxk7w/embed?start=false&loop=false\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>\n"
+"</div>\n"
+msgstr ""
+
+#. type: Title ====
+#: species-identification.en.adoc:24
+#, no-wrap
+msgid "Data journey step 2"
+msgstr ""
+
+#. type: Plain text
+#: species-identification.en.adoc:28
+msgid "Complete step 2, tasks 4-6"
+msgstr ""
+
+#. type: Title ====
+#: species-identification.en.adoc:29
+#, no-wrap
+msgid "Data journey step 3"
+msgstr ""
+
+#. type: Plain text
+#: species-identification.en.adoc:33
+msgid "Complete step 3, tasks 7-9"
+msgstr ""
+
+#. type: Title ===
+#: species-identification.en.adoc:34
+#, no-wrap
+msgid "Species identification and delimitation with DNA "
+msgstr ""
+
+#. type: delimited block +
+#: species-identification.en.adoc:49
+#, no-wrap
+msgid "<div class=\"responsive-slides\">\n"
+"  <iframe src=\"https://docs.google.com/presentation/d/e/2PACX-1vQOQO0jmRRIJPOo76ZzIuos2QQdS6gttWF6fTrjXn7D9dA3UuJhYb6jg0LwsAwS_g/embed?start=false&loop=false\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>\n"
+"</div>\n"
+msgstr ""
+
+#.  [NOTE.objectives]
+#.  This module includes ...
+#. type: Title ===
+#: barcode-depositories.en.adoc:1 barcode-depositories.en.adoc:6
+#, no-wrap
+msgid "Barcode reference depositories"
+msgstr ""
+
+#. type: delimited block +
+#: barcode-depositories.en.adoc:21
+#, no-wrap
+msgid "<div class=\"responsive-slides\">\n"
+"  <iframe src=\"https://docs.google.com/presentation/d/e/2PACX-1vS0tlxHjDzZllPtnOVZWDBYB00r5jAl469guYt-EeBmz2VPss8lCS9XA7zhrqT1kA/embed?start=false&loop=false\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>\n"
+"</div>\n"
+msgstr ""
+
+#. type: Title ===
+#: barcode-depositories.en.adoc:24
+#, no-wrap
+msgid "Demonstration"
+msgstr ""
+
+#.  [NOTE.workspace]
+#.  In this demonstration, you will ...
+#. type: Title ===
+#: barcode-depositories.en.adoc:28
+#, no-wrap
+msgid "Data journey step 4"
+msgstr ""
+
+#. type: Plain text
+#: barcode-depositories.en.adoc:32
+msgid "Complete step 4, task 10."
+msgstr ""
+
+#. type: Title ===
+#: barcode-depositories.en.adoc:33
+#, no-wrap
+msgid "Data journey step 5"
+msgstr ""
+
+#. type: Plain text
+#: barcode-depositories.en.adoc:36
+msgid "Complete step 5, task 11."
+msgstr ""
+
+#. type: Title ==
+#: data-capture.en.adoc:1
+#, no-wrap
+msgid "Data capture"
+msgstr ""
+
+#. type: Plain text
+#: data-capture.en.adoc:6
+msgid "In this module, you will learn the types of primary biodiversity data and how to best share that information within GBIF.  You will also review principles of data quality in the context of data capture and will learn about data quality and coherence (especially on subjects such as georeferencing, dates, names and taxa cross-checking)."
+msgstr ""
+
+#. type: Title ===
+#: data-capture.en.adoc:7
+#, no-wrap
+msgid "Data origins and types"
+msgstr ""
+
+#. type: Plain text
+#: data-capture.en.adoc:12
+msgid "In this video (10:45), you will review https://www.gbif.org/dataset-classes[primary biodiversity data^] that can be shared within GBIF.  If you are unable to watch the embedded video, you can link:../videos/data_origins_types.mp4[download^,opts=download] it locally. (MP4 - 19 MB)"
+msgstr ""
+
+#. type: Title ====
+#: data-capture.en.adoc:16
+#, no-wrap
+msgid "Data types review"
+msgstr ""
+
+#. type: Plain text
+#: data-capture.en.adoc:20
+msgid "Quiz yourself on the concepts learned in this section."
+msgstr ""
+
+#.  Note the lack of empty lines between the end of the question (....) and the start of the next question
+#.  (. What…) is required, so I have added // comments to help separate them.
+#.  The + connects the question into the numbered list item, see https://docs.asciidoctor.org/asciidoc/latest/lists/continuation/
+#.  Question 1
+#. type: delimited block *
+#: data-capture.en.adoc:28
+msgid "What dataset type(s) would you choose for an ichthyology collection?"
+msgstr ""
+
+#. type: delimited block .
+#: data-capture.en.adoc:34
+#, no-wrap
+msgid ":figure-caption!:\n"
+".https://www.gbif.org/occurrence/441867173[Eutrigla gurnardus (Linnaeus, 1758)] | Muséum d’histoire naturelle de Nice\n"
+"image::img/web/QDataTypes-specimen.png[align=center,width=640,height=360]\n"
+msgstr ""
+
+#. type: delimited block .
+#: data-capture.en.adoc:38 data-capture.en.adoc:51
+#, no-wrap
+msgid "- [x] occurrence\n"
+"- [x] checklist\n"
+"- [ ] sampling event\n"
+msgstr ""
+
+#.  Question 2
+#. type: Plain text
+#: data-capture.en.adoc:41
+msgid "What dataset type(s) would you choose for a list of invasive species?"
+msgstr ""
+
+#. type: delimited block .
+#: data-capture.en.adoc:47
+#, no-wrap
+msgid ":figure-caption!:\n"
+".Water hyacinth (Eichhornia crassipes) observed in Bourail, New Caledonia, where it is an introduced and invasive species by GRIIS. Photo by gérard (2016) licensed under CC BY-SA 2.0\n"
+"image::img/web/QDataTypes-plant.png[align=center,width=640,height=360]\n"
+msgstr ""
+
+#.  Question 3
+#. type: Plain text
+#: data-capture.en.adoc:54
+msgid "What dataset type(s) would you choose for the flora and fauna of an environmental impact study?"
+msgstr ""
+
+#. type: delimited block .
+#: data-capture.en.adoc:58
+#, no-wrap
+msgid "Environmental impact assessment studies are done by experts in order to assess the biodiversity and biotopes of a given area, before, during and after it is affected by human activities (road works, wind turbines, mining, building construction, etc.).\n"
+msgstr ""
+
+#. type: delimited block .
+#: data-capture.en.adoc:62
+#, no-wrap
+msgid ":figure-caption!:\n"
+".https://upload.wikimedia.org/wikipedia/commons/6/64/Entomologist_chasing_buterflies.jpg[Entomologist chasing butterflies] by Matthieu Gauvain (CC-BY-SA)\n"
+"image::img/web/QDataTypes-field.png[align=center,width=640,height=360]\n"
+msgstr ""
+
+#. type: delimited block .
+#: data-capture.en.adoc:66 data-capture.en.adoc:94 data-capture.en.adoc:126
+#, no-wrap
+msgid "- [x] occurrence\n"
+"- [ ] checklist\n"
+"- [x] sampling event\n"
+msgstr ""
+
+#.  Question 4
+#. type: Plain text
+#: data-capture.en.adoc:69
+msgid "What dataset type(s) would you choose for bird tracking data?"
+msgstr ""
+
+#. type: delimited block .
+#: data-capture.en.adoc:73
+#, no-wrap
+msgid "Bird-tracking data are recorded using specific devices, such as GPS trackers mounted on live birds, thus allowing scientists to track their migratory routes or breeding sites.\n"
+msgstr ""
+
+#. type: delimited block .
+#: data-capture.en.adoc:77
+#, no-wrap
+msgid ":figure-caption!:\n"
+".https://commons.wikimedia.org/wiki/File:Griffon_vulture_at_Gamla_nature_reserve.jpg[Griffin vulture] observed at Gamla Nature Reserve by מינוזיג - MinoZig (CC0) \n"
+"image::img/web/QDataTypes-tracking.png[align=center,width=640,height=360]\n"
+msgstr ""
+
+#. type: delimited block .
+#: data-capture.en.adoc:81
+#, no-wrap
+msgid "- [x] occurrence\n"
+"- [ ] checklist\n"
+"- [ ] sampling event\n"
+msgstr ""
+
+#.  Question 5
+#. type: Plain text
+#: data-capture.en.adoc:84
+msgid "What dataset type(s) would you choose for insect trap data?"
+msgstr ""
+
+#. type: delimited block .
+#: data-capture.en.adoc:90
+#, no-wrap
+msgid ":figure-caption!:\n"
+".https://www.flickr.com/photos/miheco/215305679/[Insect trap] by miheco (CC-BY-SA)\n"
+"image::img/web/QDataTypes-traps.png[align=\"center\",width=640,height=360]\n"
+msgstr ""
+
+#.  Question 6
+#. type: Plain text
+#: data-capture.en.adoc:97
+msgid "What dataset type(s) would you choose for national park management data?"
+msgstr ""
+
+#. type: delimited block .
+#: data-capture.en.adoc:101
+#, no-wrap
+msgid "Data acquired in the context of protected areas management (such as national parks but also smaller nature reserves) can be diverse and have different origins: botanical surveys, tagged animals tracking, observations from rangers and guards, and even ‘citizen science’ data or data inferred from pictures shared on social medias.\n"
+msgstr ""
+
+#. type: delimited block .
+#: data-capture.en.adoc:105
+#, no-wrap
+msgid ":figure-caption!:\n"
+".https://pixabay.com/photos/%C3%A9l%C3%A9phant-%C3%A9l%C3%A9phant-d-asie-4037451/[Sri Lankan elephants] observed by pen_ash.\n"
+"image::img/web/QDataTypes-Observations.png[align=center,width=640,height=360]\n"
+msgstr ""
+
+#. type: delimited block .
+#: data-capture.en.adoc:109
+#, no-wrap
+msgid "- [x] occurrence\n"
+"- [x] checklist\n"
+"- [x] sampling event\n"
+msgstr ""
+
+#.  Question 7
+#. type: Plain text
+#: data-capture.en.adoc:112
+msgid "What dataset type(s) would you choose for a citizen science bioblitz?"
+msgstr ""
+
+#. type: delimited block .
+#: data-capture.en.adoc:116
+#, no-wrap
+msgid "Citizen science data are often collected through thematic fieldwork days known as a “bioblitz.” Volunteers typically gather in a given area and spend the day trying to observe and identify as many species as they can in this area.\n"
+msgstr ""
+
+#. type: delimited block .
+#: data-capture.en.adoc:118
+#, no-wrap
+msgid "Data from each participant are captured and merged into the citizen science programme’s data capture or data management tool.\n"
+msgstr ""
+
+#. type: delimited block .
+#: data-capture.en.adoc:122
+#, no-wrap
+msgid ":figure-caption!:\n"
+".https://www.nps.gov/experiences/citizen-scientists-bioblitz.htm?fullweb=1[Looking for birds with park staff] by US National Park Service (authorized reuse on google image search)\n"
+"image::img/web/QDataTypes-citizen.png[align=center,width=640,height=360]\n"
+msgstr ""
+
+#.  Question 8
+#. type: Plain text
+#: data-capture.en.adoc:129
+msgid "What dataset type(s) would you choose for a regional species list?"
+msgstr ""
+
+#. type: delimited block .
+#: data-capture.en.adoc:135
+#, no-wrap
+msgid ":figure-caption!:\n"
+".https://pixabay.com/photos/zoo-de-magdebourg-makibo-2876837/[Black rhino] observed at the Magdeburg Zoo in Germany by Mani300\n"
+"image::img/web/QDataTypes-threatened.png[align=center,width=640,height=360]\n"
+msgstr ""
+
+#. type: delimited block .
+#: data-capture.en.adoc:139
+#, no-wrap
+msgid "- [ ] occurrence\n"
+"- [x] checklist\n"
+"- [ ] sampling event\n"
+msgstr ""
+
+#. type: Title ====
+#: data-capture.en.adoc:142
+#, no-wrap
+msgid "Data types review solutions"
+msgstr ""
+
+#. type: Block title
+#: data-capture.en.adoc:144
+#, no-wrap
+msgid "Click to expand"
+msgstr ""
+
+#.  . {blank}
+#.  +
+#.  [.float-group]
+#.  [.left]
+#. type: delimited block =
+#: data-capture.en.adoc:153
+#, no-wrap
+msgid "*What dataset type(s) would you choose for an ichthyology collection?*\n"
+msgstr ""
+
+#. type: delimited block =
+#: data-capture.en.adoc:158
+msgid "occurrence + Most of the time, specimens from collection databases are shared as occurrence data.  Each occurrence (specimen or group of specimens) has its own unique identifier (sometimes derived from its catalogue number in the source collection) and the Darwin Core fields used to share them within GBIF describe each specimen: scientific name, the date it was collected on the field, who collected and/or identified it, where, etc.  Each collection can have more than one specimen from a same species, as long as each specimen is identified by a unique ID."
+msgstr ""
+
+#. type: delimited block =
+#: data-capture.en.adoc:160
+msgid "checklist + It is also possible to create and share a taxonomical checklist derived from a collection database; in this case, it is recommended to share the checklist as a taxonomical dataset, with the occurrence (specimen) list associated with it by using the Occurrence core as an extension to the Taxon Core on the GBIF IPT."
+msgstr ""
+
+#. type: delimited block =
+#: data-capture.en.adoc:162
+#, no-wrap
+msgid "*What dataset type(s) would you choose for a list of invasive species?*\n"
+msgstr ""
+
+#. type: delimited block =
+#: data-capture.en.adoc:165
+msgid "occurrence + Some data publishers will share occurrence datasets coming from studies or programs tracking specimens from some specific invasive species; when the data focuses on individuals instead of the invasive species, in general, they can be shared as occurrence data."
+msgstr ""
+
+#. type: delimited block =
+#: data-capture.en.adoc:167
+msgid "checklist + Invasive species can be tracked and monitored at different scales (regional, national, thematic…); as this type of dataset focuses more on the species and their distribution across a given geographical scope, they are mainly shared as taxonomical datasets within GBIF (https://www.gbif.org/dataset/search?project_id=GRIIS[see GRIIS search results])."
+msgstr ""
+
+#. type: delimited block =
+#: data-capture.en.adoc:169
+#, no-wrap
+msgid "*What dataset type(s) would you choose for the flora and fauna of an environmental impact study?*\n"
+msgstr ""
+
+#. type: delimited block =
+#: data-capture.en.adoc:172
+msgid "occurrence + Data are recorded by naturalists on the field and can be shared as simple occurrence datasets."
+msgstr ""
+
+#. type: delimited block =
+#: data-capture.en.adoc:174
+msgid "sampling event + They can also be shared as event datasets if standardized protocols (such as vegetation plots, transects, traps…) are used to collect the data."
+msgstr ""
+
+#. type: delimited block =
+#: data-capture.en.adoc:176
+#, no-wrap
+msgid "*What dataset type(s) would you choose for bird tracking data?*\n"
+msgstr ""
+
+#. type: delimited block =
+#: data-capture.en.adoc:179
+msgid "occurrence + These data are shared as occurrence datasets: ideally, each bird is identified with its organismID, and each occurrence (GPS ping) has its own occurrenceID, which is useful to track the different GPS locations of the same bird over the scope of the tracking programme or project. (See https://www.gbif.org/dataset/2fc1d8b5-9c99-4e03-8c3c-11a6e51a298f[example])"
+msgstr ""
+
+#. type: delimited block =
+#: data-capture.en.adoc:181
+#, no-wrap
+msgid "*What dataset type(s) would you choose for insect trap data?*\n"
+msgstr ""
+
+#. type: delimited block =
+#: data-capture.en.adoc:184
+msgid "occurrence + Although such data can be shared as simple occurrence datasets, it is best if they’re shared as event datasets, where the location, identifier and contents of each trap can be better detailed."
+msgstr ""
+
+#. type: delimited block =
+#: data-capture.en.adoc:188
+msgid "sampling event + Insect traps (as well as other traps such as pitfall traps, malaise traps…) are typically used in monitoring programmes to check the presence (or absence) of some species and/or assess their specific abundance.  Using the “eventID” field to identify each trap allows the users to get all of the specimens collected within each trap.  The same logic applies to other field protocols such as transects, plots, remote cameras, etc.: by using the Event Core instead of the Occurrence core, you’ll be able to share much more information about the context of the data collection, and allow users to better understand (and even replicate) your work."
+msgstr ""
+
+#. type: delimited block =
+#: data-capture.en.adoc:190
+#, no-wrap
+msgid "*What dataset type(s) would you choose for national park management data?*\n"
+msgstr ""
+
+#. type: delimited block =
+#: data-capture.en.adoc:193
+msgid "occurrence + record individuals of species"
+msgstr ""
+
+#. type: delimited block =
+#: data-capture.en.adoc:195
+msgid "checklist + It is important to know how many species are present in the park/reserve perimeter and their conservation status."
+msgstr ""
+
+#. type: delimited block =
+#: data-capture.en.adoc:197
+msgid "sampling event + check and track the populations"
+msgstr ""
+
+#. type: delimited block =
+#: data-capture.en.adoc:199
+#, no-wrap
+msgid "*What dataset type(s) would you choose for a citizen science bioblitz?*\n"
+msgstr ""
+
+#. type: delimited block =
+#: data-capture.en.adoc:202
+msgid "occurrence + Bioblitz datasets are mainly shared as occurrence datasets."
+msgstr ""
+
+#. type: delimited block =
+#: data-capture.en.adoc:204
+msgid "sampling event + Depending on the citizen science programme, specific sampling protocols might be used by the volunteers, in which case, the data can be shared as an event dataset."
+msgstr ""
+
+#. type: delimited block =
+#: data-capture.en.adoc:206
+#, no-wrap
+msgid "*What dataset type(s) would you choose for a regional species list?*\n"
+msgstr ""
+
+#. type: delimited block =
+#: data-capture.en.adoc:210
+msgid "checklist + Geographical or thematic species lists are often used to share information about the species present in a given area; most of the time, these lists also mention the distribution of each species as well as their conservation status in this area.  Regional species lists can give a useful insight into a region’s biodiversity and habitats, and need to be shared as taxonomical datasets, with or without associated occurrences."
+msgstr ""
+
+#. type: Title ===
+#: data-capture.en.adoc:214
+#, no-wrap
+msgid "Data capture, processing and quality"
+msgstr ""
+
+#. type: Plain text
+#: data-capture.en.adoc:218
+msgid "In this video (09:11), you will explore the principles of data quality applied to data capture, specifically when capturing data from collection labels, fieldwork notebooks, spreadsheets, etc.  If you are unable to watch the embedded video, you can link:../videos/Data_capture_processing_quality.mp4[download^,opts=download] it locally. (MP4 - 19 MB)"
+msgstr ""
+
+#. type: Title ===
+#: data-capture.en.adoc:222
+#, no-wrap
+msgid "iNaturalist"
+msgstr ""
+
+#. type: Plain text
+#: data-capture.en.adoc:229
+msgid "In this activity, you will venture into the field for first-person data capture."
+msgstr ""
+
+#. type: delimited block +
+#: data-capture.en.adoc:239
+#, no-wrap
+msgid "<div class=\"responsive-slides responsive-slides-4-3\">\n"
+"  <iframe src=\"https://docs.google.com/presentation/d/e/2PACX-1vTII4tP-7I40yo-wRIStynV1gOaS9HEu1j4j5tH5xZsnzUqOjXqgF5Pd6AXJ0UZqMH8KeY4-GWvrE4T/embed?start=false&loop=false\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>\n"
+"</div>\n"
+msgstr ""
+
+#. type: Title ===
+#: data-capture.en.adoc:242
+#, no-wrap
+msgid "Data journey step 6"
+msgstr ""
+
+#. type: Plain text
+#: data-capture.en.adoc:245
+msgid "Complete step 6, task 12."
+msgstr ""
+
+#. type: Title ==
+#: data-management.en.adoc:1
+#, no-wrap
+msgid "Data management "
+msgstr ""
+
+#. type: Plain text
+#: data-management.en.adoc:5
+msgid "In this module, you will review the main concepts, related tools and best practices for data management, particularly, data cleaning and standardization."
+msgstr ""
+
+#. type: Title ===
+#: data-management.en.adoc:6
+#, no-wrap
+msgid "Principles of data management"
+msgstr ""
+
+#. type: Plain text
+#: data-management.en.adoc:10
+msgid "In this video (09:49), you will review an important set of principles necessary to improve data through the processes of data cleaning.  If you are unable to watch the embedded video, you can link:../videos/Data_Management.mp4[download^,opts=download] it locally. (MP4 - 16.6 MB)"
+msgstr ""
+
+#. type: Title ===
+#: data-management.en.adoc:14
+#, no-wrap
+msgid "Data management tools"
+msgstr ""
+
+#. type: Plain text
+#: data-management.en.adoc:18
+msgid "In this video (06:42), you will learn about a variety of tools that you can use to improve the quality of your data.  If you are unable to watch the embedded video, you can link:../videos/Data_Management_Tools.mp4[download,opts=download] it locally. (MP4 - 10.3 MB)"
+msgstr ""
+
+#. type: Title ===
+#: data-management.en.adoc:22 keydocs.en.adoc:89
+#, no-wrap
+msgid "OpenRefine"
+msgstr ""
+
+#. type: Plain text
+#: data-management.en.adoc:26
+msgid "In this video (03:27), you will learn about https://openrefine.org/[OpenRefine^]. You can use OpenRefine to standardize and improve the quality of your data.  If you are unable to watch the embedded video, you can link:../videos/Data_Management_OpenRefine.mp4[download,opts=download] it locally. (MP4 - 3.8 MB)"
+msgstr ""
+
+#. type: Title ===
+#: data-management.en.adoc:30
+#, no-wrap
+msgid "Data journey step 7"
+msgstr ""
+
+#. type: Plain text
+#: data-management.en.adoc:34
+msgid "Complete step 7, tasks 13-15."
+msgstr ""
+
+#. type: Title ===
+#: data-management.en.adoc:35
+#, no-wrap
+msgid "Exercise tips"
+msgstr ""
+
+#. type: Title ====
+#: data-management.en.adoc:37
+#, no-wrap
+msgid "Validation checks"
+msgstr ""
+
+#. type: Plain text
+#: data-management.en.adoc:42
+#, no-wrap
+msgid "*Technical errors*\n"
+"Relatively simple, often able to be automated, *checks against the integrity of the data*. \n"
+"These may indicate incorrect exports, data mapping, field slippage (e.g. moving 1 column to the right) or data missing at the source.\n"
+msgstr ""
+
+#. type: Plain text
+#: data-management.en.adoc:45
+#, no-wrap
+msgid "*Completeness*: \n"
+"Whether all the data and metadata is available – are all fields present, are all fields filled out?\n"
+msgstr ""
+
+#. type: Plain text
+#: data-management.en.adoc:47
+#, no-wrap
+msgid "*Bounds*: \n"
+"For example, are days given in the range 1-31 (depending on month)\n"
+msgstr ""
+
+#. type: Plain text
+#: data-management.en.adoc:49
+#, no-wrap
+msgid "*Data type*: \n"
+"For example, does the Date field contain a date or a number?\n"
+msgstr ""
+
+#. type: Plain text
+#: data-management.en.adoc:51
+#, no-wrap
+msgid "*Data format*: \n"
+"For example, are Dates provided as 01/01/2010 or 01/Jan/10?\n"
+msgstr ""
+
+#. type: Plain text
+#: data-management.en.adoc:53
+#, no-wrap
+msgid "*Consistency errors*\n"
+msgstr ""
+
+#. type: Plain text
+#: data-management.en.adoc:59
+msgid "Application of real-world rules to the data.  These may indicate incorrect data entry from older records, transcription errors or post processing.  Some are complex to implement and *require reference data sets to check against*.  E.g. a list of known collectors and collecting habits.  These rules can be gathered from data users and analysts."
+msgstr ""
+
+#. type: Plain text
+#: data-management.en.adoc:62
+#, no-wrap
+msgid "*Taxonomic*: \n"
+"For example, if identified to species level, have a binomial scientific name and entries in genus and species fields been provided?\n"
+msgstr ""
+
+#. type: Plain text
+#: data-management.en.adoc:64
+#, no-wrap
+msgid "*Currency*: \n"
+"Are dates of collection, identification, update and digitization consistent?\n"
+msgstr ""
+
+#. type: Plain text
+#: data-management.en.adoc:67
+#, no-wrap
+msgid "*Outliers*: \n"
+"Detect outliers, but remember that not all outliers are necessarily errors. \n"
+"For example, compare against a known species range, or known environmental range (but remember that outliers may be misidentifications, rather than incorrect coordinates).\n"
+msgstr ""
+
+#. type: Plain text
+#: data-management.en.adoc:70
+#, no-wrap
+msgid "*Geographic*: \n"
+"Are the coordinates within the identified locality or region? \n"
+"For example, are there any terrestrial occurrences in the sea or marine occurrences on land?\n"
+msgstr ""
+
+#. type: Plain text
+#: data-management.en.adoc:74
+#, no-wrap
+msgid "*Collecting patterns*: \n"
+"Does the occurrence detail match the known collecting patterns of the organization or collector?\n"
+"Do any records appear to have been created after a collector has died (could this possibly be a different collector with a similar name)?\n"
+"For example, are any mammal records attributed to a bird watching group?\n"
+msgstr ""
+
+#. type: Plain text
+#: data-management.en.adoc:76
+#, no-wrap
+msgid "*Accuracy and precision*: \n"
+"For example, are any georeferenced records indicating very high precision or accuracy from a pre-GPS (or pre-accurate GPS) collecting period?\n"
+msgstr ""
+
+#. type: Plain text
+#: data-management.en.adoc:79
+#, no-wrap
+msgid "*Collecting methods*: \n"
+"Different survey methods (e.g. transects and area surveys) have particular characteristics. \n"
+"Are the records consistent with the method provided?\n"
+msgstr ""
+
+#. type: Title ====
+#: data-management.en.adoc:80
+#, no-wrap
+msgid "Helpful tools"
+msgstr ""
+
+#. type: Plain text
+#: data-management.en.adoc:83
+#, no-wrap
+msgid "*GBIF Name Parser*: https://www.gbif.org/tools/name-parser\n"
+msgstr ""
+
+#. type: Plain text
+#: data-management.en.adoc:84
+#, no-wrap
+msgid "*Global Names Resolver*: http://resolver.globalnames.org\n"
+msgstr ""
+
+#. type: Plain text
+#: data-management.en.adoc:85
+#, no-wrap
+msgid "*Catalogue of Life name match*: https://data.catalogueoflife.org/tools/name-match\n"
+msgstr ""
+
+#. type: Plain text
+#: data-management.en.adoc:86
+#, no-wrap
+msgid "*TNRS*: https://tnrs.biendata.org/\n"
+msgstr ""
+
+#. type: Plain text
+#: data-management.en.adoc:87
+#, no-wrap
+msgid "*WoRMS*: https://www.marinespecies.org/aphia.php?p=match\n"
+msgstr ""
+
+#. type: Plain text
+#: data-management.en.adoc:88
+#, no-wrap
+msgid "*InfoXY*: http://splink.cria.org.br/infoxy?criaLANG=en\n"
+msgstr ""
+
+#. type: Plain text
+#: data-management.en.adoc:89
+#, no-wrap
+msgid "*Georeferencing Calculator*: http://georeferencing.org/georefcalculator/gc.html\n"
+msgstr ""
+
+#. type: Plain text
+#: data-management.en.adoc:90
+#, no-wrap
+msgid "*Canadensys coordinate conversion*: http://data.canadensys.net/tools/coordinates\n"
+msgstr ""
+
+#. type: Plain text
+#: data-management.en.adoc:91
+#, no-wrap
+msgid "*Canadensys date parsing*: http://data.canadensys.net/tools/dates\n"
+msgstr ""
+
+#. type: Plain text
+#: data-management.en.adoc:91
+#, no-wrap
+msgid "*Google Maps*: https://maps.google.com/\n"
+msgstr ""
+
+#. type: Title ==
+#: metabarcoding-edna.en.adoc:1
+#, no-wrap
+msgid "Metabarcoding and eDNA applications"
+msgstr ""
+
+#. type: delimited block +
+#: metabarcoding-edna.en.adoc:16
+#, no-wrap
+msgid "<div class=\"responsive-slides\">\n"
+"  <iframe src=\"https://docs.google.com/presentation/d/e/2PACX-1vSgzwh3c26F38-TtMNkjykJT_PI8uY4_5INkI9da6rZiDFLX6_c1TZmX26KesqzDA/embed?start=false&loop=false\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>\n"
+"</div>\n"
+msgstr ""
+
+#. type: Title ===
+#: data-publishing.en.adoc:1 keydocs.en.adoc:14
+#, no-wrap
+msgid "Data publishing"
+msgstr ""
+
+#. type: Plain text
+#: data-publishing.en.adoc:5
+msgid "In this module, you will learn about data publishing concepts, including the IPT, cores and extensions, and the importance of licenses, metadata, mandatory fields and hosting of datasets."
+msgstr ""
+
+#. type: Title ===
+#: data-publishing.en.adoc:6
+#, no-wrap
+msgid "Data publishing concepts"
+msgstr ""
+
+#. type: Plain text
+#: data-publishing.en.adoc:10
+msgid "In this video (11:45), you will learn about data publishing concepts and will receive an introduction to the Integrated Publishing Toolkit (https://www.gbif.org/ipt[IPT^]).  If you are unable to watch the embedded video, you can link:../videos/Data_publishing_concepts.mp4[download^,opts=download] it locally. (MP4 - 20 MB)"
+msgstr ""
+
+#. type: Title ===
+#: data-publishing.en.adoc:14
+#, no-wrap
+msgid "IPT overview"
+msgstr ""
+
+#. type: Plain text
+#: data-publishing.en.adoc:18
+msgid "In this video (06:56), you will receive an overview of the IPT data publishing interface.  If you are unable to watch the embedded video, you can link:../videos/Data_publishing_IPT.mp4[download^,opts=download] it locally. (MP4 - 8.7 MB)"
+msgstr ""
+
+#. type: Title ====
+#: data-publishing.en.adoc:22
+#, no-wrap
+msgid "Training IPT installations"
+msgstr ""
+
+#. type: Plain text
+#: data-publishing.en.adoc:25
+msgid "If you have not already been provided a login, please contact training@gbif.org and you will be provided with a login and password on the course IPT."
+msgstr ""
+
+#.  https://training-ipt-c.gbif.org/[^]
+#. type: Title ===
+#: data-publishing.en.adoc:32
+#, no-wrap
+msgid "IPT demonstration"
+msgstr ""
+
+#. type: Plain text
+#: data-publishing.en.adoc:36
+msgid "In this video (24:16), you will learn how to publish an occurrence dataset using an IPT.  If you are unable to watch the embedded video, you can link:../videos/IPT_demo.mp4[download^,opts=download] it locally. (MP4 - 52.6 MB)"
+msgstr ""
+
+#. type: Title ===
+#: data-publishing.en.adoc:40
+#, no-wrap
+msgid "Data journey step 8"
+msgstr ""
+
+#. type: Plain text
+#: data-publishing.en.adoc:44
+msgid "Complete step 8, task 16."
+msgstr ""
+
+#. type: Title ===
+#: data-publishing.en.adoc:45
+#, no-wrap
+msgid "Data journey step 9"
+msgstr ""
+
+#. type: Plain text
+#: data-publishing.en.adoc:49
+msgid "Complete step 9, task 17."
+msgstr ""
+
+#. type: Title ===
+#: data-publishing.en.adoc:50
+#, no-wrap
+msgid "Data publishing benefits"
+msgstr ""
+
+#.  [NOTE.presentation]
+#.  In this presentation, you will review ... 
+#.  If you are unable to view the embedded slideshow, you can download it locally. (MP4 - ??.? MB)
+#. type: Title ====
+#: data-publishing.en.adoc:56
+#, no-wrap
+msgid "Benefits"
+msgstr ""
+
+#. type: delimited block +
+#: data-publishing.en.adoc:67
+#, no-wrap
+msgid "<div class=\"responsive-slides\">\n"
+"  <iframe src=\"https://docs.google.com/presentation/d/e/2PACX-1vTiAs2VGESe5nLRACVYBuPtTBL-3P2ibCKUO0R-3BAmIqPIORLCGvvvrAyavrcpYg/embed?start=false&loop=false\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>\n"
+"</div>\n"
+msgstr ""
+
+#. type: Title ====
+#: data-publishing.en.adoc:70
+#, no-wrap
+msgid "Scholarly regcognition"
+msgstr ""
+
+#. type: delimited block +
+#: data-publishing.en.adoc:81
+#, no-wrap
+msgid "<div class=\"responsive-slides\">\n"
+"  <iframe src=\"https://docs.google.com/presentation/d/e/2PACX-1vShQXbzL3zMx7Ev29dcAETy7__rs4QKdllbteedhifI5lM-BR3f4Lm68pXHO6p7mhO3j2qedOVXvOnj/embed?start=false&loop=false\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>\n"
+"</div>\n"
+msgstr ""
+
+#. type: Title ==
+#: conclusion.en.adoc:1
+#, no-wrap
+msgid "Conclusion "
+msgstr ""
+
+#.  [NOTE.objectives]
+#.  This module includes ...
+#. type: Title ==
+#: course-evaluation.en.adoc:1
+#, no-wrap
+msgid "Course evaluation"
+msgstr ""
+
+#. type: Plain text
+#: course-evaluation.en.adoc:5
+msgid "Complete the course evaluation"
+msgstr ""
+
+#. type: Plain text
+#: course-evaluation.en.adoc:8
+msgid "The evaluation can be completed https://forms.gle/v1vYS82M4cUhrvEY9[online^]."
+msgstr ""
+
+#. type: delimited block +
+#: course-evaluation.en.adoc:13
+#, no-wrap
+msgid "  <iframe src=\"https://docs.google.com/forms/d/e/1FAIpQLSdaN-3Q1VoClLXEncxtnPKTGKu_PfHmUwqkm0IddqO4-HOh8Q/viewform?embedded=true\" width=\"640\" height=\"1728\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\">Loading…</iframe>\n"
+msgstr ""
+
+#. type: Title ==
+#: keydocs.en.adoc:1
+#, no-wrap
+msgid "Key documentation"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:6
+msgid "The following references provide further detail on the topics covered in this course.  All links open in a new window/tab."
+msgstr ""
+
+#. type: Title ===
+#: keydocs.en.adoc:7
+#, no-wrap
+msgid "Darwin Core"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:10
+msgid "http://rs.tdwg.org/dwc/terms/[Darwin Core Terms: A quick reference guide^]"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:11
+msgid "https://dwc.tdwg.org/simple/[Simple DarwinCore^]"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:12
+msgid "https://github.com/tdwg/dwc-qa[Darwin Core Questions & Answers^]"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:13
+msgid "https://tools.gbif.org/dwca-validator/extensions.do[Darwin Core extensions registered with GBIF^]"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:17
+msgid "https://www.gbif.org/publishing-data[Quick guide to publishing data through GBIF^]"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:18
+msgid "https://github.com/gbif/ipt/wiki/howToPublish[How to publish biodiversity data through GBIF.org^]"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:19
+msgid "https://www.gbif.org/become-a-publisher[Become a data publisher with GBIF^]"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:21
+msgid "https://doi.org/10.35035/doc-5xdm-8762[Best Practices for Publishing Biodiversity Data from Environmental Impact Assessments^] + GBIF Secretariat & IAIA: International Association for Impact Assessment (2020)."
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:23
+msgid "https://doi.org/10.35035/doc-b8hq-me03[Guidance for private companies to become data publishers through GBIF: Template document to support the internal authorization process to become a GBIF publisher^] + Rui Figueira, Pedro Beja, Cristina Villaverde, Miguel Vega, Katia Cezón, Tainan Messina, Anne-Sophie Archambeau, Rukaya Johaadien, Dag Endresen & Dairo Escobar (2020)."
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:26
+msgid "https://doi.org/10.35035/doc-vf1a-nr22[Publishing DNA-derived data through biodiversity data platforms^] + *COMMUNITY REVIEW DRAFT* + Anders F. Andersson, Andrew Bissett, Anders G. Finstad, Frode Fossøy, Marie Grosjean, Michael Hope, Thomas S. Jeppesen, Urmas Kõljalg, Daniel Lundin, R. Henrik Nilsson, Maria Prager, Cecilie Svenningsen & Dmitry Schigel (2020)."
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:27
+msgid "https://www.gbif.org/dataset-classes[Classes of datasets supported by GBIF^]"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:28
+msgid "https://www.gbif.org/data-quality-requirements[GBIF data quality requirements for publishing^]"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:29
+msgid "https://www.gbif.org/news/82363/new-approaches-to-data-licensing-and-endorsement[GBIF data licenses^]"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:30
+msgid "https://github.com/gbif/ipt/wiki/checklistData#templates[Checklist core templates^]"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:31
+msgid "https://github.com/gbif/ipt/wiki/occurrenceData#templates[Occurrence core templates^]"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:32
+msgid "https://github.com/gbif/ipt/wiki/samplingEventData#templates[Sampling event core templates^]"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:33
+msgid "https://github.com/gbif/ipt/wiki/BestPracticesSamplingEventData[Sampling event data best practices^]"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:34
+msgid "https://data-blog.gbif.org/post/gbif-multimedia/[Sharing images, sounds and videos on GBIF^]"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:35
+msgid "https://www.gbif.org/data-papers[Data papers^]"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:36
+msgid "https://www.gbif.org/resource/search?contentType=literature&topics=DATA_PAPER&relevance=GBIF_PUBLISHED[Published data papers^]"
+msgstr ""
+
+#. type: Title ===
+#: keydocs.en.adoc:37
+#, no-wrap
+msgid "Data publishing: IPT"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:41
+msgid "http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0102623[The GBIF Integrated Publishing Toolkit: Facilitating the Efficient Publishing of Biodiversity Data on the Internet^] + Robertson et al. (2014)"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:42
+msgid "https://github.com/gbif/ipt/wiki/PublisherProfiles[To install IPT or not to install IPT^]"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:43
+msgid "https://github.com/gbif/ipt/wiki/dataHostingCentres[IPT data hosting centres^]"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:44
+msgid "http://idigbio.adobeconnect.com/p4dfquy4bsf/[IPT Install / Set up webinar^]"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:45
+msgid "https://vimeo.com/116142276[Installing the IPT video^]"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:46
+msgid "https://youtu.be/eDH9IoTrMVE[IPT in Practice demonstration video^]"
+msgstr ""
+
+#. type: Title ===
+#: keydocs.en.adoc:47
+#, no-wrap
+msgid "Digitization"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:50
+msgid "https://www.idigbio.org/wiki/index.php/Digitization_Resources[iDigBio Digitization Resources^]"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:51
+msgid "https://www.idigbio.org/wiki/index.php/Collections_Digitization_Workflows[iDigBio Collections Digitization Workflows^]"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:52
+msgid "https://www.idigbio.org/wiki/index.php/Digitization_Workflows_and_Protocols[iDigBio Digitization Workflows and Protocols^]"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:53
+msgid "https://www.idigbio.org/wiki/index.php/Specimen_Image_Capture[iDigBio specimen image capture guide^]"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:54
+msgid "http://www.canadensys.net/publication/multimedia-publication-guide[Canadensys 10-step guide to managing images with your biodiversity data^]"
+msgstr ""
+
+#. type: Title ===
+#: keydocs.en.adoc:55
+#, no-wrap
+msgid "GBIF"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:58
+msgid "https://www.gbif.org/what-is-gbif[What is GBIF^]"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:59
+msgid "https://www.gbif.org/strategic-plan[Strategic Plan^]"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:60
+msgid "https://www.gbif.org/become-member[Become a member^]"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:61
+msgid "https://www.gbif.org/science-review[Science Review^]"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:63
+msgid "https://doi.org/10.15468/doc-z79c-sa53[Establishing an Effective GBIF Participant Node: Concepts and general considerations^] + GBIF Secretariat (2019)."
+msgstr ""
+
+#. type: Title ===
+#: keydocs.en.adoc:64
+#, no-wrap
+msgid "Georeferencing"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:68
+msgid "https://doi.org/10.15468/doc-gg7h-s853[Georeferencing Best Practices^] + Arthur D. Chapman & John R. Wieczorek (2020)."
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:70
+msgid "https://doi.org/10.35035/e09p-h128[Georeferencing Quick Reference Guide^] + Paula F. Zermoglio, Arthur D. Chapman, John R. Wieczorek, Maria Celeste Luna & David A. Bloom (2020)."
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:72
+msgid "https://doi.org/10.35035/gdwq-3v93[Georeferencing Calculator Manual^] + David A. Bloom, John R. Wieczorek & Paula F. Zermoglio (2020)."
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:73
+msgid "http://georeferencing.org/[Georeferencing resources^]"
+msgstr ""
+
+#. type: Title ===
+#: keydocs.en.adoc:74
+#, no-wrap
+msgid "Invasive Species"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:77
+msgid "http://www.griis.org/about.php[GRISS - Global Register of Introduced and Invasive Species^]"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:78
+msgid "https://osf.io/7dpgr/[TrIAS - Tracking Invasive Alien Species^]"
+msgstr ""
+
+#. type: Title ===
+#: keydocs.en.adoc:79
+#, no-wrap
+msgid "Living Atlases"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:82
+msgid "https://living-atlases.gbif.org/[Living Atlases^]"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:83
+msgid "http://www.gbif.org/resource/82847[ALA key technical documentation^]"
+msgstr ""
+
+#. type: Title ===
+#: keydocs.en.adoc:84
+#, no-wrap
+msgid "Miscellaneous"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:87
+msgid "http://vertnet.org/resources/downloadsinexcelguide.html[VertNet Guide to opening text files in Excel^]"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:88
+msgid "http://vertnet.org/resources/datalicensingguide.html[VertNet data licensing guide^]"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:92
+msgid "https://github.com/OpenRefine/OpenRefine/wiki[OpenRefine documentation^]"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:93
+msgid "https://github.com/OpenRefine/OpenRefine/wiki/Understanding-Regular-Expressions[OpenRefine regular expressions^]"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:95
+msgid "https://doi.org/10.15468/doc-gzjg-af18[Guía para la limpieza de datos sobre biodiversidad con OpenRefine^] + Paula F. Zermoglio, Camila A. Plata Corredor, John R. Wieczorek, Ricardo Ortiz Gallego & Leonardo Buitrago (2021)."
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:98
+msgid "http://iphylo.blogspot.com/2012/02/using-google-refine-and-taxonomic.html[Using Google Refine and taxonomic databases (EOL, NCBI, uBio, WORMS) to clean messy data^] + iPhylo blog post. Rod Page 2012."
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:100
+msgid "http://iphylo.blogspot.com/2013/04/reconciling-author-names-using-open.html[Reconciling author names using Open Refine and VIAF^] + iPhylo blog post. Rod Page 2013."
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:102
+msgid "http://gbif.blogspot.com/2013/07/validating-scientific-names-with.html[Validating scientific names with the GBIF Portal web service API^] + Guest post was written by Gaurav Vaidya, Victoria Tersigni and Robert Guralnick 2013."
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:104
+msgid "https://www.idigbio.org/wiki/images/2/22/OpenRefine.pdf[iDigBio Cleaning data with OpenRefine^] + iDigBio 2013."
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:106
+msgid "http://www.canadensys.net/2014/have-we-got-the-names-right[Have We Got the Names “Right”?^] + Canadensys 2014."
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:108
+msgid "http://slides.com/dimitribrosens/o-3#/[Cleaning data with OpenRefine^] + Desmet and Brosens 2016 TDWG."
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:110
+msgid "https://git-og.github.io/EasyOpenRedList/[EasyOpen Redlist^] + Querying the IUCN Red List, using a species list, OpenRefine, and some pre-written code. Olly Griffin July 2019."
+msgstr ""
+
+#. type: Title ===
+#: keydocs.en.adoc:111
+#, no-wrap
+msgid "Planning/Collaboration"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:114
+msgid "http://www.agilenutshell.com/[Agile^]"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:115
+msgid "https://www.scrum.org/resources/what-is-scrum[What is SCRUM^]"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:116
+msgid "https://www.atlassian.com/agile/scrum[SCRUM Framework^]"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:117
+msgid "https://www.atlassian.com/agile/kanban[Kanban methodology^]"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:118
+msgid "https://scrumguide.com/[Scrum Guide^]"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:119
+msgid "https://github.com/[GitHub^]"
+msgstr ""
+
+#. type: Title ===
+#: keydocs.en.adoc:120
+#, no-wrap
+msgid "Quality"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:124
+msgid "https://www.gbif.org/document/80509/principles-of-data-quality[Principles of Data Quality^] + Arthur Chapman 2005."
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:126
+msgid "https://www.gbif.org/document/80528/principles-and-methods-of-data-cleaning-primary-species-and-species-occurrence-data[Principles and Methods of Data Cleaning: Primary Species and Species-Occurrence Data^] + Arthur Chapman 2005."
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:128
+msgid "https://coffeehouse.dataone.org/2014/04/09/abandon-all-hope-ye-who-enter-dates-in-excel[Be careful with dates in Excel^] + DataOne 2014."
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:129
+msgid "https://www.w3.org/International/questions/qa-what-is-encoding[Character encoding for beginners^]"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:130
+msgid "http://mvz.berkeley.edu/Locality_Field_Recording_Notebooks.html[MVZ Guide for Recording Localities in Field Notes^]"
+msgstr ""
+
+#. type: Title ===
+#: keydocs.en.adoc:131
+#, no-wrap
+msgid "Sensitive species"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:135
+msgid "https://doi.org/10.15468/doc-5jp4-5g10[Current Best Practices for Generalizing Sensitive Species Occurrence Data^] + Arthur D. Chapman 2020."
+msgstr ""
+
+#. type: Title ===
+#: keydocs.en.adoc:136
+#, no-wrap
+msgid "Taxonomy"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:139
+msgid "https://data-blog.gbif.org/post/gbif-checklist-datasets-and-data-gaps/[GBIF checklist datasets and data gaps^]"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:140
+msgid "https://www.gbif.org/tools/name-parser[GBIF Labs - Names Parser^]"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:141
+msgid "https://www.gbif.org/tools/species-lookup[GBIF Labs - Species Matching^]"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:142
+msgid "http://resolver.globalnames.org/[Global Names Resolver^]"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:143
+msgid "https://obis.org/manual/namematching/[Marine Name Matching Strategy for taxonomic quality control^]"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:143
+msgid "http://match.taibif.tw/index.html[Nomenmatch^]"
+msgstr ""
+
+#. type: Title ==
+#: glossary.en.adoc:2
+#, no-wrap
+msgid "Glossary"
+msgstr ""
+
+#. Glossaries are optional. Glossaries entries are an example of a style of AsciiDoc labelled lists.
+#. type: Labeled list
+#: glossary.en.adoc:7
+#, no-wrap
+msgid "[[ALA]]ALA"
+msgstr ""
+
+#. type: Plain text
+#: glossary.en.adoc:9
+msgid "Atlas of Living Australia.  The Australian node of GBIF, who developed an open source data portal now widely used within the GBIF community & partners for biodiversity national portals."
+msgstr ""
+
+#. type: Labeled list
+#: glossary.en.adoc:10
+#, no-wrap
+msgid "[[API]]API"
+msgstr ""
+
+#. type: Plain text
+#: glossary.en.adoc:12
+msgid "Application Programming Interface.  A set of clearly defined methods of communication between various software components."
+msgstr ""
+
+#. type: Labeled list
+#: glossary.en.adoc:13
+#, no-wrap
+msgid "[[BID]]BID"
+msgstr ""
+
+#. type: Plain text
+#: glossary.en.adoc:15
+msgid "Biodiversity Information for Development.  An EU funded project co-ordinated by GBIF whose aim is to increase data mobilization capacity in the Africa, Caribbean and Pacific regions."
+msgstr ""
+
+#. type: Labeled list
+#: glossary.en.adoc:16
+#, no-wrap
+msgid "[[BIFA]]BIFA"
+msgstr ""
+
+#. type: Plain text
+#: glossary.en.adoc:17
+msgid "Biodiversity Fund for Asia."
+msgstr ""
+
+#. type: Labeled list
+#: glossary.en.adoc:18
+#, no-wrap
+msgid "[[CC]]CC Licences"
+msgstr ""
+
+#. type: Plain text
+#: glossary.en.adoc:21
+msgid "Creative Commons.  These are a series of licenses set up by the Creative Commons organization that enable sharing and reuse of creativity and knowledge through the provision of free legal tools.  Three of them can be assigned to GBIF-shared datasets: CC0, CC BY and CC BY-NC."
+msgstr ""
+
+#. type: Labeled list
+#: glossary.en.adoc:22
+#, no-wrap
+msgid "[[vocab]]Controlled Vocabulary"
+msgstr ""
+
+#. type: Plain text
+#: glossary.en.adoc:26
+msgid "This is a restricted set of terms that are used as possible values for a given field.  One can think of it as a lookup list or dropdown for a particular field.  For example the DwC field basisOfRecord should only contain one of these values: \"PreservedSpecimen\", \"FossilSpecimen\", \"LivingSpecimen\", \"HumanObservation\", \"MachineObservation\".  We would say that list of values is a controlled vocabulary for that field."
+msgstr ""
+
+#. type: Labeled list
+#: glossary.en.adoc:27
+#, no-wrap
+msgid "[[DwC]]DwC"
+msgstr ""
+
+#. type: Plain text
+#: glossary.en.adoc:29
+msgid "Darwin Core is a biodiversity data standard, maintained by TDWG & widely used within the GBIF community and partners.  It is a set of standardized terms (or field names) and their definitions, which are used to share biodiversity information."
+msgstr ""
+
+#. type: Labeled list
+#: glossary.en.adoc:30
+#, no-wrap
+msgid "[[DOI]]DOI"
+msgstr ""
+
+#. type: Plain text
+#: glossary.en.adoc:32
+msgid "Digital Object Identifier.  A persistent identifier or handle used to uniquely identify objects. DOIs are in wide use mainly to identify academic, professional, and government information, such as journal articles, research reports and data sets, and official publications."
+msgstr ""
+
+#. type: Labeled list
+#: glossary.en.adoc:33
+#, no-wrap
+msgid "[[DwC-A]]DwC-A"
+msgstr ""
+
+#. type: Plain text
+#: glossary.en.adoc:36
+msgid "Darwin Core Archive.  A compressed (zipped) file containing all the information needed to share with GBIF, for a particular resource.  Each zip contains three types of files:"
+msgstr ""
+
+#. type: Plain text
+#: glossary.en.adoc:37
+msgid "the actual data, in one or more text files: occurrence.txt/event.txt/measurmentoffact.txt etc"
+msgstr ""
+
+#. type: Plain text
+#: glossary.en.adoc:38
+msgid "a mapping file: rtf.xml"
+msgstr ""
+
+#. type: Plain text
+#: glossary.en.adoc:41
+msgid "a metadata (EML) file: eml.xml When you publish using the IPT, it creates a Darwin Core Archive, which is shared with GBIF.  Also, when you download data from the GBIF website you can choose a DwC-A format as well."
+msgstr ""
+
+#. type: Labeled list
+#: glossary.en.adoc:42
+#, no-wrap
+msgid "[[GUID]]GUID"
+msgstr ""
+
+#. type: Plain text
+#: glossary.en.adoc:43
+msgid "Globally Unique IDentifier"
+msgstr ""
+
+#. type: Labeled list
+#: glossary.en.adoc:44
+#, no-wrap
+msgid "[[IPT]]IPT"
+msgstr ""
+
+#. type: Plain text
+#: glossary.en.adoc:48
+msgid "Integrated Publishing Toolkit.  It is a free and open source web application (software) for publishing biodiversity data.  The software itself lives on a server (either at your institution or elsewhere) that must have access to the internet 24/7.  It is used to create and handle Darwin Core Archive files that can be shared and used by anyone including GBIF."
+msgstr ""
+
+#. type: Labeled list
+#: glossary.en.adoc:49
+#, no-wrap
+msgid "[[loan]]Loan"
+msgstr ""
+
+#. type: Plain text
+#: glossary.en.adoc:50
+msgid "In the context of natural history collections, this is the procedure of lending specimens between institutions."
+msgstr ""
+
+#. type: Labeled list
+#: glossary.en.adoc:51
+#, no-wrap
+msgid "[[LSID]]LSID"
+msgstr ""
+
+#. type: Plain text
+#: glossary.en.adoc:53
+msgid "Life Sciences Identifier.  They are persistent, globally unique identifiers for biological objects."
+msgstr ""
+
+#. type: Labeled list
+#: glossary.en.adoc:54
+#, no-wrap
+msgid "[[DP]]Data Publishing"
+msgstr ""
+
+#. type: Plain text
+#: glossary.en.adoc:56
+msgid "With regards to GBIF we have a very specific definition of data publishing.  It refers to making biodiversity datasets publicly accessible and discoverable, in a standardized form, via an access point, typically a web address (a URL)."
+msgstr ""
+
+#. type: Labeled list
+#: glossary.en.adoc:57
+#, no-wrap
+msgid "[[resource]]Resource"
+msgstr ""
+
+#. type: Plain text
+#: glossary.en.adoc:58
+msgid "A Resource is the collective term used to refer to a particular dataset and its metadata once it has been uploaded to an IPT instance."
+msgstr ""
+
+#. type: Labeled list
+#: glossary.en.adoc:59
+#, no-wrap
+msgid "[[TDWG]]TDWG"
+msgstr ""
+
+#. type: Plain text
+#: glossary.en.adoc:60
+msgid "Taxonomic Databases Working Group, now renamed Biodiversity Information Standards."
+msgstr ""
+
+#. type: Labeled list
+#: glossary.en.adoc:61
+#, no-wrap
+msgid "[[URN]]URN"
+msgstr ""
+
+#. type: Plain text
+#: glossary.en.adoc:62
+msgid "Uniform Resource Number"
+msgstr ""
+
+#. type: Labeled list
+#: glossary.en.adoc:63
+#, no-wrap
+msgid "[[UUID]]UUID"
+msgstr ""
+
+#. type: Plain text
+#: glossary.en.adoc:64
+msgid "Universally Unique Identifier"
+msgstr ""
+
+#. type: Plain text
+#: glossary.en.adoc:65
+msgid "<<<"
+msgstr ""
+
+#. type: Title ==
+#: colophon.en.adoc:1
+#, no-wrap
+msgid "Colophon"
+msgstr ""
+
+#. type: Title ===
+#: colophon.en.adoc:3
+#, no-wrap
+msgid "Suggested citation"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:6
+msgid "Accelerating biodiversity research through DNA barcodes, collection and observation data. 1st edition. GBIF Secretariat: Copenhagen. https://doi.org/10.35035/doc-xxxx-xxxx. [Date of course]"
+msgstr ""
+
+#. type: Title ===
+#: colophon.en.adoc:7
+#, no-wrap
+msgid "Contributors"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:10
+msgid "_doc-xxxx-xxxx_ was originally developed as a collaboration between the https://diku.no/[Diku-funded^] University of Oslo project BioDATA, the BMBF-funded project Caucasus Barcode of Life (https://ggbc.eu/[CaBOL^]), and https://www.gbif.org/[GBIF^] - Global Biodiversity Information Facility. The original curriculum was created Dag Endresen, Dmitry Schigel, Helena Wirta, Hugo de Boer, Laura Russell, and Stefaniya Kamenova."
+msgstr ""
+
+#. type: Title ===
+#: colophon.en.adoc:11
+#, no-wrap
+msgid "Acknowledgements"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:14
+msgid "Icons made by https://www.freepik.com[Freepik] from https://www.flaticon.com/[flaticon.com]."
+msgstr ""
+
+#. type: Title ===
+#: colophon.en.adoc:15
+#, no-wrap
+msgid "Licence"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:18
+msgid "_Accelerating biodiversity research through DNA barcodes, collection and observation data_ is licensed under https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License]."
+msgstr ""
+
+#. type: Title ===
+#: colophon.en.adoc:19
+#, no-wrap
+msgid "Persistent URI"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:22
+msgid "https://doi.org/10.35035/doc-xxxx-xxxx"
+msgstr ""
+
+#. type: Title ===
+#: colophon.en.adoc:23
+#, no-wrap
+msgid "Document control"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:25
+msgid "First edition, June 2021"
+msgstr ""
+
