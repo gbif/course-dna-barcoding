@@ -2,7 +2,7 @@
 
 === Suggested citation
 
-Accelerating biodiversity research through DNA barcodes, collection and observation data. 1st edition. GBIF Secretariat: Copenhagen. https://doi.org/10.35035/doc-xxxx-xxxx. [Date of course]
+Accelerating biodiversity research through DNA barcodes, collection and observation data. 1st edition. GBIF Secretariat: Copenhagen. https://doi.org/10.35035/DZE9-MP34. [Date of course]
 
 === Contributors
 
@@ -18,7 +18,7 @@ _Accelerating biodiversity research through DNA barcodes, collection and observa
 
 === Persistent URI
 
-https://doi.org/10.35035/doc-xxxx-xxxx
+https://doi.org/10.35035/DZE9-MP34
 
 === Document control
 
