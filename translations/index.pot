@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-09-09 10:07+0000\n"
+"POT-Creation-Date: 2021-09-20 10:21+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3919,7 +3919,7 @@ msgstr ""
 msgid ""
 "Accelerating biodiversity research through DNA barcodes, collection and "
 "observation data. 1st edition. GBIF Secretariat: "
-"Copenhagen. https://doi.org/10.35035/doc-xxxx-xxxx. [Date of course]"
+"Copenhagen. https://doi.org/10.35035/DZE9-MP34. [Date of course]"
 msgstr ""
 
 #. type: Title ===
@@ -3975,7 +3975,7 @@ msgstr ""
 
 #. type: Plain text
 #: colophon.en.adoc:22
-msgid "https://doi.org/10.35035/doc-xxxx-xxxx"
+msgid "https://doi.org/10.35035/DZE9-MP34"
 msgstr ""
 
 #. type: Title ===
