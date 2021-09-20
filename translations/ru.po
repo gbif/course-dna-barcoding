@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: publishing-dna-derived-data\n"
-"POT-Creation-Date: 2021-09-09 10:07+0000\n"
-"PO-Revision-Date: 2021-09-09 10:12\n"
+"POT-Creation-Date: 2021-09-20 12:21+0000\n"
+"PO-Revision-Date: 2021-09-20 13:50\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -3264,7 +3264,7 @@ msgstr ""
 
 #. type: Plain text
 #: colophon.en.adoc:6
-msgid "Accelerating biodiversity research through DNA barcodes, collection and observation data. 1st edition. GBIF Secretariat: Copenhagen. https://doi.org/10.35035/doc-xxxx-xxxx. [Date of course]"
+msgid "Accelerating biodiversity research through DNA barcodes, collection and observation data. 1st edition. GBIF Secretariat: Copenhagen. https://doi.org/10.35035/DZE9-MP34. [Date of course]"
 msgstr ""
 
 #. type: Title ===
@@ -3275,7 +3275,7 @@ msgstr ""
 
 #. type: Plain text
 #: colophon.en.adoc:10
-msgid "_doc-xxxx-xxxx_ was originally developed as a collaboration between the https://diku.no/[Diku-funded^] University of Oslo project BioDATA, the BMBF-funded project Caucasus Barcode of Life (https://ggbc.eu/[CaBOL^]), and https://www.gbif.org/[GBIF^] - Global Biodiversity Information Facility. The original curriculum was created Dag Endresen, Dmitry Schigel, Helena Wirta, Hugo de Boer, Laura Russell, and Stefaniya Kamenova."
+msgid "_Accelerating biodiversity research through DNA barcodes, collection and observation data_ was originally developed as a collaboration between the https://diku.no/[Diku-funded^] University of Oslo project BioDATA, the BMBF-funded project Caucasus Barcode of Life (https://ggbc.eu/[CaBOL^]), and https://www.gbif.org/[GBIF^] - Global Biodiversity Information Facility. The original curriculum was created Dag Endresen, Dmitry Schigel, Helena Wirta, Hugo de Boer, Laura Russell, and Stefaniya Kamenova."
 msgstr ""
 
 #. type: Title ===
@@ -3308,7 +3308,7 @@ msgstr ""
 
 #. type: Plain text
 #: colophon.en.adoc:22
-msgid "https://doi.org/10.35035/doc-xxxx-xxxx"
+msgid "https://doi.org/10.35035/DZE9-MP34"
 msgstr ""
 
 #. type: Title ===
