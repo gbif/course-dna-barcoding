@@ -6,7 +6,7 @@ Accelerating biodiversity research through DNA barcodes, collection and observat
 
 === Contributors
 
-_doc-xxxx-xxxx_ was originally developed as a collaboration between the https://diku.no/[Diku-funded^] University of Oslo project BioDATA, the BMBF-funded project Caucasus Barcode of Life (https://ggbc.eu/[CaBOL^]), and https://www.gbif.org/[GBIF^] - Global Biodiversity Information Facility. The original curriculum was created Dag Endresen, Dmitry Schigel, Helena Wirta, Hugo de Boer, Laura Russell, and Stefaniya Kamenova.
+_Accelerating biodiversity research through DNA barcodes, collection and observation data_ was originally developed as a collaboration between the https://diku.no/[Diku-funded^] University of Oslo project BioDATA, the BMBF-funded project Caucasus Barcode of Life (https://ggbc.eu/[CaBOL^]), and https://www.gbif.org/[GBIF^] - Global Biodiversity Information Facility. The original curriculum was created Dag Endresen, Dmitry Schigel, Helena Wirta, Hugo de Boer, Laura Russell, and Stefaniya Kamenova.
 
 === Acknowledgements
 
