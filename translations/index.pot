@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-09-20 10:21+0000\n"
+"POT-Creation-Date: 2021-09-20 12:21+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3931,7 +3931,8 @@ msgstr ""
 #. type: Plain text
 #: colophon.en.adoc:10
 msgid ""
-"_doc-xxxx-xxxx_ was originally developed as a collaboration between the "
+"_Accelerating biodiversity research through DNA barcodes, collection and "
+"observation data_ was originally developed as a collaboration between the "
 "https://diku.no/[Diku-funded^] University of Oslo project BioDATA, the "
 "BMBF-funded project Caucasus Barcode of Life (https://ggbc.eu/[CaBOL^]), and "
 "https://www.gbif.org/[GBIF^] - Global Biodiversity Information Facility. The "
