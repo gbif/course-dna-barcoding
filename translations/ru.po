@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: publishing-dna-derived-data\n"
 "POT-Creation-Date: 2021-09-20 12:21+0000\n"
-"PO-Revision-Date: 2021-09-20 13:50\n"
+"PO-Revision-Date: 2021-12-08 10:35\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -59,7 +59,7 @@ msgstr ""
 #. type: delimited block *
 #: description.en.adoc:13
 msgid "This course will teach you how to use DNA barcodes, collection and observation data to resolve research questions in biodiversity.  The programme uses a combination of lectures, tutorials, and hands-on exercises.  You will learn to handle biodiversity data including DNA barcoding.  You will gain practical experience in using open and digitally documented biodiversity data through GBIF and BOLD to answer biodiversity research questions.  You will understand and practice capturing observation, collection, and genetic data from analogue and digital sources.  Finally, this course provides basic skills in data publishing through GBIF and BOLD."
-msgstr ""
+msgstr "При прохождении курса вы научитесь использовать штрихкоды ДНК, данные коллекций и наблюдения для решения исследовательских вопросов в области биоразнообразия. В программе комбинируются лекции, учебные пособия и практические упражнений. Вы научитесь обрабатывать данные о биоразнообразии, включая штрих-коды ДНК. Вы получите практический опыт использования открытых и задокументированных данных о биоразнообразии через GBIF и BOLD для ответа на вопросы об исследовании биоразнообразия. Вы будете понимать и применять данные наблюдений, коллекционные данные и генетические данные из аналоговых и цифровых источников. Наконец, этот курс предоставляет базовые навыки публикации данных через GBIF и BOLD."
 
 #. type: delimited block *
 #: description.en.adoc:15
