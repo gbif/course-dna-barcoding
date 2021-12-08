@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-12-08 16:36+0000\n"
+"POT-Creation-Date: 2021-12-08 16:51+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3991,21 +3991,1122 @@ msgid "First edition, June 2021"
 msgstr ""
 
 #. type: Plain text
+#: videos/data_origins_types.en.vtt:4
 #: videos/Data_capture_processing_quality.en.vtt:4
 #: videos/Data_Management.en.vtt:4 videos/Data_Management_OpenRefine.en.vtt:4
-#: videos/Data_Management_Tools.en.vtt:4 videos/data_origins_types.en.vtt:4
-#: videos/Data_publishing_concepts.en.vtt:4
+#: videos/Data_Management_Tools.en.vtt:4
+#: videos/Data_publishing_concepts.en.vtt:4 videos/Data_publishing_IPT.en.vtt:4
 #: videos/Foundations_Data_Quality.en.vtt:4
 #: videos/Foundations_Documentation.en.vtt:4
 #: videos/Foundations_Software.en.vtt:4
 #: videos/Foundations_Standards_Darwin_Core.en.vtt:4
-#: videos/Foundations_Structures.en.vtt:4 videos/intro-GBIF.en.vtt:4
-#: videos/IPT_demo.en.vtt:4
+#: videos/Foundations_Structures.en.vtt:4 videos/Introduction-to-GBIF.en.vtt:4
 #, no-wrap
 msgid ""
 "WEBVTT\n"
 "Kind: captions\n"
 "Language: en\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:8
+#, no-wrap
+msgid ""
+"00:00:00.879 --> 00:00:04.410\n"
+"In this presentation, we’ll have a look\n"
+"at the different types of data that can be\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:12
+#, no-wrap
+msgid ""
+"00:00:04.410 --> 00:00:08.840\n"
+"called ‘primary biodiversity data’ and\n"
+"shared within GBIF.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:16
+#, no-wrap
+msgid ""
+"00:00:08.840 --> 00:00:13.780\n"
+"These data can be complex and have different\n"
+"origins; we’ll see how they can be structured\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:20
+#, no-wrap
+msgid ""
+"00:00:13.780 --> 00:00:18.429\n"
+"into one of the three data classes accepted\n"
+"by GBIF, based on the Darwin Core data sharing\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:23
+#, no-wrap
+msgid ""
+"00:00:18.429 --> 00:00:25.050\n"
+"standard that is used within the GBIF community.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:27
+#, no-wrap
+msgid ""
+"00:00:25.050 --> 00:00:31.400\n"
+"As you can see on this slide, GBIF currently\n"
+"supports four types of dataset: Resource datasets\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:31
+#, no-wrap
+msgid ""
+"00:00:31.400 --> 00:00:41.110\n"
+"(e.g. metadata-only datasets), species checklists,\n"
+"Occurrence datasets and Sampling-event datasets.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:35
+#, no-wrap
+msgid ""
+"00:00:41.110 --> 00:00:46.840\n"
+"I will not discuss Resource datasets in this\n"
+"presentation as metadata-only datasets are\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:38
+#, no-wrap
+msgid ""
+"00:00:46.840 --> 00:00:53.040\n"
+"not supported by the GBIF-funded programmes.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:42
+#, no-wrap
+msgid ""
+"00:00:53.040 --> 00:00:58.680\n"
+"The first type of dataset that can be published\n"
+"within GBIF is the checklist, aka a list of\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:45
+#, no-wrap
+msgid ""
+"00:00:58.680 --> 00:01:01.120\n"
+"species or higher taxa.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:49
+#, no-wrap
+msgid ""
+"00:01:01.120 --> 00:01:06.870\n"
+"In a checklist, the main unit is the taxon,\n"
+"not the occurrence (individual).\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:53
+#, no-wrap
+msgid ""
+"00:01:06.870 --> 00:01:13.609\n"
+"Checklists, and more generally, taxonomical\n"
+"datasets can vary in scope :\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:57
+#, no-wrap
+msgid ""
+"00:01:13.609 --> 00:01:17.249\n"
+"a list of species present in a protected area\n"
+"is a checklist.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:61
+#, no-wrap
+msgid ""
+"00:01:17.249 --> 00:01:23.819\n"
+"a national or thematic list of taxa (e.g.\n"
+"Butterflies of Laos, or the Flora of Malaysia),\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:65
+#, no-wrap
+msgid ""
+"00:01:23.819 --> 00:01:29.280\n"
+"which sometimes provide more info on the distribution,\n"
+"taxonomical hierarchy and synonyms of the\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:68
+#, no-wrap
+msgid ""
+"00:01:29.280 --> 00:01:31.210\n"
+"taxa is a checklist.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:72
+#, no-wrap
+msgid ""
+"00:01:31.210 --> 00:01:38.380\n"
+"IUCN red lists (at the international, national\n"
+"or regional levels) also are checklists and\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:76
+#, no-wrap
+msgid ""
+"00:01:38.380 --> 00:01:45.299\n"
+"can give more information about the vulnerability\n"
+"status of the listed taxa. \n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:80
+#, no-wrap
+msgid ""
+"00:01:45.299 --> 00:01:50.939\n"
+"GBIF provides data publishers with templates\n"
+"for each class of dataset.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:84
+#, no-wrap
+msgid ""
+"00:01:50.939 --> 00:01:56.209\n"
+"The GBIF template for checklists (taxon Data)\n"
+"allows you to share information linked to\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:88
+#, no-wrap
+msgid ""
+"00:01:56.209 --> 00:02:03.420\n"
+"each species or taxa: its ID, full name and\n"
+"authorship, relationship to other taxa, geographical\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:91
+#, no-wrap
+msgid ""
+"00:02:03.420 --> 00:02:05.490\n"
+"details and so on.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:95
+#, no-wrap
+msgid ""
+"00:02:05.490 --> 00:02:10.640\n"
+"In this template, one line represents one\n"
+"taxon and a taxon can only appear once in\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:98
+#, no-wrap
+msgid ""
+"00:02:10.640 --> 00:02:17.000\n"
+"the dataset (otherwise it will create a duplicate).\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:102
+#, no-wrap
+msgid ""
+"00:02:17.000 --> 00:02:21.570\n"
+"The second type of data that can be published\n"
+"within GBIF is data coming from natural history\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:105
+#, no-wrap
+msgid ""
+"00:02:21.570 --> 00:02:25.020\n"
+"or scientific collections, also known as specimens.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:109
+#, no-wrap
+msgid ""
+"00:02:25.020 --> 00:02:31.310\n"
+"Unlike checklists, the main unit in a specimen\n"
+"collection will be the specimen (a single\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:113
+#, no-wrap
+msgid ""
+"00:02:31.310 --> 00:02:37.250\n"
+"organism or group of organisms), and you can\n"
+"have multiple specimens from the same species\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:116
+#, no-wrap
+msgid ""
+"00:02:37.250 --> 00:02:41.790\n"
+"or taxon group.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:120
+#, no-wrap
+msgid ""
+"00:02:41.790 --> 00:02:46.720\n"
+"Collections and specimens vastly differ in\n"
+"numbers, size and preservation methods.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:124
+#, no-wrap
+msgid ""
+"00:02:46.720 --> 00:02:51.800\n"
+"However, any kind of collection that holds\n"
+"preserved living organisms can be captured\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:128
+#, no-wrap
+msgid ""
+"00:02:51.800 --> 00:02:57.240\n"
+"and shared within GBIF; herbarium or zoological\n"
+"collections (including fossils) for example,\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:132
+#, no-wrap
+msgid ""
+"00:02:57.240 --> 00:03:04.010\n"
+"but geology or human artifacts collections\n"
+"do not fall under the GBIF scope.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:136
+#, no-wrap
+msgid ""
+"00:03:04.010 --> 00:03:10.280\n"
+"Biodiversity data can also be found in technical\n"
+"and scientific literature: it is possible\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:140
+#, no-wrap
+msgid ""
+"00:03:10.280 --> 00:03:15.920\n"
+"to compile and share this kind of data within\n"
+"GBIF, but you should be extra-cautious not\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:144
+#, no-wrap
+msgid ""
+"00:03:15.920 --> 00:03:21.430\n"
+"to share duplicate data (for example, a specimen\n"
+"described in a scientific article might already\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:148
+#, no-wrap
+msgid ""
+"00:03:21.430 --> 00:03:27.980\n"
+"be present on GBIF.org in the dataset of its\n"
+"collection)\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:152
+#, no-wrap
+msgid ""
+"00:03:27.980 --> 00:03:33.790\n"
+"In the absence of digitized datasets, biodiversity\n"
+"data can be extracted and compiled from scientific\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:156
+#, no-wrap
+msgid ""
+"00:03:33.790 --> 00:03:40.630\n"
+"articles, phD or master theses, reports and\n"
+"other documents.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:160
+#, no-wrap
+msgid ""
+"00:03:40.630 --> 00:03:45.980\n"
+"ALWAYS contact the data owner first when compiling\n"
+"literature data to ask for permission to publish\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:163
+#, no-wrap
+msgid ""
+"00:03:45.980 --> 00:03:50.060\n"
+"them to GBIF ! \n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:167
+#, no-wrap
+msgid ""
+"00:03:50.060 --> 00:03:55.910\n"
+"A large majority of the data available on\n"
+"GBIF.org now comes from fieldwork records.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:171
+#, no-wrap
+msgid ""
+"00:03:55.910 --> 00:04:01.460\n"
+"These data can be observed and/or collected\n"
+"using different protocols in the field, by\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:175
+#, no-wrap
+msgid ""
+"00:04:01.460 --> 00:04:09.520\n"
+"scientists, naturalists or amateur citizen-scientists\n"
+"via programmes and apps.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:179
+#, no-wrap
+msgid ""
+"00:04:09.520 --> 00:04:14.840\n"
+"These field data can be compiled in survey\n"
+"reports, environmental impact assessment studies,\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:182
+#, no-wrap
+msgid ""
+"00:04:14.840 --> 00:04:17.160\n"
+"field notes and other logs.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:186
+#, no-wrap
+msgid ""
+"00:04:17.160 --> 00:04:21.670\n"
+"They can be linked to other types of data,\n"
+"such as checklists, which are complementary\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:190
+#, no-wrap
+msgid ""
+"00:04:21.670 --> 00:04:28.820\n"
+"to occurrence data observed or collected in\n"
+"the wilderness.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:194
+#, no-wrap
+msgid ""
+"00:04:28.820 --> 00:04:33.320\n"
+"Occurrence data represents the GBIF class\n"
+"of datasets with the largest number of records\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:197
+#, no-wrap
+msgid ""
+"00:04:33.320 --> 00:04:35.150\n"
+"on GBIF.org.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:201
+#, no-wrap
+msgid ""
+"00:04:35.150 --> 00:04:40.790\n"
+"Collection (aka specimens), literature and\n"
+"fieldwork data can be shared within GBIF using\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:205
+#, no-wrap
+msgid ""
+"00:04:40.790 --> 00:04:46.670\n"
+"this template, which focuses on the observed\n"
+"individual or collected specimen.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:209
+#, no-wrap
+msgid ""
+"00:04:46.670 --> 00:04:51.510\n"
+"In this kind of dataset, multiple individuals\n"
+"or specimens can be recorded for a single\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:213
+#, no-wrap
+msgid ""
+"00:04:51.510 --> 00:04:56.400\n"
+"taxon, as long as they each have a unique\n"
+"identifier.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:217
+#, no-wrap
+msgid ""
+"00:04:56.400 --> 00:05:02.139\n"
+"Other fields for occurrence data include where,\n"
+"when, how and by whom was each occurrence\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:220
+#, no-wrap
+msgid ""
+"00:05:02.139 --> 00:05:06.720\n"
+"observed and/or collected in the field.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:224
+#, no-wrap
+msgid ""
+"00:05:06.720 --> 00:05:13.409\n"
+"Event data is a class of datasets that was\n"
+"added on GBIF.org in 2015.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:228
+#, no-wrap
+msgid ""
+"00:05:13.409 --> 00:05:18.650\n"
+"They allow data publishers to share more information\n"
+"about the context of the observation or collection\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:232
+#, no-wrap
+msgid ""
+"00:05:18.650 --> 00:05:25.180\n"
+"of specimens, and to group occurrences linked\n"
+"to the same event.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:236
+#, no-wrap
+msgid ""
+"00:05:25.180 --> 00:05:30.240\n"
+"The GBIF template for Event data allows data\n"
+"publishers to share more information about\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:240
+#, no-wrap
+msgid ""
+"00:05:30.240 --> 00:05:36.830\n"
+"the context of a biodiversity data collecting/recording\n"
+"event such as camera traps, insect traps,\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:243
+#, no-wrap
+msgid ""
+"00:05:36.830 --> 00:05:40.230\n"
+"botanical relevés, birding sites and so on.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:247
+#, no-wrap
+msgid ""
+"00:05:40.230 --> 00:05:45.480\n"
+"Its structure is a bit more complex than the\n"
+"Taxonomical datasets and Occurrence datasets\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:251
+#, no-wrap
+msgid ""
+"00:05:45.480 --> 00:05:52.470\n"
+"as it involves two files (e.g., two tabs in\n"
+"a spreadsheet): one for describing the ‘events’\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:255
+#, no-wrap
+msgid ""
+"00:05:52.470 --> 00:05:58.790\n"
+"(e.g. each trap) and the other one to describe\n"
+"the specimens or occurrences linked to each\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:258
+#, no-wrap
+msgid ""
+"00:05:58.790 --> 00:06:00.760\n"
+"event.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:262
+#, no-wrap
+msgid ""
+"00:06:00.760 --> 00:06:06.949\n"
+"Sometimes, additional information or data\n"
+"can be found using other source materials\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:265
+#, no-wrap
+msgid ""
+"00:06:06.949 --> 00:06:12.660\n"
+"than those previously mentioned in this video.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:269
+#, no-wrap
+msgid ""
+"00:06:12.660 --> 00:06:17.960\n"
+"These other sources include remote sensing\n"
+"tools, maps and satellite data, and other\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:273
+#, no-wrap
+msgid ""
+"00:06:17.960 --> 00:06:22.790\n"
+"information supports such as pictures, audio\n"
+"and video recordings of wildlife.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:277
+#, no-wrap
+msgid ""
+"00:06:22.790 --> 00:06:28.150\n"
+"Most of the time, the information retrieved\n"
+"this way is supplemental to existing data\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:281
+#, no-wrap
+msgid ""
+"00:06:28.150 --> 00:06:33.910\n"
+"but can provide valuable information about\n"
+"individuals and their location, habitat, migratory\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:284
+#, no-wrap
+msgid ""
+"00:06:33.910 --> 00:06:37.520\n"
+"routes, etc.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:288
+#, no-wrap
+msgid ""
+"00:06:37.520 --> 00:06:41.680\n"
+"In the following slides, we will see how the\n"
+"Darwin Core standard works with different\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:292
+#, no-wrap
+msgid ""
+"00:06:41.680 --> 00:06:49.460\n"
+"types of data, and how to choose the dataset\n"
+"class that best fits a given dataset.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:296
+#, no-wrap
+msgid ""
+"00:06:49.460 --> 00:06:54.030\n"
+"As you learned in the Foundations - Darwin\n"
+"Core presentation, Darwin Core is a data sharing\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:300
+#, no-wrap
+msgid ""
+"00:06:54.030 --> 00:07:00.919\n"
+"standard developed by the Biodiversity Information\n"
+"Standards (TDWG) organization, and is widely\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:304
+#, no-wrap
+msgid ""
+"00:07:00.919 --> 00:07:05.550\n"
+"used to publish data within the extended GBIF\n"
+"community.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:308
+#, no-wrap
+msgid ""
+"00:07:05.550 --> 00:07:09.440\n"
+"Depending on the type of dataset with which\n"
+"you work, you’ll have to choose one of its\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:312
+#, no-wrap
+msgid ""
+"00:07:09.440 --> 00:07:16.020\n"
+"three Cores (Occurrence, Taxon or Event Core),\n"
+"which can be linked to one or more Extensions\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:316
+#, no-wrap
+msgid ""
+"00:07:16.020 --> 00:07:21.900\n"
+"to share more information (such as multimedia\n"
+"links, variables, identification history and\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:319
+#, no-wrap
+msgid ""
+"00:07:21.900 --> 00:07:22.900\n"
+"so on).\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:323
+#, no-wrap
+msgid ""
+"00:07:22.900 --> 00:07:29.320\n"
+"In some cases, a core can be used as an extension\n"
+"linked to another core: that is the case when\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:327
+#, no-wrap
+msgid ""
+"00:07:29.320 --> 00:07:34.680\n"
+"publishing Event data, where one can use the\n"
+"Event Core to describe the sampled areas and\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:331
+#, no-wrap
+msgid ""
+"00:07:34.680 --> 00:07:42.620\n"
+"then use the Occurrence Core as an Extension\n"
+"to share the specimens or individuals recorded.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:335
+#, no-wrap
+msgid ""
+"00:07:42.620 --> 00:07:47.370\n"
+"Once the data has been standardized using\n"
+"the Darwin Core standard, each class of dataset\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:339
+#, no-wrap
+msgid ""
+"00:07:47.370 --> 00:07:53.650\n"
+"(metadata-only, sampling event, taxonomic\n"
+"or occurrence datasets) can be published on\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:343
+#, no-wrap
+msgid ""
+"00:07:53.650 --> 00:07:58.120\n"
+"GBIF.org using one of the tools mentioned\n"
+"on this figure.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:347
+#, no-wrap
+msgid ""
+"00:07:58.120 --> 00:08:03.169\n"
+"The most frequently used tool within the GBIF\n"
+"community is the GBIF-developed Integrated\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:351
+#, no-wrap
+msgid ""
+"00:08:03.169 --> 00:08:09.350\n"
+"Publishing Toolkit (IPT), which transforms\n"
+"the source data into Darwin Core archives\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:354
+#, no-wrap
+msgid ""
+"00:08:09.350 --> 00:08:13.070\n"
+"that are then harvested and indexed by GBIF.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:358
+#, no-wrap
+msgid ""
+"00:08:13.070 --> 00:08:19.500\n"
+"The data are then searchable and downloadable\n"
+"via GBIF.org.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:362
+#, no-wrap
+msgid ""
+"00:08:19.500 --> 00:08:23.540\n"
+"Choosing a dataset class can take some time,\n"
+"especially if you’re new to data publishing\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:365
+#, no-wrap
+msgid ""
+"00:08:23.540 --> 00:08:24.890\n"
+"within GBIF.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:369
+#, no-wrap
+msgid ""
+"00:08:24.890 --> 00:08:30.430\n"
+"The GBIF helpdesk team created this useful\n"
+"flowchart which can be found on the GBIF Data\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:372
+#, no-wrap
+msgid ""
+"00:08:30.430 --> 00:08:31.650\n"
+"Blog:\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:376
+#, no-wrap
+msgid ""
+"00:08:31.650 --> 00:08:36.479\n"
+"If your data are not yet captured in a database\n"
+"or spreadsheet, or if they are too incomplete\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:380
+#, no-wrap
+msgid ""
+"00:08:36.479 --> 00:08:42.599\n"
+"to be shared yet, you can publish a description\n"
+"of your data as a metadata-only dataset (please\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:384
+#, no-wrap
+msgid ""
+"00:08:42.599 --> 00:08:47.830\n"
+"note this option is not allowed in the context\n"
+"of the BID and BIFA programmes).\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:388
+#, no-wrap
+msgid ""
+"00:08:47.830 --> 00:08:53.320\n"
+"If your dataset contains a list of scientific\n"
+"names that are not referring to observed and/or\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:392
+#, no-wrap
+msgid ""
+"00:08:53.320 --> 00:08:59.380\n"
+"collected organisms or specimens, you can\n"
+"publish it as a taxonomical resource, or checklist.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:396
+#, no-wrap
+msgid ""
+"00:08:59.380 --> 00:09:04.770\n"
+"If your dataset includes scientific names\n"
+"linked to observed and/or collected specimens,\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:400
+#, no-wrap
+msgid ""
+"00:09:04.770 --> 00:09:09.300\n"
+"as well as dates and locations, you can share\n"
+"it as an occurrence dataset.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:404
+#, no-wrap
+msgid ""
+"00:09:09.300 --> 00:09:14.480\n"
+"Lastly, if information about the protocols\n"
+"used on the field are available, you can choose\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:408
+#, no-wrap
+msgid ""
+"00:09:14.480 --> 00:09:19.830\n"
+"to share your dataset as a sampling-event\n"
+"dataset.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:412
+#, no-wrap
+msgid ""
+"00:09:19.830 --> 00:09:25.440\n"
+"Each class of dataset shared within GBIF has\n"
+"to meet its own data quality requirements.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:416
+#, no-wrap
+msgid ""
+"00:09:25.440 --> 00:09:30.870\n"
+"Some requirements are mandatory (such as the\n"
+"occurrenceID, taxonID or eventID, depending\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:420
+#, no-wrap
+msgid ""
+"00:09:30.870 --> 00:09:36.550\n"
+"on the type of dataset), others are optional\n"
+"but strongly recommended (such as coordinates\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:423
+#, no-wrap
+msgid ""
+"00:09:36.550 --> 00:09:38.170\n"
+"in decimal degrees).\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:427
+#, no-wrap
+msgid ""
+"00:09:38.170 --> 00:09:44.510\n"
+"You can find these requirements on GBIF.org\n"
+"from the How-to menu.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:431
+#, no-wrap
+msgid ""
+"00:09:44.510 --> 00:09:49.130\n"
+"In order to be able to publish data to GBIF,\n"
+"it is important to understand the differences\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:435
+#, no-wrap
+msgid ""
+"00:09:49.130 --> 00:09:55.190\n"
+"between the dataset classes at the early stages\n"
+"of the data capture and data managing process.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:439
+#, no-wrap
+msgid ""
+"00:09:55.190 --> 00:09:58.320\n"
+"You can reflect on this topic with the following\n"
+"questions:\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:443
+#, no-wrap
+msgid ""
+"00:09:58.320 --> 00:10:02.850\n"
+"Is your data type different than you originally\n"
+"thought?\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:446
+#, no-wrap
+msgid ""
+"00:10:02.850 --> 00:10:05.140\n"
+"With what kind of data do you work?\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:450
+#, no-wrap
+msgid ""
+"00:10:05.140 --> 00:10:12.350\n"
+"How would you publish them to GBIF? (using\n"
+"which Core and/or extension?)\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:454
+#, no-wrap
+msgid ""
+"00:10:12.350 --> 00:10:16.890\n"
+"If you have questions on this presentation,\n"
+"please use the provided forum in the e-Learning\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:457
+#, no-wrap
+msgid ""
+"00:10:16.890 --> 00:10:18.320\n"
+"platform.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:461
+#, no-wrap
+msgid ""
+"00:10:18.320 --> 00:10:23.660\n"
+"This video is part of a series of presentations\n"
+"used in the GBIF Biodiversity Data Mobilization\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:464
+#, no-wrap
+msgid ""
+"00:10:23.660 --> 00:10:24.950\n"
+"course.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:468
+#, no-wrap
+msgid ""
+"00:10:24.950 --> 00:10:30.459\n"
+"The biodiversity data mobilization curriculum\n"
+"was originally developed as part of the Biodiversity\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:472
+#, no-wrap
+msgid ""
+"00:10:30.459 --> 00:10:34.260\n"
+"Information Development Programme funded by\n"
+"the European Union.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:476
+#, no-wrap
+msgid ""
+"00:10:34.260 --> 00:10:39.190\n"
+"This presentation was originally created and\n"
+"narrated by Sophie Pamerlon with additional\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/data_origins_types.en.vtt:480
+#, no-wrap
+msgid ""
+"00:10:39.190 --> 00:10:43.300\n"
+"contributions by BID and BIFA Trainers, Mentors\n"
+"and Students.\n"
 msgstr ""
 
 #. type: Plain text
@@ -7267,1107 +8368,6 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/data_origins_types.en.vtt:8
-#, no-wrap
-msgid ""
-"00:00:00.879 --> 00:00:04.410\n"
-"In this presentation, we’ll have a look\n"
-"at the different types of data that can be\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:12
-#, no-wrap
-msgid ""
-"00:00:04.410 --> 00:00:08.840\n"
-"called ‘primary biodiversity data’ and\n"
-"shared within GBIF.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:16
-#, no-wrap
-msgid ""
-"00:00:08.840 --> 00:00:13.780\n"
-"These data can be complex and have different\n"
-"origins; we’ll see how they can be structured\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:20
-#, no-wrap
-msgid ""
-"00:00:13.780 --> 00:00:18.429\n"
-"into one of the three data classes accepted\n"
-"by GBIF, based on the Darwin Core data sharing\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:23
-#, no-wrap
-msgid ""
-"00:00:18.429 --> 00:00:25.050\n"
-"standard that is used within the GBIF community.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:27
-#, no-wrap
-msgid ""
-"00:00:25.050 --> 00:00:31.400\n"
-"As you can see on this slide, GBIF currently\n"
-"supports four types of dataset: Resource datasets\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:31
-#, no-wrap
-msgid ""
-"00:00:31.400 --> 00:00:41.110\n"
-"(e.g. metadata-only datasets), species checklists,\n"
-"Occurrence datasets and Sampling-event datasets.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:35
-#, no-wrap
-msgid ""
-"00:00:41.110 --> 00:00:46.840\n"
-"I will not discuss Resource datasets in this\n"
-"presentation as metadata-only datasets are\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:38
-#, no-wrap
-msgid ""
-"00:00:46.840 --> 00:00:53.040\n"
-"not supported by the GBIF-funded programmes.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:42
-#, no-wrap
-msgid ""
-"00:00:53.040 --> 00:00:58.680\n"
-"The first type of dataset that can be published\n"
-"within GBIF is the checklist, aka a list of\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:45
-#, no-wrap
-msgid ""
-"00:00:58.680 --> 00:01:01.120\n"
-"species or higher taxa.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:49
-#, no-wrap
-msgid ""
-"00:01:01.120 --> 00:01:06.870\n"
-"In a checklist, the main unit is the taxon,\n"
-"not the occurrence (individual).\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:53
-#, no-wrap
-msgid ""
-"00:01:06.870 --> 00:01:13.609\n"
-"Checklists, and more generally, taxonomical\n"
-"datasets can vary in scope :\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:57
-#, no-wrap
-msgid ""
-"00:01:13.609 --> 00:01:17.249\n"
-"a list of species present in a protected area\n"
-"is a checklist.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:61
-#, no-wrap
-msgid ""
-"00:01:17.249 --> 00:01:23.819\n"
-"a national or thematic list of taxa (e.g.\n"
-"Butterflies of Laos, or the Flora of Malaysia),\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:65
-#, no-wrap
-msgid ""
-"00:01:23.819 --> 00:01:29.280\n"
-"which sometimes provide more info on the distribution,\n"
-"taxonomical hierarchy and synonyms of the\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:68
-#, no-wrap
-msgid ""
-"00:01:29.280 --> 00:01:31.210\n"
-"taxa is a checklist.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:72
-#, no-wrap
-msgid ""
-"00:01:31.210 --> 00:01:38.380\n"
-"IUCN red lists (at the international, national\n"
-"or regional levels) also are checklists and\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:76
-#, no-wrap
-msgid ""
-"00:01:38.380 --> 00:01:45.299\n"
-"can give more information about the vulnerability\n"
-"status of the listed taxa. \n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:80
-#, no-wrap
-msgid ""
-"00:01:45.299 --> 00:01:50.939\n"
-"GBIF provides data publishers with templates\n"
-"for each class of dataset.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:84
-#, no-wrap
-msgid ""
-"00:01:50.939 --> 00:01:56.209\n"
-"The GBIF template for checklists (taxon Data)\n"
-"allows you to share information linked to\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:88
-#, no-wrap
-msgid ""
-"00:01:56.209 --> 00:02:03.420\n"
-"each species or taxa: its ID, full name and\n"
-"authorship, relationship to other taxa, geographical\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:91
-#, no-wrap
-msgid ""
-"00:02:03.420 --> 00:02:05.490\n"
-"details and so on.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:95
-#, no-wrap
-msgid ""
-"00:02:05.490 --> 00:02:10.640\n"
-"In this template, one line represents one\n"
-"taxon and a taxon can only appear once in\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:98
-#, no-wrap
-msgid ""
-"00:02:10.640 --> 00:02:17.000\n"
-"the dataset (otherwise it will create a duplicate).\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:102
-#, no-wrap
-msgid ""
-"00:02:17.000 --> 00:02:21.570\n"
-"The second type of data that can be published\n"
-"within GBIF is data coming from natural history\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:105
-#, no-wrap
-msgid ""
-"00:02:21.570 --> 00:02:25.020\n"
-"or scientific collections, also known as specimens.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:109
-#, no-wrap
-msgid ""
-"00:02:25.020 --> 00:02:31.310\n"
-"Unlike checklists, the main unit in a specimen\n"
-"collection will be the specimen (a single\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:113
-#, no-wrap
-msgid ""
-"00:02:31.310 --> 00:02:37.250\n"
-"organism or group of organisms), and you can\n"
-"have multiple specimens from the same species\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:116
-#, no-wrap
-msgid ""
-"00:02:37.250 --> 00:02:41.790\n"
-"or taxon group.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:120
-#, no-wrap
-msgid ""
-"00:02:41.790 --> 00:02:46.720\n"
-"Collections and specimens vastly differ in\n"
-"numbers, size and preservation methods.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:124
-#, no-wrap
-msgid ""
-"00:02:46.720 --> 00:02:51.800\n"
-"However, any kind of collection that holds\n"
-"preserved living organisms can be captured\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:128
-#, no-wrap
-msgid ""
-"00:02:51.800 --> 00:02:57.240\n"
-"and shared within GBIF; herbarium or zoological\n"
-"collections (including fossils) for example,\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:132
-#, no-wrap
-msgid ""
-"00:02:57.240 --> 00:03:04.010\n"
-"but geology or human artifacts collections\n"
-"do not fall under the GBIF scope.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:136
-#, no-wrap
-msgid ""
-"00:03:04.010 --> 00:03:10.280\n"
-"Biodiversity data can also be found in technical\n"
-"and scientific literature: it is possible\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:140
-#, no-wrap
-msgid ""
-"00:03:10.280 --> 00:03:15.920\n"
-"to compile and share this kind of data within\n"
-"GBIF, but you should be extra-cautious not\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:144
-#, no-wrap
-msgid ""
-"00:03:15.920 --> 00:03:21.430\n"
-"to share duplicate data (for example, a specimen\n"
-"described in a scientific article might already\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:148
-#, no-wrap
-msgid ""
-"00:03:21.430 --> 00:03:27.980\n"
-"be present on GBIF.org in the dataset of its\n"
-"collection)\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:152
-#, no-wrap
-msgid ""
-"00:03:27.980 --> 00:03:33.790\n"
-"In the absence of digitized datasets, biodiversity\n"
-"data can be extracted and compiled from scientific\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:156
-#, no-wrap
-msgid ""
-"00:03:33.790 --> 00:03:40.630\n"
-"articles, phD or master theses, reports and\n"
-"other documents.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:160
-#, no-wrap
-msgid ""
-"00:03:40.630 --> 00:03:45.980\n"
-"ALWAYS contact the data owner first when compiling\n"
-"literature data to ask for permission to publish\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:163
-#, no-wrap
-msgid ""
-"00:03:45.980 --> 00:03:50.060\n"
-"them to GBIF ! \n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:167
-#, no-wrap
-msgid ""
-"00:03:50.060 --> 00:03:55.910\n"
-"A large majority of the data available on\n"
-"GBIF.org now comes from fieldwork records.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:171
-#, no-wrap
-msgid ""
-"00:03:55.910 --> 00:04:01.460\n"
-"These data can be observed and/or collected\n"
-"using different protocols in the field, by\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:175
-#, no-wrap
-msgid ""
-"00:04:01.460 --> 00:04:09.520\n"
-"scientists, naturalists or amateur citizen-scientists\n"
-"via programmes and apps.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:179
-#, no-wrap
-msgid ""
-"00:04:09.520 --> 00:04:14.840\n"
-"These field data can be compiled in survey\n"
-"reports, environmental impact assessment studies,\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:182
-#, no-wrap
-msgid ""
-"00:04:14.840 --> 00:04:17.160\n"
-"field notes and other logs.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:186
-#, no-wrap
-msgid ""
-"00:04:17.160 --> 00:04:21.670\n"
-"They can be linked to other types of data,\n"
-"such as checklists, which are complementary\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:190
-#, no-wrap
-msgid ""
-"00:04:21.670 --> 00:04:28.820\n"
-"to occurrence data observed or collected in\n"
-"the wilderness.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:194
-#, no-wrap
-msgid ""
-"00:04:28.820 --> 00:04:33.320\n"
-"Occurrence data represents the GBIF class\n"
-"of datasets with the largest number of records\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:197
-#, no-wrap
-msgid ""
-"00:04:33.320 --> 00:04:35.150\n"
-"on GBIF.org.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:201
-#, no-wrap
-msgid ""
-"00:04:35.150 --> 00:04:40.790\n"
-"Collection (aka specimens), literature and\n"
-"fieldwork data can be shared within GBIF using\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:205
-#, no-wrap
-msgid ""
-"00:04:40.790 --> 00:04:46.670\n"
-"this template, which focuses on the observed\n"
-"individual or collected specimen.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:209
-#, no-wrap
-msgid ""
-"00:04:46.670 --> 00:04:51.510\n"
-"In this kind of dataset, multiple individuals\n"
-"or specimens can be recorded for a single\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:213
-#, no-wrap
-msgid ""
-"00:04:51.510 --> 00:04:56.400\n"
-"taxon, as long as they each have a unique\n"
-"identifier.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:217
-#, no-wrap
-msgid ""
-"00:04:56.400 --> 00:05:02.139\n"
-"Other fields for occurrence data include where,\n"
-"when, how and by whom was each occurrence\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:220
-#, no-wrap
-msgid ""
-"00:05:02.139 --> 00:05:06.720\n"
-"observed and/or collected in the field.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:224
-#, no-wrap
-msgid ""
-"00:05:06.720 --> 00:05:13.409\n"
-"Event data is a class of datasets that was\n"
-"added on GBIF.org in 2015.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:228
-#, no-wrap
-msgid ""
-"00:05:13.409 --> 00:05:18.650\n"
-"They allow data publishers to share more information\n"
-"about the context of the observation or collection\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:232
-#, no-wrap
-msgid ""
-"00:05:18.650 --> 00:05:25.180\n"
-"of specimens, and to group occurrences linked\n"
-"to the same event.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:236
-#, no-wrap
-msgid ""
-"00:05:25.180 --> 00:05:30.240\n"
-"The GBIF template for Event data allows data\n"
-"publishers to share more information about\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:240
-#, no-wrap
-msgid ""
-"00:05:30.240 --> 00:05:36.830\n"
-"the context of a biodiversity data collecting/recording\n"
-"event such as camera traps, insect traps,\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:243
-#, no-wrap
-msgid ""
-"00:05:36.830 --> 00:05:40.230\n"
-"botanical relevés, birding sites and so on.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:247
-#, no-wrap
-msgid ""
-"00:05:40.230 --> 00:05:45.480\n"
-"Its structure is a bit more complex than the\n"
-"Taxonomical datasets and Occurrence datasets\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:251
-#, no-wrap
-msgid ""
-"00:05:45.480 --> 00:05:52.470\n"
-"as it involves two files (e.g., two tabs in\n"
-"a spreadsheet): one for describing the ‘events’\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:255
-#, no-wrap
-msgid ""
-"00:05:52.470 --> 00:05:58.790\n"
-"(e.g. each trap) and the other one to describe\n"
-"the specimens or occurrences linked to each\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:258
-#, no-wrap
-msgid ""
-"00:05:58.790 --> 00:06:00.760\n"
-"event.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:262
-#, no-wrap
-msgid ""
-"00:06:00.760 --> 00:06:06.949\n"
-"Sometimes, additional information or data\n"
-"can be found using other source materials\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:265
-#, no-wrap
-msgid ""
-"00:06:06.949 --> 00:06:12.660\n"
-"than those previously mentioned in this video.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:269
-#, no-wrap
-msgid ""
-"00:06:12.660 --> 00:06:17.960\n"
-"These other sources include remote sensing\n"
-"tools, maps and satellite data, and other\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:273
-#, no-wrap
-msgid ""
-"00:06:17.960 --> 00:06:22.790\n"
-"information supports such as pictures, audio\n"
-"and video recordings of wildlife.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:277
-#, no-wrap
-msgid ""
-"00:06:22.790 --> 00:06:28.150\n"
-"Most of the time, the information retrieved\n"
-"this way is supplemental to existing data\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:281
-#, no-wrap
-msgid ""
-"00:06:28.150 --> 00:06:33.910\n"
-"but can provide valuable information about\n"
-"individuals and their location, habitat, migratory\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:284
-#, no-wrap
-msgid ""
-"00:06:33.910 --> 00:06:37.520\n"
-"routes, etc.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:288
-#, no-wrap
-msgid ""
-"00:06:37.520 --> 00:06:41.680\n"
-"In the following slides, we will see how the\n"
-"Darwin Core standard works with different\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:292
-#, no-wrap
-msgid ""
-"00:06:41.680 --> 00:06:49.460\n"
-"types of data, and how to choose the dataset\n"
-"class that best fits a given dataset.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:296
-#, no-wrap
-msgid ""
-"00:06:49.460 --> 00:06:54.030\n"
-"As you learned in the Foundations - Darwin\n"
-"Core presentation, Darwin Core is a data sharing\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:300
-#, no-wrap
-msgid ""
-"00:06:54.030 --> 00:07:00.919\n"
-"standard developed by the Biodiversity Information\n"
-"Standards (TDWG) organization, and is widely\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:304
-#, no-wrap
-msgid ""
-"00:07:00.919 --> 00:07:05.550\n"
-"used to publish data within the extended GBIF\n"
-"community.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:308
-#, no-wrap
-msgid ""
-"00:07:05.550 --> 00:07:09.440\n"
-"Depending on the type of dataset with which\n"
-"you work, you’ll have to choose one of its\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:312
-#, no-wrap
-msgid ""
-"00:07:09.440 --> 00:07:16.020\n"
-"three Cores (Occurrence, Taxon or Event Core),\n"
-"which can be linked to one or more Extensions\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:316
-#, no-wrap
-msgid ""
-"00:07:16.020 --> 00:07:21.900\n"
-"to share more information (such as multimedia\n"
-"links, variables, identification history and\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:319
-#, no-wrap
-msgid ""
-"00:07:21.900 --> 00:07:22.900\n"
-"so on).\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:323
-#, no-wrap
-msgid ""
-"00:07:22.900 --> 00:07:29.320\n"
-"In some cases, a core can be used as an extension\n"
-"linked to another core: that is the case when\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:327
-#, no-wrap
-msgid ""
-"00:07:29.320 --> 00:07:34.680\n"
-"publishing Event data, where one can use the\n"
-"Event Core to describe the sampled areas and\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:331
-#, no-wrap
-msgid ""
-"00:07:34.680 --> 00:07:42.620\n"
-"then use the Occurrence Core as an Extension\n"
-"to share the specimens or individuals recorded.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:335
-#, no-wrap
-msgid ""
-"00:07:42.620 --> 00:07:47.370\n"
-"Once the data has been standardized using\n"
-"the Darwin Core standard, each class of dataset\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:339
-#, no-wrap
-msgid ""
-"00:07:47.370 --> 00:07:53.650\n"
-"(metadata-only, sampling event, taxonomic\n"
-"or occurrence datasets) can be published on\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:343
-#, no-wrap
-msgid ""
-"00:07:53.650 --> 00:07:58.120\n"
-"GBIF.org using one of the tools mentioned\n"
-"on this figure.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:347
-#, no-wrap
-msgid ""
-"00:07:58.120 --> 00:08:03.169\n"
-"The most frequently used tool within the GBIF\n"
-"community is the GBIF-developed Integrated\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:351
-#, no-wrap
-msgid ""
-"00:08:03.169 --> 00:08:09.350\n"
-"Publishing Toolkit (IPT), which transforms\n"
-"the source data into Darwin Core archives\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:354
-#, no-wrap
-msgid ""
-"00:08:09.350 --> 00:08:13.070\n"
-"that are then harvested and indexed by GBIF.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:358
-#, no-wrap
-msgid ""
-"00:08:13.070 --> 00:08:19.500\n"
-"The data are then searchable and downloadable\n"
-"via GBIF.org.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:362
-#, no-wrap
-msgid ""
-"00:08:19.500 --> 00:08:23.540\n"
-"Choosing a dataset class can take some time,\n"
-"especially if you’re new to data publishing\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:365
-#, no-wrap
-msgid ""
-"00:08:23.540 --> 00:08:24.890\n"
-"within GBIF.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:369
-#, no-wrap
-msgid ""
-"00:08:24.890 --> 00:08:30.430\n"
-"The GBIF helpdesk team created this useful\n"
-"flowchart which can be found on the GBIF Data\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:372
-#, no-wrap
-msgid ""
-"00:08:30.430 --> 00:08:31.650\n"
-"Blog:\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:376
-#, no-wrap
-msgid ""
-"00:08:31.650 --> 00:08:36.479\n"
-"If your data are not yet captured in a database\n"
-"or spreadsheet, or if they are too incomplete\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:380
-#, no-wrap
-msgid ""
-"00:08:36.479 --> 00:08:42.599\n"
-"to be shared yet, you can publish a description\n"
-"of your data as a metadata-only dataset (please\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:384
-#, no-wrap
-msgid ""
-"00:08:42.599 --> 00:08:47.830\n"
-"note this option is not allowed in the context\n"
-"of the BID and BIFA programmes).\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:388
-#, no-wrap
-msgid ""
-"00:08:47.830 --> 00:08:53.320\n"
-"If your dataset contains a list of scientific\n"
-"names that are not referring to observed and/or\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:392
-#, no-wrap
-msgid ""
-"00:08:53.320 --> 00:08:59.380\n"
-"collected organisms or specimens, you can\n"
-"publish it as a taxonomical resource, or checklist.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:396
-#, no-wrap
-msgid ""
-"00:08:59.380 --> 00:09:04.770\n"
-"If your dataset includes scientific names\n"
-"linked to observed and/or collected specimens,\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:400
-#, no-wrap
-msgid ""
-"00:09:04.770 --> 00:09:09.300\n"
-"as well as dates and locations, you can share\n"
-"it as an occurrence dataset.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:404
-#, no-wrap
-msgid ""
-"00:09:09.300 --> 00:09:14.480\n"
-"Lastly, if information about the protocols\n"
-"used on the field are available, you can choose\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:408
-#, no-wrap
-msgid ""
-"00:09:14.480 --> 00:09:19.830\n"
-"to share your dataset as a sampling-event\n"
-"dataset.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:412
-#, no-wrap
-msgid ""
-"00:09:19.830 --> 00:09:25.440\n"
-"Each class of dataset shared within GBIF has\n"
-"to meet its own data quality requirements.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:416
-#, no-wrap
-msgid ""
-"00:09:25.440 --> 00:09:30.870\n"
-"Some requirements are mandatory (such as the\n"
-"occurrenceID, taxonID or eventID, depending\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:420
-#, no-wrap
-msgid ""
-"00:09:30.870 --> 00:09:36.550\n"
-"on the type of dataset), others are optional\n"
-"but strongly recommended (such as coordinates\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:423
-#, no-wrap
-msgid ""
-"00:09:36.550 --> 00:09:38.170\n"
-"in decimal degrees).\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:427
-#, no-wrap
-msgid ""
-"00:09:38.170 --> 00:09:44.510\n"
-"You can find these requirements on GBIF.org\n"
-"from the How-to menu.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:431
-#, no-wrap
-msgid ""
-"00:09:44.510 --> 00:09:49.130\n"
-"In order to be able to publish data to GBIF,\n"
-"it is important to understand the differences\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:435
-#, no-wrap
-msgid ""
-"00:09:49.130 --> 00:09:55.190\n"
-"between the dataset classes at the early stages\n"
-"of the data capture and data managing process.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:439
-#, no-wrap
-msgid ""
-"00:09:55.190 --> 00:09:58.320\n"
-"You can reflect on this topic with the following\n"
-"questions:\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:443
-#, no-wrap
-msgid ""
-"00:09:58.320 --> 00:10:02.850\n"
-"Is your data type different than you originally\n"
-"thought?\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:446
-#, no-wrap
-msgid ""
-"00:10:02.850 --> 00:10:05.140\n"
-"With what kind of data do you work?\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:450
-#, no-wrap
-msgid ""
-"00:10:05.140 --> 00:10:12.350\n"
-"How would you publish them to GBIF? (using\n"
-"which Core and/or extension?)\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:454
-#, no-wrap
-msgid ""
-"00:10:12.350 --> 00:10:16.890\n"
-"If you have questions on this presentation,\n"
-"please use the provided forum in the e-Learning\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:457
-#, no-wrap
-msgid ""
-"00:10:16.890 --> 00:10:18.320\n"
-"platform.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:461
-#, no-wrap
-msgid ""
-"00:10:18.320 --> 00:10:23.660\n"
-"This video is part of a series of presentations\n"
-"used in the GBIF Biodiversity Data Mobilization\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:464
-#, no-wrap
-msgid ""
-"00:10:23.660 --> 00:10:24.950\n"
-"course.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:468
-#, no-wrap
-msgid ""
-"00:10:24.950 --> 00:10:30.459\n"
-"The biodiversity data mobilization curriculum\n"
-"was originally developed as part of the Biodiversity\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:472
-#, no-wrap
-msgid ""
-"00:10:30.459 --> 00:10:34.260\n"
-"Information Development Programme funded by\n"
-"the European Union.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:476
-#, no-wrap
-msgid ""
-"00:10:34.260 --> 00:10:39.190\n"
-"This presentation was originally created and\n"
-"narrated by Sophie Pamerlon with additional\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/data_origins_types.en.vtt:480
-#, no-wrap
-msgid ""
-"00:10:39.190 --> 00:10:43.300\n"
-"contributions by BID and BIFA Trainers, Mentors\n"
-"and Students.\n"
-msgstr ""
-
-#. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:8
 #, no-wrap
 msgid ""
@@ -9656,6 +9656,743 @@ msgstr ""
 #, no-wrap
 msgid ""
 "00:11:40.830 --> 00:11:43.740\n"
+"This presentation has been narrated by Laura\n"
+"Anne Russell.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:8
+#, no-wrap
+msgid ""
+"00:00:01.459 --> 00:00:08.090\n"
+"This presentation introduces the Integrated\n"
+"Publishing Toolkit and its interface.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:12
+#, no-wrap
+msgid ""
+"00:00:08.090 --> 00:00:14.390\n"
+"The Integrated Publishing Toolkit -- the IPT--\n"
+"is software that is installed on a server.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:15
+#, no-wrap
+msgid ""
+"00:00:14.390 --> 00:00:17.930\n"
+"It requires a Java applet like Tomcat to run.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:19
+#, no-wrap
+msgid ""
+"00:00:17.930 --> 00:00:24.269\n"
+"Just like Excel helps you create spreadsheets,\n"
+"the IPT helps you create darwin core archives\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:23
+#, no-wrap
+msgid ""
+"00:00:24.269 --> 00:00:29.939\n"
+"files, register them with GBIF and makes them\n"
+"discoverable on the internet.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:27
+#, no-wrap
+msgid ""
+"00:00:29.939 --> 00:00:35.070\n"
+"Many institutions do not have the technical\n"
+"resources to host their own IPT, if that is\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:31
+#, no-wrap
+msgid ""
+"00:00:35.070 --> 00:00:40.600\n"
+"the case with your institution, please investigate\n"
+"the data hosting options on the GBIF website\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:34
+#, no-wrap
+msgid ""
+"00:00:40.600 --> 00:00:45.320\n"
+"under the How-to menu.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:38
+#, no-wrap
+msgid ""
+"00:00:45.320 --> 00:00:51.429\n"
+"After installing an IPT, an administrator\n"
+"is required to manage user accounts, publishing\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:42
+#, no-wrap
+msgid ""
+"00:00:51.429 --> 00:00:55.969\n"
+"organizations and Darwin Core extensions.\n"
+"If your data is being hosted within your own\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:46
+#, no-wrap
+msgid ""
+"00:00:55.969 --> 00:01:01.660\n"
+"institution or by another institution, make\n"
+"sure you know who the administrator is so\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:49
+#, no-wrap
+msgid ""
+"00:01:01.660 --> 00:01:06.840\n"
+"that they can assist you when necessary.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:53
+#, no-wrap
+msgid ""
+"00:01:06.840 --> 00:01:11.630\n"
+"The IPT can be installed in either a test\n"
+"environment or in a production environment.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:57
+#, no-wrap
+msgid ""
+"00:01:11.630 --> 00:01:16.770\n"
+"For the purposes of this course, we will be\n"
+"using a test and training environment.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:61
+#, no-wrap
+msgid ""
+"00:01:16.770 --> 00:01:20.560\n"
+"When you browse to an IPT page, you will not\n"
+"be logged in.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:65
+#, no-wrap
+msgid ""
+"00:01:20.560 --> 00:01:23.230\n"
+"And you will only have two tabs available\n"
+"to you.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:68
+#, no-wrap
+msgid ""
+"00:01:23.230 --> 00:01:28.509\n"
+"A home tab and an About tab.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:72
+#, no-wrap
+msgid ""
+"00:01:28.509 --> 00:01:33.510\n"
+"After logging into the IPT, you will have\n"
+"more tabs available to you.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:76
+#, no-wrap
+msgid ""
+"00:01:33.510 --> 00:01:39.420\n"
+"Managers with (and without) registration rights\n"
+"will see the Manage Resources tab.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:80
+#, no-wrap
+msgid ""
+"00:01:39.420 --> 00:01:46.430\n"
+"Administrators will see the Manager Resources\n"
+"tab and an Administration tab.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:84
+#, no-wrap
+msgid ""
+"00:01:46.430 --> 00:01:51.939\n"
+"At the bottom of the Manage Resources tab\n"
+"is a section to Create a New Resource.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:88
+#, no-wrap
+msgid ""
+"00:01:51.939 --> 00:01:57.290\n"
+"A shortname is an abbreviated, but descriptive\n"
+"name that will become part of your URL.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:92
+#, no-wrap
+msgid ""
+"00:01:57.290 --> 00:02:08.310\n"
+"It cannot have spaces. An example would be\n"
+"fmnh-herps, or wcs_camera_traps\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:96
+#, no-wrap
+msgid ""
+"00:02:08.310 --> 00:02:13.050\n"
+"When creating a resource, do not attempt to\n"
+"add an archive file at this point.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:100
+#, no-wrap
+msgid ""
+"00:02:13.050 --> 00:02:17.610\n"
+"You will do it after the resource is created.\n"
+"You will see a video demonstration of this\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:103
+#, no-wrap
+msgid ""
+"00:02:17.610 --> 00:02:22.970\n"
+"process in the next section.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:107
+#, no-wrap
+msgid ""
+"00:02:22.970 --> 00:02:26.900\n"
+"After creating a resource, you will be directed\n"
+"to the resource page.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:111
+#, no-wrap
+msgid ""
+"00:02:26.900 --> 00:02:30.950\n"
+"Here you will have multiple options for editing\n"
+"the resource.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:115
+#, no-wrap
+msgid ""
+"00:02:30.950 --> 00:02:34.950\n"
+"The first section is for Source Data.\n"
+"This is where you will upload your source\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:119
+#, no-wrap
+msgid ""
+"00:02:34.950 --> 00:02:39.410\n"
+"data files or make database connections to\n"
+"your source data.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:122
+#, no-wrap
+msgid ""
+"00:02:39.410 --> 00:02:42.390\n"
+"For this course, we will upload files.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:126
+#, no-wrap
+msgid ""
+"00:02:42.390 --> 00:02:47.950\n"
+"Once a file is uploaded, you have the opportunity\n"
+"to edit some information about the file.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:130
+#, no-wrap
+msgid ""
+"00:02:47.950 --> 00:02:54.040\n"
+"You can upload delimited text files which\n"
+"include csv, tab, and files using any other\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:134
+#, no-wrap
+msgid ""
+"00:02:54.040 --> 00:02:58.790\n"
+"delimiter, either directly or compressed with\n"
+"zip or gzip.&nbsp;\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:138
+#, no-wrap
+msgid ""
+"00:02:58.790 --> 00:03:03.650\n"
+"Excel files are also supported.&nbsp;\n"
+"After a file is uploaded, you will then have\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:142
+#, no-wrap
+msgid ""
+"00:03:03.650 --> 00:03:07.590\n"
+"an Edit button.\n"
+"You can upload mutliple files if you find\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:146
+#, no-wrap
+msgid ""
+"00:03:07.590 --> 00:03:11.550\n"
+"you will be using extended data with main\n"
+"file.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:150
+#, no-wrap
+msgid ""
+"00:03:11.550 --> 00:03:17.420\n"
+"Alternatively, you can configure&nbsp;SQL views&nbsp;to\n"
+"databases in your local network.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:154
+#, no-wrap
+msgid ""
+"00:03:17.420 --> 00:03:24.310\n"
+"To create a new SQL source, please click \"Connect\n"
+"to database\" without any file chosen.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:158
+#, no-wrap
+msgid ""
+"00:03:24.310 --> 00:03:28.250\n"
+"Creating a database connection will require\n"
+"you to coordinate with your IT support to\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:162
+#, no-wrap
+msgid ""
+"00:03:28.250 --> 00:03:33.110\n"
+"ensure appropriate permissions.\n"
+"Database connections are typically only supported\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:165
+#, no-wrap
+msgid ""
+"00:03:33.110 --> 00:03:39.180\n"
+"by institutions hosting their own IPT.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:169
+#, no-wrap
+msgid ""
+"00:03:39.180 --> 00:03:42.620\n"
+"After a dataset is added, the next step is\n"
+"to map the data.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:173
+#, no-wrap
+msgid ""
+"00:03:42.620 --> 00:03:48.040\n"
+"You will see this demonstrated in a later\n"
+"video.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:177
+#, no-wrap
+msgid ""
+"00:03:48.040 --> 00:03:52.360\n"
+"The third section of the resource is where\n"
+"you will add your metadata describing your\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:180
+#, no-wrap
+msgid ""
+"00:03:52.360 --> 00:03:55.620\n"
+"dataset.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:184
+#, no-wrap
+msgid ""
+"00:03:55.620 --> 00:03:59.150\n"
+"Most of the data on the Basic metadata page\n"
+"is required.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:188
+#, no-wrap
+msgid ""
+"00:03:59.150 --> 00:04:04.740\n"
+"You must choose a dataset license or waiver\n"
+"and a publishing organization if you intended\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:192
+#, no-wrap
+msgid ""
+"00:04:04.740 --> 00:04:09.320\n"
+"to register your dataset with GBIF.\n"
+"If you have a GBIF-funded project, you will\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:196
+#, no-wrap
+msgid ""
+"00:04:09.320 --> 00:04:16.209\n"
+"also need to add your project identifier on\n"
+"the Project data page.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:200
+#, no-wrap
+msgid ""
+"00:04:16.209 --> 00:04:23.229\n"
+"After the first three sections are complete,\n"
+"a resource can be published.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:204
+#, no-wrap
+msgid ""
+"00:04:23.229 --> 00:04:27.129\n"
+"A resource must be public in order to register\n"
+"it with GBIF.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:208
+#, no-wrap
+msgid ""
+"00:04:27.129 --> 00:04:31.949\n"
+"If the resource is made public after the initial\n"
+"publication, it will need to be published\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:212
+#, no-wrap
+msgid ""
+"00:04:31.949 --> 00:04:35.409\n"
+"a second time before it can be registered\n"
+"with GBIF.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:216
+#, no-wrap
+msgid ""
+"00:04:35.409 --> 00:04:44.250\n"
+"The last section allows you to add other users\n"
+"to help manager your resource.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:220
+#, no-wrap
+msgid ""
+"00:04:44.250 --> 00:04:48.949\n"
+"As a reminder, to register a dataset resource\n"
+"with GBIF, a publishing organization must\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:224
+#, no-wrap
+msgid ""
+"00:04:48.949 --> 00:04:53.699\n"
+"be set in the Metadata section and the resource\n"
+"must be set to Public.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:228
+#, no-wrap
+msgid ""
+"00:04:53.699 --> 00:04:57.969\n"
+"Once these conditions are met, then the Register\n"
+"button will be available.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:232
+#, no-wrap
+msgid ""
+"00:04:57.969 --> 00:05:05.120\n"
+"If the button is not immediately available.\n"
+"Try publishing one more time.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:236
+#, no-wrap
+msgid ""
+"00:05:05.120 --> 00:05:10.210\n"
+"Once a dataset is registered with GBIF, it\n"
+"will show up under the publishing institution’s\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:239
+#, no-wrap
+msgid ""
+"00:05:10.210 --> 00:05:14.560\n"
+"datasets in the GBIF portal.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:243
+#, no-wrap
+msgid ""
+"00:05:14.560 --> 00:05:18.419\n"
+"Once the dataset is registered with GBIF,\n"
+"it is given a DOI.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:247
+#, no-wrap
+msgid ""
+"00:05:18.419 --> 00:05:23.849\n"
+"This DOI will allow users of the data to give\n"
+"proper credit to the dataset and the publishing\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:251
+#, no-wrap
+msgid ""
+"00:05:23.849 --> 00:05:29.810\n"
+"institution if the dataset is used in research.\n"
+"GBIF tracks citations.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:255
+#, no-wrap
+msgid ""
+"00:05:29.810 --> 00:05:35.930\n"
+"Any time the dataset DOI is used in a paper,\n"
+"the citation number on the dataset will increase.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:259
+#, no-wrap
+msgid ""
+"00:05:35.930 --> 00:05:41.419\n"
+"You can click the Citation button to see which\n"
+"papers used your dataset.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:263
+#, no-wrap
+msgid ""
+"00:05:41.419 --> 00:05:46.860\n"
+"Also from this page, you can access the occurrences\n"
+"records associated with the dataset.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:267
+#, no-wrap
+msgid ""
+"00:05:46.860 --> 00:05:52.749\n"
+"If a checklist, you’d be able to see the\n"
+"taxons.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:271
+#, no-wrap
+msgid ""
+"00:05:52.749 --> 00:06:01.039\n"
+"All the metadata you entered in IPT is nicely\n"
+"displayed on the dataset page.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:275
+#, no-wrap
+msgid ""
+"00:06:01.039 --> 00:06:04.150\n"
+"There are many community resources available\n"
+"to you.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:279
+#, no-wrap
+msgid ""
+"00:06:04.150 --> 00:06:09.219\n"
+"In the next section you will watch a demonstration\n"
+"video of publishing an occurrence dataset\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:282
+#, no-wrap
+msgid ""
+"00:06:09.219 --> 00:06:12.960\n"
+"with an extension on the ipt.\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:286
+#, no-wrap
+msgid ""
+"00:06:12.960 --> 00:06:13.960\n"
+"Thank you.\n"
+"&nbsp;\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:290
+#, no-wrap
+msgid ""
+"00:06:13.960 --> 00:06:18.189\n"
+"If you have questions on this presentation,\n"
+"please use the provided forum in the e-Learning\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:294
+#, no-wrap
+msgid ""
+"00:06:18.189 --> 00:06:19.629\n"
+"platform.\n"
+"&nbsp;\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:298
+#, no-wrap
+msgid ""
+"00:06:19.629 --> 00:06:24.949\n"
+"This video is part of a series of presentations\n"
+"used in the GBIF Biodiversity Data Mobilization\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:302
+#, no-wrap
+msgid ""
+"00:06:24.949 --> 00:06:28.580\n"
+"course.\n"
+"The biodiversity data mobilization curriculum\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:306
+#, no-wrap
+msgid ""
+"00:06:28.580 --> 00:06:33.479\n"
+"was originally developed as part of the Biodiversity\n"
+"Information Development Programme funded by\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:310
+#, no-wrap
+msgid ""
+"00:06:33.479 --> 00:06:35.680\n"
+"the European Union.\n"
+"&nbsp;\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:314
+#, no-wrap
+msgid ""
+"00:06:35.680 --> 00:06:40.050\n"
+"This presentation was originally created by\n"
+"Nicolas Noe with additional contributions\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:318
+#, no-wrap
+msgid ""
+"00:06:40.050 --> 00:06:47.060\n"
+"by Sophie Pamerlon, Marie Elise Lecoq, Laura\n"
+"Anne Russell, Dag Endresen, Rukaya Johaadien,\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:322
+#, no-wrap
+msgid ""
+"00:06:47.060 --> 00:06:50.370\n"
+"BID and BIFA Trainers, Mentors and students.\n"
+"&nbsp;\n"
+msgstr ""
+
+#. type: Plain text
+#: videos/Data_publishing_IPT.en.vtt:326
+#, no-wrap
+msgid ""
+"00:06:50.370 --> 00:06:53.369\n"
 "This presentation has been narrated by Laura\n"
 "Anne Russell.\n"
 msgstr ""
@@ -16759,7 +17496,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:8
+#: videos/Introduction-to-GBIF.en.vtt:8
 #, no-wrap
 msgid ""
 "00:00:01.920 --> 00:00:08.480\n"
@@ -16768,7 +17505,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:12
+#: videos/Introduction-to-GBIF.en.vtt:12
 #, no-wrap
 msgid ""
 "00:00:08.480 --> 00:00:14.960\n"
@@ -16777,7 +17514,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:16
+#: videos/Introduction-to-GBIF.en.vtt:16
 #, no-wrap
 msgid ""
 "00:00:14.960 --> 00:00:21.680\n"
@@ -16786,7 +17523,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:20
+#: videos/Introduction-to-GBIF.en.vtt:20
 #, no-wrap
 msgid ""
 "00:00:21.680 --> 00:00:27.040\n"
@@ -16795,7 +17532,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:24
+#: videos/Introduction-to-GBIF.en.vtt:24
 #, no-wrap
 msgid ""
 "00:00:29.600 --> 00:00:36.160\n"
@@ -16804,7 +17541,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:28
+#: videos/Introduction-to-GBIF.en.vtt:28
 #, no-wrap
 msgid ""
 "00:00:36.160 --> 00:00:42.480\n"
@@ -16813,7 +17550,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:32
+#: videos/Introduction-to-GBIF.en.vtt:32
 #, no-wrap
 msgid ""
 "00:00:42.480 --> 00:00:49.440\n"
@@ -16822,7 +17559,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:36
+#: videos/Introduction-to-GBIF.en.vtt:36
 #, no-wrap
 msgid ""
 "00:00:49.440 --> 00:00:54.720\n"
@@ -16831,7 +17568,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:40
+#: videos/Introduction-to-GBIF.en.vtt:40
 #, no-wrap
 msgid ""
 "00:00:54.720 --> 00:01:01.600\n"
@@ -16840,7 +17577,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:44
+#: videos/Introduction-to-GBIF.en.vtt:44
 #, no-wrap
 msgid ""
 "00:01:01.600 --> 00:01:08.240\n"
@@ -16849,7 +17586,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:48
+#: videos/Introduction-to-GBIF.en.vtt:48
 #, no-wrap
 msgid ""
 "00:01:08.240 --> 00:01:14.720\n"
@@ -16858,7 +17595,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:52
+#: videos/Introduction-to-GBIF.en.vtt:52
 #, no-wrap
 msgid ""
 "00:01:14.720 --> 00:01:21.280\n"
@@ -16867,7 +17604,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:56
+#: videos/Introduction-to-GBIF.en.vtt:56
 #, no-wrap
 msgid ""
 "00:01:21.280 --> 00:01:26.960\n"
@@ -16876,7 +17613,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:60
+#: videos/Introduction-to-GBIF.en.vtt:60
 #, no-wrap
 msgid ""
 "00:01:27.760 --> 00:01:33.680\n"
@@ -16885,7 +17622,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:64
+#: videos/Introduction-to-GBIF.en.vtt:64
 #, no-wrap
 msgid ""
 "00:01:33.680 --> 00:01:40.240\n"
@@ -16894,7 +17631,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:68
+#: videos/Introduction-to-GBIF.en.vtt:68
 #, no-wrap
 msgid ""
 "00:01:40.240 --> 00:01:45.920\n"
@@ -16903,7 +17640,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:72
+#: videos/Introduction-to-GBIF.en.vtt:72
 #, no-wrap
 msgid ""
 "00:01:48.960 --> 00:01:55.280\n"
@@ -16912,7 +17649,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:76
+#: videos/Introduction-to-GBIF.en.vtt:76
 #, no-wrap
 msgid ""
 "00:01:55.280 --> 00:02:01.440\n"
@@ -16921,7 +17658,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:80
+#: videos/Introduction-to-GBIF.en.vtt:80
 #, no-wrap
 msgid ""
 "00:02:01.440 --> 00:02:08.000\n"
@@ -16930,7 +17667,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:84
+#: videos/Introduction-to-GBIF.en.vtt:84
 #, no-wrap
 msgid ""
 "00:02:08.000 --> 00:02:14.480\n"
@@ -16939,7 +17676,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:88
+#: videos/Introduction-to-GBIF.en.vtt:88
 #, no-wrap
 msgid ""
 "00:02:14.480 --> 00:02:21.120\n"
@@ -16948,7 +17685,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:92
+#: videos/Introduction-to-GBIF.en.vtt:92
 #, no-wrap
 msgid ""
 "00:02:21.120 --> 00:02:27.360\n"
@@ -16957,7 +17694,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:96
+#: videos/Introduction-to-GBIF.en.vtt:96
 #, no-wrap
 msgid ""
 "00:02:27.360 --> 00:02:33.360\n"
@@ -16966,7 +17703,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:100
+#: videos/Introduction-to-GBIF.en.vtt:100
 #, no-wrap
 msgid ""
 "00:02:33.360 --> 00:02:39.760\n"
@@ -16975,7 +17712,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:104
+#: videos/Introduction-to-GBIF.en.vtt:104
 #, no-wrap
 msgid ""
 "00:02:39.760 --> 00:02:47.120\n"
@@ -16984,7 +17721,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:108
+#: videos/Introduction-to-GBIF.en.vtt:108
 #, no-wrap
 msgid ""
 "00:02:47.120 --> 00:02:53.520\n"
@@ -16993,7 +17730,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:112
+#: videos/Introduction-to-GBIF.en.vtt:112
 #, no-wrap
 msgid ""
 "00:02:53.520 --> 00:03:00.400\n"
@@ -17002,7 +17739,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:116
+#: videos/Introduction-to-GBIF.en.vtt:116
 #, no-wrap
 msgid ""
 "00:03:00.400 --> 00:03:07.440\n"
@@ -17011,7 +17748,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:120
+#: videos/Introduction-to-GBIF.en.vtt:120
 #, no-wrap
 msgid ""
 "00:03:07.440 --> 00:03:15.120\n"
@@ -17020,7 +17757,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:124
+#: videos/Introduction-to-GBIF.en.vtt:124
 #, no-wrap
 msgid ""
 "00:03:15.120 --> 00:03:22.400\n"
@@ -17029,7 +17766,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:128
+#: videos/Introduction-to-GBIF.en.vtt:128
 #, no-wrap
 msgid ""
 "00:03:22.400 --> 00:03:28.720\n"
@@ -17038,7 +17775,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:132
+#: videos/Introduction-to-GBIF.en.vtt:132
 #, no-wrap
 msgid ""
 "00:03:28.720 --> 00:03:35.040\n"
@@ -17047,7 +17784,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:136
+#: videos/Introduction-to-GBIF.en.vtt:136
 #, no-wrap
 msgid ""
 "00:03:35.760 --> 00:03:38.960\n"
@@ -17056,7 +17793,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:140
+#: videos/Introduction-to-GBIF.en.vtt:140
 #, no-wrap
 msgid ""
 "00:03:39.840 --> 00:03:47.280\n"
@@ -17065,7 +17802,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:144
+#: videos/Introduction-to-GBIF.en.vtt:144
 #, no-wrap
 msgid ""
 "00:03:47.280 --> 00:03:53.120\n"
@@ -17074,7 +17811,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:148
+#: videos/Introduction-to-GBIF.en.vtt:148
 #, no-wrap
 msgid ""
 "00:03:53.680 --> 00:04:00.320\n"
@@ -17083,7 +17820,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:152
+#: videos/Introduction-to-GBIF.en.vtt:152
 #, no-wrap
 msgid ""
 "00:04:03.040 --> 00:04:09.520\n"
@@ -17092,7 +17829,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:156
+#: videos/Introduction-to-GBIF.en.vtt:156
 #, no-wrap
 msgid ""
 "00:04:09.520 --> 00:04:15.680\n"
@@ -17101,7 +17838,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:160
+#: videos/Introduction-to-GBIF.en.vtt:160
 #, no-wrap
 msgid ""
 "00:04:15.680 --> 00:04:21.920\n"
@@ -17110,7 +17847,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:164
+#: videos/Introduction-to-GBIF.en.vtt:164
 #, no-wrap
 msgid ""
 "00:04:21.920 --> 00:04:28.000\n"
@@ -17119,7 +17856,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:168
+#: videos/Introduction-to-GBIF.en.vtt:168
 #, no-wrap
 msgid ""
 "00:04:28.000 --> 00:04:35.120\n"
@@ -17128,7 +17865,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:172
+#: videos/Introduction-to-GBIF.en.vtt:172
 #, no-wrap
 msgid ""
 "00:04:35.120 --> 00:04:39.760\n"
@@ -17137,7 +17874,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:176
+#: videos/Introduction-to-GBIF.en.vtt:176
 #, no-wrap
 msgid ""
 "00:04:39.760 --> 00:04:45.920\n"
@@ -17146,7 +17883,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:180
+#: videos/Introduction-to-GBIF.en.vtt:180
 #, no-wrap
 msgid ""
 "00:04:46.640 --> 00:04:54.320\n"
@@ -17155,7 +17892,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:184
+#: videos/Introduction-to-GBIF.en.vtt:184
 #, no-wrap
 msgid ""
 "00:04:54.320 --> 00:05:00.960\n"
@@ -17164,7 +17901,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:188
+#: videos/Introduction-to-GBIF.en.vtt:188
 #, no-wrap
 msgid ""
 "00:05:00.960 --> 00:05:06.720\n"
@@ -17173,7 +17910,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:192
+#: videos/Introduction-to-GBIF.en.vtt:192
 #, no-wrap
 msgid ""
 "00:05:06.720 --> 00:05:13.840\n"
@@ -17182,7 +17919,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:196
+#: videos/Introduction-to-GBIF.en.vtt:196
 #, no-wrap
 msgid ""
 "00:05:13.840 --> 00:05:20.800\n"
@@ -17191,7 +17928,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:200
+#: videos/Introduction-to-GBIF.en.vtt:200
 #, no-wrap
 msgid ""
 "00:05:20.800 --> 00:05:27.440\n"
@@ -17200,7 +17937,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:204
+#: videos/Introduction-to-GBIF.en.vtt:204
 #, no-wrap
 msgid ""
 "00:05:27.440 --> 00:05:33.920\n"
@@ -17209,7 +17946,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:208
+#: videos/Introduction-to-GBIF.en.vtt:208
 #, no-wrap
 msgid ""
 "00:05:33.920 --> 00:05:40.720\n"
@@ -17218,7 +17955,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:212
+#: videos/Introduction-to-GBIF.en.vtt:212
 #, no-wrap
 msgid ""
 "00:05:40.720 --> 00:05:47.040\n"
@@ -17227,7 +17964,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:216
+#: videos/Introduction-to-GBIF.en.vtt:216
 #, no-wrap
 msgid ""
 "00:05:47.040 --> 00:05:54.080\n"
@@ -17236,7 +17973,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:220
+#: videos/Introduction-to-GBIF.en.vtt:220
 #, no-wrap
 msgid ""
 "00:05:54.720 --> 00:06:00.640\n"
@@ -17245,7 +17982,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:224
+#: videos/Introduction-to-GBIF.en.vtt:224
 #, no-wrap
 msgid ""
 "00:06:03.360 --> 00:06:10.000\n"
@@ -17254,7 +17991,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:228
+#: videos/Introduction-to-GBIF.en.vtt:228
 #, no-wrap
 msgid ""
 "00:06:10.000 --> 00:06:15.600\n"
@@ -17263,7 +18000,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:232
+#: videos/Introduction-to-GBIF.en.vtt:232
 #, no-wrap
 msgid ""
 "00:06:16.400 --> 00:06:22.320\n"
@@ -17272,7 +18009,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:236
+#: videos/Introduction-to-GBIF.en.vtt:236
 #, no-wrap
 msgid ""
 "00:06:22.320 --> 00:06:28.160\n"
@@ -17281,7 +18018,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:240
+#: videos/Introduction-to-GBIF.en.vtt:240
 #, no-wrap
 msgid ""
 "00:06:28.160 --> 00:06:34.640\n"
@@ -17290,7 +18027,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:244
+#: videos/Introduction-to-GBIF.en.vtt:244
 #, no-wrap
 msgid ""
 "00:06:34.640 --> 00:06:40.640\n"
@@ -17299,7 +18036,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:248
+#: videos/Introduction-to-GBIF.en.vtt:248
 #, no-wrap
 msgid ""
 "00:06:40.640 --> 00:06:47.200\n"
@@ -17308,7 +18045,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:252
+#: videos/Introduction-to-GBIF.en.vtt:252
 #, no-wrap
 msgid ""
 "00:06:47.200 --> 00:06:54.240\n"
@@ -17317,7 +18054,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:256
+#: videos/Introduction-to-GBIF.en.vtt:256
 #, no-wrap
 msgid ""
 "00:06:54.240 --> 00:07:00.880\n"
@@ -17326,7 +18063,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:260
+#: videos/Introduction-to-GBIF.en.vtt:260
 #, no-wrap
 msgid ""
 "00:07:00.880 --> 00:07:05.680\n"
@@ -17335,7 +18072,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:264
+#: videos/Introduction-to-GBIF.en.vtt:264
 #, no-wrap
 msgid ""
 "00:07:05.680 --> 00:07:12.160\n"
@@ -17344,7 +18081,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:268
+#: videos/Introduction-to-GBIF.en.vtt:268
 #, no-wrap
 msgid ""
 "00:07:12.160 --> 00:07:18.000\n"
@@ -17353,7 +18090,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:272
+#: videos/Introduction-to-GBIF.en.vtt:272
 #, no-wrap
 msgid ""
 "00:07:21.360 --> 00:07:27.920\n"
@@ -17362,7 +18099,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:276
+#: videos/Introduction-to-GBIF.en.vtt:276
 #, no-wrap
 msgid ""
 "00:07:27.920 --> 00:07:34.720\n"
@@ -17371,7 +18108,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:280
+#: videos/Introduction-to-GBIF.en.vtt:280
 #, no-wrap
 msgid ""
 "00:07:34.720 --> 00:07:40.080\n"
@@ -17380,7 +18117,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:284
+#: videos/Introduction-to-GBIF.en.vtt:284
 #, no-wrap
 msgid ""
 "00:07:40.080 --> 00:07:45.840\n"
@@ -17389,747 +18126,10 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: videos/intro-GBIF.en.vtt:288
+#: videos/Introduction-to-GBIF.en.vtt:288
 #, no-wrap
 msgid ""
 "00:07:45.840 --> 00:07:54.800\n"
 "by the european union this presentation&nbsp;\n"
 "was created and narrated by me tim hirsch\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:8
-#, no-wrap
-msgid ""
-"00:00:01.459 --> 00:00:08.090\n"
-"This presentation introduces the Integrated\n"
-"Publishing Toolkit and its interface.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:12
-#, no-wrap
-msgid ""
-"00:00:08.090 --> 00:00:14.390\n"
-"The Integrated Publishing Toolkit -- the IPT--\n"
-"is software that is installed on a server.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:15
-#, no-wrap
-msgid ""
-"00:00:14.390 --> 00:00:17.930\n"
-"It requires a Java applet like Tomcat to run.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:19
-#, no-wrap
-msgid ""
-"00:00:17.930 --> 00:00:24.269\n"
-"Just like Excel helps you create spreadsheets,\n"
-"the IPT helps you create darwin core archives\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:23
-#, no-wrap
-msgid ""
-"00:00:24.269 --> 00:00:29.939\n"
-"files, register them with GBIF and makes them\n"
-"discoverable on the internet.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:27
-#, no-wrap
-msgid ""
-"00:00:29.939 --> 00:00:35.070\n"
-"Many institutions do not have the technical\n"
-"resources to host their own IPT, if that is\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:31
-#, no-wrap
-msgid ""
-"00:00:35.070 --> 00:00:40.600\n"
-"the case with your institution, please investigate\n"
-"the data hosting options on the GBIF website\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:34
-#, no-wrap
-msgid ""
-"00:00:40.600 --> 00:00:45.320\n"
-"under the How-to menu.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:38
-#, no-wrap
-msgid ""
-"00:00:45.320 --> 00:00:51.429\n"
-"After installing an IPT, an administrator\n"
-"is required to manage user accounts, publishing\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:42
-#, no-wrap
-msgid ""
-"00:00:51.429 --> 00:00:55.969\n"
-"organizations and Darwin Core extensions.\n"
-"If your data is being hosted within your own\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:46
-#, no-wrap
-msgid ""
-"00:00:55.969 --> 00:01:01.660\n"
-"institution or by another institution, make\n"
-"sure you know who the administrator is so\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:49
-#, no-wrap
-msgid ""
-"00:01:01.660 --> 00:01:06.840\n"
-"that they can assist you when necessary.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:53
-#, no-wrap
-msgid ""
-"00:01:06.840 --> 00:01:11.630\n"
-"The IPT can be installed in either a test\n"
-"environment or in a production environment.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:57
-#, no-wrap
-msgid ""
-"00:01:11.630 --> 00:01:16.770\n"
-"For the purposes of this course, we will be\n"
-"using a test and training environment.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:61
-#, no-wrap
-msgid ""
-"00:01:16.770 --> 00:01:20.560\n"
-"When you browse to an IPT page, you will not\n"
-"be logged in.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:65
-#, no-wrap
-msgid ""
-"00:01:20.560 --> 00:01:23.230\n"
-"And you will only have two tabs available\n"
-"to you.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:68
-#, no-wrap
-msgid ""
-"00:01:23.230 --> 00:01:28.509\n"
-"A home tab and an About tab.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:72
-#, no-wrap
-msgid ""
-"00:01:28.509 --> 00:01:33.510\n"
-"After logging into the IPT, you will have\n"
-"more tabs available to you.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:76
-#, no-wrap
-msgid ""
-"00:01:33.510 --> 00:01:39.420\n"
-"Managers with (and without) registration rights\n"
-"will see the Manage Resources tab.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:80
-#, no-wrap
-msgid ""
-"00:01:39.420 --> 00:01:46.430\n"
-"Administrators will see the Manager Resources\n"
-"tab and an Administration tab.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:84
-#, no-wrap
-msgid ""
-"00:01:46.430 --> 00:01:51.939\n"
-"At the bottom of the Manage Resources tab\n"
-"is a section to Create a New Resource.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:88
-#, no-wrap
-msgid ""
-"00:01:51.939 --> 00:01:57.290\n"
-"A shortname is an abbreviated, but descriptive\n"
-"name that will become part of your URL.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:92
-#, no-wrap
-msgid ""
-"00:01:57.290 --> 00:02:08.310\n"
-"It cannot have spaces. An example would be\n"
-"fmnh-herps, or wcs_camera_traps\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:96
-#, no-wrap
-msgid ""
-"00:02:08.310 --> 00:02:13.050\n"
-"When creating a resource, do not attempt to\n"
-"add an archive file at this point.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:100
-#, no-wrap
-msgid ""
-"00:02:13.050 --> 00:02:17.610\n"
-"You will do it after the resource is created.\n"
-"You will see a video demonstration of this\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:103
-#, no-wrap
-msgid ""
-"00:02:17.610 --> 00:02:22.970\n"
-"process in the next section.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:107
-#, no-wrap
-msgid ""
-"00:02:22.970 --> 00:02:26.900\n"
-"After creating a resource, you will be directed\n"
-"to the resource page.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:111
-#, no-wrap
-msgid ""
-"00:02:26.900 --> 00:02:30.950\n"
-"Here you will have multiple options for editing\n"
-"the resource.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:115
-#, no-wrap
-msgid ""
-"00:02:30.950 --> 00:02:34.950\n"
-"The first section is for Source Data.\n"
-"This is where you will upload your source\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:119
-#, no-wrap
-msgid ""
-"00:02:34.950 --> 00:02:39.410\n"
-"data files or make database connections to\n"
-"your source data.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:122
-#, no-wrap
-msgid ""
-"00:02:39.410 --> 00:02:42.390\n"
-"For this course, we will upload files.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:126
-#, no-wrap
-msgid ""
-"00:02:42.390 --> 00:02:47.950\n"
-"Once a file is uploaded, you have the opportunity\n"
-"to edit some information about the file.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:130
-#, no-wrap
-msgid ""
-"00:02:47.950 --> 00:02:54.040\n"
-"You can upload delimited text files which\n"
-"include csv, tab, and files using any other\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:134
-#, no-wrap
-msgid ""
-"00:02:54.040 --> 00:02:58.790\n"
-"delimiter, either directly or compressed with\n"
-"zip or gzip.&nbsp;\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:138
-#, no-wrap
-msgid ""
-"00:02:58.790 --> 00:03:03.650\n"
-"Excel files are also supported.&nbsp;\n"
-"After a file is uploaded, you will then have\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:142
-#, no-wrap
-msgid ""
-"00:03:03.650 --> 00:03:07.590\n"
-"an Edit button.\n"
-"You can upload mutliple files if you find\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:146
-#, no-wrap
-msgid ""
-"00:03:07.590 --> 00:03:11.550\n"
-"you will be using extended data with main\n"
-"file.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:150
-#, no-wrap
-msgid ""
-"00:03:11.550 --> 00:03:17.420\n"
-"Alternatively, you can configure&nbsp;SQL views&nbsp;to\n"
-"databases in your local network.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:154
-#, no-wrap
-msgid ""
-"00:03:17.420 --> 00:03:24.310\n"
-"To create a new SQL source, please click \"Connect\n"
-"to database\" without any file chosen.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:158
-#, no-wrap
-msgid ""
-"00:03:24.310 --> 00:03:28.250\n"
-"Creating a database connection will require\n"
-"you to coordinate with your IT support to\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:162
-#, no-wrap
-msgid ""
-"00:03:28.250 --> 00:03:33.110\n"
-"ensure appropriate permissions.\n"
-"Database connections are typically only supported\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:165
-#, no-wrap
-msgid ""
-"00:03:33.110 --> 00:03:39.180\n"
-"by institutions hosting their own IPT.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:169
-#, no-wrap
-msgid ""
-"00:03:39.180 --> 00:03:42.620\n"
-"After a dataset is added, the next step is\n"
-"to map the data.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:173
-#, no-wrap
-msgid ""
-"00:03:42.620 --> 00:03:48.040\n"
-"You will see this demonstrated in a later\n"
-"video.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:177
-#, no-wrap
-msgid ""
-"00:03:48.040 --> 00:03:52.360\n"
-"The third section of the resource is where\n"
-"you will add your metadata describing your\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:180
-#, no-wrap
-msgid ""
-"00:03:52.360 --> 00:03:55.620\n"
-"dataset.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:184
-#, no-wrap
-msgid ""
-"00:03:55.620 --> 00:03:59.150\n"
-"Most of the data on the Basic metadata page\n"
-"is required.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:188
-#, no-wrap
-msgid ""
-"00:03:59.150 --> 00:04:04.740\n"
-"You must choose a dataset license or waiver\n"
-"and a publishing organization if you intended\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:192
-#, no-wrap
-msgid ""
-"00:04:04.740 --> 00:04:09.320\n"
-"to register your dataset with GBIF.\n"
-"If you have a GBIF-funded project, you will\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:196
-#, no-wrap
-msgid ""
-"00:04:09.320 --> 00:04:16.209\n"
-"also need to add your project identifier on\n"
-"the Project data page.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:200
-#, no-wrap
-msgid ""
-"00:04:16.209 --> 00:04:23.229\n"
-"After the first three sections are complete,\n"
-"a resource can be published.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:204
-#, no-wrap
-msgid ""
-"00:04:23.229 --> 00:04:27.129\n"
-"A resource must be public in order to register\n"
-"it with GBIF.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:208
-#, no-wrap
-msgid ""
-"00:04:27.129 --> 00:04:31.949\n"
-"If the resource is made public after the initial\n"
-"publication, it will need to be published\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:212
-#, no-wrap
-msgid ""
-"00:04:31.949 --> 00:04:35.409\n"
-"a second time before it can be registered\n"
-"with GBIF.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:216
-#, no-wrap
-msgid ""
-"00:04:35.409 --> 00:04:44.250\n"
-"The last section allows you to add other users\n"
-"to help manager your resource.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:220
-#, no-wrap
-msgid ""
-"00:04:44.250 --> 00:04:48.949\n"
-"As a reminder, to register a dataset resource\n"
-"with GBIF, a publishing organization must\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:224
-#, no-wrap
-msgid ""
-"00:04:48.949 --> 00:04:53.699\n"
-"be set in the Metadata section and the resource\n"
-"must be set to Public.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:228
-#, no-wrap
-msgid ""
-"00:04:53.699 --> 00:04:57.969\n"
-"Once these conditions are met, then the Register\n"
-"button will be available.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:232
-#, no-wrap
-msgid ""
-"00:04:57.969 --> 00:05:05.120\n"
-"If the button is not immediately available.\n"
-"Try publishing one more time.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:236
-#, no-wrap
-msgid ""
-"00:05:05.120 --> 00:05:10.210\n"
-"Once a dataset is registered with GBIF, it\n"
-"will show up under the publishing institution’s\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:239
-#, no-wrap
-msgid ""
-"00:05:10.210 --> 00:05:14.560\n"
-"datasets in the GBIF portal.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:243
-#, no-wrap
-msgid ""
-"00:05:14.560 --> 00:05:18.419\n"
-"Once the dataset is registered with GBIF,\n"
-"it is given a DOI.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:247
-#, no-wrap
-msgid ""
-"00:05:18.419 --> 00:05:23.849\n"
-"This DOI will allow users of the data to give\n"
-"proper credit to the dataset and the publishing\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:251
-#, no-wrap
-msgid ""
-"00:05:23.849 --> 00:05:29.810\n"
-"institution if the dataset is used in research.\n"
-"GBIF tracks citations.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:255
-#, no-wrap
-msgid ""
-"00:05:29.810 --> 00:05:35.930\n"
-"Any time the dataset DOI is used in a paper,\n"
-"the citation number on the dataset will increase.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:259
-#, no-wrap
-msgid ""
-"00:05:35.930 --> 00:05:41.419\n"
-"You can click the Citation button to see which\n"
-"papers used your dataset.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:263
-#, no-wrap
-msgid ""
-"00:05:41.419 --> 00:05:46.860\n"
-"Also from this page, you can access the occurrences\n"
-"records associated with the dataset.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:267
-#, no-wrap
-msgid ""
-"00:05:46.860 --> 00:05:52.749\n"
-"If a checklist, you’d be able to see the\n"
-"taxons.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:271
-#, no-wrap
-msgid ""
-"00:05:52.749 --> 00:06:01.039\n"
-"All the metadata you entered in IPT is nicely\n"
-"displayed on the dataset page.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:275
-#, no-wrap
-msgid ""
-"00:06:01.039 --> 00:06:04.150\n"
-"There are many community resources available\n"
-"to you.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:279
-#, no-wrap
-msgid ""
-"00:06:04.150 --> 00:06:09.219\n"
-"In the next section you will watch a demonstration\n"
-"video of publishing an occurrence dataset\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:282
-#, no-wrap
-msgid ""
-"00:06:09.219 --> 00:06:12.960\n"
-"with an extension on the ipt.\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:286
-#, no-wrap
-msgid ""
-"00:06:12.960 --> 00:06:13.960\n"
-"Thank you.\n"
-"&nbsp;\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:290
-#, no-wrap
-msgid ""
-"00:06:13.960 --> 00:06:18.189\n"
-"If you have questions on this presentation,\n"
-"please use the provided forum in the e-Learning\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:294
-#, no-wrap
-msgid ""
-"00:06:18.189 --> 00:06:19.629\n"
-"platform.\n"
-"&nbsp;\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:298
-#, no-wrap
-msgid ""
-"00:06:19.629 --> 00:06:24.949\n"
-"This video is part of a series of presentations\n"
-"used in the GBIF Biodiversity Data Mobilization\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:302
-#, no-wrap
-msgid ""
-"00:06:24.949 --> 00:06:28.580\n"
-"course.\n"
-"The biodiversity data mobilization curriculum\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:306
-#, no-wrap
-msgid ""
-"00:06:28.580 --> 00:06:33.479\n"
-"was originally developed as part of the Biodiversity\n"
-"Information Development Programme funded by\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:310
-#, no-wrap
-msgid ""
-"00:06:33.479 --> 00:06:35.680\n"
-"the European Union.\n"
-"&nbsp;\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:314
-#, no-wrap
-msgid ""
-"00:06:35.680 --> 00:06:40.050\n"
-"This presentation was originally created by\n"
-"Nicolas Noe with additional contributions\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:318
-#, no-wrap
-msgid ""
-"00:06:40.050 --> 00:06:47.060\n"
-"by Sophie Pamerlon, Marie Elise Lecoq, Laura\n"
-"Anne Russell, Dag Endresen, Rukaya Johaadien,\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:322
-#, no-wrap
-msgid ""
-"00:06:47.060 --> 00:06:50.370\n"
-"BID and BIFA Trainers, Mentors and students.\n"
-"&nbsp;\n"
-msgstr ""
-
-#. type: Plain text
-#: videos/IPT_demo.en.vtt:326
-#, no-wrap
-msgid ""
-"00:06:50.370 --> 00:06:53.369\n"
-"This presentation has been narrated by Laura\n"
-"Anne Russell.\n"
 msgstr ""
