@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: publishing-dna-derived-data\n"
 "POT-Creation-Date: 2021-12-08 16:51+0000\n"
-"PO-Revision-Date: 2021-12-11 10:45\n"
+"PO-Revision-Date: 2021-12-11 13:53\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -48,13 +48,13 @@ msgstr ""
 #: description.en.adoc:2
 #, no-wrap
 msgid "Course description"
-msgstr ""
+msgstr "Описание курса"
 
 #. type: delimited block *
 #: description.en.adoc:6
 #, no-wrap
 msgid "*Aim*\n"
-msgstr ""
+msgstr "Цель\n"
 
 #. type: delimited block *
 #: description.en.adoc:13
@@ -65,7 +65,7 @@ msgstr "При прохождении курса вы научитесь исп�
 #: description.en.adoc:15
 #, no-wrap
 msgid "*Scope*\n"
-msgstr ""
+msgstr "Сфера\n"
 
 #. type: delimited block *
 #: description.en.adoc:18
@@ -154,29 +154,29 @@ msgstr "Получить широкое понимание важности ме
 #: course-prep.en.adoc:1
 #, no-wrap
 msgid "Course preparation "
-msgstr ""
+msgstr "Подготовка курса "
 
 #. type: Title ===
 #: course-prep.en.adoc:3
 #, no-wrap
 msgid "Required"
-msgstr ""
+msgstr "Требования"
 
 #. type: Title ====
 #: course-prep.en.adoc:5
 #, no-wrap
 msgid "Registrations and accounts"
-msgstr ""
+msgstr "Регистрации и учетные записи"
 
 #. type: Plain text
 #: course-prep.en.adoc:8
 msgid "Create an account at https://orcid.org/register[ORCID^]."
-msgstr ""
+msgstr "Создайте учетную запись в https://orcid.org/register[ORCID^]."
 
 #. type: Plain text
 #: course-prep.en.adoc:9
 msgid "Create a personal (user) account at https://www.gbif.org/[GBIF.org^], top right corner. You can login to GBIF using ORCID."
-msgstr ""
+msgstr "Создайте личную учетную запись (пользователя) на https://www.gbif.org/[GBIF.org^] в правом верхнем углу. Вы можете войти в GBIF с помощью ORCID."
 
 #. type: Plain text
 #: course-prep.en.adoc:10
@@ -197,7 +197,7 @@ msgstr ""
 #. type: Plain text
 #: course-prep.en.adoc:15
 msgid "To prepare for the course lectures, please watch the Foundations video playlist. These materials are terms-heavy, but will ensure that all participants have the same basis of knowledge to begin and will prepare you for the course lectures; please capture questions as you go through and ask them during the course."
-msgstr ""
+msgstr "Чтобы подготовиться к лекциям курса, пожалуйста, ознакомьтесь со списком основных видео. Эти материалы являются затратными по времени, но способствуют тому, чтобы все участники имели одинаковую базу знаний в начале курса и были готовы к лекциям курса; пожалуйста, записывайте вопросы по мере прохождения и задавайте их в течение курса."
 
 #. type: Plain text
 #: course-prep.en.adoc:17
@@ -208,12 +208,12 @@ msgstr ""
 #: course-prep.en.adoc:18
 #, no-wrap
 msgid "Recommended"
-msgstr ""
+msgstr "Рекомендуется"
 
 #. type: Plain text
 #: course-prep.en.adoc:21
 msgid "The course will include a practical part where you will design a research project and its data elements. This project and its “data journey” will be on a plant-pollinator system. To prepare for this part, please read the following. Skip if you are working on pollinators yourself already."
-msgstr ""
+msgstr "Курс будет включать практическую часть, где вы будете разрабатывать исследовательский проект и его элементы данных. Этот проект и его «путь данных» будут осуществляться на основе системы растение-опылитель. Для подготовки к этой части, пожалуйста, прочитайте следующее. Пропустите, если вы уже работаете над опылителями."
 
 #. type: Plain text
 #: course-prep.en.adoc:23
@@ -229,12 +229,12 @@ msgstr ""
 #: course-prep.en.adoc:25
 #, no-wrap
 msgid "Optional"
-msgstr ""
+msgstr "Дополнительно"
 
 #. type: Plain text
 #: course-prep.en.adoc:28
 msgid "The following are optional activities if you have completed all of the above. Many aspects of these will be introduced during the course days."
-msgstr ""
+msgstr "Следующие действия являются необязательными, если вы выполнили все вышеперечисленное. Многие аспекты из них будут представлены в течение курса."
 
 #. type: Plain text
 #: course-prep.en.adoc:30
@@ -265,18 +265,18 @@ msgstr ""
 #. type: Plain text
 #: downloads.en.adoc:7
 msgid "All files for the course may be downloaded from this page.  Or if you prefer, all files are linked individually throughout the course as they occur in the curriculum.  The video files are embedded throughout the course, as well, and play from YouTube. Subtitles are available when playing from YouTube for most videos.  If you have difficulty accessing the embedded videos, please download the mp4 files to play them locally on your computer."
-msgstr ""
+msgstr "Все файлы курса можно загрузить с этой страницы. Или, если вы предпочитаете иное, все файлы имеют отдельные ссылки на протяжении всего курса, по мере их появления в учебной программе. Видеофайлы также встраиваются в курс и доступны на YouTube. Субтитры доступны при воспроизведении с YouTube для большинства видео. Если у вас есть сложности с доступом к встроенным видео, пожалуйста, загрузите mp4 файлы, чтобы воспроизвести их локально на вашем компьютере."
 
 #. type: Title ===
 #: downloads.en.adoc:8
 #, no-wrap
 msgid "Videos"
-msgstr ""
+msgstr "Видео"
 
 #. type: Plain text
 #: downloads.en.adoc:10
 msgid "The videos are narrated in English. Subtitles are not available for the downloaded videos."
-msgstr ""
+msgstr "Видео представлены на английском языке. Субтитры для загруженных видео недоступны."
 
 #. type: Plain text
 #: downloads.en.adoc:12
@@ -376,12 +376,12 @@ msgstr ""
 #. type: Plain text
 #: software.en.adoc:12
 msgid "https://openrefine.org/[OpenRefine^] is a tool with a set of features for working with tabular data that improves the overall quality of a dataset.  It is an application that runs on your own computer as a small web server, and in order to use it your web browser should point at that web server.  So, think of OpenRefine as a personal and private web application."
-msgstr ""
+msgstr "https://openrefine.org/[OpenRefine^] - это инструмент с набором функций для работы с табличными данными, который улучшает общее качество набора данных. Это приложение работает на вашем компьютере как небольшой веб-сервер, и для того, чтобы использовать его, ваш веб-браузер должен указывать на этот веб-сервер. Итак, подумайте о OpenRefine как о личном и частном веб-приложении."
 
 #. type: Plain text
 #: software.en.adoc:17
 msgid "We will use OpenRefine during the data mobilization portion of the course, especially during the practical exercises.  It will be necessary to install OpenRefine on your laptop.  If you are a skilled computer user, you can follow these steps to install the software on your computer.  If you are not confident, please ask for help. Refer to the https://openrefine.org/download.html[OpenRefine download page^] for more details."
-msgstr ""
+msgstr "Мы будем использовать OpenRefine во время похождения раздела курса касающегося мобилизации данных, особенно во время практических занятий. Необходимо установить OpenRefine на ноутбук. Если вы квалифицированный пользователь компьютера, вы можете выполнить следующие действия, чтобы установить программное обеспечение на ваш компьютер. Если вы не уверены, пожалуйста, попросите о помощи. Дополнительные сведения см. на странице загрузки OpenRefine."
 
 #. type: Plain text
 #: software.en.adoc:19
