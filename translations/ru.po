@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: publishing-dna-derived-data\n"
 "POT-Creation-Date: 2021-12-08 16:51+0000\n"
-"PO-Revision-Date: 2021-12-08 19:49\n"
+"PO-Revision-Date: 2021-12-11 10:45\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -70,85 +70,85 @@ msgstr ""
 #. type: delimited block *
 #: description.en.adoc:18
 msgid "Data management skills for accessing and publishing data through biodiversity data platforms.  This is an observation/specimen -> published record course that does not include wet lab steps."
-msgstr ""
+msgstr "Навыки управления данными для получения доступа к данным и их публикации через платформы данных о биоразнообразии. В этом курсе рассматривается наблюдение/экземпляр → публикация записей, не включая лабораторные этапы."
 
 #. type: Plain text
 #: description.en.adoc:21
 msgid "This course is a collaboration between the https://diku.no/[Diku-funded^] University of Oslo project BioDATA, the BMBF-funded project Caucasus Barcode of Life (https://ggbc.eu/[CaBOL^]), and https://www.gbif.org/[GBIF^] - Global Biodiversity Information Facility as has been developed by Dag Endresen, Dmitry Schigel, Helena Wirta, Hugo de Boer, Laura Russell, and Stefaniya Kamenova."
-msgstr ""
+msgstr "Этот курс представляет собой результат сотрудничества между проектом BioDATA Университета Осло  финансируемым Diku, проектом «Кавказский штрих-код жизни» (CaBOL)  финансируемым BMBF и GBIF - Глобальным информационным фондом по биоразнообразию, разработан  Dag Endresen, Dmitry Schigel, Helena Wirta, Hugo de Boer, Laura Russell, and Stefaniya Kamenova."
 
 #. type: Title ===
 #: description.en.adoc:22
 #, no-wrap
 msgid "Audience"
-msgstr ""
+msgstr "Аудитория"
 
 #. type: Plain text
 #: description.en.adoc:25
 msgid "The course is suitable for MSc and PhD students in biology and other professionals in relevant fields."
-msgstr ""
+msgstr "Курс ориентирован для аспирантов и кандидатов наук в области биологии, а также других специалистов в соответствующих областях."
 
 #. type: Title ===
 #: description.en.adoc:26
 #, no-wrap
 msgid "Prerequisites"
-msgstr ""
+msgstr "Обязательные требования"
 
 #. type: Plain text
 #: description.en.adoc:31
 msgid "Participants should have an affinity or professional interest in biodiversity.  Participants need to have the motivation and interest to handle DNA barcodes, museum collection data, and observation data.  A good understanding of English is necessary to follow the course, carry out the exercises, and receive support during the teaching."
-msgstr ""
+msgstr "Участники должны быть связаны либо иметь профессиональный интерес к исследованию биоразнообразия. Участники должны иметь мотивацию и интерес к обработке штрихкодов ДНК, данных музейных коллекций и данных наблюдений. Хорошее понимание английского языка необходимо, чтобы следовать курсу, выполнять упражнения, и получать поддержку во время преподавания."
 
 #. type: Title ===
 #: description.en.adoc:32
 #, no-wrap
 msgid "Intended learning outcomes"
-msgstr ""
+msgstr "Предполагаемые результаты обучения"
 
 #. type: Plain text
 #: description.en.adoc:35
 msgid "Understand and be able to explain the concept of species delimitation."
-msgstr ""
+msgstr "Понимание и умение объяснять понятие делимитации видов."
 
 #. type: Plain text
 #: description.en.adoc:36
 msgid "Learn to use genetic sequence data as a DNA barcode to identify a species."
-msgstr ""
+msgstr "Научитесь использовать данные генетической последовательности такие как штрихкод ДНК для идентификации вида."
 
 #. type: Plain text
 #: description.en.adoc:37
 msgid "Learn to publish and retrieve data from GBIF and BOLD."
-msgstr ""
+msgstr "Научитесь публиковать и извлекать данные из GBIF и BOLD."
 
 #. type: Plain text
 #: description.en.adoc:38
 msgid "Learn the basics of data capture, cleaning, storage, geo-referencing, and citation."
-msgstr ""
+msgstr "Изучите основы сбора, очистки, хранения, геопривязки и цитирования данных."
 
 #. type: Plain text
 #: description.en.adoc:39
 msgid "Critically assess the quality of own and external data and their fitness for purpose."
-msgstr ""
+msgstr "Критически оценивать качество собственных и внешних данных и их пригодность для целей исследования."
 
 #. type: Plain text
 #: description.en.adoc:40
 msgid "Practice the key tools and approaches to maximize data quality, data linking and data reuse."
-msgstr ""
+msgstr "Использовать ключевые инструменты и подходы для достижения максимального качества данных, связывания данных и повторного использования данных."
 
 #. type: Plain text
 #: description.en.adoc:41
 msgid "Explore the benefits of FAIR and open data principles in biodiversity research and collaboration."
-msgstr ""
+msgstr "Изучите преимущества принципов FAIR и открытых данных в исследованиях и в сотрудничестве в области биоразнообразия."
 
 #. type: Plain text
 #: description.en.adoc:42
 msgid "Understand the value of data management as a research-enabling tool."
-msgstr ""
+msgstr "Понимать ценность управления данными как научно-исследовательского инструмента."
 
 #. type: Plain text
 #: description.en.adoc:42
 msgid "Broadly understand the importance of international biodiversity infrastructures, and how these can contribute to biodiversity assessments, monitoring, conservation, and red- listing."
-msgstr ""
+msgstr "Получить широкое понимание важности международных инфраструктур по биоразнообразию и того, как они могут способствовать оценке биоразнообразия, мониторингу, сохранению и повторному использованию."
 
 #. type: Title ==
 #: course-prep.en.adoc:1
