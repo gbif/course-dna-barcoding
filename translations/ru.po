@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: publishing-dna-derived-data\n"
 "POT-Creation-Date: 2021-12-08 16:51+0000\n"
-"PO-Revision-Date: 2021-12-17 09:22\n"
+"PO-Revision-Date: 2021-12-17 12:42\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -260,7 +260,7 @@ msgstr ""
 #: downloads.en.adoc:1
 #, no-wrap
 msgid "Files for download"
-msgstr ""
+msgstr "Файлы для скачивания"
 
 #. type: Plain text
 #: downloads.en.adoc:7
@@ -407,18 +407,18 @@ msgstr ""
 #. type: Plain text
 #: software.en.adoc:26
 msgid "The latest stable release is OpenRefine 3.4.1, released on September 24, 2020. Detailed installation instructions are available at https://docs.openrefine.org/manual/installing/[^]."
-msgstr ""
+msgstr "Последняя стабильная версия OpenRefine 3.4.1, выпущенная 24 сентября 2020 года. Подробные инструкции по установке можно найти на https://docs.openrefine.org/manual/installing/[^]."
 
 #. type: Title ====
 #: software.en.adoc:27
 #, no-wrap
 msgid "Installation on MS Windows"
-msgstr ""
+msgstr "Установка на Windows"
 
 #. type: delimited block =
 #: software.en.adoc:30 software.en.adoc:43
 msgid "Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-win-with-java-3.4.1.zip[Windows kit *with embedded Java*].  Choose to save the file rather than open it."
-msgstr ""
+msgstr "Скачайте https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-win-with-java-3.4.1.zip[Windows kit *with embedded Java*]. Выберите сохранить файл, а не открыть его."
 
 #. type: Plain text
 #: software.en.adoc:31
@@ -463,7 +463,7 @@ msgstr ""
 #. type: delimited block =
 #: software.en.adoc:52
 msgid "Find the file you downloaded.  Right click it, and choose \"Extract All…\""
-msgstr ""
+msgstr "Найдите файл, который вы скачали. Щелкните правой кнопкой мыши и выберите \"Извлечь все…\""
 
 #. type: Target for macro image
 #: software.en.adoc:59
@@ -502,12 +502,12 @@ msgstr ""
 #: software.en.adoc:82
 #, no-wrap
 msgid "Installation on Mac"
-msgstr ""
+msgstr "Установка на Mac"
 
 #. type: Plain text
 #: software.en.adoc:85
 msgid "Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-mac-3.4.1.dmg[Mac kit]."
-msgstr ""
+msgstr "Скачайте https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-mac-3.4.1.dmg[Mac kit]."
 
 #. type: Plain text
 #: software.en.adoc:87
@@ -655,12 +655,12 @@ msgstr ""
 #: software.en.adoc:195
 #, no-wrap
 msgid "Installation on Linux"
-msgstr ""
+msgstr "Установка на Linux"
 
 #. type: Plain text
 #: software.en.adoc:198
 msgid "Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-linux-3.4.1.tar.gz[Linux kit]."
-msgstr ""
+msgstr "Скачайте https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-linux-3.4.1.tar.gz[Linux kit]."
 
 #. type: Plain text
 #: software.en.adoc:200
@@ -742,13 +742,13 @@ msgstr ""
 #. type: delimited block =
 #: software.en.adoc:258
 msgid "OpenRefine is now running."
-msgstr ""
+msgstr "OpenRefine теперь запущен."
 
 #. type: Title ==
 #: introduction.en.adoc:1
 #, no-wrap
 msgid "Introduction "
-msgstr ""
+msgstr "Введение "
 
 #.  [NOTE.objectives]
 #.  This module includes ...
@@ -756,7 +756,7 @@ msgstr ""
 #: introduction.en.adoc:6
 #, no-wrap
 msgid "Barcoding, data and biodiversity"
-msgstr ""
+msgstr "Штрих-код, данные и биоразнообразие"
 
 #. type: Plain text
 #: introduction.en.adoc:14 introduction.en.adoc:32 research-data.en.adoc:14
@@ -765,7 +765,7 @@ msgstr ""
 #: metabarcoding-edna.en.adoc:9 data-publishing.en.adoc:60
 #: data-publishing.en.adoc:74
 msgid "The presentation can be viewed in the online version of the course."
-msgstr ""
+msgstr "Презентация доступна в онлайн-версии курса."
 
 #. type: delimited block +
 #: introduction.en.adoc:21
@@ -852,7 +852,7 @@ msgstr ""
 #: data-journey.en.adoc:17
 #, no-wrap
 msgid "Study system"
-msgstr ""
+msgstr "Система обучения"
 
 #. type: Block title
 #: data-journey.en.adoc:20
@@ -870,43 +870,43 @@ msgstr ""
 #: data-journey.en.adoc:23
 #, no-wrap
 msgid "Bumblebee pollinators"
-msgstr ""
+msgstr "Шмели-опылители"
 
 #. type: Plain text
 #: data-journey.en.adoc:26
 msgid "What do we know about bumblebees in the Caucasus region?"
-msgstr ""
+msgstr "Что мы знаем о шмелях в Кавказском регионе?"
 
 #. type: Plain text
 #: data-journey.en.adoc:27
 msgid "How many species? Where are they distributed?"
-msgstr ""
+msgstr "Сколько видов? Где они распространены?"
 
 #. type: Plain text
 #: data-journey.en.adoc:28
 msgid "What are their preferred plant resources?"
-msgstr ""
+msgstr "Какие растительные ресурсы они предпочитают?"
 
 #. type: Plain text
 #: data-journey.en.adoc:29
 msgid "Identify simple and clear research question"
-msgstr ""
+msgstr "Определите простой и понятный исследовательский вопрос"
 
 #. type: Plain text
 #: data-journey.en.adoc:30
 msgid "What resources and type of data you will need?"
-msgstr ""
+msgstr "Какие ресурсы и типы данных вам потребуется?"
 
 #. type: Plain text
 #: data-journey.en.adoc:31
 msgid "How much of this data already exists?"
-msgstr ""
+msgstr "Сколько таких данных уже существует?"
 
 #. type: Title ====
 #: data-journey.en.adoc:32
 #, no-wrap
 msgid "Caucasus ecoregion"
-msgstr ""
+msgstr "Экорегион Кавказа"
 
 #. type: Target for macro image
 #: data-journey.en.adoc:34
@@ -917,12 +917,12 @@ msgstr ""
 #. type: Plain text
 #: data-journey.en.adoc:37
 msgid "One of the most species-rich regions in the world"
-msgstr ""
+msgstr "Один из самых богатых видами в мире"
 
 #. type: Plain text
 #: data-journey.en.adoc:38
 msgid "High endemism rates"
-msgstr ""
+msgstr "Высокий уровень эндемизма"
 
 #. type: Plain text
 #: data-journey.en.adoc:39
@@ -937,7 +937,7 @@ msgstr ""
 #. type: Plain text
 #: data-journey.en.adoc:41
 msgid "DNA barcoding"
-msgstr ""
+msgstr "Штриховое кодирование ДНК"
 
 #. type: Plain text
 #: data-journey.en.adoc:42
@@ -947,33 +947,33 @@ msgstr ""
 #. type: Plain text
 #: data-journey.en.adoc:43
 msgid "Some biodiversity data is already available"
-msgstr ""
+msgstr "Некоторые данные о биоразнообразии уже имеются"
 
 #. type: Plain text
 #: data-journey.en.adoc:44
 msgid "Identify relevant datasets"
-msgstr ""
+msgstr "Определение соответствующих наборов данных"
 
 #. type: Plain text
 #: data-journey.en.adoc:45
 msgid "Mobilize them for addressing scientific & conservation issues"
-msgstr ""
+msgstr "Мобилизация их для решения научных и природоохранных вопросов"
 
 #. type: Plain text
 #: data-journey.en.adoc:46
 msgid "Identify data gaps for future research"
-msgstr ""
+msgstr "Выявление пробелов в данных для будущих исследований"
 
 #. type: Title ====
 #: data-journey.en.adoc:47
 #, no-wrap
 msgid "Public biodiversity databases"
-msgstr ""
+msgstr "Открытые базы данных о биоразнообразии"
 
 #. type: Plain text
 #: data-journey.en.adoc:50
 msgid "You may find the data in the ecoregion is not publicly available in all the databases so you will need to reflect on your strategy."
-msgstr ""
+msgstr "Вы можете столкнуться с тем, что данные по экорегиону не являются общедоступными во всех базах данных, и это необходимо учитывать в вашей стратегии."
 
 #. type: Target for macro image
 #: data-journey.en.adoc:51
@@ -1003,12 +1003,12 @@ msgstr ""
 #: data-journey.en.adoc:59
 #, no-wrap
 msgid "Step 1"
-msgstr ""
+msgstr "Этап 1"
 
 #. type: Plain text
 #: data-journey.en.adoc:62
 msgid "In Step 1, you will develop your research questions."
-msgstr ""
+msgstr "На этапе 1 вы разработаете свои исследовательские вопросы."
 
 #. type: Plain text
 #: data-journey.en.adoc:64
@@ -1019,7 +1019,7 @@ msgstr ""
 #: data-journey.en.adoc:65
 #, no-wrap
 msgid "Task 1"
-msgstr ""
+msgstr "Задание 1"
 
 #. type: Target for macro image
 #: data-journey.en.adoc:67
@@ -1030,28 +1030,28 @@ msgstr ""
 #. type: Plain text
 #: data-journey.en.adoc:70
 msgid "Take 5 minutes to complete the following:"
-msgstr ""
+msgstr "Для завершения работы вам понадобится 5 минут:"
 
 #. type: Plain text
 #: data-journey.en.adoc:72
 msgid "Form your research question(s)"
-msgstr ""
+msgstr "Сформулируйте свой исследовательский вопрос(ы)"
 
 #. type: Plain text
 #: data-journey.en.adoc:73
 msgid "Where is data available (or not available)?"
-msgstr ""
+msgstr "Где доступны данные (или недоступны)?"
 
 #. type: Plain text
 #: data-journey.en.adoc:74
 msgid "Draw a schematic of your question and plan to answer your question."
-msgstr ""
+msgstr "Нарисуйте схему своего вопроса и план ответа на него."
 
 #. type: Title ====
 #: data-journey.en.adoc:75
 #, no-wrap
 msgid "Task 2"
-msgstr ""
+msgstr "Задание 2"
 
 #. type: Target for macro image
 #: data-journey.en.adoc:77 data-journey.en.adoc:101
@@ -1062,17 +1062,17 @@ msgstr ""
 #. type: Plain text
 #: data-journey.en.adoc:80
 msgid "Take 25 minutes to complete the following using publicly available databases:"
-msgstr ""
+msgstr "Для завершения работы потребуется 25 минут, воспользуйтесь общедоступными базами данных:"
 
 #. type: Plain text
 #: data-journey.en.adoc:82
 msgid "Search for different species based on their names."
-msgstr ""
+msgstr "Поиск различных видов на основе их названий."
 
 #. type: Plain text
 #: data-journey.en.adoc:83
 msgid "Are there any records?"
-msgstr ""
+msgstr "Существуют ли какие-либо записи?"
 
 #. type: Plain text
 #: data-journey.en.adoc:84
@@ -1082,18 +1082,18 @@ msgstr ""
 #. type: Plain text
 #: data-journey.en.adoc:85
 msgid "What possible research questions can you formulate?"
-msgstr ""
+msgstr "Какие возможные исследовательские вопросы вы можете сформулировать?"
 
 #. type: Plain text
 #: data-journey.en.adoc:86
 msgid "Do you have the necessary data?"
-msgstr ""
+msgstr "Есть ли у вас необходимые данные?"
 
 #. type: Title ====
 #: data-journey.en.adoc:87
 #, no-wrap
 msgid "Task 3"
-msgstr ""
+msgstr "Задание 3"
 
 #. type: Target for macro image
 #: data-journey.en.adoc:89
@@ -1104,7 +1104,7 @@ msgstr ""
 #. type: Plain text
 #: data-journey.en.adoc:92 data-journey.en.adoc:131
 msgid "Take 10 minutes to complete the following:"
-msgstr ""
+msgstr "Для завершения работы вам понадобится 10 минут:"
 
 #. type: Plain text
 #: data-journey.en.adoc:94
@@ -1115,18 +1115,18 @@ msgstr ""
 #: data-journey.en.adoc:95
 #, no-wrap
 msgid "Step 2"
-msgstr ""
+msgstr "Этап 2"
 
 #. type: Plain text
 #: data-journey.en.adoc:98
 msgid "In Step 2, you will begin to work with species identifications using GBIF and the Georgian Biodiversity Database (GBD)."
-msgstr ""
+msgstr "На втором этапе начните работать с определением видов, используя GBIF и Базу данных биоразнообразия Грузии (GBD)."
 
 #. type: Title ====
 #: data-journey.en.adoc:99
 #, no-wrap
 msgid "Task 4"
-msgstr ""
+msgstr "Задание 4"
 
 #. type: Target for macro image
 #: data-journey.en.adoc:103 data-journey.en.adoc:116 data-journey.en.adoc:128
@@ -1142,43 +1142,43 @@ msgstr ""
 #: data-journey.en.adoc:106 data-journey.en.adoc:119 data-journey.en.adoc:156
 #: data-journey.en.adoc:231 data-journey.en.adoc:249
 msgid "Take 15 minutes to complete the following:"
-msgstr ""
+msgstr "Для завершения работы вам понадобится 15 минут:"
 
 #. type: Plain text
 #: data-journey.en.adoc:108
 msgid "Search Bombus records in both GBIF and GBD."
-msgstr ""
+msgstr "Поиск записей относящихся к роду Bombus в GBIF и GBD."
 
 #. type: Plain text
 #: data-journey.en.adoc:109
 msgid "What species of Bombus are known to occur in Georgia?"
-msgstr ""
+msgstr "Какие виды рода Bombus обитают в Грузии?"
 
 #. type: Plain text
 #: data-journey.en.adoc:110
 msgid "Combine lists from the two databases into a final list in Excel of species names occurring in Georgia."
-msgstr ""
+msgstr "Объедините списки из двух баз данных в окончательный список в Excel названий видов, встречающихся в Грузии."
 
 #. type: Plain text
 #: data-journey.en.adoc:111
 msgid "If you have time, do the same for Vicia records."
-msgstr ""
+msgstr "Если у вас есть время, сделайте то же самое для рода Vicia."
 
 #. type: Plain text
 #: data-journey.en.adoc:113
 msgid "In this exercise you will be manual editing / cleaning the list from GBD to prepare for the next task."
-msgstr ""
+msgstr "В этом упражнении вы будете вручную редактировать / очищать список из GBD, чтобы подготовиться к следующему заданию."
 
 #. type: Title ====
 #: data-journey.en.adoc:114
 #, no-wrap
 msgid "Task 5"
-msgstr ""
+msgstr "Задание 5"
 
 #. type: Plain text
 #: data-journey.en.adoc:121
 msgid "Using the https://www.gbif.org/tools/species-lookup[GBIF species lookup^], produce a clean list of species with validated taxonomic names."
-msgstr ""
+msgstr "Используя https://www.gbif.org/tools/species-lookup[поиск видов GBIF^], создайте чистовой список видов с выверенными названиями таксонов."
 
 #. type: Target for macro image
 #: data-journey.en.adoc:122
@@ -1189,23 +1189,23 @@ msgstr ""
 #. type: Plain text
 #: data-journey.en.adoc:125
 msgid "Synonyms may arise whenever the same taxon is described and named more than once, independently."
-msgstr ""
+msgstr "Синонимы могут возникать в тех случаях, когда один и тот же таксон описан и назван независимо несколько раз."
 
 #. type: Title ====
 #: data-journey.en.adoc:126
 #, no-wrap
 msgid "Task 6"
-msgstr ""
+msgstr "Задание 6"
 
 #. type: Plain text
 #: data-journey.en.adoc:133
 msgid "Reflect on what has been learned and experienced during Steps 1 and 2."
-msgstr ""
+msgstr "Проанализируйте, что было изучено и рассмотренно на этапах 1 и 2."
 
 #. type: Plain text
 #: data-journey.en.adoc:134
 msgid "Explore the https://v3.boldsystems.org[BOLD^] database in preparation the next steps."
-msgstr ""
+msgstr "Рассмотрите базу данных https://v3.boldsystems.org[BOLD^] при подготовке к следующим этапам."
 
 #. type: Plain text
 #: data-journey.en.adoc:136
@@ -1216,95 +1216,95 @@ msgstr ""
 #: data-journey.en.adoc:137
 #, no-wrap
 msgid "Step 3"
-msgstr ""
+msgstr "Этап 3"
 
 #. type: Title ====
 #: data-journey.en.adoc:139
 #, no-wrap
 msgid "Task 7"
-msgstr ""
+msgstr "Задание 7"
 
 #. type: Plain text
 #: data-journey.en.adoc:144 data-journey.en.adoc:214 data-journey.en.adoc:276
 msgid "Take 45 minutes to complete the following:"
-msgstr ""
+msgstr "Для завершения работы вам понадобится 45 минут:"
 
 #. type: Plain text
 #: data-journey.en.adoc:146
 msgid "Explore Bombus-Vicia records in https://v3.boldsystems.org/[BOLD^]."
-msgstr ""
+msgstr "Изучите записи относящиеся к системе Bombus-Vicia в https://v3.boldsystems.org/[BOLD^]."
 
 #. type: Plain text
 #: data-journey.en.adoc:147
 msgid "Are there DNA barcodes available for the species of Bombus and Vicia you listed from Georgia?"
-msgstr ""
+msgstr "Доступны ли штрих-коды ДНК для видов родов Bombus и Vicia, которые вы включили в список из Грузии?"
 
 #. type: Plain text
 #: data-journey.en.adoc:148
 msgid "If yes, download the data."
-msgstr ""
+msgstr "Если да, то загрузите данные."
 
 #. type: Plain text
 #: data-journey.en.adoc:149
 msgid "How many specimens per species?"
-msgstr ""
+msgstr "Сколько экземпляров каждого вида?"
 
 #. type: Plain text
 #: data-journey.en.adoc:150
 msgid "Which and how many of these species lack a DNA barcode? Mark in your list."
-msgstr ""
+msgstr "Для скольких и по каким из этих видаов не хватает штрих-кода ДНК? Отметьте в своем списке."
 
 #. type: Title ====
 #: data-journey.en.adoc:151
 #, no-wrap
 msgid "Task 8"
-msgstr ""
+msgstr "Задание 8"
 
 #. type: Plain text
 #: data-journey.en.adoc:158
 msgid "Explore more automatized ways for accessing DNA barcoding data in BOLD."
-msgstr ""
+msgstr "Изучите более автоматизированные способы доступа к данным штрих-кодов ДНК в BOLD."
 
 #. type: Plain text
 #: data-journey.en.adoc:160
 msgid "Use the GBIF shortcut for Bombus hortorum (https://www.gbif.org/species/1340542)"
-msgstr ""
+msgstr "Используйте ярлык GBIF для Bombus hortorum (https://www.gbif.org/species/1340542)"
 
 #. type: Plain text
 #: data-journey.en.adoc:161
 msgid "Click around for different species"
-msgstr ""
+msgstr "Пощелкайте мышкой для разных видов"
 
 #. type: Plain text
 #: data-journey.en.adoc:162
 msgid "Are you able to access all and the same type of data?"
-msgstr ""
+msgstr "Вы можете получить доступ ко всем и схожим типам данных?"
 
 #. type: Title ====
 #: data-journey.en.adoc:163
 #, no-wrap
 msgid "Task 9"
-msgstr ""
+msgstr "Задание 9"
 
 #. type: Plain text
 #: data-journey.en.adoc:168
 msgid "Take 35 minutes to complete the following:"
-msgstr ""
+msgstr "Для завершения работы вам понадобится 35 минут:"
 
 #. type: Plain text
 #: data-journey.en.adoc:170
 msgid "How much information is needed for referencing a DNA barcode?"
-msgstr ""
+msgstr "Сколько информации требуется для подготовки штрих-кода ДНК?"
 
 #. type: Plain text
 #: data-journey.en.adoc:171
 msgid "Find out what data and metadata is available for each DNA barcode for the specimen you just located."
-msgstr ""
+msgstr "Определите, какие данные и метаданные доступны для каждого штрих-кода ДНК экземпляра только что вами найденного."
 
 #. type: Plain text
 #: data-journey.en.adoc:172
 msgid "Examine what information is given in BOLD for a specimen and download the available data for one Bombus specimen."
-msgstr ""
+msgstr "Изучите информацию о том, какая информация приведена в BOLD для экземпляра и скачайте доступные данные для одного экземпляра Bombus."
 
 #. type: Plain text
 #: data-journey.en.adoc:174
@@ -1315,23 +1315,23 @@ msgstr ""
 #: data-journey.en.adoc:175
 #, no-wrap
 msgid "Step 4"
-msgstr ""
+msgstr "Этап 4"
 
 #. type: Title ====
 #: data-journey.en.adoc:177
 #, no-wrap
 msgid "Task 10"
-msgstr ""
+msgstr "Задание 10"
 
 #. type: Plain text
 #: data-journey.en.adoc:182 data-journey.en.adoc:198
 msgid "Take 30 minutes to complete the following:"
-msgstr ""
+msgstr "Для завершения работы вам понадобится 30 минут:"
 
 #. type: Plain text
 #: data-journey.en.adoc:184
 msgid "Download link:../exercise-data/sequences.zip[sequences.zip file,opts=download] (ZIP 5 KB)"
-msgstr ""
+msgstr "Скачайте файл по ссылке:../exercise-data/sequences.zip[sequences.zip файл, opts=download] (ZIP 5 KB)"
 
 #. type: Plain text
 #: data-journey.en.adoc:185
@@ -1351,39 +1351,39 @@ msgstr ""
 #. type: Plain text
 #: data-journey.en.adoc:188
 msgid "Select three Bombus species and make a map."
-msgstr ""
+msgstr "Выберите три вида Bombus и создайте карту."
 
 #. type: Plain text
 #: data-journey.en.adoc:189
 msgid "How are species distributed (i.e. located in your area of interest)?"
-msgstr ""
+msgstr "Как распределtены виды (т.е. расположены в регионе который вас интересует)?"
 
 #. type: Plain text
 #: data-journey.en.adoc:190
 msgid "Are all of them useful for your research?"
-msgstr ""
+msgstr "Все ли они полезны для вашего исследования?"
 
 #. type: Title ===
 #: data-journey.en.adoc:191
 #, no-wrap
 msgid "Step 5"
-msgstr ""
+msgstr "Этап 5"
 
 #. type: Title ====
 #: data-journey.en.adoc:193
 #, no-wrap
 msgid "Task 11"
-msgstr ""
+msgstr "Задание 11"
 
 #. type: Plain text
 #: data-journey.en.adoc:200
 msgid "Using the BOLD sequence analysis tools:"
-msgstr ""
+msgstr "Использование инструментов анализа последовательности BOLD:"
 
 #. type: Plain text
 #: data-journey.en.adoc:201
 msgid "Make a tree to check how well the sequences group by species"
-msgstr ""
+msgstr "Создайте дерево, чтобы проверить, насколько хорошо последовательности группируются по видам"
 
 #. type: Plain text
 #: data-journey.en.adoc:202
@@ -1393,39 +1393,39 @@ msgstr ""
 #. type: Plain text
 #: data-journey.en.adoc:203
 msgid "Look at barcode gaps"
-msgstr ""
+msgstr "Посмотрите на пробелы в штрих-коде"
 
 #. type: Plain text
 #: data-journey.en.adoc:204
 msgid "Among the barcodes for Bombus, are all of them useful for your research?"
-msgstr ""
+msgstr "Среди штрих-кодов Bombus, все ли они полезны для вашего исследования?"
 
 #. type: Plain text
 #: data-journey.en.adoc:205
 msgid "Are there cryptic species or misidentifications?"
-msgstr ""
+msgstr "Есть ли криптические виды или ошибочно определенные?"
 
 #. type: Plain text
 #: data-journey.en.adoc:206
 msgid "If you have time, use the https://www.gbif.org/tools/sequence-id[GBIF sequence id tool^]"
-msgstr ""
+msgstr "Если у вас есть время, используйте https://www.gbif.org/tools/sequence-id[GBIF sequence id tool^]"
 
 #. type: Title ===
 #: data-journey.en.adoc:207
 #, no-wrap
 msgid "Step 6"
-msgstr ""
+msgstr "Этап 6"
 
 #. type: Title ====
 #: data-journey.en.adoc:209
 #, no-wrap
 msgid "Task 12"
-msgstr ""
+msgstr "Задание 12"
 
 #. type: Plain text
 #: data-journey.en.adoc:216
 msgid "Imagine that you are the person assigned to transcribe the collected field data. You know you will share your data with GBIF so you decided to start with an https://github.com/gbif/ipt/wiki/occurrenceData#templates[occurrence template^]. However, you know that that you will share more data than the GBIF required and recommended fields."
-msgstr ""
+msgstr "Представьте, что вы назначены ответственным за транскрипцию собранных полевых данных. Вы знаете, что вы поделитесь своими данными с GBIF, чтобы начать работу с https://github. om/gbif/ipt/wiki/occurrenceData#templates[occurrence template^]. Однако, вы знаете, что вы будете передавать больше данных, чем требуется GBIF и в рекомендуемых полях."
 
 #. type: Plain text
 #: data-journey.en.adoc:218
@@ -1435,12 +1435,12 @@ msgstr ""
 #. type: Plain text
 #: data-journey.en.adoc:219
 msgid "Download the https://github.com/gbif/ipt/wiki/gbif-ipt-docs/downloads/occurrence_ipt_template_v2.xlsx[Excel template^] and add fields to the spreadsheet to accommodate all the data that can be captured."
-msgstr ""
+msgstr "Загрузите https://github.com/gbif/ipt/wiki/gbif-ipt-docs/downloads/occurrence_ipt_template_v2.xlsx[Excel template^] и добавьте поля в таблицу, чтобы разместить все данные, которые можно отразить."
 
 #. type: Plain text
 #: data-journey.en.adoc:220
 msgid "Transcribe the verbatim data from the two herbariums sheets. link:../exercise-data/Vicia.zip[Vicia.zip file,opts=download] (ZIP 51 MB)"
-msgstr ""
+msgstr "Перепишите дословные данные из двух таблиц гербариев:../exercise-data/Vicia.zip[Vicia.zip файл,opts=download] (ZIP 51 MB)"
 
 #. type: Plain text
 #: data-journey.en.adoc:221
@@ -1451,28 +1451,28 @@ msgstr ""
 #: data-journey.en.adoc:222
 #, no-wrap
 msgid "Step 7"
-msgstr ""
+msgstr "Этап 7"
 
 #. type: Plain text
 #: data-journey.en.adoc:225
 msgid "Refer to <<Exercise tips>> in the data management section for information on types of errors and helpful tools."
-msgstr ""
+msgstr "Для получения информации о типах ошибок и полезных инструментах обратитесь к <<Exercise tips>> в разделе управления данными."
 
 #. type: Title ====
 #: data-journey.en.adoc:226
 #, no-wrap
 msgid "Task 13"
-msgstr ""
+msgstr "Задание 13"
 
 #. type: Plain text
 #: data-journey.en.adoc:233
 msgid "You are now tasked with performing some standard data quality checks on the data."
-msgstr ""
+msgstr "Теперь перед вами стоит задача выполнить стандартную проверку качества данных."
 
 #. type: Plain text
 #: data-journey.en.adoc:234
 msgid "Download link:../exercise-data/ViciaForCleaning.txt[ViciaForCleaning.txt,opts=download] (ZIP 66 KB)"
-msgstr ""
+msgstr "Скачайте файл по ссылке:../exercise-data/ViciaForCleaning.txt[ViciaForCleaning.txt,opts=download] (ZIP 66 KB)"
 
 #. type: Plain text
 #: data-journey.en.adoc:235
@@ -1482,42 +1482,42 @@ msgstr ""
 #. type: Plain text
 #: data-journey.en.adoc:236
 msgid "Find and correct the errors manually."
-msgstr ""
+msgstr "Найдите и исправьте ошибки вручную."
 
 #. type: Plain text
 #: data-journey.en.adoc:237
 msgid "country - check for blanks"
-msgstr ""
+msgstr "страна - проверьте на наличие пробелов"
 
 #. type: Plain text
 #: data-journey.en.adoc:238
 msgid "year - do any years seem odd?"
-msgstr ""
+msgstr "Год - показался ли вам какой-либо год странным?"
 
 #. type: Plain text
 #: data-journey.en.adoc:239
 msgid "countryCode - code should include only letters"
-msgstr ""
+msgstr "код страны должен содержать только буквы"
 
 #. type: Plain text
 #: data-journey.en.adoc:240
 msgid "month - review the Darwin Core recommendation for https://dwc.tdwg.org/terms/#dwc:month[month^]"
-msgstr ""
+msgstr "месяц - ознакомьтесь с рекомендацией Darwin Core для https://dwc.tdwg.org/terms/#dwc:month[month^]"
 
 #. type: Plain text
 #: data-journey.en.adoc:241
 msgid "taxonRank - check for blanks"
-msgstr ""
+msgstr "страна - проверьте на наличие пробелов"
 
 #. type: Plain text
 #: data-journey.en.adoc:242
 msgid "minimumElevationInMeters and maximumElevationInMeters - 8872 is the elevation of Mt. Everest"
-msgstr ""
+msgstr "minimumElevationInMeters и maximumElevationInMeters - 8872 - высота Эвереста"
 
 #. type: Plain text
 #: data-journey.en.adoc:243
 msgid "kingdom - is kingdom correct?"
-msgstr ""
+msgstr "Царство - царство приведено верно?"
 
 #. type: Title ====
 #: data-journey.en.adoc:244
@@ -1559,7 +1559,7 @@ msgstr ""
 #: data-journey.en.adoc:257
 #, no-wrap
 msgid "Task 15"
-msgstr ""
+msgstr "Задание 15"
 
 #. type: Plain text
 #: data-journey.en.adoc:262 data-journey.en.adoc:299
@@ -8996,7 +8996,8 @@ msgstr ""
 msgid "00:06:50.370 --> 00:06:53.369\n"
 "This presentation has been narrated by Laura\n"
 "Anne Russell.\n"
-msgstr ""
+msgstr "00:06:20:50--> 00:06:23:20\n"
+"Эта презентация озвучена Laura Anne Russell.\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:8
@@ -9004,14 +9005,15 @@ msgstr ""
 msgid "00:00:01.989 --> 00:00:06.109\n"
 "In this presentation, we are going to introduce\n"
 "some of the concepts that are important to\n"
-msgstr ""
+msgstr "00:00:01.989 --> 00:00:06.109\n"
+"В этой презентации мы рассмотрим некоторые из важных понятий\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:11
 #, no-wrap
 msgid "00:00:06.109 --> 00:00:11.019\n"
 "understand basic data quality.\n"
-msgstr ""
+msgstr "для понимания основ качества данных.\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:15
