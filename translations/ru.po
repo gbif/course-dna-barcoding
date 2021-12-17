@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: publishing-dna-derived-data\n"
 "POT-Creation-Date: 2021-12-08 16:51+0000\n"
-"PO-Revision-Date: 2021-12-11 13:53\n"
+"PO-Revision-Date: 2021-12-17 09:22\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -307,7 +307,7 @@ msgstr ""
 #: downloads.en.adoc:21
 #, no-wrap
 msgid "Exercise data"
-msgstr ""
+msgstr "Упражнения"
 
 #. type: Plain text
 #: downloads.en.adoc:23
@@ -348,7 +348,7 @@ msgstr ""
 #: software.en.adoc:1
 #, no-wrap
 msgid "Software installation"
-msgstr ""
+msgstr "Установка программного обеспечения"
 
 #. type: Title ===
 #: software.en.adoc:3
@@ -386,13 +386,13 @@ msgstr "Мы будем использовать OpenRefine во время по
 #. type: Plain text
 #: software.en.adoc:19
 msgid "Administrative passwords may be required to install software."
-msgstr ""
+msgstr "Для установки программного обеспечения могут потребоваться пароли администратора."
 
 #. type: Title ====
 #: software.en.adoc:20
 #, no-wrap
 msgid "Installation Requirements"
-msgstr ""
+msgstr "Требования для установки"
 
 #. type: Plain text
 #: software.en.adoc:23
