@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: publishing-dna-derived-data\n"
 "POT-Creation-Date: 2021-12-08 16:51+0000\n"
-"PO-Revision-Date: 2021-12-17 12:42\n"
+"PO-Revision-Date: 2021-12-23 20:26\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -2492,7 +2492,7 @@ msgstr ""
 #. type: Plain text
 #: data-publishing.en.adoc:44
 msgid "Complete step 8, task 16."
-msgstr ""
+msgstr "Завершите шаг 8, задача 16."
 
 #. type: Title ===
 #: data-publishing.en.adoc:45
