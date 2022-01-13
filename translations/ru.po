@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: publishing-dna-derived-data\n"
 "POT-Creation-Date: 2021-12-08 16:51+0000\n"
-"PO-Revision-Date: 2022-01-04 06:29\n"
+"PO-Revision-Date: 2022-01-13 08:09\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -3282,7 +3282,7 @@ msgstr ""
 #: colophon.en.adoc:3
 #, no-wrap
 msgid "Suggested citation"
-msgstr ""
+msgstr "Предлагаемая цитата"
 
 #. type: Plain text
 #: colophon.en.adoc:6
@@ -3293,12 +3293,12 @@ msgstr ""
 #: colophon.en.adoc:7
 #, no-wrap
 msgid "Contributors"
-msgstr ""
+msgstr "Благодарности"
 
 #. type: Plain text
 #: colophon.en.adoc:10
 msgid "_Accelerating biodiversity research through DNA barcodes, collection and observation data_ was originally developed as a collaboration between the https://diku.no/[Diku-funded^] University of Oslo project BioDATA, the BMBF-funded project Caucasus Barcode of Life (https://ggbc.eu/[CaBOL^]), and https://www.gbif.org/[GBIF^] - Global Biodiversity Information Facility. The original curriculum was created Dag Endresen, Dmitry Schigel, Helena Wirta, Hugo de Boer, Laura Russell, and Stefaniya Kamenova."
-msgstr ""
+msgstr "Этот курс представляет собой результат сотрудничества между проектом BioDATA Университета Осло  финансируемым Diku, проектом «Кавказский штрих-код жизни» (CaBOL)  финансируемым BMBF и GBIF - Глобальным информационным фондом по биоразнообразию, разработан  Dag Endresen, Dmitry Schigel, Helena Wirta, Hugo de Boer, Laura Russell, and Stefaniya Kamenova."
 
 #. type: Title ===
 #: colophon.en.adoc:11
