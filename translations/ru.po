@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: publishing-dna-derived-data\n"
 "POT-Creation-Date: 2021-12-08 16:51+0000\n"
-"PO-Revision-Date: 2022-01-13 11:05\n"
+"PO-Revision-Date: 2022-01-13 14:24\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -5345,14 +5345,16 @@ msgstr ""
 msgid "00:08:37.839 --> 00:08:42.750\n"
 "If you have questions on this presentation,\n"
 "please use the provided forum in the e-Learning\n"
-msgstr ""
+msgstr "00:08:37.839 --> 00:08:42.890\n"
+"если у вас есть вопросы по этой презентации, пожалуйста, используйте предоставленный форум в e-Learning\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:427
 #, no-wrap
 msgid "00:08:42.750 --> 00:08:43.820\n"
 "platform.\n"
-msgstr ""
+msgstr "00:08:42.750 --> 00:08:18:320\n"
+"платформы.\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:431
@@ -5360,14 +5362,16 @@ msgstr ""
 msgid "00:08:43.820 --> 00:08:49.150\n"
 "This video is part of a series of presentations\n"
 "used in the GBIF Biodiversity Data Mobilization\n"
-msgstr ""
+msgstr "00:08:18,320 --> 00:08:23,660\n"
+"Это видео является частью серии презентаций, используемых в GBIF Biodiversity Data Mobilization\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:434
 #, no-wrap
 msgid "00:08:49.150 --> 00:08:50.440\n"
 "course.\n"
-msgstr ""
+msgstr "00:08:23,660 --> 00:08:24,950 \n"
+"курсе.\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:438
@@ -5375,7 +5379,9 @@ msgstr ""
 msgid "00:08:50.440 --> 00:08:55.980\n"
 "The biodiversity data mobilization curriculum\n"
 "was originally developed as part of the Biodiversity\n"
-msgstr ""
+msgstr "00:08:50.440 --> 00:08:55.459\n"
+"Программа по мобилизации данных о биоразнообразии\n"
+"была первоначально разработана как часть Программы\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:442
@@ -5383,7 +5389,8 @@ msgstr ""
 msgid "00:08:55.980 --> 00:08:59.750\n"
 "Information Development Programme funded by\n"
 "the European Union.\n"
-msgstr ""
+msgstr "00:08:55.980 --> 00:08:59.260\n"
+"развития информации о биоразнообразии (Biodiversity Information Development Programme), финансируемой Европейским Союзом.\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:446
@@ -5391,7 +5398,9 @@ msgstr ""
 msgid "00:08:59.750 --> 00:09:04.690\n"
 "This presentation was originally created and\n"
 "narrated by Sophie Pamerlon with additional\n"
-msgstr ""
+msgstr "00:08:59.750 --> 00:09:04.190\n"
+"Эта презентация была создана и\n"
+"озвучана Sophie Pamerlon с дополнительным\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:450
@@ -5399,7 +5408,8 @@ msgstr ""
 msgid "00:09:04.690 --> 00:09:08.799\n"
 "contributions by Laura Russell, BID and BIFA\n"
 "Trainers, Mentors and Students.\n"
-msgstr ""
+msgstr "00:09:04.690 --> 00:09:08.300\n"
+"вкладом Тренеров BID и BIFA, Инструкторов и студентов.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:8
@@ -5407,14 +5417,16 @@ msgstr ""
 msgid "00:00:01.500 --> 00:00:06.100\n"
 "In this presentation, we are going to explore\n"
 "the key principles and processes important\n"
-msgstr ""
+msgstr "00:00:01.500 --> 00:00:06.100\n"
+"В этой презентации, мы собираемся изучить ключевые принципы и процессы, важные\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:11
 #, no-wrap
 msgid "00:00:06.100 --> 00:00:11.200\n"
 "to effective data management.\n"
-msgstr ""
+msgstr "00:00:06.100 --> 00:00:11.200\n"
+"для эффективного управления данными.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:15
@@ -5437,7 +5449,8 @@ msgstr ""
 msgid "00:00:17.920 --> 00:00:22.620\n"
 "In this presentation we are going to discuss\n"
 "an important set of principles necessary to\n"
-msgstr ""
+msgstr "00:00:17.920 --> 00:00:22.620\n"
+"В этой презентации мы собираемся обсудить важный набор принципов, необходимых для\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:26
@@ -5445,14 +5458,16 @@ msgstr ""
 msgid "00:00:22.620 --> 00:00:28.900\n"
 "improve data through the processes of data\n"
 "cleaning.\n"
-msgstr ""
+msgstr "00:00:22.620 --> 00:00:28.900\n"
+"улучшение данных через процесс их очистки.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:29
 #, no-wrap
 msgid "00:00:28.900 --> 00:00:30.710\n"
 "What is data cleaning?\n"
-msgstr ""
+msgstr "00:00:28.900 --> 00:00:30.710\n"
+"Что такое очистка данных?\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:33
@@ -5460,7 +5475,8 @@ msgstr ""
 msgid "00:00:30.710 --> 00:00:34.460\n"
 "Data Cleaning was defined by Arthur Chapman\n"
 "in 2005 as:\n"
-msgstr ""
+msgstr "00:00:30.710 --> 00:00:34.460\n"
+"Понятие Очистка данных было введено Артуром Чапманом в 2005 году как:\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:37
@@ -5468,7 +5484,8 @@ msgstr ""
 msgid "00:00:34.460 --> 00:00:39.460\n"
 "“A process used to determine inaccurate,\n"
 "incomplete, or unreasonable data and then\n"
-msgstr ""
+msgstr "00:00:34.460 --> 00:00:39.460\n"
+"«Процесс, используемый для определения неточности, неполных или необоснованных данных, а затем\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:41
@@ -5476,7 +5493,8 @@ msgstr ""
 msgid "00:00:39.460 --> 00:00:44.170\n"
 "improving the quality through correction of\n"
 "detected errors and omissions.”\n"
-msgstr ""
+msgstr "00:00:39.460 --> 00:00:44.170\n"
+"улучшение их качества путем коррекции выявленных ошибок и пропусков\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:45
@@ -5484,7 +5502,8 @@ msgstr ""
 msgid "00:00:44.170 --> 00:00:49.820\n"
 "The process of cleaning might include checks\n"
 "on formatting, completeness and reasonableness,\n"
-msgstr ""
+msgstr "00:00:44.170 --> 00:00:49.820\n"
+"Процесс очистки может включать проверку на форматирование, полноту и обоснованность,\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:49
@@ -5492,14 +5511,16 @@ msgstr ""
 msgid "00:00:49.820 --> 00:00:55.560\n"
 "the identification of outliers, review by\n"
 "content experts, and validation against accepted\n"
-msgstr ""
+msgstr "00:00:49.820 --> 00:00:55.560\n"
+"идентификации резко отклоняющихся значений, отзыв экспертов по содержанию и утверждение против принятых\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:52
 #, no-wrap
 msgid "00:00:55.560 --> 00:01:00.649\n"
 "standards, rules, and conventions.\n"
-msgstr ""
+msgstr "00:00:55.560 --> 00:01:00.649\n"
+"стандартов, правил и соглашений.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:56
@@ -5507,14 +5528,16 @@ msgstr ""
 msgid "00:01:00.649 --> 00:01:04.860\n"
 "Although there are many methods that can be\n"
 "applied while cleaning data, we view the process\n"
-msgstr ""
+msgstr "00:01:00.649 --> 00:01:04.860\n"
+"Хотя существует много методов, которые могут быть использованы во время очистки данных, мы рассматриваем процесс\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:59
 #, no-wrap
 msgid "00:01:04.860 --> 00:01:07.409\n"
 "of cleaning in five general steps:\n"
-msgstr ""
+msgstr "00:01:04.860 --> 00:01:07.409\n"
+"очистки из пяти основных этапов:\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:63
@@ -5522,14 +5545,15 @@ msgstr ""
 msgid "00:01:07.409 --> 00:01:12.130\n"
 "First, we seek to determine and define the\n"
 "types of errors that are most likely present\n"
-msgstr ""
+msgstr "Во-первых, мы стремимся установить и определить типы ошибок, которые наиболее вероятно присутствуют\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:66
 #, no-wrap
 msgid "00:01:12.130 --> 00:01:13.660\n"
 "in our data.\n"
-msgstr ""
+msgstr "00:01:12.130 --> 00:01:13.660\n"
+"в наших данных.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:70
@@ -5537,7 +5561,7 @@ msgstr ""
 msgid "00:01:13.660 --> 00:01:20.070\n"
 "Next, we conduct a search to identify the\n"
 "instances where those error have occurred.\n"
-msgstr ""
+msgstr "Затем мы проводим поиск, для определения случаев, в которых произошла эта ошибка.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:74
@@ -5545,7 +5569,7 @@ msgstr ""
 msgid "00:01:20.070 --> 00:01:24.710\n"
 "Then, we will correct those errors, whenever\n"
 "possible.\n"
-msgstr ""
+msgstr "Далее мы исправляем эти ошибки, во всех возможных случаях.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:78
@@ -5583,7 +5607,8 @@ msgstr ""
 #, no-wrap
 msgid "00:01:41.420 --> 00:01:45.020\n"
 "(Maletic &amp; Marcus, 2000)\n"
-msgstr ""
+msgstr "00:01:41.420 --> 00:01:45.020\n"
+"(Maletic & Marcus, 2000)\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:96
@@ -5591,7 +5616,7 @@ msgstr ""
 msgid "00:01:45.020 --> 00:01:49.810\n"
 "One thing is certain: Errors are common and\n"
 "we can always expect to find them in the data\n"
-msgstr ""
+msgstr "Одно несомненно: ошибки обычны, и мы всегда можем ожидать найти их в данных\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:99
@@ -5606,7 +5631,9 @@ msgstr ""
 msgid "00:01:51.610 --> 00:01:57.329\n"
 "Our goal is to apply the best practices, including\n"
 "principles, processes, and tools, to make\n"
-msgstr ""
+msgstr "00:01:51.610 --> 00:01:57.329\n"
+"Наша цель - применять лучшие практики, включая\n"
+"принципы, процессы и инструменты, чтобы сделать,\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:107
@@ -5614,14 +5641,16 @@ msgstr ""
 msgid "00:01:57.329 --> 00:02:02.479\n"
 "the data as fit for use as possible, even\n"
 "if we don’t know how data users will use\n"
-msgstr ""
+msgstr "00:01:57.329 --> 00:02:02.479\n"
+"данные, насколько это возможно, пригодными для использования, даже\n"
+"тогда, когда мы не знаем, как пользователи будут использовать\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:110
 #, no-wrap
 msgid "00:02:02.479 --> 00:02:04.390\n"
 "the data.\n"
-msgstr ""
+msgstr "эти данные.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:114
@@ -5629,7 +5658,9 @@ msgstr ""
 msgid "00:02:04.390 --> 00:02:09.599\n"
 "Let’s take a look at several of the recommended\n"
 "principles of data cleaning.\n"
-msgstr ""
+msgstr "00:02:04.390 --> 00:02:09.599\n"
+"Давайте рассмотрим несколько рекомендованных\n"
+"принципов очистки данных.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:118
@@ -5637,14 +5668,17 @@ msgstr ""
 msgid "00:02:09.599 --> 00:02:14.400\n"
 "These principles are presented for your consideration\n"
 "so that you can develop and improve upon your\n"
-msgstr ""
+msgstr "00:02:09.599 --> 00:02:14.400\n"
+"Эти принципы представлены для вашего рассмотрения\n"
+"для того, чтобы вы могли развиваться и совершенствоваться на\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:121
 #, no-wrap
 msgid "00:02:14.400 --> 00:02:16.950\n"
 "own data quality workflow.\n"
-msgstr ""
+msgstr "00:02:14.400 --> 00:02:16.950\n"
+"собственный рабочий процесс качества данных.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:125
@@ -5652,7 +5686,9 @@ msgstr ""
 msgid "00:02:16.950 --> 00:02:21.260\n"
 "The workflow that you create should represent\n"
 "the most efficient and effective process to\n"
-msgstr ""
+msgstr "00:02:16.950 --> 00:02:21.260\n"
+"Создаваемый рабочий процесс должен представлять\n"
+"наиболее действенный и эффективный процесс\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:129
@@ -5660,7 +5696,8 @@ msgstr ""
 msgid "00:02:21.260 --> 00:02:27.390\n"
 "achieve the highest data quality given your\n"
 "institution’s resources and expertise.\n"
-msgstr ""
+msgstr "00:02:21.260 --> 00:02:27.390\n"
+"достижение наивысшего качества данных с учетом ресурсов и опыта вашего учреждения.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:133
@@ -5692,7 +5729,8 @@ msgstr ""
 msgid "00:02:44.950 --> 00:02:47.190\n"
 "Plan how you want the cleaning process to\n"
 "go.\n"
-msgstr ""
+msgstr "00:02:44.950 --> 00:02:47.190\n"
+"Запланируйте процесс очистки.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:149
@@ -5708,7 +5746,9 @@ msgstr ""
 msgid "00:02:52.900 --> 00:02:57.170\n"
 "Develop and implement a strategy that fits\n"
 "with your institution’s resources and expertise.\n"
-msgstr ""
+msgstr "00:02:52.900 --> 00:02:57.170\n"
+"Разработка и реализация стратегии, которая соответствует\n"
+"ресурсами и опытом вашей организации.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:157
@@ -5769,7 +5809,7 @@ msgstr ""
 #, no-wrap
 msgid "00:03:26.370 --> 00:03:32.970\n"
 "Work to the strengths of your institution.\n"
-msgstr ""
+msgstr "Работайте на сильные стороны вашего учреждения.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:186
