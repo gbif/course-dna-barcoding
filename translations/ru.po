@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: publishing-dna-derived-data\n"
 "POT-Creation-Date: 2021-12-08 16:51+0000\n"
-"PO-Revision-Date: 2022-01-13 14:24\n"
+"PO-Revision-Date: 2022-01-17 19:22\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -858,7 +858,7 @@ msgstr "Система обучения"
 #: data-journey.en.adoc:20
 #, no-wrap
 msgid "Bombus-Vicia pollination network"
-msgstr ""
+msgstr "Система опыления Шмель (Bombus) - Вика (Vicia)"
 
 #. type: Target for macro image
 #: data-journey.en.adoc:21
@@ -927,12 +927,12 @@ msgstr "Высокий уровень эндемизма"
 #. type: Plain text
 #: data-journey.en.adoc:39
 msgid "Accelerate biodiversity discovery"
-msgstr ""
+msgstr "Ускорение исследования биологического разнообразия"
 
 #. type: Plain text
 #: data-journey.en.adoc:40
 msgid "Systematics"
-msgstr ""
+msgstr "Систематический"
 
 #. type: Plain text
 #: data-journey.en.adoc:41
@@ -3642,7 +3642,7 @@ msgstr "00:02:37.250 --> 00:02:41.790\n"
 msgid "00:02:41.790 --> 00:02:46.720\n"
 "Collections and specimens vastly differ in\n"
 "numbers, size and preservation methods.\n"
-msgstr ""
+msgstr "Коллекции и образцы сильно различаются по количеству, размерам и методам хранения.\n"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:124
