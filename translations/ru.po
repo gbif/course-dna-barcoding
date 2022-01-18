@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: publishing-dna-derived-data\n"
 "POT-Creation-Date: 2021-12-08 16:51+0000\n"
-"PO-Revision-Date: 2022-01-17 19:22\n"
+"PO-Revision-Date: 2022-01-18 07:42\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -3932,14 +3932,14 @@ msgstr ""
 msgid "00:06:00.760 --> 00:06:06.949\n"
 "Sometimes, additional information or data\n"
 "can be found using other source materials\n"
-msgstr ""
+msgstr "Иногда дополнительная информация или данные могут быть найдены с использованием других источников материалов,\n"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:265
 #, no-wrap
 msgid "00:06:06.949 --> 00:06:12.660\n"
 "than those previously mentioned in this video.\n"
-msgstr ""
+msgstr "чем те, которые ранее упоминались в этом видео.\n"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:269
@@ -3964,8 +3964,7 @@ msgid "00:06:22.790 --> 00:06:28.150\n"
 "Most of the time, the information retrieved\n"
 "this way is supplemental to existing data\n"
 msgstr "00:06:22.790 --> 00:06:28.150\n"
-"В большинстве случаев полученная информация\n"
-"дополняет существующие данные\n"
+"В большинстве случаев полученная информация дополняет существующие данные,\n"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:281
