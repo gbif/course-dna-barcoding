@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: publishing-dna-derived-data\n"
 "POT-Creation-Date: 2021-12-08 16:51+0000\n"
-"PO-Revision-Date: 2022-01-18 16:54\n"
+"PO-Revision-Date: 2022-01-18 20:20\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -8414,7 +8414,8 @@ msgstr "00:09:49.950 --> 00:09:54,450\n"
 #, no-wrap
 msgid "00:09:52.450 --> 00:09:55.850\n"
 "The core file will always contain unique records.\n"
-msgstr ""
+msgstr "00:09:52.450 --> 00:09:55.850\n"
+"Файл ядра всегда будет содержать уникальные записи.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:458
@@ -8422,7 +8423,8 @@ msgstr ""
 msgid "00:09:55.850 --> 00:10:03.390\n"
 "In this example using the Taxon Core, each\n"
 "taxon is unique and is represented by a taxonID.\n"
-msgstr ""
+msgstr "00:09:55.850 --> 00:10:03.390\n"
+"В данном примере использующем Ядро таксономического спика, каждый таксон уникален и представлен таксонID.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:462
@@ -8490,7 +8492,8 @@ msgstr ""
 msgid "00:10:41.020 --> 00:10:46.140\n"
 "As we finish up this presentation, we’d\n"
 "like for you to begin exploring the IPT.\n"
-msgstr ""
+msgstr "00:10:020 --> 00:10:46.140\n"
+"По мере завершения этой презентации, мы хотели бы, чтобы вы начали изучать IPT.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:494
@@ -8498,14 +8501,16 @@ msgstr ""
 msgid "00:10:46.140 --> 00:10:49.900\n"
 "In the e-Learning platform, you will find\n"
 "your login information and the location of\n"
-msgstr ""
+msgstr "00:10:46.140 --> 00:10:49.900\n"
+"На платформе e-Learning вы найдете информацию для входа в систему и расположение\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:497
 #, no-wrap
 msgid "00:10:49.900 --> 00:10:50.940\n"
 "the test IPT.\n"
-msgstr ""
+msgstr "00:10:49.900 --> 00:10:50,940\n"
+"тестовой версии IPT.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:500
@@ -8520,21 +8525,24 @@ msgstr ""
 msgid "00:10:54.150 --> 00:10:59.010\n"
 "In the next presentation, you will watch a\n"
 "demonstration on how to use the IPT, after\n"
-msgstr ""
+msgstr "00:10:54.150 --> 00:10:59.010\n"
+"В следующей презентации вы увидите демонстрацию того, как использовать IPT, после\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:507
 #, no-wrap
 msgid "00:10:59.010 --> 00:11:02.240\n"
 "which you’ll be ready to try it yourself.\n"
-msgstr ""
+msgstr "00:10:59.010 --> 00:11:02.240\n"
+"который вы будете готовы попробовать сами.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:510
 #, no-wrap
 msgid "00:11:02.240 --> 00:11:05.520\n"
 "Thank you.\n"
-msgstr ""
+msgstr "00:11:02.240 --> 00:11:05.520\n"
+"Спасибо.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:514
@@ -8542,14 +8550,16 @@ msgstr ""
 msgid "00:11:05.520 --> 00:11:10.100\n"
 "If you have questions on this presentation,\n"
 "please use the provided forum in the e-Learning\n"
-msgstr ""
+msgstr "00:11:05.520 --> 00:11:10.890\n"
+"если у вас есть вопросы по этой презентации, пожалуйста, используйте предоставленный форум в e-Learning\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:517
 #, no-wrap
 msgid "00:11:10.100 --> 00:11:11.900\n"
 "platform.\n"
-msgstr ""
+msgstr "00:11:10.100 --> 00:11:18:320\n"
+"платформы.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:521
@@ -8557,14 +8567,16 @@ msgstr ""
 msgid "00:11:11.900 --> 00:11:16.970\n"
 "This video is part of a series of presentations\n"
 "used in the GBIF Biodiversity Data Mobilization\n"
-msgstr ""
+msgstr "00:11:18,320 --> 00:11:23,660\n"
+"Это видео является частью серии презентаций, используемых в GBIF Biodiversity Data Mobilization\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:524
 #, no-wrap
 msgid "00:11:16.970 --> 00:11:18.040\n"
 "course.\n"
-msgstr ""
+msgstr "00:11:23,660 --> 00:11:24,950 \n"
+"курса.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:528
@@ -8572,7 +8584,9 @@ msgstr ""
 msgid "00:11:18.040 --> 00:11:22.990\n"
 "The biodiversity data mobilization curriculum\n"
 "was originally developed as part of the Biodiversity\n"
-msgstr ""
+msgstr "00:11:18.040 --> 00:11:22.459\n"
+"Программа по мобилизации данных о биоразнообразии\n"
+"была первоначально разработана как часть Программы\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:532
@@ -8580,7 +8594,8 @@ msgstr ""
 msgid "00:11:22.990 --> 00:11:28.140\n"
 "Information Development Programme funded by\n"
 "the European Union.\n"
-msgstr ""
+msgstr "00:11:22.990 --> 00:11:28.260\n"
+"развития информации о биоразнообразии (Biodiversity Information Development Programme), финансируемой Европейским Союзом.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:536
@@ -8588,7 +8603,9 @@ msgstr ""
 msgid "00:11:28.140 --> 00:11:32.850\n"
 "This presentation was originally created by\n"
 "Sophie Pamerlon with additional contributions\n"
-msgstr ""
+msgstr "00:11:28.140 --> 00:11:37,930\n"
+"Эта презентация была первоначально создана\n"
+"Sophie Pamerlon с дополнительным вкладом\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:540
@@ -8596,14 +8613,16 @@ msgstr ""
 msgid "00:11:32.850 --> 00:11:39.360\n"
 "by Nicolas Noe, Laura Anne Russell and Dag\n"
 "Endresen, BID and BIFA Trainers, Mentors and\n"
-msgstr ""
+msgstr "вкладом со стороны Nicolas Noe, Laura Anne Russell и Dag\n"
+"Endresen, Тренеров BID и BIFA, Инструкторов и \n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:543
 #, no-wrap
 msgid "00:11:39.360 --> 00:11:40.830\n"
 "students.\n"
-msgstr ""
+msgstr "Nicolas Noe, Laura Anne Russell and Dag\n"
+"студентов.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:547
@@ -8611,7 +8630,8 @@ msgstr ""
 msgid "00:11:40.830 --> 00:11:43.740\n"
 "This presentation has been narrated by Laura\n"
 "Anne Russell.\n"
-msgstr ""
+msgstr "00:11:20:50--> 00:11:23:20\n"
+"Эта презентация озвучена Laura Anne Russell.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_IPT.en.vtt:8
@@ -8627,14 +8647,14 @@ msgstr ""
 msgid "00:00:08.090 --> 00:00:14.390\n"
 "The Integrated Publishing Toolkit -- the IPT--\n"
 "is software that is installed on a server.\n"
-msgstr ""
+msgstr "Integrated Publishing Toolkit - IPT - представляет собой программное обеспечение, установленное на сервере.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_IPT.en.vtt:15
 #, no-wrap
 msgid "00:00:14.390 --> 00:00:17.930\n"
 "It requires a Java applet like Tomcat to run.\n"
-msgstr ""
+msgstr "Для запуска требуется Java-апплет, такой как Tomcat.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_IPT.en.vtt:19
@@ -8642,7 +8662,7 @@ msgstr ""
 msgid "00:00:17.930 --> 00:00:24.269\n"
 "Just like Excel helps you create spreadsheets,\n"
 "the IPT helps you create darwin core archives\n"
-msgstr ""
+msgstr "Точно так же, как Excel помогает создавать электронные таблицы, IPT помогает создавать файлы архивов Darwin Core,\n"
 
 #. type: Plain text
 #: videos/Data_publishing_IPT.en.vtt:23
@@ -8650,7 +8670,7 @@ msgstr ""
 msgid "00:00:24.269 --> 00:00:29.939\n"
 "files, register them with GBIF and makes them\n"
 "discoverable on the internet.\n"
-msgstr ""
+msgstr "регистрировать их в GBIF и делать их обнаруживаемыми в Интернете.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_IPT.en.vtt:27
@@ -8681,7 +8701,7 @@ msgstr ""
 msgid "00:00:45.320 --> 00:00:51.429\n"
 "After installing an IPT, an administrator\n"
 "is required to manage user accounts, publishing\n"
-msgstr ""
+msgstr "После установки IPT администратор должен управлять учетными записями пользователей, публикующих организаций\n"
 
 #. type: Plain text
 #: videos/Data_publishing_IPT.en.vtt:42
@@ -8689,7 +8709,7 @@ msgstr ""
 msgid "00:00:51.429 --> 00:00:55.969\n"
 "organizations and Darwin Core extensions.\n"
 "If your data is being hosted within your own\n"
-msgstr ""
+msgstr "и расширениями Darwin Core. Если ваши данные размещены в вашем собственном учреждении\n"
 
 #. type: Plain text
 #: videos/Data_publishing_IPT.en.vtt:46
@@ -8697,14 +8717,14 @@ msgstr ""
 msgid "00:00:55.969 --> 00:01:01.660\n"
 "institution or by another institution, make\n"
 "sure you know who the administrator is so\n"
-msgstr ""
+msgstr "или другом учреждении, убедитесь, что вы знаете, кто администратор,\n"
 
 #. type: Plain text
 #: videos/Data_publishing_IPT.en.vtt:49
 #, no-wrap
 msgid "00:01:01.660 --> 00:01:06.840\n"
 "that they can assist you when necessary.\n"
-msgstr ""
+msgstr "чтобы он мог помочь вам при необходимости.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_IPT.en.vtt:53
@@ -8712,7 +8732,7 @@ msgstr ""
 msgid "00:01:06.840 --> 00:01:11.630\n"
 "The IPT can be installed in either a test\n"
 "environment or in a production environment.\n"
-msgstr ""
+msgstr "IPT можно установить в тестовой или рабочей среде.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_IPT.en.vtt:57
@@ -8720,7 +8740,7 @@ msgstr ""
 msgid "00:01:11.630 --> 00:01:16.770\n"
 "For the purposes of this course, we will be\n"
 "using a test and training environment.\n"
-msgstr ""
+msgstr "Для целей данного курса мы будем использовать тестовую и учебную среду.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_IPT.en.vtt:61
@@ -8736,14 +8756,14 @@ msgstr ""
 msgid "00:01:20.560 --> 00:01:23.230\n"
 "And you will only have two tabs available\n"
 "to you.\n"
-msgstr ""
+msgstr "И у вас будет только две вкладки.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_IPT.en.vtt:68
 #, no-wrap
 msgid "00:01:23.230 --> 00:01:28.509\n"
 "A home tab and an About tab.\n"
-msgstr ""
+msgstr "Вкладка «Главная» и вкладка «О программе».\n"
 
 #. type: Plain text
 #: videos/Data_publishing_IPT.en.vtt:72
@@ -8751,7 +8771,7 @@ msgstr ""
 msgid "00:01:28.509 --> 00:01:33.510\n"
 "After logging into the IPT, you will have\n"
 "more tabs available to you.\n"
-msgstr ""
+msgstr "После входа в IPT у вас появится больше вкладок.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_IPT.en.vtt:76
@@ -8759,7 +8779,7 @@ msgstr ""
 msgid "00:01:33.510 --> 00:01:39.420\n"
 "Managers with (and without) registration rights\n"
 "will see the Manage Resources tab.\n"
-msgstr ""
+msgstr "Менеджеры, имеющие (и не имеющие) права регистрации, увидят вкладку Управление ресурсами.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_IPT.en.vtt:80
@@ -8767,7 +8787,7 @@ msgstr ""
 msgid "00:01:39.420 --> 00:01:46.430\n"
 "Administrators will see the Manager Resources\n"
 "tab and an Administration tab.\n"
-msgstr ""
+msgstr "Администраторы увидят вкладки Ресурсы менеджера и Администрирование.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_IPT.en.vtt:84
