@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: publishing-dna-derived-data\n"
 "POT-Creation-Date: 2021-12-08 16:51+0000\n"
-"PO-Revision-Date: 2022-01-18 10:42\n"
+"PO-Revision-Date: 2022-01-18 13:54\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -7700,7 +7700,7 @@ msgstr ""
 msgid "00:02:36.590 --> 00:02:42.939\n"
 "Note that CC-BY-NC licences have a significant\n"
 "effect on the reusability of data.\n"
-msgstr ""
+msgstr "Следует отметить, что лицензии CC-BY-NC оказывают значительное влияние на возможность повторного использования данных.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:128
@@ -7739,14 +7739,15 @@ msgstr ""
 #, no-wrap
 msgid "00:03:13.439 --> 00:03:17.439\n"
 "The first version of IPT was released in 2009.\n"
-msgstr ""
+msgstr "00:03:13:424 --> 00:03:424\n"
+"Первая версия IPT была выпущена в 2009 году.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:146
 #, no-wrap
 msgid "00:03:17.439 --> 00:03:21.579\n"
 "It was redesigned and rereleased in 2011.\n"
-msgstr ""
+msgstr "Приложение было переработано и переиздано в 2011 году.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:150
