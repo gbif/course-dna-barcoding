@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: publishing-dna-derived-data\n"
 "POT-Creation-Date: 2021-12-08 16:51+0000\n"
-"PO-Revision-Date: 2022-01-18 13:54\n"
+"PO-Revision-Date: 2022-01-18 16:54\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -7784,14 +7784,16 @@ msgstr ""
 #, no-wrap
 msgid "00:03:37.879 --> 00:03:41.099\n"
 "Some of the features include:\n"
-msgstr ""
+msgstr "00:03:37.879 --> 00:03:41.099\n"
+"Некоторые из возможностей включают:\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:166
 #, no-wrap
 msgid "00:03:41.099 --> 00:03:45.099\n"
 "Main (but not only) publishing tool for GBIF.\n"
-msgstr ""
+msgstr "00:03:41.099 --> 00:03:45.099\n"
+"Основной (но не единственный) инструмент публикации в GBIF.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:170
@@ -7913,7 +7915,8 @@ msgstr ""
 #, no-wrap
 msgid "00:04:54.140 --> 00:04:55.629\n"
 "Keep in mind:\n"
-msgstr ""
+msgstr "00:04:54.140 --> 00:04:55,629\n"
+"Не забывайте:\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:227
@@ -7936,7 +7939,7 @@ msgstr ""
 msgid "00:05:07.160 --> 00:05:11.770\n"
 "Each dataset can have one or more extensions\n"
 "file\n"
-msgstr ""
+msgstr "Каждый набор данных может иметь один или несколько файлов расширений\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:239
@@ -7944,7 +7947,7 @@ msgstr ""
 msgid "00:05:11.770 --> 00:05:17.810\n"
 "The aim of an extension is to add new data\n"
 "fields not present in the core.\n"
-msgstr ""
+msgstr "Целью расширения является добавление новых полей данных, отсутствующих в ядре.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:243
@@ -7952,7 +7955,7 @@ msgstr ""
 msgid "00:05:17.810 --> 00:05:24.810\n"
 "Each entry in the core file is linked to zero,\n"
 "one or several rows in an extension file.\n"
-msgstr ""
+msgstr "Каждая запись в основном файле связана с нулем, одной или несколькими строками в файле расширения.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:247
@@ -7960,21 +7963,22 @@ msgstr ""
 msgid "00:05:24.810 --> 00:05:32.199\n"
 "Each row in an extension file reference one\n"
 "and only one row in the core file.\n"
-msgstr ""
+msgstr "Каждая строка в файле расширения ссылается на одну и только одну строку в основном файле.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:250
 #, no-wrap
 msgid "00:05:32.199 --> 00:05:33.970\n"
 "Some examples:\n"
-msgstr ""
+msgstr "00:05:32.199 --> 00:05:33.970\n"
+"Некоторые примеры:\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:253
 #, no-wrap
 msgid "00:05:33.970 --> 00:05:37.610\n"
 "Core is Occurrence, no extensions\n"
-msgstr ""
+msgstr "Ядро Наблюдение, без расширений\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:257
@@ -7982,7 +7986,7 @@ msgstr ""
 msgid "00:05:37.610 --> 00:05:41.389\n"
 "Core is Occurrence, with “multimedia”\n"
 "extension\n"
-msgstr ""
+msgstr "Ядро Наблюдение, с расширением «Мультимедиа»\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:261
@@ -7997,14 +8001,14 @@ msgstr ""
 #, no-wrap
 msgid "00:05:47.050 --> 00:05:50.129\n"
 "Core is Taxon, no extensions\n"
-msgstr ""
+msgstr "Ядро Таксономический список, без расширений\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:267
 #, no-wrap
 msgid "00:05:50.129 --> 00:05:54.319\n"
 "Core is Taxon, with species distribution extension\n"
-msgstr ""
+msgstr "Ядро Таксономический список, с расширением распространения видов\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:271
@@ -8019,7 +8023,8 @@ msgstr ""
 #, no-wrap
 msgid "00:06:02.900 --> 00:06:05.159\n"
 "The first core is the Occurrence Core.\n"
-msgstr ""
+msgstr "00:06:02.900 --> 00:06:05:\n"
+"Первое ядро — Ядро Наблюдений.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:278
@@ -8034,7 +8039,8 @@ msgstr ""
 #, no-wrap
 msgid "00:06:11.970 --> 00:06:16.240\n"
 "Each row has a unique identifier, an occurrenceID.\n"
-msgstr ""
+msgstr "00:06:11.970 --> 00:06:16.240\n"
+"В каждой строке есть уникальный идентификатор, occurrenceID.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:285
@@ -8056,7 +8062,8 @@ msgstr ""
 #, no-wrap
 msgid "00:06:27.530 --> 00:06:30.470\n"
 "The next option is the Taxon core.\n"
-msgstr ""
+msgstr "00:06:27.530 --> 00:06:30.470\n"
+"Следующим вариантом является ядро таксономического списка.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:295
@@ -8079,14 +8086,16 @@ msgstr ""
 #, no-wrap
 msgid "00:06:40.319 --> 00:06:42.949\n"
 "Each row will have a taxonID.\n"
-msgstr ""
+msgstr "00:06:40:19--> 00:06:42.949\n"
+"Каждая строка будет иметь таксонID.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:305
 #, no-wrap
 msgid "00:06:42.949 --> 00:06:49.060\n"
 "Each taxon must be unique.\n"
-msgstr ""
+msgstr "00:06:22.949 --> 00:06:060\n"
+"Каждый таксон должен быть уникальным.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:308
@@ -8163,14 +8172,16 @@ msgstr ""
 #, no-wrap
 msgid "00:07:33.699 --> 00:07:36.199\n"
 "Each row will have an EventID.\n"
-msgstr ""
+msgstr "00:07:40:19--> 00:07:36.949\n"
+"Каждая строка будет иметь EventID.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:345
 #, no-wrap
 msgid "00:07:36.199 --> 00:07:42.740\n"
 "Each event must be unique.\n"
-msgstr ""
+msgstr "00:07:22.949 --> 00:07:060\n"
+"Каждое событие должно быть уникальным.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:349
@@ -8186,7 +8197,7 @@ msgstr ""
 msgid "00:07:47.599 --> 00:07:54.169\n"
 "If required fields are not supplied, GBIF\n"
 "will have difficult indexing your dataset.\n"
-msgstr ""
+msgstr "Если обязательные поля не указаны, GBIF будет трудно индексировать ваш набор данных.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:357
@@ -8224,7 +8235,7 @@ msgstr ""
 msgid "00:08:11.060 --> 00:08:14.960\n"
 "Don’t stop at the required and recommended\n"
 "fields.\n"
-msgstr ""
+msgstr "Не останавливайтесь на требуемых и рекомендуемых полях.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:375
@@ -8232,7 +8243,7 @@ msgstr ""
 msgid "00:08:14.960 --> 00:08:20.770\n"
 "The more data you are able to share, the more\n"
 "useful your dataset can be to end users.\n"
-msgstr ""
+msgstr "Чем больше данных вы можете представить, тем полезнее ваш набор данных для конечных пользователей.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:379
@@ -8324,7 +8335,8 @@ msgstr ""
 #, no-wrap
 msgid "00:09:11.960 --> 00:09:16.520\n"
 "Community members will help guide you.\n"
-msgstr ""
+msgstr "00:09:11.960 --> 00:09:16.520\n"
+"Члены сообщества помогут вам.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:423
@@ -8332,7 +8344,7 @@ msgstr ""
 msgid "00:09:16.520 --> 00:09:23.500\n"
 "Also, in the standards presentation, you were\n"
 "introduced to Darwin Core Archives.\n"
-msgstr ""
+msgstr "Кроме того, в презентации о стандартах вы познакомились с Darwin Core Archives.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:427
@@ -8340,7 +8352,7 @@ msgstr ""
 msgid "00:09:23.500 --> 00:09:26.770\n"
 "This is an example of a Darwin Core archive\n"
 "with extensions.\n"
-msgstr ""
+msgstr "Это пример архива Darwin Core с расширениями.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:431
@@ -8363,7 +8375,7 @@ msgstr ""
 msgid "00:09:38.140 --> 00:09:42.750\n"
 "Until now, it may have been difficult to imagine\n"
 "how two single files can be related.\n"
-msgstr ""
+msgstr "До сих пор, возможно, было трудно представить, как два отдельных файла могут быть связаны.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:442
@@ -8371,28 +8383,31 @@ msgstr ""
 msgid "00:09:42.750 --> 00:09:47.890\n"
 "A core with an extension can represent the\n"
 "following relationships.\n"
-msgstr ""
+msgstr "Ядро с расширением может представлять следующие связи.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:445
 #, no-wrap
 msgid "00:09:47.890 --> 00:09:48.940\n"
 "one to zero\n"
-msgstr ""
+msgstr "00:09:47.890 --> 00:09:48.940\n"
+"от одного до нуля\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:448
 #, no-wrap
 msgid "00:09:48.940 --> 00:09:49.950\n"
 "one to one\n"
-msgstr ""
+msgstr "00:09:48.940 --> 00:09:49.950\n"
+"один к одному\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:451
 #, no-wrap
 msgid "00:09:49.950 --> 00:09:52.450\n"
 "one to many\n"
-msgstr ""
+msgstr "00:09:49.950 --> 00:09:54,450\n"
+"один для многим\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:454
