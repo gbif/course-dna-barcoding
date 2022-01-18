@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: publishing-dna-derived-data\n"
 "POT-Creation-Date: 2021-12-08 16:51+0000\n"
-"PO-Revision-Date: 2022-01-18 20:20\n"
+"PO-Revision-Date: 2022-01-18 23:15\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -8613,7 +8613,7 @@ msgstr "00:11:28.140 --> 00:11:37,930\n"
 msgid "00:11:32.850 --> 00:11:39.360\n"
 "by Nicolas Noe, Laura Anne Russell and Dag\n"
 "Endresen, BID and BIFA Trainers, Mentors and\n"
-msgstr "вкладом со стороны Nicolas Noe, Laura Anne Russell и Dag\n"
+msgstr "со стороны Nicolas Noe, Laura Anne Russell и Dag\n"
 "Endresen, Тренеров BID и BIFA, Инструкторов и \n"
 
 #. type: Plain text
@@ -8795,7 +8795,7 @@ msgstr "Администраторы увидят вкладки Ресурсы 
 msgid "00:01:46.430 --> 00:01:51.939\n"
 "At the bottom of the Manage Resources tab\n"
 "is a section to Create a New Resource.\n"
-msgstr ""
+msgstr "В нижней части вкладки Управление ресурсами находится раздел Создание нового ресурса.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_IPT.en.vtt:88
@@ -8811,7 +8811,7 @@ msgstr ""
 msgid "00:01:57.290 --> 00:02:08.310\n"
 "It cannot have spaces. An example would be\n"
 "fmnh-herps, or wcs_camera_traps\n"
-msgstr ""
+msgstr "В нем не может быть пробелов. Примером может быть fmnh-herps, или wcs_camera_traps\n"
 
 #. type: Plain text
 #: videos/Data_publishing_IPT.en.vtt:96
@@ -8819,7 +8819,7 @@ msgstr ""
 msgid "00:02:08.310 --> 00:02:13.050\n"
 "When creating a resource, do not attempt to\n"
 "add an archive file at this point.\n"
-msgstr ""
+msgstr "При создании ресурса не пытайтесь добавить архивный файл на данном этапе.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_IPT.en.vtt:100
@@ -8827,14 +8827,14 @@ msgstr ""
 msgid "00:02:13.050 --> 00:02:17.610\n"
 "You will do it after the resource is created.\n"
 "You will see a video demonstration of this\n"
-msgstr ""
+msgstr "Вы сделаете это после создания ресурса. Вы увидите демонстрацию этого \n"
 
 #. type: Plain text
 #: videos/Data_publishing_IPT.en.vtt:103
 #, no-wrap
 msgid "00:02:17.610 --> 00:02:22.970\n"
 "process in the next section.\n"
-msgstr ""
+msgstr "процесса в следующем разделе.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_IPT.en.vtt:107
@@ -8842,7 +8842,7 @@ msgstr ""
 msgid "00:02:22.970 --> 00:02:26.900\n"
 "After creating a resource, you will be directed\n"
 "to the resource page.\n"
-msgstr ""
+msgstr "После создания ресурса вы будете направлены на страницу ресурса.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_IPT.en.vtt:111
@@ -8850,7 +8850,7 @@ msgstr ""
 msgid "00:02:26.900 --> 00:02:30.950\n"
 "Here you will have multiple options for editing\n"
 "the resource.\n"
-msgstr ""
+msgstr "Здесь имеется несколько вариантов редактирования ресурса.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_IPT.en.vtt:115
@@ -8858,7 +8858,7 @@ msgstr ""
 msgid "00:02:30.950 --> 00:02:34.950\n"
 "The first section is for Source Data.\n"
 "This is where you will upload your source\n"
-msgstr ""
+msgstr "Первый раздел предназначен для исходных данных. Здесь будут загружены файлы исходных данных \n"
 
 #. type: Plain text
 #: videos/Data_publishing_IPT.en.vtt:119
@@ -8866,14 +8866,14 @@ msgstr ""
 msgid "00:02:34.950 --> 00:02:39.410\n"
 "data files or make database connections to\n"
 "your source data.\n"
-msgstr ""
+msgstr "или установлены подключения базы данных к исходным данным.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_IPT.en.vtt:122
 #, no-wrap
 msgid "00:02:39.410 --> 00:02:42.390\n"
 "For this course, we will upload files.\n"
-msgstr ""
+msgstr "Для этого курса мы загрузим файлы.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_IPT.en.vtt:126
@@ -8881,7 +8881,7 @@ msgstr ""
 msgid "00:02:42.390 --> 00:02:47.950\n"
 "Once a file is uploaded, you have the opportunity\n"
 "to edit some information about the file.\n"
-msgstr ""
+msgstr "После загрузки файла можно отредактировать некоторые сведения о нем.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_IPT.en.vtt:130
@@ -8976,7 +8976,7 @@ msgstr ""
 msgid "00:03:42.620 --> 00:03:48.040\n"
 "You will see this demonstrated in a later\n"
 "video.\n"
-msgstr ""
+msgstr "Вы увидите это в следующем видео.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_IPT.en.vtt:177
@@ -9031,7 +9031,7 @@ msgstr ""
 msgid "00:04:16.209 --> 00:04:23.229\n"
 "After the first three sections are complete,\n"
 "a resource can be published.\n"
-msgstr ""
+msgstr "После завершения первых трех разделов ресурс может быть опубликован.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_IPT.en.vtt:204
@@ -9039,7 +9039,7 @@ msgstr ""
 msgid "00:04:23.229 --> 00:04:27.129\n"
 "A resource must be public in order to register\n"
 "it with GBIF.\n"
-msgstr ""
+msgstr "Для регистрации ресурса в GBIF он должен быть общедоступным.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_IPT.en.vtt:208
@@ -9047,7 +9047,7 @@ msgstr ""
 msgid "00:04:27.129 --> 00:04:31.949\n"
 "If the resource is made public after the initial\n"
 "publication, it will need to be published\n"
-msgstr ""
+msgstr "Если ресурс будет обнародован после первоначальной публикации, его необходимо будет опубликовать\n"
 
 #. type: Plain text
 #: videos/Data_publishing_IPT.en.vtt:212
@@ -9055,7 +9055,7 @@ msgstr ""
 msgid "00:04:31.949 --> 00:04:35.409\n"
 "a second time before it can be registered\n"
 "with GBIF.\n"
-msgstr ""
+msgstr "во второй раз, прежде чем его можно будет зарегистрировать в GBIF.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_IPT.en.vtt:216
@@ -9063,7 +9063,7 @@ msgstr ""
 msgid "00:04:35.409 --> 00:04:44.250\n"
 "The last section allows you to add other users\n"
 "to help manager your resource.\n"
-msgstr ""
+msgstr "В последнем разделе можно добавить других пользователей для управления ресурсом.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_IPT.en.vtt:220
@@ -9087,7 +9087,7 @@ msgstr ""
 msgid "00:04:53.699 --> 00:04:57.969\n"
 "Once these conditions are met, then the Register\n"
 "button will be available.\n"
-msgstr ""
+msgstr "После выполнения этих условий будет доступна кнопка Register.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_IPT.en.vtt:232
@@ -9095,7 +9095,7 @@ msgstr ""
 msgid "00:04:57.969 --> 00:05:05.120\n"
 "If the button is not immediately available.\n"
 "Try publishing one more time.\n"
-msgstr ""
+msgstr "Если кнопка недоступна сразу. Попробуйте опубликовать еще раз.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_IPT.en.vtt:236
@@ -9118,7 +9118,7 @@ msgstr ""
 msgid "00:05:14.560 --> 00:05:18.419\n"
 "Once the dataset is registered with GBIF,\n"
 "it is given a DOI.\n"
-msgstr ""
+msgstr "После регистрации набора данных в GBIF ему присваивается DOI.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_IPT.en.vtt:247
@@ -9150,7 +9150,7 @@ msgstr ""
 msgid "00:05:35.930 --> 00:05:41.419\n"
 "You can click the Citation button to see which\n"
 "papers used your dataset.\n"
-msgstr ""
+msgstr "Вы можете нажать кнопку Citation/Цитирование, чтобы посмотреть, какие документы использовали ваш набор данных.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_IPT.en.vtt:263
@@ -9182,7 +9182,7 @@ msgstr ""
 msgid "00:06:01.039 --> 00:06:04.150\n"
 "There are many community resources available\n"
 "to you.\n"
-msgstr ""
+msgstr "Для вас доступно много ресурсов сообщества.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_IPT.en.vtt:279
@@ -9205,7 +9205,8 @@ msgstr ""
 msgid "00:06:12.960 --> 00:06:13.960\n"
 "Thank you.\n"
 "&nbsp;\n"
-msgstr ""
+msgstr "00:06:12.960 --> 00:06:13.520\n\n"
+"Спасибо\n"
 
 #. type: Plain text
 #: videos/Data_publishing_IPT.en.vtt:290
@@ -9213,7 +9214,8 @@ msgstr ""
 msgid "00:06:13.960 --> 00:06:18.189\n"
 "If you have questions on this presentation,\n"
 "please use the provided forum in the e-Learning\n"
-msgstr ""
+msgstr "00:06:13.960 --> 00:06:18.890\n"
+"если у вас есть вопросы по этой презентации, пожалуйста, используйте предоставленный форум в e-Learning\n"
 
 #. type: Plain text
 #: videos/Data_publishing_IPT.en.vtt:294
@@ -9221,7 +9223,8 @@ msgstr ""
 msgid "00:06:18.189 --> 00:06:19.629\n"
 "platform.\n"
 "&nbsp;\n"
-msgstr ""
+msgstr "00:06:18.189 --> 00:06:18:320\n\n"
+"платформы\n"
 
 #. type: Plain text
 #: videos/Data_publishing_IPT.en.vtt:298
@@ -9229,7 +9232,8 @@ msgstr ""
 msgid "00:06:19.629 --> 00:06:24.949\n"
 "This video is part of a series of presentations\n"
 "used in the GBIF Biodiversity Data Mobilization\n"
-msgstr ""
+msgstr "00:06:18,320 --> 00:06:23,660\n"
+"Это видео является частью серии презентаций, используемых в GBIF Biodiversity Data Mobilization\n"
 
 #. type: Plain text
 #: videos/Data_publishing_IPT.en.vtt:302
@@ -9237,7 +9241,9 @@ msgstr ""
 msgid "00:06:24.949 --> 00:06:28.580\n"
 "course.\n"
 "The biodiversity data mobilization curriculum\n"
-msgstr ""
+msgstr "00:06:24.949 --> 00:06:28.520\n"
+"курса.\n"
+"Программа мобилизации данных о биоразнообразии\n"
 
 #. type: Plain text
 #: videos/Data_publishing_IPT.en.vtt:306
@@ -9245,7 +9251,8 @@ msgstr ""
 msgid "00:06:28.580 --> 00:06:33.479\n"
 "was originally developed as part of the Biodiversity\n"
 "Information Development Programme funded by\n"
-msgstr ""
+msgstr "00:06:28.580 --> 00:06:33.660\n"
+"был изначально разработан в рамках Программы развития информации о биоразнообразии, финансируемой\n"
 
 #. type: Plain text
 #: videos/Data_publishing_IPT.en.vtt:310
@@ -9253,7 +9260,9 @@ msgstr ""
 msgid "00:06:33.479 --> 00:06:35.680\n"
 "the European Union.\n"
 "&nbsp;\n"
-msgstr ""
+msgstr "00:06:33.479 --> 00:06:35.800\n"
+"Европейским Союзом.\n"
+"&nbsp;\n"
 
 #. type: Plain text
 #: videos/Data_publishing_IPT.en.vtt:314
@@ -9261,7 +9270,9 @@ msgstr ""
 msgid "00:06:35.680 --> 00:06:40.050\n"
 "This presentation was originally created by\n"
 "Nicolas Noe with additional contributions\n"
-msgstr ""
+msgstr "00:06:35.680 --> 00:06:37,930\n"
+"Эта презентация была первоначально создана\n"
+"Nicolas Noe с дополнительным вкладом\n"
 
 #. type: Plain text
 #: videos/Data_publishing_IPT.en.vtt:318
@@ -9269,7 +9280,9 @@ msgstr ""
 msgid "00:06:40.050 --> 00:06:47.060\n"
 "by Sophie Pamerlon, Marie Elise Lecoq, Laura\n"
 "Anne Russell, Dag Endresen, Rukaya Johaadien,\n"
-msgstr ""
+msgstr "00:06:40:050 --> 00:06:060\n"
+"со стороны Sophie Pamerlon, Marie Elise Lecoq, Laura\n"
+"Anne Russell, Dag Endresen, Rukaya Johaadien,\n"
 
 #. type: Plain text
 #: videos/Data_publishing_IPT.en.vtt:322
@@ -9333,7 +9346,7 @@ msgstr ""
 msgid "00:00:25.610 --> 00:00:30.830\n"
 "Before we begin, I’d like to take a moment\n"
 "to explain why data quality is important.\n"
-msgstr ""
+msgstr "Прежде чем мы начнем, хотелось бы немного объяснить, почему качество данных важно.\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:30
@@ -9402,14 +9415,14 @@ msgstr ""
 msgid "00:01:03.430 --> 00:01:09.390\n"
 "He wrote: “Data quality is related to use\n"
 "and cannot be assessed independently of the\n"
-msgstr ""
+msgstr "Он писал: \"Качество данных связано с использованием и не может оцениваться независимо от\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:62
 #, no-wrap
 msgid "00:01:09.390 --> 00:01:10.520\n"
 "user.\n"
-msgstr ""
+msgstr "пользователя.\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:66
@@ -9417,7 +9430,7 @@ msgstr ""
 msgid "00:01:10.520 --> 00:01:15.710\n"
 "In a database, the data have no actual quality\n"
 "or value (Dalcin 2004); they only have potential\n"
-msgstr ""
+msgstr "В базе данных данные не имеют фактического качества или ценности (Dalcin 2004); они имеют потенциальную \n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:70
@@ -9425,7 +9438,7 @@ msgstr ""
 msgid "00:01:15.710 --> 00:01:20.409\n"
 "value that is realized when someone uses the\n"
 "data to do something useful.\n"
-msgstr ""
+msgstr "ценность, которая реализуется только тогда, когда кто-то использует данные, чтобы сделать что-то полезное.\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:74
@@ -9464,7 +9477,7 @@ msgstr ""
 msgid "00:01:37.619 --> 00:01:45.020\n"
 "To do this, we seek to provide the highest\n"
 "quality data.\n"
-msgstr ""
+msgstr "Для этого мы стремимся предоставить данные самого высокого качества.\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:93
@@ -9488,14 +9501,14 @@ msgstr ""
 msgid "00:01:54.759 --> 00:01:58.630\n"
 "These are important concepts that you will\n"
 "need to know and be able to articulate about\n"
-msgstr ""
+msgstr "Это важные концепции, которые необходимо знать и уметь формулировать о\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:104
 #, no-wrap
 msgid "00:01:58.630 --> 00:02:02.509\n"
 "your own data or data that you maintain.\n"
-msgstr ""
+msgstr "собственных данных или данных, которые вы поддерживаете.\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:108
@@ -9533,7 +9546,8 @@ msgstr ""
 #, no-wrap
 msgid "00:02:24.450 --> 00:02:26.620\n"
 "Maybe.\n"
-msgstr ""
+msgstr "00:02:24.450 --> 00:02:26,620\n"
+"Может быть.\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:126
@@ -9555,7 +9569,8 @@ msgstr ""
 #, no-wrap
 msgid "00:02:33.850 --> 00:02:37.750\n"
 "Maybe not.\n"
-msgstr ""
+msgstr "00:02:33.850 --> 00:02:37.750\n"
+"Возможно, нет.\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:136
@@ -9579,7 +9594,7 @@ msgstr ""
 msgid "00:02:48.260 --> 00:02:52.650\n"
 "Rather it is the user of the data who gives\n"
 "data its value.\n"
-msgstr ""
+msgstr "Скорее, именно пользователь данных дает им свою ценность.\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:148
@@ -9602,7 +9617,7 @@ msgstr ""
 msgid "00:03:01.560 --> 00:03:06.820\n"
 "For a person studying a particular taxon,\n"
 "that same genus-level data will be much less\n"
-msgstr ""
+msgstr "Для человека, изучающего конкретный таксон, эти же данные на уровне рода будут гораздо менее\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:159
@@ -9610,7 +9625,7 @@ msgstr ""
 msgid "00:03:06.820 --> 00:03:13.820\n"
 "useful than more detailed occurrences with\n"
 "subspecies information.\n"
-msgstr ""
+msgstr "полезны, чем более подробные наблюдения о подвидах.\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:163
@@ -9681,14 +9696,14 @@ msgstr ""
 #, no-wrap
 msgid "00:03:55.060 --> 00:03:57.840\n"
 "How Accessible are your data?\n"
-msgstr ""
+msgstr "Насколько доступны ваши данные?\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:197
 #, no-wrap
 msgid "00:03:57.840 --> 00:04:00.790\n"
 "How easily can someone access your data?\n"
-msgstr ""
+msgstr "Насколько легко кто-то может получить доступ к вашим данным?\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:201
@@ -9696,21 +9711,22 @@ msgstr ""
 msgid "00:04:00.790 --> 00:04:06.260\n"
 "People can’t use the data if they can’t\n"
 "find the data.\n"
-msgstr ""
+msgstr "Люди не могут использовать данные, если не могут найти их.\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:204
 #, no-wrap
 msgid "00:04:06.260 --> 00:04:08.460\n"
 "How Accurate are your data?\n"
-msgstr ""
+msgstr "00:04:06.260 --> 00:04:08.460\n"
+"Насколько точны ваши данные?\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:207
 #, no-wrap
 msgid "00:04:08.460 --> 00:04:10.210\n"
 "Can your data be trusted?\n"
-msgstr ""
+msgstr "Можно ли доверять вашим данным?\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:211
@@ -9725,21 +9741,24 @@ msgstr ""
 #, no-wrap
 msgid "00:04:17.540 --> 00:04:19.430\n"
 "How Timely are they?\n"
-msgstr ""
+msgstr "00:04:17.540 --> 00:04:19.430\n"
+"Насколько своевременны они?\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:217
 #, no-wrap
 msgid "00:04:19.430 --> 00:04:21.459\n"
 "When will the data be made available?\n"
-msgstr ""
+msgstr "00:04:19.430 --> 00:04:21.459\n"
+"Когда данные будут доступны?\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:220
 #, no-wrap
 msgid "00:04:21.459 --> 00:04:26.180\n"
 "How often are they updated?\n"
-msgstr ""
+msgstr "00:04:21.459 --> 00:04:26.180\n"
+"Как часто они обновляются?\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:223
@@ -9754,7 +9773,7 @@ msgstr ""
 msgid "00:04:29.410 --> 00:04:32.430\n"
 "Which parts of your dataset are documented\n"
 "fully?\n"
-msgstr ""
+msgstr "Какие части набора данных задокументированы полностью?\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:231
@@ -9762,14 +9781,15 @@ msgstr ""
 msgid "00:04:32.430 --> 00:04:39.800\n"
 "How well do the data cover a particular time,\n"
 "place, or domain?\n"
-msgstr ""
+msgstr "Насколько хорошо данные охватывают определенное время, место или область?\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:234
 #, no-wrap
 msgid "00:04:39.800 --> 00:04:41.639\n"
 "How Consistent are they?\n"
-msgstr ""
+msgstr "00:04:39.800 --> 00:04:41.624\n"
+"Как они согласуются?\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:238
@@ -9777,7 +9797,7 @@ msgstr ""
 msgid "00:04:41.639 --> 00:04:45.370\n"
 "Is the data in each field always of the same\n"
 "type?\n"
-msgstr ""
+msgstr "Всегда ли данные в каждом поле имеют одинаковый тип?\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:242
@@ -9792,7 +9812,8 @@ msgstr ""
 #, no-wrap
 msgid "00:04:50.700 --> 00:04:52.520\n"
 "How Relevant are they?\n"
-msgstr ""
+msgstr "00:04:50.700 --> 00:04:52.520\n"
+"Насколько они актуальны?\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:249
@@ -9800,35 +9821,38 @@ msgstr ""
 msgid "00:04:52.520 --> 00:04:59.909\n"
 "How similar is this dataset to others that\n"
 "have been used successfully for the same purpose?\n"
-msgstr ""
+msgstr "Насколько этот набор данных похож на другие, которые были успешно использованы для той же цели?\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:252
 #, no-wrap
 msgid "00:04:59.909 --> 00:05:02.080\n"
 "How Detailed are the data?\n"
-msgstr ""
+msgstr "00:04:599 --> 00:05:02.080\n"
+"Как подробно описаны данные?\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:255
 #, no-wrap
 msgid "00:05:02.080 --> 00:05:04.560\n"
 "How much resolution is there in your data?\n"
-msgstr ""
+msgstr "Какое разрешение имеется в ваших данных?\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:258
 #, no-wrap
 msgid "00:05:04.560 --> 00:05:10.249\n"
 "At what scale can they be used for mapping?\n"
-msgstr ""
+msgstr "00:05:04.560 --> 00:05:10.249\n"
+"В каком масштабе они могут быть использованы для сопоставления?\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:261
 #, no-wrap
 msgid "00:05:10.249 --> 00:05:13.110\n"
 "Is the data Easy to interpret?\n"
-msgstr ""
+msgstr "00:05:10.249 --> 00:05:13.110\n"
+"Данные легко интерпретировать?\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:265
@@ -9836,7 +9860,7 @@ msgstr ""
 msgid "00:05:13.110 --> 00:05:16.629\n"
 "Is the dataset documented in a clear and concise\n"
 "way?\n"
-msgstr ""
+msgstr "Задокументирован ли набор данных четким и кратким образом?\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:269
@@ -9844,7 +9868,7 @@ msgstr ""
 msgid "00:05:16.629 --> 00:05:23.330\n"
 "If your documents are handwritten, are they\n"
 "legible?\n"
-msgstr ""
+msgstr "Если ваши документы написаны от руки, они разборчивы?\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:273
@@ -9884,14 +9908,14 @@ msgstr ""
 msgid "00:05:46.340 --> 00:05:51.349\n"
 "We can use two measures of quality, Correctness\n"
 "and Consistency, to help us to document these\n"
-msgstr ""
+msgstr "Мы можем использовать два показателя качества, корректность и непротиворечивость, чтобы помочь нам документировать эти\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:292
 #, no-wrap
 msgid "00:05:51.349 --> 00:05:54.060\n"
 "inherent errors in data.\n"
-msgstr ""
+msgstr "внутренние ошибки в данных.\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:296
@@ -9914,7 +9938,7 @@ msgstr ""
 msgid "00:06:01.400 --> 00:06:07.069\n"
 "In this diagram accuracy is how close a given\n"
 "dot is to the centre of the target.\n"
-msgstr ""
+msgstr "На этой диаграмме точность такова, насколько близка данная точка к центру цели.\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:307
@@ -9945,7 +9969,7 @@ msgstr ""
 msgid "00:06:20.389 --> 00:06:26.830\n"
 "These are measures of how well the data gatherer\n"
 "was able to capture the true value being investigated.\n"
-msgstr ""
+msgstr "Это показатели того, насколько хорошо средство сбора данных смогло зафиксировать истинную исследуемую ценность.\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:322
@@ -9953,7 +9977,7 @@ msgstr ""
 msgid "00:06:26.830 --> 00:06:30.820\n"
 "Knowing these properties of your data will\n"
 "help you to understand the ways in which you\n"
-msgstr ""
+msgstr "Знание этих свойств данных поможет понять, каким образом\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:326
@@ -9961,7 +9985,7 @@ msgstr ""
 msgid "00:06:30.820 --> 00:06:39.449\n"
 "can and cannot clean, validate and process\n"
 "the data.\n"
-msgstr ""
+msgstr "можно и нельзя очистить, проверить и обработать данные.\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:330
@@ -10014,7 +10038,8 @@ msgstr ""
 #, no-wrap
 msgid "00:07:04.159 --> 00:07:08.669\n"
 "Let’s look at an example.\n"
-msgstr ""
+msgstr "00:07:04.159 --> 00:07:08.669\n"
+"Давайте посмотрим на пример.\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:355
@@ -10022,14 +10047,14 @@ msgstr ""
 msgid "00:07:08.669 --> 00:07:13.150\n"
 "For this example, let’s imagine your dataset\n"
 "contains records of fossil bird specimens\n"
-msgstr ""
+msgstr "Для этого примера давайте представим, что ваш набор данных содержит записи ископаемых образцов птиц \n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:358
 #, no-wrap
 msgid "00:07:13.150 --> 00:07:15.580\n"
 "from the Early Triassic Period.\n"
-msgstr ""
+msgstr "из раннего триасового периода.\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:362
@@ -10037,7 +10062,7 @@ msgstr ""
 msgid "00:07:15.580 --> 00:07:21.059\n"
 "The taxonomic name for a number of specimens\n"
 "in your dataset is recorded as Thismia.\n"
-msgstr ""
+msgstr "Таксономическое название ряда образцов в вашем наборе данных записано как Thismia.\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:366
@@ -10045,14 +10070,15 @@ msgstr ""
 msgid "00:07:21.059 --> 00:07:25.999\n"
 "Do you know if Thismia is a taxon of ancient\n"
 "birds?\n"
-msgstr ""
+msgstr "Вы знаете, является ли Тисмия таксоном древних птиц?\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:369
 #, no-wrap
 msgid "00:07:25.999 --> 00:07:28.539\n"
 "In this case, the answer is no!\n"
-msgstr ""
+msgstr "00:07:25.999 --> 00:07:28:539\n"
+"В данном случае ответ нет!\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:373
@@ -10060,7 +10086,9 @@ msgstr ""
 msgid "00:07:28.539 --> 00:07:33.539\n"
 "Thismia is a very rare plant from the State\n"
 "of Illinois in the United States.\n"
-msgstr ""
+msgstr "00:07:28.539 --> 00:07:33.524\n"
+"Тизмия является очень редким растением из штата\n"
+"Иллинойс в Соединенных Штатах.\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:377
@@ -10068,7 +10096,9 @@ msgstr ""
 msgid "00:07:33.539 --> 00:07:38.870\n"
 "As a result, the correctness, or accuracy,\n"
 "of the taxonomic name is low.\n"
-msgstr ""
+msgstr "00:07:33.539 --> 00:07:38.870\n"
+"В результате правильность или точность,\n"
+"название таксономии низкая.\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:381
@@ -10076,7 +10106,9 @@ msgstr ""
 msgid "00:07:38.870 --> 00:07:43.069\n"
 "Perhaps because the data entry technician\n"
 "was not a paleontologist.\n"
-msgstr ""
+msgstr "00:07:38.870 --> 00:07:43.069\n"
+"Возможно, потому что специалист по вводу данных\n"
+"не был палеонтологом.\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:385
@@ -10084,21 +10116,22 @@ msgstr ""
 msgid "00:07:43.069 --> 00:07:47.869\n"
 "As a result, all of the names in the dataset\n"
 "might need to be checked and corrected by\n"
-msgstr ""
+msgstr "В результате, прежде чем использовать данные, эксперту, возможно, \n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:388
 #, no-wrap
 msgid "00:07:47.869 --> 00:07:51.960\n"
 "an expert before the data could be used.\n"
-msgstr ""
+msgstr "потребуется проверить и исправить все имена в наборе данных.\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:391
 #, no-wrap
 msgid "00:07:51.960 --> 00:07:55.659\n"
 "Let’s look at another example.\n"
-msgstr ""
+msgstr "00:07:51.960 --> 00:07:55.659\n"
+"Давайте посмотрим на другой пример.\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:395
@@ -10120,21 +10153,23 @@ msgstr ""
 #, no-wrap
 msgid "00:08:03.659 --> 00:08:05.279\n"
 "We must ask ourselves:\n"
-msgstr ""
+msgstr "00:08:03.659 --> 00:08:05.279\n"
+"Мы должны спросить:\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:404
 #, no-wrap
 msgid "00:08:05.279 --> 00:08:10.219\n"
 "Is 49007 the right postal code for Kalamazoo?\n"
-msgstr ""
+msgstr "00:08:05.279 --> 00:08:10.219\n"
+"Является ли 49007 правильным почтовым индексом для Kalamazoo?\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:407
 #, no-wrap
 msgid "00:08:10.219 --> 00:08:16.009\n"
 "Did Richard Spruce collect in Michigan?\n"
-msgstr ""
+msgstr "Richard Spruce собирал в Мичигане?\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:411
@@ -10142,7 +10177,9 @@ msgstr ""
 msgid "00:08:16.009 --> 00:08:23.630\n"
 "In this case, the answer is yes to our first\n"
 "question, 49007 is a postal code for Kalamazoo,\n"
-msgstr ""
+msgstr "00:08:16.009 --> 00:08:23.630\n"
+"В данном случае ответ дается нашему первому\n"
+"вопросу, 49007 - почтовый код для Каламазу,\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:415
@@ -10150,7 +10187,9 @@ msgstr ""
 msgid "00:08:23.630 --> 00:08:31.870\n"
 "so the accuracy of the locality is good, but\n"
 "what about the collector, Richard Spruce?\n"
-msgstr ""
+msgstr "00:08:23.630 --> 00:08:31.870\n"
+"поэтому точность расположения хорошая, но\n"
+"что насчет коллекционера Richard Spruce?\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:419
