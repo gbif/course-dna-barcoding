@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: publishing-dna-derived-data\n"
 "POT-Creation-Date: 2021-12-08 16:51+0000\n"
-"PO-Revision-Date: 2022-01-18 07:42\n"
+"PO-Revision-Date: 2022-01-18 10:42\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -3973,8 +3973,7 @@ msgid "00:06:28.150 --> 00:06:33.910\n"
 "but can provide valuable information about\n"
 "individuals and their location, habitat, migratory\n"
 msgstr "00:06:28.150 --> 00:06:33.910\n"
-"но может предоставить ценную информацию о\n"
-"особях и их местонахождении, ареале, миграционных\n"
+"но может предоставить ценную информацию о особях и их местонахождении, ареале, миграционных\n"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:284
@@ -3982,7 +3981,7 @@ msgstr "00:06:28.150 --> 00:06:33.910\n"
 msgid "00:06:33.910 --> 00:06:37.520\n"
 "routes, etc.\n"
 msgstr "00:06:33.910 --> 00:06:37,520\n"
-"маршрутах и т.д.\n"
+"путях и т.д.\n"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:288
@@ -4997,7 +4996,7 @@ msgstr ""
 msgid "00:05:08.960 --> 00:05:13.460\n"
 "Each of them is useful to share in order to\n"
 "check the consistency of the geographical\n"
-msgstr ""
+msgstr "Каждый из них полезно разделить, чтобы проверить согласованность географических\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:264
@@ -5005,14 +5004,14 @@ msgstr ""
 msgid "00:05:13.460 --> 00:05:19.330\n"
 "elements (eg coordinates vs country code,\n"
 "or to ensure a given locality is consistent\n"
-msgstr ""
+msgstr "элементов (например, согласованность координат с кодом страны, или обеспечение соответствия указанного пункта\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:267
 #, no-wrap
 msgid "00:05:19.330 --> 00:05:23.650\n"
 "with a collector’s travels)\n"
-msgstr ""
+msgstr "с поездкам сборщика)\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:271
@@ -5433,14 +5432,16 @@ msgstr "00:00:06.100 --> 00:00:11.200\n"
 msgid "00:00:11.200 --> 00:00:15.670\n"
 "The concept of data management includes a\n"
 "wide range of topics, from metadata formats\n"
-msgstr ""
+msgstr "00:00:11.200 --> 00:00:15.670\n"
+"Концепция управления данными включает в себя широкий диапазон вопросов, начиная от форматов метаданных\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:18
 #, no-wrap
 msgid "00:00:15.670 --> 00:00:17.920\n"
 "to database organization.\n"
-msgstr ""
+msgstr "00:00:15.670 --> 00:00:17.920\n"
+"заканчивая базы данных организаций.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:22
@@ -5658,8 +5659,7 @@ msgid "00:02:04.390 --> 00:02:09.599\n"
 "Let’s take a look at several of the recommended\n"
 "principles of data cleaning.\n"
 msgstr "00:02:04.390 --> 00:02:09.599\n"
-"Давайте рассмотрим несколько рекомендованных\n"
-"принципов очистки данных.\n"
+"Давайте рассмотрим несколько рекомендованных принципов очистки данных.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:118
@@ -5746,8 +5746,7 @@ msgid "00:02:52.900 --> 00:02:57.170\n"
 "Develop and implement a strategy that fits\n"
 "with your institution’s resources and expertise.\n"
 msgstr "00:02:52.900 --> 00:02:57.170\n"
-"Разработка и реализация стратегии, которая соответствует\n"
-"ресурсами и опытом вашей организации.\n"
+"Разработка и реализация стратегии, которая соответствует ресурсами и опыту вашей организации.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:157
@@ -5755,14 +5754,16 @@ msgstr "00:02:52.900 --> 00:02:57.170\n"
 msgid "00:02:57.170 --> 00:03:02.590\n"
 "A solid plan will improve both your data and\n"
 "the reputation of your institution among data\n"
-msgstr ""
+msgstr "00:02:57.170 --> 00:03:02.590\n"
+"Тщательный план улучшит ваши данные и репутацию вашего учреждения среди поьзователей\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:160
 #, no-wrap
 msgid "00:03:02.590 --> 00:03:04.840\n"
 "users.\n"
-msgstr ""
+msgstr "00:03:02.561 --> 00:03:03:03:03:07\n"
+"данными.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:164
@@ -5770,7 +5771,7 @@ msgstr ""
 msgid "00:03:04.840 --> 00:03:09.099\n"
 "One of the first steps of your plan should\n"
 "be to organize the data.\n"
-msgstr ""
+msgstr "Одним из первых шагов плана должна быть организация данных.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:168
@@ -5871,14 +5872,14 @@ msgstr ""
 msgid "00:04:01.400 --> 00:04:06.269\n"
 "Be sure that everyone in your organization\n"
 "understands that data quality is everyone’s\n"
-msgstr ""
+msgstr "Убедитесь, что все в вашей организации понимают, что за качество данных \n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:216
 #, no-wrap
 msgid "00:04:06.269 --> 00:04:07.409\n"
 "responsibility.\n"
-msgstr ""
+msgstr "отвечает каждый.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:220
@@ -5886,7 +5887,7 @@ msgstr ""
 msgid "00:04:07.409 --> 00:04:12.110\n"
 "Of course, the primary responsibility lies\n"
 "with the people who maintain the data, but\n"
-msgstr ""
+msgstr "Конечно, основная ответственность лежит на людях, которые поддерживают данные, но\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:224
@@ -5894,7 +5895,7 @@ msgstr ""
 msgid "00:04:12.110 --> 00:04:17.709\n"
 "everyone, from field technicians to students\n"
 "performing data entry to emeritus curators\n"
-msgstr ""
+msgstr "каждый, от технических сотрудников и студентов, выполняющих ввод данных, до почетных кураторов,\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:228
@@ -5902,14 +5903,14 @@ msgstr ""
 msgid "00:04:17.709 --> 00:04:23.560\n"
 "have a responsibility to treat the data with\n"
 "care and to communicate any errors or inconsistencies\n"
-msgstr ""
+msgstr "несет ответственность за тщательное обращение с данными и сообщение любых ошибок или несоответствий,\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:231
 #, no-wrap
 msgid "00:04:23.560 --> 00:04:28.610\n"
 "they might discover.\n"
-msgstr ""
+msgstr "которые они могут обнаружить.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:235
@@ -6179,7 +6180,7 @@ msgstr ""
 msgid "00:06:54.600 --> 00:06:58.560\n"
 "Once such way is to review the way that GBIF\n"
 "presents your data.\n"
-msgstr ""
+msgstr "Один из таких путей – рассмотреть, как GBIF представляет ваши данные.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:365
@@ -6263,7 +6264,7 @@ msgstr ""
 msgid "00:07:39.450 --> 00:07:44.639\n"
 "If you need training, please check the GBIF\n"
 "web site regularly or contact GBIF’s Community\n"
-msgstr ""
+msgstr "Если вам нужно обучение, пожалуйста, регулярно проверьте веб-сайт GBIF или свяжитесь с сообществом GBIF.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:405
@@ -6286,7 +6287,7 @@ msgstr ""
 msgid "00:07:57.139 --> 00:08:00.680\n"
 "Documentation is one of the most important\n"
 "principles of data cleaning.\n"
-msgstr ""
+msgstr "Документирование является одним из важнейших принципов очистки данных.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:415
@@ -6316,7 +6317,7 @@ msgstr ""
 msgid "00:08:12.110 --> 00:08:18.289\n"
 "This transparency can be truly successful\n"
 "when the data cleaning process is well documented.\n"
-msgstr ""
+msgstr "Эта прозрачность может быть действительно эффективной, когда процесс очистки данных хорошо задокументирован.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:430
@@ -6339,14 +6340,14 @@ msgstr ""
 msgid "00:08:27.590 --> 00:08:33.110\n"
 "Good documentation will help you to avoid\n"
 "recurring errors.\n"
-msgstr ""
+msgstr "Хорошая документируемость способствует избеганию повторяющихся ошибок.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:440
 #, no-wrap
 msgid "00:08:33.110 --> 00:08:36.550\n"
 "Documentation is also key to good data quality.\n"
-msgstr ""
+msgstr "Документирование также является ключевым фактором хорошего качества данных.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:444
@@ -6408,14 +6409,16 @@ msgstr ""
 msgid "00:09:11.700 --> 00:09:16.340\n"
 "If you have questions on this presentation,\n"
 "please use the provided forum in the e-Learning\n"
-msgstr ""
+msgstr "00:09:11.700 --> 00:09:16.890\n"
+"Если у вас есть вопросы по этой презентации, пожалуйста, используйте предоставленный форум в e-Learning\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:473
 #, no-wrap
 msgid "00:09:16.340 --> 00:09:17.990\n"
 "platform.\n"
-msgstr ""
+msgstr "00:09:16.340 --> 00:09:18:320\n"
+"платформы.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:477
@@ -6423,14 +6426,16 @@ msgstr ""
 msgid "00:09:17.990 --> 00:09:22.950\n"
 "This video is part of a series of presentations\n"
 "used in the GBIF Biodiversity Data Mobilization\n"
-msgstr ""
+msgstr "00:09:18,320 --> 00:09:23,660\n"
+"Это видео является частью серии презентаций, используемых в GBIF Biodiversity Data Mobilization\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:480
 #, no-wrap
 msgid "00:09:22.950 --> 00:09:23.970\n"
 "course.\n"
-msgstr ""
+msgstr "00:09:23,660 --> 00:09:24,950 \n"
+"курса.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:484
@@ -6438,7 +6443,9 @@ msgstr ""
 msgid "00:09:23.970 --> 00:09:28.690\n"
 "The biodiversity data mobilization curriculum\n"
 "was originally developed as part of the Biodiversity\n"
-msgstr ""
+msgstr "00:09:23.970 --> 00:09:28.459\n"
+"Программа по мобилизации данных о биоразнообразии\n"
+"была первоначально разработана как часть Программы\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:488
@@ -6446,7 +6453,8 @@ msgstr ""
 msgid "00:09:28.690 --> 00:09:33.149\n"
 "Information Development Programme funded by\n"
 "the European Union.\n"
-msgstr ""
+msgstr "00:09:28.690 --> 00:09:33.260\n"
+"развития информации о биоразнообразии (Biodiversity Information Development Programme), финансируемой Европейским Союзом.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:492
@@ -6454,7 +6462,9 @@ msgstr ""
 msgid "00:09:33.149 --> 00:09:37.930\n"
 "This presentation was originally created by\n"
 "Nestor Beltran with additional contributions\n"
-msgstr ""
+msgstr "00:09:33.149 --> 00:09:37,930\n"
+"Эта презентация была первоначально создана\n"
+"Nestor Beltran с дополнительным вкладом\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:496
@@ -6462,7 +6472,8 @@ msgstr ""
 msgid "00:09:37.930 --> 00:09:43.350\n"
 "by David Bloom, BID and BIFA Trainers, Mentors\n"
 "and Students.\n"
-msgstr ""
+msgstr "00:09:37.930 --> 00:09:43.300\n"
+"вкладом со стороны David Bloom, Тренеров BID и BIFA, Инструкторов и студентов.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:500
@@ -6470,7 +6481,8 @@ msgstr ""
 msgid "00:09:43.350 --> 00:09:45.860\n"
 "This presentation has been narrated by David\n"
 "Bloom.\n"
-msgstr ""
+msgstr "00:09:20:50--> 00:09:23:20\n"
+"Эта презентация озвучена Laura Anne Russell.\n"
 
 #. type: Plain text
 #: videos/Data_Management_OpenRefine.en.vtt:8
@@ -6478,7 +6490,9 @@ msgstr ""
 msgid "00:00:01.120 --> 00:00:05.840\n"
 "In this presentation, we are going to introduce&nbsp;\n"
 "OpenRefine as a tool for data cleaning.\n"
-msgstr ""
+msgstr "00:00:01.120 --> 00:00:05.840\n"
+"В этой презентации мы собираемся представить&nbsp;\n"
+"OpenRefine в качестве инструмента для очистки данных.\n"
 
 #. type: Plain text
 #: videos/Data_Management_OpenRefine.en.vtt:12
@@ -6502,7 +6516,7 @@ msgstr ""
 msgid "00:00:22.400 --> 00:00:25.760\n"
 "OpenRefine is a powerful tool&nbsp;\n"
 "for working with messy data.\n"
-msgstr ""
+msgstr "OpenRefine является мощным инструментом&nbsp; для работы с беспорядочными данными.\n"
 
 #. type: Plain text
 #: videos/Data_Management_OpenRefine.en.vtt:24
@@ -6596,7 +6610,7 @@ msgstr ""
 msgid "00:01:26.160 --> 00:01:30.240\n"
 "A database provides infrastructure&nbsp;\n"
 "for storage and indexing of data.&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "База данных обеспечивает инфраструктуру&nbsp; для хранения и индексирования данных.&nbsp;&nbsp;\n"
 
 #. type: Plain text
 #: videos/Data_Management_OpenRefine.en.vtt:70
@@ -6612,7 +6626,7 @@ msgstr ""
 msgid "00:01:37.280 --> 00:01:42.640\n"
 "Excel is a spreadsheet application. It is useful&nbsp;\n"
 "for documenting data and performing operations.&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "Excel - это приложение для работы с электронными таблицами. Оно полезно&nbsp; для документирования данных и выполнения операций.&nbsp;&nbsp;\n"
 
 #. type: Plain text
 #: videos/Data_Management_OpenRefine.en.vtt:78
@@ -6636,14 +6650,15 @@ msgstr ""
 msgid "00:01:51.920 --> 00:01:56.000\n"
 "Data is not always visible and it&nbsp;\n"
 "lacks powerful visualization tools.\n"
-msgstr ""
+msgstr "Данные не всегда видны, и в них&nbsp; отсутствуют мощные средства визуализации.\n"
 
 #. type: Plain text
 #: videos/Data_Management_OpenRefine.en.vtt:89
 #, no-wrap
 msgid "00:01:57.360 --> 00:02:00.880\n"
 "OpenRefine in contrast offers multi-cell editing,&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "00:01:57.360 --> 00:02:00.880\n"
+"Для сравнения OpenRefine предлагает одновременное редактирование многих ячеек,&nbsp;&nbsp;\n"
 
 #. type: Plain text
 #: videos/Data_Management_OpenRefine.en.vtt:93
@@ -6651,7 +6666,7 @@ msgstr ""
 msgid "00:02:00.880 --> 00:02:05.040\n"
 "easy exploration and transformation&nbsp;\n"
 "and interactive visualization.&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "удобный просмотр данных, их трансформацию&nbsp; а также интерактивную визуализацию.&nbsp;&nbsp;\n"
 
 #. type: Plain text
 #: videos/Data_Management_OpenRefine.en.vtt:97
@@ -6659,14 +6674,16 @@ msgstr ""
 msgid "00:02:05.600 --> 00:02:09.680\n"
 "But as mentioned previously, it is&nbsp;\n"
 "not for storing and managing data.\n"
-msgstr ""
+msgstr "00:02:05.600 --> 00:02:09.680\n"
+"Но как упоминалось ранее, это&nbsp; не для хранения и управления данными.\n"
 
 #. type: Plain text
 #: videos/Data_Management_OpenRefine.en.vtt:100
 #, no-wrap
 msgid "00:02:13.520 --> 00:02:15.680\n"
 "So now that you understand the differences,&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "00:02:13.520 --> 00:02:15.680\n"
+"Так что теперь вы понимаете различия,&nbsp;&nbsp;\n"
 
 #. type: Plain text
 #: videos/Data_Management_OpenRefine.en.vtt:104
@@ -6674,7 +6691,8 @@ msgstr ""
 msgid "00:02:15.680 --> 00:02:19.200\n"
 "here is a list of useful features&nbsp;\n"
 "that you will find within OpenRefine.&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "00:02:15.680 --> 00:02:19.200\n"
+"вот список полезных функций,&nbsp; которые вы найдете в OpenRefine.&nbsp;&nbsp;\n"
 
 #. type: Plain text
 #: videos/Data_Management_OpenRefine.en.vtt:108
@@ -6682,7 +6700,7 @@ msgstr ""
 msgid "00:02:19.760 --> 00:02:23.840\n"
 "You will soon have an opportunity to&nbsp;\n"
 "complete a tutorial to try all the features.\n"
-msgstr ""
+msgstr "Скоро у вас будет возможность&nbsp; пройти обучение, чтобы попробовать все функции.\n"
 
 #. type: Plain text
 #: videos/Data_Management_OpenRefine.en.vtt:112
@@ -6690,7 +6708,7 @@ msgstr ""
 msgid "00:02:24.480 --> 00:02:28.000\n"
 "OpenRefine is a software that&nbsp;\n"
 "you install on your computer.&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "OpenRefine - это программное обеспечение, &nbsp; устанавливаемое на компьютер. &nbsp;&nbsp;\n"
 
 #. type: Plain text
 #: videos/Data_Management_OpenRefine.en.vtt:116
@@ -6698,7 +6716,7 @@ msgstr ""
 msgid "00:02:28.000 --> 00:02:34.320\n"
 "It requires the JAVA JRE/JDK to run.&nbsp;\n"
 "It works on Windows, Mac and Linux.\n"
-msgstr ""
+msgstr "Приложение требует запуска JAVA JRE/JDK.&nbsp; Оно работает на Windows, Mac и Linux.\n"
 
 #. type: Plain text
 #: videos/Data_Management_OpenRefine.en.vtt:120
@@ -6706,7 +6724,7 @@ msgstr ""
 msgid "00:02:35.120 --> 00:02:39.360\n"
 "As OpenRefine is free and open source,&nbsp;\n"
 "it is supported by a large community&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "Поскольку OpenRefine является свободным и открытым исходным кодом, &nbsp; он поддерживается большим сообществом&nbsp;&nbsp; \n"
 
 #. type: Plain text
 #: videos/Data_Management_OpenRefine.en.vtt:124
@@ -6714,14 +6732,15 @@ msgstr ""
 msgid "00:02:39.360 --> 00:02:44.720\n"
 "of developers and users. It easy to find&nbsp;\n"
 "tutorials online on how to use the tool.\n"
-msgstr ""
+msgstr "разработчиков и пользователей. В Интернете легко найти&nbsp; учебные пособия по использованию инструмента.\n"
 
 #. type: Plain text
 #: videos/Data_Management_OpenRefine.en.vtt:127
 #, no-wrap
 msgid "00:02:48.960 --> 00:02:50.960\n"
 "If you have questions on this presentation,&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "00:02:48.960 --> 00:02:50,960\n"
+"Если у вас есть вопросы по этой презентации,&nbsp;&nbsp;\n"
 
 #. type: Plain text
 #: videos/Data_Management_OpenRefine.en.vtt:132
@@ -6730,7 +6749,10 @@ msgid "00:02:50.960 --> 00:02:53.760\n"
 "please use the provided forum&nbsp;\n"
 "in the e-Learning platform.\n"
 " &nbsp;\n"
-msgstr ""
+msgstr "00:02:50.960 --> 00:02:53.760\n"
+"пожалуйста, используйте предоставленный форум&nbsp;\n"
+"на e-Learning платформе.\n"
+" &nbsp;\n"
 
 #. type: Plain text
 #: videos/Data_Management_OpenRefine.en.vtt:136
@@ -6738,7 +6760,8 @@ msgstr ""
 msgid "00:02:54.480 --> 00:03:00.160\n"
 "This video is part of a series of presentations&nbsp;\n"
 "used in the GBIF Biodiversity Data Mobilization&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "00:02:18,320 --> 00:03:23,660\n"
+"Это видео является частью серии презентаций,&nbsp; используемых в GBIF Biodiversity Data Mobilization&nbsp;&nbsp;\n"
 
 #. type: Plain text
 #: videos/Data_Management_OpenRefine.en.vtt:140
@@ -6746,7 +6769,8 @@ msgstr ""
 msgid "00:03:00.160 --> 00:03:05.600\n"
 "course. The biodiversity data mobilization&nbsp;\n"
 "curriculum was originally developed as part&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "00:03:00.160 --> 00:03:05.600\n"
+"курса. Программа мобилизации данных о биоразнообразии&nbsp; была первоначально разработана как часть&nbsp; &nbsp;\n"
 
 #. type: Plain text
 #: videos/Data_Management_OpenRefine.en.vtt:145
@@ -6755,7 +6779,7 @@ msgid "00:03:05.600 --> 00:03:10.320\n"
 "of the Biodiversity Information Development&nbsp;\n"
 "Programme funded by the European Union. \n"
 " &nbsp;\n"
-msgstr ""
+msgstr "Программы развития информации о биоразнообразии&nbsp;, финансируемой Европейским союзом. &nbsp;\n"
 
 #. type: Plain text
 #: videos/Data_Management_OpenRefine.en.vtt:149
@@ -6763,7 +6787,9 @@ msgstr ""
 msgid "00:03:11.120 --> 00:03:16.080\n"
 "This presentation was originally created by&nbsp;\n"
 "Nestor Beltran with additional contributions&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "00:03:11.120 --> 00:03:37,930\n"
+"Эта презентация была первоначально создана\n"
+"Nestor Beltran с дополнительным вкладом\n"
 
 #. type: Plain text
 #: videos/Data_Management_OpenRefine.en.vtt:153
@@ -6771,7 +6797,8 @@ msgstr ""
 msgid "00:03:16.080 --> 00:03:21.040\n"
 "by Sharon Grant, David Bloom, BID and&nbsp;\n"
 "BIFA Trainers, Mentors and Students.\n"
-msgstr ""
+msgstr "00:03:16.080 --> 00:03:21.300\n"
+"вкладом со стороны Sharon Grant, David Bloom, Тренеров BID и BIFA, Инструкторов и студентов.\n"
 
 #. type: Plain text
 #: videos/Data_Management_OpenRefine.en.vtt:157
@@ -6779,7 +6806,8 @@ msgstr ""
 msgid "00:03:21.680 --> 00:03:26.560\n"
 "This presentation has been&nbsp;\n"
 "narrated by Laura Anne Russell.\n"
-msgstr ""
+msgstr "00:03:20:50--> 00:03:23:20\n"
+"Эта презентация озвучена Laura Anne Russell.\n"
 
 #. type: Plain text
 #: videos/Data_Management_Tools.en.vtt:8
@@ -6787,7 +6815,8 @@ msgstr ""
 msgid "00:00:01.480 --> 00:00:06.370\n"
 "In this presentation, we are going to explore\n"
 "the importance of software tools that can\n"
-msgstr ""
+msgstr "00:00:01.480 --> 00:00:06.100\n"
+"В этой презентации мы рассмотрим важность программных средств, \n"
 
 #. type: Plain text
 #: videos/Data_Management_Tools.en.vtt:12
@@ -6795,7 +6824,7 @@ msgstr ""
 msgid "00:00:06.370 --> 00:00:11.830\n"
 "help to maintain, clean and standardize your\n"
 "data.\n"
-msgstr ""
+msgstr "которые помогут поддерживать, очищать и стандартизировать ваши данные.\n"
 
 #. type: Plain text
 #: videos/Data_Management_Tools.en.vtt:16
@@ -6913,7 +6942,9 @@ msgstr ""
 msgid "00:01:19.910 --> 00:01:24.320\n"
 "You need to find and use the tools that help\n"
 "you to achieve the goals of your institution.\n"
-msgstr ""
+msgstr "00:01:19.910 --> 00:01:24.320\n"
+"Вам нужно найти и использовать инструменты, которые помогут\n"
+"вам достичь целей вашего учреждения.\n"
 
 #. type: Plain text
 #: videos/Data_Management_Tools.en.vtt:74
@@ -7048,7 +7079,9 @@ msgstr ""
 msgid "00:02:51.170 --> 00:02:54.800\n"
 "Here we look at some useful tools for checking\n"
 "taxonomy within your data.\n"
-msgstr ""
+msgstr "00:02:51.170 --> 00:02:54.800\n"
+"Здесь мы рассмотрим некоторые полезные инструменты для проверки таксономии\n"
+"в ваших данных.\n"
 
 #. type: Plain text
 #: videos/Data_Management_Tools.en.vtt:141
@@ -7056,7 +7089,7 @@ msgstr ""
 msgid "00:02:54.800 --> 00:03:01.670\n"
 "The GBIF Name Parser allows you to divide\n"
 "scientific name into its individual parts.\n"
-msgstr ""
+msgstr "GBIF Name Parser позволяет разделить научное название на его отдельные части.\n"
 
 #. type: Plain text
 #: videos/Data_Management_Tools.en.vtt:145
@@ -7072,7 +7105,7 @@ msgstr ""
 msgid "00:03:08.749 --> 00:03:12.909\n"
 "The Catalogue of Life checklist bank offers\n"
 "a name matching tool.\n"
-msgstr ""
+msgstr "Банк Catalogue of Life checklist предлагает инструмент сопоставления имен.\n"
 
 #. type: Plain text
 #: videos/Data_Management_Tools.en.vtt:153
@@ -7187,7 +7220,7 @@ msgstr ""
 msgid "00:04:23.380 --> 00:04:27.560\n"
 "CRIA’s Species link hosts a variety of data\n"
 "cleaning tools.\n"
-msgstr ""
+msgstr "Ссылка CRIA Species содержит множество инструментов очистки данных.\n"
 
 #. type: Plain text
 #: videos/Data_Management_Tools.en.vtt:208
@@ -7195,7 +7228,7 @@ msgstr ""
 msgid "00:04:27.560 --> 00:04:33.840\n"
 "infoXY can help to get locality information\n"
 "using geographic coordinates.\n"
-msgstr ""
+msgstr "infoXY может помочь получить информацию о местоположении с помощью географических координат.\n"
 
 #. type: Plain text
 #: videos/Data_Management_Tools.en.vtt:212
@@ -7219,7 +7252,7 @@ msgstr ""
 msgid "00:04:43.630 --> 00:04:48.410\n"
 "Additionally, you may also find Google Maps\n"
 "or Google Earth useful.\n"
-msgstr ""
+msgstr "Кроме того, вы также можете найти полезным Google Maps или Google Earth.\n"
 
 #. type: Plain text
 #: videos/Data_Management_Tools.en.vtt:224
@@ -7275,7 +7308,7 @@ msgstr ""
 msgid "00:05:22.570 --> 00:05:33.520\n"
 "Canadensys offers two tools that can help\n"
 "with both Coordinate and Date conversion.\n"
-msgstr ""
+msgstr "Canadensys предлагает два инструмента, которые могут помочь с преобразованием координат и дат.\n"
 
 #. type: Plain text
 #: videos/Data_Management_Tools.en.vtt:252
@@ -7283,7 +7316,7 @@ msgstr ""
 msgid "00:05:33.520 --> 00:05:37.170\n"
 "Operating systems come with their own set\n"
 "of command line consoles.\n"
-msgstr ""
+msgstr "Операционные системы поставляются с собственным набором консолей командной строки.\n"
 
 #. type: Plain text
 #: videos/Data_Management_Tools.en.vtt:256
@@ -7338,7 +7371,8 @@ msgstr ""
 msgid "00:06:04.090 --> 00:06:08.280\n"
 "If you have questions on this presentation,\n"
 "please use the provided forum in the e-Learning\n"
-msgstr ""
+msgstr "00:06:04.090 --> 00:06:08.890\n"
+"если у вас есть вопросы по этой презентации, пожалуйста, используйте предоставленный форум в e-Learning\n"
 
 #. type: Plain text
 #: videos/Data_Management_Tools.en.vtt:283
@@ -7346,7 +7380,8 @@ msgstr ""
 msgid "00:06:08.280 --> 00:06:09.650\n"
 "platform.\n"
 "&nbsp;\n"
-msgstr ""
+msgstr "00:06:08.280 --> 00:06:18:320\n\n"
+"платформы\n"
 
 #. type: Plain text
 #: videos/Data_Management_Tools.en.vtt:287
@@ -7354,7 +7389,8 @@ msgstr ""
 msgid "00:06:09.650 --> 00:06:14.890\n"
 "This video is part of a series of presentations\n"
 "used in the GBIF Biodiversity Data Mobilization\n"
-msgstr ""
+msgstr "00:06:18,320 --> 00:06:23,660\n"
+"Это видео является частью серии презентаций, используемых в GBIF Biodiversity Data Mobilization\n"
 
 #. type: Plain text
 #: videos/Data_Management_Tools.en.vtt:291
@@ -7362,7 +7398,9 @@ msgstr ""
 msgid "00:06:14.890 --> 00:06:18.520\n"
 "course.\n"
 "The biodiversity data mobilization curriculum\n"
-msgstr ""
+msgstr "00:06:14.890 --> 00:06:18.520\n"
+"курса.\n"
+"Программа мобилизации данных о биоразнообразии\n"
 
 #. type: Plain text
 #: videos/Data_Management_Tools.en.vtt:295
@@ -7370,7 +7408,8 @@ msgstr ""
 msgid "00:06:18.520 --> 00:06:23.660\n"
 "was originally developed as part of the Biodiversity\n"
 "Information Development Programme funded by\n"
-msgstr ""
+msgstr "00:06:18.520 --> 00:06:23.660\n"
+"был изначально разработан в рамках Программы развития информации о биоразнообразии, финансируемой\n"
 
 #. type: Plain text
 #: videos/Data_Management_Tools.en.vtt:299
@@ -7378,7 +7417,9 @@ msgstr ""
 msgid "00:06:23.660 --> 00:06:25.800\n"
 "the European Union.\n"
 "&nbsp;\n"
-msgstr ""
+msgstr "00:06:23.660 --> 00:06:25.800\n"
+"Европейским Союзом.\n"
+"&nbsp;\n"
 
 #. type: Plain text
 #: videos/Data_Management_Tools.en.vtt:303
@@ -7386,7 +7427,9 @@ msgstr ""
 msgid "00:06:25.800 --> 00:06:30.500\n"
 "This presentation was originally created by\n"
 "Nestor Beltran with additional contributions\n"
-msgstr ""
+msgstr "00:06:25.800 --> 00:06:37,930\n"
+"Эта презентация была первоначально создана\n"
+"Nestor Beltran с дополнительным вкладом\n"
 
 #. type: Plain text
 #: videos/Data_Management_Tools.en.vtt:307
@@ -7394,7 +7437,8 @@ msgstr ""
 msgid "00:06:30.500 --> 00:06:36.460\n"
 "by Sophie Pamerlon and David Bloom, BID and\n"
 "BIFA Trainers, Mentors and Students.\n"
-msgstr ""
+msgstr "00:06:30.500 --> 00:06:36.300\n"
+"вкладом со стороны Sophie Pamerlon, David Bloom, Тренеров BID и BIFA, Инструкторов и студентов.\n"
 
 #. type: Plain text
 #: videos/Data_Management_Tools.en.vtt:311
@@ -7402,7 +7446,8 @@ msgstr ""
 msgid "00:06:36.460 --> 00:06:39.310\n"
 "This presentation has been narrated by Laura\n"
 "Anne Russell.\n"
-msgstr ""
+msgstr "00:06:20:50--> 00:06:23:20\n"
+"Эта презентация озвучена Laura Anne Russell.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:8
@@ -7410,7 +7455,8 @@ msgstr ""
 msgid "00:00:01.650 --> 00:00:05.860\n"
 "In this presentation, we will introduce you\n"
 "to the concept of Data Publishing.\n"
-msgstr ""
+msgstr "00:00:01.650 --> 00:00:05.860\n"
+"В этой презентации мы представим вам концепцию публикации данных.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:12
@@ -7418,7 +7464,7 @@ msgstr ""
 msgid "00:00:05.860 --> 00:00:12.940\n"
 "We will also introduce you to GBIF’s Integrated\n"
 "Publishing Toolkit.\n"
-msgstr ""
+msgstr "Мы также представим вам Integrated Publishing Toolkit GBIF.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:16
@@ -7433,7 +7479,8 @@ msgstr ""
 #, no-wrap
 msgid "00:00:18.740 --> 00:00:20.810\n"
 "Now you are ready to share your data.\n"
-msgstr ""
+msgstr "00:00:18.740 --> 00:00:20.810\n"
+"Сейчас вы готовы поделиться своими данными.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:23
@@ -7456,14 +7503,15 @@ msgstr ""
 msgid "00:00:30.320 --> 00:00:35.360\n"
 "But there is more to it than simply handing\n"
 "over a spreadsheet or a text file to GBIF.\n"
-msgstr ""
+msgstr "Но в этом есть нечто большее, чем просто передача электронной таблицы или текстового файла в GBIF.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:33
 #, no-wrap
 msgid "00:00:35.360 --> 00:00:38.310\n"
 "You must publish the data.\n"
-msgstr ""
+msgstr "00:00:35.360 --> 00:00:38.310\n"
+"Вы можете опубликовать данные.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:37
@@ -7471,7 +7519,7 @@ msgstr ""
 msgid "00:00:38.310 --> 00:00:44.390\n"
 "Data publishing is the act of making biodiversity\n"
 "datasets publicly accessible and discoverable,\n"
-msgstr ""
+msgstr "Публикация данных является действием, делающим наборы данных о биоразнообразии общедоступными и доступными к обнаружению, \n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:41
@@ -7479,14 +7527,15 @@ msgstr ""
 msgid "00:00:44.390 --> 00:00:49.080\n"
 "in a standardized form (ie Darwin Core), via\n"
 "an access point.\n"
-msgstr ""
+msgstr "в стандартизированной форме (например, Darwin Core) через точку доступа.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:44
 #, no-wrap
 msgid "00:00:49.080 --> 00:00:54.350\n"
 "This access point is a URL – a web address.\n"
-msgstr ""
+msgstr "00:00:49.080 --> 00:00:54.350\n"
+"Эта точка доступа является URL-адресом – веб-адресом.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:48
@@ -7587,7 +7636,8 @@ msgstr ""
 msgid "00:01:48.590 --> 00:01:55.090\n"
 "The act of not only making the data accessible,\n"
 "but making it as open as possible.\n"
-msgstr ""
+msgstr "00:01:48.590 --> 00:01:55.090\n"
+"Это действие не только делает данные доступными, но и делает их максимально открытыми.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:97
