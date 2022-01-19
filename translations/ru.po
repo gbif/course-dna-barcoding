@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: publishing-dna-derived-data\n"
 "POT-Creation-Date: 2021-12-08 16:51+0000\n"
-"PO-Revision-Date: 2022-01-18 23:15\n"
+"PO-Revision-Date: 2022-01-19 02:11\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -10197,7 +10197,8 @@ msgstr "00:08:23.630 --> 00:08:31.870\n"
 msgid "00:08:31.870 --> 00:08:35.760\n"
 "There is, in fact, a famous botanist named\n"
 "Richard Spruce.\n"
-msgstr ""
+msgstr "00:08:31.870 --> 00:08:35.760\n"
+"Фактически, здесь знаменитый ботаник по имени Richard Spruce.\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:423
@@ -10212,7 +10213,7 @@ msgstr ""
 #, no-wrap
 msgid "00:08:41.669 --> 00:08:45.279\n"
 "Basin and Andes mountains in South America.\n"
-msgstr ""
+msgstr "и Андах в Южной Америке.\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:430
@@ -10220,7 +10221,7 @@ msgstr ""
 msgid "00:08:45.279 --> 00:08:49.490\n"
 "Something is not quite right, so we need to\n"
 "find out more about the collector before we\n"
-msgstr ""
+msgstr "Что-то не совсем правильно, поэтому нам нужно узнать больше о коллекторе, прежде чем мы \n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:434
@@ -10228,7 +10229,7 @@ msgstr ""
 msgid "00:08:49.490 --> 00:08:53.670\n"
 "can be confident in the correctness of these\n"
 "data.\n"
-msgstr ""
+msgstr "сможем быть уверены в правильности этих данных.\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:438
@@ -10274,7 +10275,7 @@ msgstr ""
 msgid "00:09:14.529 --> 00:09:18.320\n"
 "This field contains the name of the specimen\n"
 "collector.\n"
-msgstr ""
+msgstr "Это поле содержит имя сборщика образцов.\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:460
@@ -10282,14 +10283,15 @@ msgstr ""
 msgid "00:09:18.320 --> 00:09:23.620\n"
 "As you can see there are five different names,\n"
 "but how many unique collectors are there?\n"
-msgstr ""
+msgstr "Как видите, есть пять разных имен, но сколько там уникальных коллекционеров?\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:463
 #, no-wrap
 msgid "00:09:23.620 --> 00:09:27.310\n"
 "Can you tell just by looking at the names?\n"
-msgstr ""
+msgstr "00:09:23.620 --> 00:09:27:310\n"
+"Можете ли вы сказать просто взглянув на имена?\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:467
@@ -10297,7 +10299,7 @@ msgstr ""
 msgid "00:09:27.310 --> 00:09:33.820\n"
 "Sometimes, if you are familiar with the dataset,\n"
 "you might know how many collectors are represented\n"
-msgstr ""
+msgstr "Иногда, если вы знакомы с набором данных, вы можете знать, сколько коллекционеров представлено,\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:471
@@ -10305,7 +10307,7 @@ msgstr ""
 msgid "00:09:33.820 --> 00:09:38.540\n"
 "just by looking at the data, but if you don’t\n"
 "know these data well, you might need to do\n"
-msgstr ""
+msgstr "просто глядя на данные, но если вы плохо знаете эти данные, вам может потребоваться \n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:475
@@ -10313,7 +10315,7 @@ msgstr ""
 msgid "00:09:38.540 --> 00:09:43.519\n"
 "some research, ask some questions or look\n"
 "at the original field notes.\n"
-msgstr ""
+msgstr "провести какое-то исследование, задать некоторые вопросы или посмотреть на оригинальные заметки к полю.\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:479
@@ -10391,7 +10393,9 @@ msgstr ""
 msgid "00:10:25.350 --> 00:10:32.440\n"
 "Thus, more research would be needed to clarify\n"
 "these data.\n"
-msgstr ""
+msgstr "00:10:25.350 --> 00:10:32.440\n"
+"Таким образом, больше исследований потребуется для уточнения\n"
+"этих данных.\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:517
@@ -10399,7 +10403,8 @@ msgstr ""
 msgid "00:10:32.440 --> 00:10:37.170\n"
 "We have just discussed several simple illustrations\n"
 "of two measures of data quality.\n"
-msgstr ""
+msgstr "00:10:32.440 --> 00:10:37.170\n"
+"Мы только что обсудили несколько простых иллюстраций из двух показателей качества данных.\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:521
@@ -10429,7 +10434,8 @@ msgstr ""
 #, no-wrap
 msgid "00:10:49.610 --> 00:10:51.500\n"
 "More specifically:\n"
-msgstr ""
+msgstr "00:10:49.610 --> 00:10:51.500\n"
+"Подробнее:\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:535
@@ -10530,14 +10536,16 @@ msgstr ""
 msgid "00:11:46.850 --> 00:11:51.519\n"
 "If you have questions on this presentation,\n"
 "please use the provided forum in the e-Learning\n"
-msgstr ""
+msgstr "00:11:46.850 --> 00:11:51.890\n"
+"если у вас есть вопросы по этой презентации, пожалуйста, используйте предоставленный форум в e-Learning\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:583
 #, no-wrap
 msgid "00:11:51.519 --> 00:11:53.259\n"
 "platform.\n"
-msgstr ""
+msgstr "00:11:51.519 --> 00:11:18:320\n"
+"платформы.\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:587
@@ -10545,14 +10553,16 @@ msgstr ""
 msgid "00:11:53.259 --> 00:11:58.670\n"
 "This video is part of a series of presentations\n"
 "used in the GBIF Biodiversity Data Mobilization\n"
-msgstr ""
+msgstr "00:11:18,320 --> 00:11:23,660\n"
+"Это видео является частью серии презентаций, используемых в GBIF Biodiversity Data Mobilization\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:590
 #, no-wrap
 msgid "00:11:58.670 --> 00:11:59.670\n"
 "course.\n"
-msgstr ""
+msgstr "00:11:23,660 --> 00:11:24,950 \n"
+"курса.\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:594
@@ -10560,7 +10570,9 @@ msgstr ""
 msgid "00:11:59.670 --> 00:12:04.620\n"
 "The biodiversity data mobilization curriculum\n"
 "was originally developed as part of the Biodiversity\n"
-msgstr ""
+msgstr "00:11:59.670 --> 00:12:04.459\n"
+"Программа по мобилизации данных о биоразнообразии\n"
+"была первоначально разработана как часть Программы\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:598
@@ -10568,7 +10580,8 @@ msgstr ""
 msgid "00:12:04.620 --> 00:12:09.670\n"
 "Information Development Programme funded by\n"
 "the European Union.\n"
-msgstr ""
+msgstr "00:12:04.620 --> 00:12:09.260\n"
+"развития информации о биоразнообразии (Biodiversity Information Development Programme), финансируемой Европейским Союзом.\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:602
@@ -10576,7 +10589,9 @@ msgstr ""
 msgid "00:12:09.670 --> 00:12:14.670\n"
 "This presentation was originally created by\n"
 "Sharon Grant with additional contributions\n"
-msgstr ""
+msgstr "00:12:09.670 --> 00:12:37,930\n"
+"Эта презентация была первоначально создана\n"
+"Sharon Grant с дополнительным вкладом\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:606
@@ -10584,7 +10599,8 @@ msgstr ""
 msgid "00:12:14.670 --> 00:12:21.060\n"
 "by Dag Endresen, David Bloom, BID and BIFA\n"
 "Trainers, Mentors and Students.\n"
-msgstr ""
+msgstr "00:12:14.670 --> 00:12:21.300\n"
+"вкладом со стороны Dag Endresen, David Bloom, Тренеров BID и BIFA, Инструкторов и студентов.\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:610
@@ -10592,7 +10608,8 @@ msgstr ""
 msgid "00:12:21.060 --> 00:12:25.709\n"
 "This presentation has been narrated by David\n"
 "Bloom.\n"
-msgstr ""
+msgstr "00:12:20:50--> 00:12:23:20\n"
+"Эта презентация озвучена David Bloom.\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:4
@@ -10616,7 +10633,7 @@ msgstr ""
 msgid "00:00:07.910 --> 00:00:12.780\n"
 "We will be introducing you to the language,\n"
 "terminology and definitions for some of the\n"
-msgstr ""
+msgstr "Мы познакомим вас с языком, терминологией и определениями некоторых \n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:16
@@ -10624,14 +10641,14 @@ msgstr ""
 msgid "00:00:12.780 --> 00:00:17.949\n"
 "basic concepts, functions and processes that\n"
 "you are going to be putting into use during\n"
-msgstr ""
+msgstr "основных концепций, функций и процессов, которые вы собираетесь использовать \n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:19
 #, no-wrap
 msgid "00:00:17.949 --> 00:00:22.160\n"
 "the rest of the course.\n"
-msgstr ""
+msgstr "в течение оставшейся части курса.\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:23
@@ -10639,7 +10656,8 @@ msgstr ""
 msgid "00:00:22.160 --> 00:00:27.310\n"
 "First let’s review the structure of this\n"
 "session.\n"
-msgstr ""
+msgstr "00:00:22.160 --> 00:00:27.310\n"
+"Давайте сначала рассмотрим структуру этой сессии.\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:27
@@ -10677,7 +10695,8 @@ msgstr ""
 #, no-wrap
 msgid "00:00:47.559 --> 00:00:50.299\n"
 "First definitions.\n"
-msgstr ""
+msgstr "00:00:47.559 --> 00:00:50.299\n"
+"Первые определения.\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:45
@@ -10715,7 +10734,7 @@ msgstr ""
 msgid "00:01:09.150 --> 00:01:20.109\n"
 "Let’s focus for a moment on some common\n"
 "words and phrases that contain the word data.\n"
-msgstr ""
+msgstr "Давайте сосредоточимся на некоторых общих словах и фразах, которые содержат данные слова.\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:63
@@ -10737,7 +10756,8 @@ msgstr ""
 #, no-wrap
 msgid "00:01:39.560 --> 00:01:49.979\n"
 "So, what is a “Database”?\n"
-msgstr ""
+msgstr "00:01:39.560 --> 00:01:49.979\n"
+"Итак, что такое «База данных»?\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:73
@@ -10745,7 +10765,7 @@ msgstr ""
 msgid "00:01:49.979 --> 00:01:57.310\n"
 "There are many definitions, but what they\n"
 "all have in common is the theme that a database\n"
-msgstr ""
+msgstr "Существует много определений, но все они имеют общую тему о том, что база данных \n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:77
@@ -10753,7 +10773,7 @@ msgstr ""
 msgid "00:01:57.310 --> 00:02:04.639\n"
 "is a structured and organized collection of\n"
 "data and/or information held on a computer.\n"
-msgstr ""
+msgstr "является структурированным и организованным сбором данных и/или информации, хранящейся на компьютере.\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:81
@@ -10769,7 +10789,7 @@ msgstr ""
 msgid "00:02:10.190 --> 00:02:14.980\n"
 "Let’s dig a little deeper then into those\n"
 "other terms.\n"
-msgstr ""
+msgstr "Давайте углубимся в другие термины.\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:89
@@ -10777,7 +10797,7 @@ msgstr ""
 msgid "00:02:14.980 --> 00:02:20.600\n"
 "Let us take a look at the phrase “database\n"
 "language”.\n"
-msgstr ""
+msgstr "Рассмотрим фразу «язык базы данных».\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:93
@@ -10823,14 +10843,16 @@ msgstr ""
 #, no-wrap
 msgid "00:02:44.650 --> 00:02:47.080\n"
 "Examples that you may have come across are:\n"
-msgstr ""
+msgstr "00:02:44.650 --> 00:02:47.080\n"
+"Примеры, которые вы можете увидеть:\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:114
 #, no-wrap
 msgid "00:02:47.080 --> 00:02:52.239\n"
 "Java, SPARQL, SQL and Python\n"
-msgstr ""
+msgstr "00:02:47.080 --> 00:02:2.239\n"
+"Java, SPARQL, SQL и Python\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:118
@@ -10854,7 +10876,7 @@ msgstr ""
 msgid "00:03:05.239 --> 00:03:10.299\n"
 "Now let’s look at the phrase “database\n"
 "program or software”.\n"
-msgstr ""
+msgstr "Теперь рассмотрим фразу «программа базы данных или программное обеспечение».\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:130
@@ -10893,14 +10915,16 @@ msgstr ""
 #, no-wrap
 msgid "00:03:30.690 --> 00:03:33.540\n"
 "Examples that you may come across are:\n"
-msgstr ""
+msgstr "00:03:30.690 --> 00:03:33.080\n"
+"Примеры, которые вы можете увидеть:\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:148
 #, no-wrap
 msgid "00:03:33.540 --> 00:03:36.480\n"
 "Microsoft Access, FilemakerPro and Oracle\n"
-msgstr ""
+msgstr "00:03:33.540 --> 00:03:36.480\n"
+"Microsoft Access, FilemakerPro и Oracle\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:152
@@ -10946,14 +10970,15 @@ msgstr ""
 msgid "00:04:10.359 --> 00:04:14.769\n"
 "Examples that you may be familiar or will\n"
 "learn about during the course are:\n"
-msgstr ""
+msgstr "Примеры, о которых вы можете быть знакомы или узнаете в ходе курса:\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:173
 #, no-wrap
 msgid "00:04:14.769 --> 00:04:17.600\n"
 "OpenRefine, MatLab and spreadsheets\n"
-msgstr ""
+msgstr "00:04:14.769 --> 00:04:17.600\n"
+"OpenRefine, MatLab и электронные таблицы\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:177
@@ -11016,7 +11041,7 @@ msgstr ""
 msgid "00:05:01.310 --> 00:05:08.570\n"
 "They are a often short, not always in plain\n"
 "language, sometimes computer generated; but\n"
-msgstr ""
+msgstr "Они часто короткие, не всегда на простом языке, иногда генерируются компьютером; но \n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:208
@@ -11024,7 +11049,7 @@ msgstr ""
 msgid "00:05:08.570 --> 00:05:13.860\n"
 "in a properly formed database they are ALWAYS\n"
 "unique.\n"
-msgstr ""
+msgstr "в правильно сформированной базе данных они ВСЕГДА уникальны.\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:212
@@ -11032,7 +11057,7 @@ msgstr ""
 msgid "00:05:13.860 --> 00:05:21.190\n"
 "Field names are almost always used by database\n"
 "languages, because the avoid ambiguity.\n"
-msgstr ""
+msgstr "Имена полей почти всегда используются языками базы данных, поскольку они позволяют избежать неоднозначности.\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:216
@@ -11108,7 +11133,7 @@ msgstr ""
 msgid "00:05:57.030 --> 00:06:03.260\n"
 "Indeed they are both powerful tools to help\n"
 "you keep your data clean, but they are different.\n"
-msgstr ""
+msgstr "Действительно, они оба являются мощными инструментами, помогающими поддерживать чистоту данных, но они отличаются друг от друга.\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:252
@@ -11163,7 +11188,7 @@ msgstr ""
 msgid "00:06:34.030 --> 00:06:38.560\n"
 "They are an integral part of a well defined\n"
 "standard.\n"
-msgstr ""
+msgstr "Они являются неотъемлемой частью четко определенного стандарта.\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:279
@@ -11171,7 +11196,7 @@ msgstr ""
 msgid "00:06:38.560 --> 00:06:47.810\n"
 "Such values can be used in a drop-down list\n"
 "as mentioned previously.\n"
-msgstr ""
+msgstr "Такие значения могут использоваться в раскрывающемся списке, как упоминалось выше.\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:283
@@ -11225,21 +11250,24 @@ msgstr ""
 #, no-wrap
 msgid "00:07:23.390 --> 00:07:26.430\n"
 "This map is made up of two parts:\n"
-msgstr ""
+msgstr "00:07:23.390 --> 00:07:26.430\n"
+"Карта состоит из двух частей:\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:308
 #, no-wrap
 msgid "00:07:26.430 --> 00:07:29.360\n"
 "The “coded character set”&nbsp;and\n"
-msgstr ""
+msgstr "00:07:26.430 --> 00:07:29.360\n"
+"«кодированный набор символов»&nbsp;и\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:311
 #, no-wrap
 msgid "00:07:29.360 --> 00:07:32.090\n"
 "The “character encoding”\n"
-msgstr ""
+msgstr "00:07:29.360 --> 00:07:32.090\n"
+"\"Кодировка символов\"\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:315
@@ -11269,7 +11297,7 @@ msgstr ""
 #, no-wrap
 msgid "00:07:49.400 --> 00:07:52.410\n"
 "western alphabet.\n"
-msgstr ""
+msgstr "В этом примере показано, как кодировка символов используется для отображения заглавной буквы A в западном алфавите.\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:329
@@ -11277,21 +11305,24 @@ msgstr ""
 msgid "00:07:52.410 --> 00:07:59.050\n"
 "The ASCII value for the capital letter A is\n"
 "the decimal number 65\n"
-msgstr ""
+msgstr "00:07:52.410 --> 00:07:59.050\n"
+"Значение ASCII заглавной буквы A равно десятичному числу 65\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:332
 #, no-wrap
 msgid "00:07:59.050 --> 00:08:02.710\n"
 "which in HEXIDECIMAL is 041\n"
-msgstr ""
+msgstr "00:07:59.050 --> 00:08:02.710\n"
+"что в HEXIDECIMAL равно 041\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:335
 #, no-wrap
 msgid "00:08:02.710 --> 00:08:13.570\n"
 "and in BINARY 01000001\n"
-msgstr ""
+msgstr "00:08:02.710 --> 00:08:13:570\n"
+"и в двоичной системе 01000001\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:339
@@ -11299,7 +11330,7 @@ msgstr ""
 msgid "00:08:13.570 --> 00:08:24.380\n"
 "Try mapping your own name to Binary using\n"
 "the link at the bottom of the screen.\n"
-msgstr ""
+msgstr "Попробуйте сопоставить свое имя с двоичной системе с помощью ссылки в нижней части экрана.\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:343
@@ -11369,7 +11400,7 @@ msgstr ""
 msgid "00:09:17.430 --> 00:09:28.139\n"
 "Then you send it to a colleague to check the\n"
 "translation. Voila!\n"
-msgstr ""
+msgstr "Затем вы отправляете его коллеге, чтобы проверить перевод. Вуаля!\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:377
@@ -11377,7 +11408,7 @@ msgstr ""
 msgid "00:09:28.139 --> 00:09:34.100\n"
 "When they open the file in MicroSoft Word\n"
 "this is what they see…\n"
-msgstr ""
+msgstr "Когда они открывают файл в MicroSoft Word это то, что они видят…\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:380
@@ -11391,7 +11422,8 @@ msgstr ""
 #, no-wrap
 msgid "00:09:35.850 --> 00:09:39.399\n"
 "There are some unexpected characters.\n"
-msgstr ""
+msgstr "00:09:35.850 --> 00:09:39:39.399\n"
+"Есть несколько неожиданных символов.\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:387
@@ -11399,7 +11431,7 @@ msgstr ""
 msgid "00:09:39.399 --> 00:09:45.690\n"
 "You forgot to tell your colleague that you\n"
 "where using Latin-1 as the encoding.\n"
-msgstr ""
+msgstr "Вы забыли сказать коллеге, что вы здесь использовали Latin-1 в качестве кодировки.\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:391
@@ -11414,7 +11446,8 @@ msgstr ""
 #, no-wrap
 msgid "00:09:50.589 --> 00:09:53.579\n"
 "The maps did not match.\n"
-msgstr ""
+msgstr "00:09:50.589 --> 00:09:53.579\n"
+"Карты не совпадают.\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:398
@@ -11422,7 +11455,7 @@ msgstr ""
 msgid "00:09:53.579 --> 00:10:04.730\n"
 "Depending on the software the data may be\n"
 "irretrievably corrupted.\n"
-msgstr ""
+msgstr "В зависимости от программного обеспечения данные могут быть безвозвратно повреждены.\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:402
@@ -11430,7 +11463,7 @@ msgstr ""
 msgid "00:10:04.730 --> 00:10:08.990\n"
 "In review we have looked at the differences\n"
 "between the phrases:\n"
-msgstr ""
+msgstr "В обзоре мы рассмотрели различия между фразами:\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:406
@@ -11461,14 +11494,15 @@ msgstr ""
 msgid "00:10:29.300 --> 00:10:48.730\n"
 "We've shown that although the terms may seem\n"
 "similar they are in fact very different and the consequence of confusing them can be dire.\n"
-msgstr ""
+msgstr "Мы показали, что, хотя термины могут казаться похожими, они на самом деле очень разные, и последствия от путаницы могут быть ужасными.\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:420
 #, no-wrap
 msgid "00:10:48.730 --> 00:10:49.730\n"
 "Remember that:\n"
-msgstr ""
+msgstr "00:10:48.730 --> 00:10:49.730\n"
+"Помните, что:\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:424
@@ -11476,7 +11510,7 @@ msgstr ""
 msgid "00:10:49.730 --> 00:10:53.190\n"
 "“..The first step in wisdom is to know the\n"
 "things themselves.\n"
-msgstr ""
+msgstr ".. \"Первым шагом в мудрости является познание самих вещей.\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:428
@@ -11516,14 +11550,16 @@ msgstr ""
 msgid "00:11:21.470 --> 00:11:26.730\n"
 "Thank you for listening. If you have questions on this presentation,\n"
 "please use the provided forum in the e-Learning\n"
-msgstr ""
+msgstr "00:11:21.470 --> 00:11:26.890\n"
+"Спасибо за внимание. Если у вас есть вопросы по этой презентации, пожалуйста, используйте предоставленный форум в e-Learning\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:447
 #, no-wrap
 msgid "00:11:26.730 --> 00:11:29.350\n"
 "platform.\n"
-msgstr ""
+msgstr "00:11:26.730 --> 00:11:18:320\n"
+"платформы.\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:451
@@ -11531,7 +11567,8 @@ msgstr ""
 msgid "00:11:29.350 --> 00:11:35.470\n"
 "This video is part of a series of presentations\n"
 "used in the GBIF Biodiversity Data Mobilization\n"
-msgstr ""
+msgstr "00:11:18,320 --> 00:11:23,660\n"
+"Это видео является частью серии презентаций, используемых в GBIF Biodiversity Data Mobilization\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:455
@@ -11539,7 +11576,9 @@ msgstr ""
 msgid "00:11:35.470 --> 00:11:40.050\n"
 "course.\n"
 "The biodiversity data mobilization curriculum\n"
-msgstr ""
+msgstr "00:11:35.470 --> 00:11:40.520\n"
+"курса.\n"
+"Программа мобилизации данных о биоразнообразии\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:459
@@ -11547,14 +11586,16 @@ msgstr ""
 msgid "00:11:40.050 --> 00:11:45.490\n"
 "was originally developed as part of the Biodiversity\n"
 "Information Development Programme funded by\n"
-msgstr ""
+msgstr "00:11:40.050 --> 00:11:45.660\n"
+"был изначально разработан в рамках Программы развития информации о биоразнообразии, финансируемой\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:462
 #, no-wrap
 msgid "00:11:45.490 --> 00:11:48.139\n"
 "the European Union.\n"
-msgstr ""
+msgstr "00:11:45.490 --> 00:11:48.800\n"
+"Европейским Союзом.\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:466
@@ -11562,14 +11603,16 @@ msgstr ""
 msgid "00:11:48.139 --> 00:11:54.930\n"
 "This presentation was originally created and\n"
 "narrated by Sharon Grant with additional contributions\n"
-msgstr ""
+msgstr "00:11:48.139 --> 00:11:37,930\n"
+"Эта презентация была первоначально создана\n"
+"Sharon Grant с дополнительным вкладом\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:469
 #, no-wrap
 msgid "00:11:54.930 --> 00:11:58.379\n"
 "by BID and BIFA Trainers, Mentors and Students.\n"
-msgstr ""
+msgstr "вкладом Тренеров BID и BIFA, Инструкторов и студентов.\n"
 
 #. type: Plain text
 #: videos/Foundations_Documentation.en.vtt:8
@@ -11623,14 +11666,16 @@ msgstr ""
 #, no-wrap
 msgid "00:00:30.370 --> 00:00:33.230\n"
 "According to the director Steven Spielberg,\n"
-msgstr ""
+msgstr "00:00:30.370 --> 00:00:33.230\n"
+"По словам директора Стивена Спилберга,\n"
 
 #. type: Plain text
 #: videos/Foundations_Documentation.en.vtt:33
 #, no-wrap
 msgid "00:00:33.230 --> 00:00:36.550\n"
 "“People have forgotten how to tell a story.\n"
-msgstr ""
+msgstr "00:00:33.230 --> 00:00:36.550\n"
+"«Люди забыли, как рассказать историю.\n"
 
 #. type: Plain text
 #: videos/Foundations_Documentation.en.vtt:37
@@ -11638,7 +11683,7 @@ msgstr ""
 msgid "00:00:36.550 --> 00:00:39.460\n"
 "Stories don’t have a middle or an end any\n"
 "more.\n"
-msgstr ""
+msgstr "Истории больше не имеют середины или конца.\n"
 
 #. type: Plain text
 #: videos/Foundations_Documentation.en.vtt:41
@@ -11646,7 +11691,7 @@ msgstr ""
 msgid "00:00:39.460 --> 00:00:44.850\n"
 "They usually have a beginning that never stops\n"
 "beginning.”\n"
-msgstr ""
+msgstr "У них обычно есть начало, которое никогда не прекращается \"\n"
 
 #. type: Plain text
 #: videos/Foundations_Documentation.en.vtt:45
@@ -11670,7 +11715,7 @@ msgstr ""
 msgid "00:00:53.270 --> 00:00:57.600\n"
 "In essence you should be able to answer certain\n"
 "questions at specific points:\n"
-msgstr ""
+msgstr "По сути, вы должны быть в состоянии ответить на некоторые вопросы в конкретных точках:\n"
 
 #. type: Plain text
 #: videos/Foundations_Documentation.en.vtt:57
@@ -11678,49 +11723,53 @@ msgstr ""
 msgid "00:00:57.600 --> 00:01:01.960\n"
 "At the beginning: What did our project aim\n"
 "to do?\n"
-msgstr ""
+msgstr "В начале: На что был нацелен наш проект?\n"
 
 #. type: Plain text
 #: videos/Foundations_Documentation.en.vtt:60
 #, no-wrap
 msgid "00:01:01.960 --> 00:01:05.210\n"
 "What was the purpose of creating the dataset?\n"
-msgstr ""
+msgstr "Какова цель создания набора данных?\n"
 
 #. type: Plain text
 #: videos/Foundations_Documentation.en.vtt:63
 #, no-wrap
 msgid "00:01:05.210 --> 00:01:08.049\n"
 "In the middle: What did we actually do?\n"
-msgstr ""
+msgstr "В середине: Что мы на самом деле сделали?\n"
 
 #. type: Plain text
 #: videos/Foundations_Documentation.en.vtt:66
 #, no-wrap
 msgid "00:01:08.049 --> 00:01:09.119\n"
 "What did we achieve?\n"
-msgstr ""
+msgstr "00:01:08.049 --> 00:01:09.119\n"
+"Что мы получили?\n"
 
 #. type: Plain text
 #: videos/Foundations_Documentation.en.vtt:69
 #, no-wrap
 msgid "00:01:09.119 --> 00:01:12.590\n"
 "At the end: What didn’t we achieve?\n"
-msgstr ""
+msgstr "00:01:09.119 --> 00:01:12.590\n"
+"В конце: Что мы не получили?\n"
 
 #. type: Plain text
 #: videos/Foundations_Documentation.en.vtt:72
 #, no-wrap
 msgid "00:01:12.590 --> 00:01:13.590\n"
 "Why?\n"
-msgstr ""
+msgstr "00:01:12.590 --> 00:01:13.590\n"
+"Почему?\n"
 
 #. type: Plain text
 #: videos/Foundations_Documentation.en.vtt:75
 #, no-wrap
 msgid "00:01:13.590 --> 00:01:17.470\n"
 "What should happen next?\n"
-msgstr ""
+msgstr "00:01:13.590 --> 00:01:17.470\n"
+"Что же дальше?\n"
 
 #. type: Plain text
 #: videos/Foundations_Documentation.en.vtt:79
@@ -11821,14 +11870,16 @@ msgstr ""
 #, no-wrap
 msgid "00:02:13.529 --> 00:02:17.180\n"
 "In this example Dataset A has 10 columns.\n"
-msgstr ""
+msgstr "00:02:13.529 --> 00:02:17.180\n"
+"В данном примере в Dataset A есть 10 колонок.\n"
 
 #. type: Plain text
 #: videos/Foundations_Documentation.en.vtt:127
 #, no-wrap
 msgid "00:02:17.180 --> 00:02:18.349\n"
 "There are:\n"
-msgstr ""
+msgstr "00:02:17.180 --> 00:02:18.349\n"
+"Тут:\n"
 
 #. type: Plain text
 #: videos/Foundations_Documentation.en.vtt:131
@@ -11867,7 +11918,7 @@ msgstr ""
 msgid "00:02:35.669 --> 00:02:39.400\n"
 "Dataset B has a different set of fields, 15\n"
 "in total.\n"
-msgstr ""
+msgstr "Набор данных B имеет другой набор полей, всего 15.\n"
 
 #. type: Plain text
 #: videos/Foundations_Documentation.en.vtt:150
@@ -11889,7 +11940,8 @@ msgstr ""
 #, no-wrap
 msgid "00:02:47.109 --> 00:02:50.269\n"
 "We do that by describing the relationships.\n"
-msgstr ""
+msgstr "00:02:47.109 --> 00:02:50.269\n"
+"Мы делаем это, описывая отношения.\n"
 
 #. type: Plain text
 #: videos/Foundations_Documentation.en.vtt:160
@@ -11897,21 +11949,21 @@ msgstr ""
 msgid "00:02:50.269 --> 00:02:55.230\n"
 "For example Dataset A has an ID field and\n"
 "so does Dataset B.\n"
-msgstr ""
+msgstr "Например, набор данных A имеет поле идентификатора как и в наборе данных B.\n"
 
 #. type: Plain text
 #: videos/Foundations_Documentation.en.vtt:163
 #, no-wrap
 msgid "00:02:55.230 --> 00:02:57.980\n"
 "We can draw a line directly between the two.\n"
-msgstr ""
+msgstr "Мы можем провести линию непосредственно между ними.\n"
 
 #. type: Plain text
 #: videos/Foundations_Documentation.en.vtt:166
 #, no-wrap
 msgid "00:02:57.980 --> 00:03:01.529\n"
 "This is called a one to one match.\n"
-msgstr ""
+msgstr "Это называется совпадением один к одному.\n"
 
 #. type: Plain text
 #: videos/Foundations_Documentation.en.vtt:170
@@ -11919,14 +11971,14 @@ msgstr ""
 msgid "00:03:01.529 --> 00:03:07.390\n"
 "Question: Can you see any other one to one\n"
 "matches?\n"
-msgstr ""
+msgstr "Вопрос: Можете ли вы увидеть еще какие-либо другие совпадения один к одному?\n"
 
 #. type: Plain text
 #: videos/Foundations_Documentation.en.vtt:173
 #, no-wrap
 msgid "00:03:07.390 --> 00:03:17.510\n"
 "Answer: State, Exp?, Pink Elephant!\n"
-msgstr ""
+msgstr "Ответ: State, Exp?, Pink Elephant!\n"
 
 #. type: Plain text
 #: videos/Foundations_Documentation.en.vtt:177
@@ -11934,7 +11986,7 @@ msgstr ""
 msgid "00:03:17.510 --> 00:03:20.900\n"
 "Another type of relationship is is a one to\n"
 "many.\n"
-msgstr ""
+msgstr "Другой тип отношений – одним ко многим.\n"
 
 #. type: Plain text
 #: videos/Foundations_Documentation.en.vtt:181
