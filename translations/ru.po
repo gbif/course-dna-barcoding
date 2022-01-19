@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: publishing-dna-derived-data\n"
 "POT-Creation-Date: 2021-12-08 16:51+0000\n"
-"PO-Revision-Date: 2022-01-19 02:11\n"
+"PO-Revision-Date: 2022-01-19 10:12\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -12150,14 +12150,15 @@ msgstr ""
 #, no-wrap
 msgid "00:05:12.960 --> 00:05:15.020\n"
 "If they are the not the same.\n"
-msgstr ""
+msgstr "00:05:12.960 --> 00:05:15.020\n"
+"Если они не совпадают.\n"
 
 #. type: Plain text
 #: videos/Foundations_Documentation.en.vtt:260
 #, no-wrap
 msgid "00:05:15.020 --> 00:05:18.960\n"
 "You will need to do some manipulation.\n"
-msgstr ""
+msgstr "Вам нужно будет провести некоторые манипуляции.\n"
 
 #. type: Plain text
 #: videos/Foundations_Documentation.en.vtt:264
@@ -12202,7 +12203,8 @@ msgstr ""
 #, no-wrap
 msgid "00:05:40.469 --> 00:05:44.449\n"
 "If so how do you get it out?\n"
-msgstr ""
+msgstr "00:05:40:26--> 00:05:44.449\n"
+"Если так, как вы его получите?\n"
 
 #. type: Plain text
 #: videos/Foundations_Documentation.en.vtt:285
@@ -12294,7 +12296,7 @@ msgstr ""
 msgid "00:06:30.620 --> 00:06:36.539\n"
 "This is called metadata and is data about\n"
 "your data!\n"
-msgstr ""
+msgstr "Это называется метаданными и является данными о ваших данных!\n"
 
 #. type: Plain text
 #: videos/Foundations_Documentation.en.vtt:329
