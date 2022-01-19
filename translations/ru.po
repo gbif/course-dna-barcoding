@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: publishing-dna-derived-data\n"
 "POT-Creation-Date: 2021-12-08 16:51+0000\n"
-"PO-Revision-Date: 2022-01-19 16:04\n"
+"PO-Revision-Date: 2022-01-19 20:22\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -14768,7 +14768,7 @@ msgstr ""
 msgid "00:00:06.750 --> 00:00:11.820\n"
 "We will be introducing you to the language,\n"
 "terminology and definitions for some of the\n"
-msgstr ""
+msgstr "Мы познакомим вас с языком, терминологией и определениями некоторых \n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:16
@@ -14776,14 +14776,14 @@ msgstr ""
 msgid "00:00:11.820 --> 00:00:17.020\n"
 "basic concepts, functions and processes that\n"
 "you are going to be putting into use during\n"
-msgstr ""
+msgstr "основных концепций, функций и процессов, которые вы собираетесь использовать \n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:19
 #, no-wrap
 msgid "00:00:17.020 --> 00:00:19.810\n"
 "the rest of the course.\n"
-msgstr ""
+msgstr "в течение оставшейся части курса.\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:23
@@ -14791,7 +14791,8 @@ msgstr ""
 msgid "00:00:19.810 --> 00:00:24.980\n"
 "First let us review the structure of this\n"
 "session.\n"
-msgstr ""
+msgstr "00:00:19.810 --> 00:00:24.310\n"
+"Давайте сначала рассмотрим структуру этой сессии.\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:27
@@ -14799,7 +14800,8 @@ msgstr ""
 msgid "00:00:24.980 --> 00:00:30.320\n"
 "In the section on STRUCTURES we will be working\n"
 "on understanding the field and data types\n"
-msgstr ""
+msgstr "00:00:24.980 --> 00:00:30.320\n"
+"В разделе о СТРУКТУРЕ мы будем работать над пониманием поля и типов данных\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:31
