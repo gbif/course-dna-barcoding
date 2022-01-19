@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: publishing-dna-derived-data\n"
 "POT-Creation-Date: 2021-12-08 16:51+0000\n"
-"PO-Revision-Date: 2022-01-19 20:22\n"
+"PO-Revision-Date: 2022-01-19 23:18\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -15331,7 +15331,8 @@ msgstr ""
 #, no-wrap
 msgid "00:07:37.460 --> 00:07:45.500\n"
 "And columns.\n"
-msgstr ""
+msgstr "00:07:37.460 --> 00:07:45.500\n"
+"И колонки.\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:293
@@ -15680,7 +15681,8 @@ msgstr ""
 msgid "00:12:30.810 --> 00:12:35.689\n"
 "If you have questions on this presentation,\n"
 "please use the provided forum in the e-Learning\n"
-msgstr ""
+msgstr "00:12:30.810 --> 00:12:35.890\n"
+"Если у вас есть вопросы по этой презентации, пожалуйста, используйте предоставленный форум в e-Learning\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:466
@@ -15688,7 +15690,9 @@ msgstr ""
 msgid "00:12:35.689 --> 00:12:41.089\n"
 "platform.\n"
 "This video is part of a series of presentations\n"
-msgstr ""
+msgstr "00:12:35.689 --> 00:12:41.089\n"
+"платформе.\n"
+"Это видео является частью серии презентаций\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:470
@@ -15696,7 +15700,8 @@ msgstr ""
 msgid "00:12:41.089 --> 00:12:45.399\n"
 "used in the GBIF Biodiversity Data Mobilization\n"
 "course.\n"
-msgstr ""
+msgstr "00:12:41.089 --> 00:12:45,389\n"
+"используется в курсе GBIF Мобилизация данных о биоразнообразии.\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:474
@@ -15704,7 +15709,9 @@ msgstr ""
 msgid "00:12:45.399 --> 00:12:51.129\n"
 "The biodiversity data mobilization curriculum\n"
 "was originally developed as part of the Biodiversity\n"
-msgstr ""
+msgstr "00:12:45.399 --> 00:12:51.459\n"
+"Программа по мобилизации данных о биоразнообразии\n"
+"была первоначально разработана как часть Программы\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:478
@@ -15712,7 +15719,8 @@ msgstr ""
 msgid "00:12:51.129 --> 00:12:55.730\n"
 "Information Development Programme funded by\n"
 "the European Union.\n"
-msgstr ""
+msgstr "00:12:51.129 --> 00:12:55.260\n"
+"развития информации о биоразнообразии (Biodiversity Information Development Programme), финансируемой Европейским Союзом.\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:482
@@ -15720,14 +15728,15 @@ msgstr ""
 msgid "00:12:55.730 --> 00:13:01.860\n"
 "This presentation was originally created and\n"
 "narrated by Sharon Grant with additional contributions\n"
-msgstr ""
+msgstr "00:12:55.730 --> 00:13:37,930\n"
+"Эта презентация была первоначально создана и озвучена Sharon Grant с дополнительным вкладом\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:485
 #, no-wrap
 msgid "00:13:01.860 --> 00:13:05.079\n"
 "by BID and BIFA Trainers, Mentors and Students.\n"
-msgstr ""
+msgstr "вкладом Тренеров BID и BIFA, Инструкторов и студентов.\n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:8
