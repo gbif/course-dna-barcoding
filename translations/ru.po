@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: publishing-dna-derived-data\n"
 "POT-Creation-Date: 2021-12-08 16:51+0000\n"
-"PO-Revision-Date: 2022-01-19 10:12\n"
+"PO-Revision-Date: 2022-01-19 13:09\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -12481,7 +12481,7 @@ msgstr ""
 msgid "00:08:24.740 --> 00:08:28.289\n"
 "Collection methodology – How was the data\n"
 "collected?\n"
-msgstr ""
+msgstr "Методология сбора - Каким образом были собраны данные?\n"
 
 #. type: Plain text
 #: videos/Foundations_Documentation.en.vtt:418
@@ -12567,14 +12567,16 @@ msgstr ""
 msgid "00:09:15.980 --> 00:09:22.110\n"
 "If you have questions on this presentation,\n"
 "please use the provided forum in the e-Learning\n"
-msgstr ""
+msgstr "00:09:15.980 --> 00:09:22.890\n"
+"если у вас есть вопросы по этой презентации, пожалуйста, используйте предоставленный форум в e-Learning\n"
 
 #. type: Plain text
 #: videos/Foundations_Documentation.en.vtt:459
 #, no-wrap
 msgid "00:09:22.110 --> 00:09:23.720\n"
 "platform.\n"
-msgstr ""
+msgstr "00:09:22.110 --> 00:09:18:320\n"
+"платформы.\n"
 
 #. type: Plain text
 #: videos/Foundations_Documentation.en.vtt:463
@@ -12582,14 +12584,16 @@ msgstr ""
 msgid "00:09:23.720 --> 00:09:29.199\n"
 "This video is part of a series of presentations\n"
 "used in the GBIF Biodiversity Data Mobilization\n"
-msgstr ""
+msgstr "00:09:18,320 --> 00:09:23,660\n"
+"Это видео является частью серии презентаций, используемых в GBIF Biodiversity Data Mobilization\n"
 
 #. type: Plain text
 #: videos/Foundations_Documentation.en.vtt:466
 #, no-wrap
 msgid "00:09:29.199 --> 00:09:30.410\n"
 "course.\n"
-msgstr ""
+msgstr "00:09:23,660 --> 00:09:24,950 \n"
+"курсе.\n"
 
 #. type: Plain text
 #: videos/Foundations_Documentation.en.vtt:470
@@ -12597,7 +12601,9 @@ msgstr ""
 msgid "00:09:30.410 --> 00:09:36.190\n"
 "The biodiversity data mobilization curriculum\n"
 "was originally developed as part of the Biodiversity\n"
-msgstr ""
+msgstr "00:09:30.410 --> 00:09:36.459\n"
+"Программа по мобилизации данных о биоразнообразии\n"
+"была первоначально разработана как часть Программы\n"
 
 #. type: Plain text
 #: videos/Foundations_Documentation.en.vtt:474
@@ -12605,7 +12611,8 @@ msgstr ""
 msgid "00:09:36.190 --> 00:09:40.630\n"
 "Information Development Programme funded by\n"
 "the European Union.\n"
-msgstr ""
+msgstr "00:09:36.190 --> 00:09:40.260\n"
+"развития информации о биоразнообразии (Biodiversity Information Development Programme), финансируемой Европейским Союзом.\n"
 
 #. type: Plain text
 #: videos/Foundations_Documentation.en.vtt:478
@@ -12613,14 +12620,15 @@ msgstr ""
 msgid "00:09:40.630 --> 00:09:45.220\n"
 "This presentation was originally created by\n"
 "Sharon Grant and has been narrated by Sophie\n"
-msgstr ""
+msgstr "00:09:40.630 --> 00:09:45.220\n"
+"Эта презентация была первоначально создана Sharon Grant и была озвучена Sophie\n"
 
 #. type: Plain text
 #: videos/Foundations_Documentation.en.vtt:481
 #, no-wrap
 msgid "00:09:45.220 --> 00:09:45.699\n"
 "Pamerlon.\n"
-msgstr ""
+msgstr "Pamerlon.\n"
 
 #. type: Plain text
 #: videos/Foundations_Software.en.vtt:8
@@ -12681,7 +12689,7 @@ msgstr ""
 #, no-wrap
 msgid "00:00:38.710 --> 00:00:43.990\n"
 "So very briefly, a definition.\n"
-msgstr ""
+msgstr "Очень кратко, определение.\n"
 
 #. type: Plain text
 #: videos/Foundations_Software.en.vtt:37
@@ -12751,7 +12759,7 @@ msgstr ""
 msgid "00:01:28.950 --> 00:01:35.749\n"
 "There may even not be a need to create your\n"
 "own system at all.\n"
-msgstr ""
+msgstr "Возможно, даже нет необходимости создавать собственную систему.\n"
 
 #. type: Plain text
 #: videos/Foundations_Software.en.vtt:71
@@ -12759,7 +12767,7 @@ msgstr ""
 msgid "00:01:35.749 --> 00:01:44.460\n"
 "Apps such as iNaturalist, or eBird are stable,\n"
 "robust and have simple intuitive interfaces.\n"
-msgstr ""
+msgstr "Такие приложения, как iNaturalist или eBird, стабильны, надежны и имеют простые интуитивные интерфейсы.\n"
 
 #. type: Plain text
 #: videos/Foundations_Software.en.vtt:75
@@ -12898,7 +12906,8 @@ msgstr ""
 #, no-wrap
 msgid "00:03:26.060 --> 00:03:28.550\n"
 "However there are others.\n"
-msgstr ""
+msgstr "00:03:26.060 --> 00:03:28.550\n"
+"Однако есть и другие.\n"
 
 #. type: Plain text
 #: videos/Foundations_Software.en.vtt:142
@@ -12961,7 +12970,7 @@ msgstr ""
 msgid "00:04:06.189 --> 00:04:11.750\n"
 "The choice will depend largely on the level\n"
 "of infrastructure support at your institution.\n"
-msgstr ""
+msgstr "Выбор будет во многом зависеть от уровня поддержки инфраструктуры в вашем учреждении.\n"
 
 #. type: Plain text
 #: videos/Foundations_Software.en.vtt:173
@@ -13071,14 +13080,16 @@ msgstr ""
 msgid "00:05:20.810 --> 00:05:28.910\n"
 "If you have questions on this presentation,\n"
 "please use the provided forum in the e-Learning\n"
-msgstr ""
+msgstr "00:05:20.810 --> 00:05:28.890\n"
+"если у вас есть вопросы по этой презентации, пожалуйста, используйте предоставленный форум в e-Learning\n"
 
 #. type: Plain text
 #: videos/Foundations_Software.en.vtt:226
 #, no-wrap
 msgid "00:05:28.910 --> 00:05:30.400\n"
 "platform.\n"
-msgstr ""
+msgstr "00:05:28.910 --> 00:05:18:320\n"
+"платформы.\n"
 
 #. type: Plain text
 #: videos/Foundations_Software.en.vtt:230
@@ -13086,14 +13097,16 @@ msgstr ""
 msgid "00:05:30.400 --> 00:05:35.790\n"
 "This video is part of a series of presentations\n"
 "used in the GBIF Biodiversity Data Mobilization\n"
-msgstr ""
+msgstr "00:05:18,320 --> 00:05:23,660\n"
+"Это видео является частью серии презентаций, используемых в GBIF Biodiversity Data Mobilization\n"
 
 #. type: Plain text
 #: videos/Foundations_Software.en.vtt:233
 #, no-wrap
 msgid "00:05:35.790 --> 00:05:36.950\n"
 "course.\n"
-msgstr ""
+msgstr "00:05:23,660 --> 00:05:24,950 \n"
+"курса.\n"
 
 #. type: Plain text
 #: videos/Foundations_Software.en.vtt:237
@@ -13101,7 +13114,9 @@ msgstr ""
 msgid "00:05:36.950 --> 00:05:42.122\n"
 "The biodiversity data mobilization curriculum\n"
 "was originally developed as part of the Biodiversity\n"
-msgstr ""
+msgstr "00:05:36.950 --> 00:05:42.459\n"
+"Программа по мобилизации данных о биоразнообразии\n"
+"была первоначально разработана как часть Программы\n"
 
 #. type: Plain text
 #: videos/Foundations_Software.en.vtt:241
@@ -13109,7 +13124,8 @@ msgstr ""
 msgid "00:05:42.122 --> 00:05:46.770\n"
 "Information Development Programme funded by\n"
 "the European Union.\n"
-msgstr ""
+msgstr "00:05:42.122 --> 00:05:46.260\n"
+"развития информации о биоразнообразии (Biodiversity Information Development Programme), финансируемой Европейским Союзом.\n"
 
 #. type: Plain text
 #: videos/Foundations_Software.en.vtt:245
@@ -13117,7 +13133,8 @@ msgstr ""
 msgid "00:05:46.770 --> 00:05:48.780\n"
 "This presentation was originally created by\n"
 "Sophie Pamerlon and is narrated by Sharon\n"
-msgstr ""
+msgstr "00:05:46.770 --> 00:05:48.220\n"
+"Эта презентация была первоначально создана Sophie Pamerlon и была озвучена Sharon\n"
 
 #. type: Plain text
 #: videos/Foundations_Software.en.vtt:249
@@ -13125,14 +13142,16 @@ msgstr ""
 msgid "00:05:48.780 --> 00:05:53.650\n"
 "Grant with additional contributions by BID\n"
 "and BIFA Trainers, Mentors and Students.\n"
-msgstr ""
+msgstr "00:05:48.780 --> 00:05:53.300\n"
+"Grant с дополнительным вкладом Тренеров BID и BIFA, Инструкторов и студентов.\n"
 
 #. type: Plain text
 #: videos/Foundations_Standards_Darwin_Core.en.vtt:7
 #, no-wrap
 msgid "00:00:01.760 --> 00:00:03.200\n"
 "In this presentation,&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "00:00:01.760 --> 00:00:03.200\n"
+"В этой презентации,&nbsp;&nbsp;\n"
 
 #. type: Plain text
 #: videos/Foundations_Standards_Darwin_Core.en.vtt:11
@@ -13140,7 +13159,8 @@ msgstr ""
 msgid "00:00:03.200 --> 00:00:07.520\n"
 "we will introduce you to data standards&nbsp;\n"
 "as they relate to biodiversity data.&nbsp;\n"
-msgstr ""
+msgstr "00:00:03.200 --> 00:00:07.520\n"
+"мы представим вам стандарты данных&nbsp; в той мере, в какой они относятся к данным о биоразнообразии.&nbsp;\n"
 
 #. type: Plain text
 #: videos/Foundations_Standards_Darwin_Core.en.vtt:15
@@ -13148,7 +13168,8 @@ msgstr ""
 msgid "00:00:08.160 --> 00:00:11.360\n"
 "In particular, we will focus&nbsp;\n"
 "on the Darwin Core standard.\n"
-msgstr ""
+msgstr "00:00:08.160 --> 00:00:11.360\n"
+"В частности, мы сосредоточимся&nbsp; на стандарте Darwin Core.\n"
 
 #. type: Plain text
 #: videos/Foundations_Standards_Darwin_Core.en.vtt:19
