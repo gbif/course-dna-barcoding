@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: publishing-dna-derived-data\n"
 "POT-Creation-Date: 2021-12-08 16:51+0000\n"
-"PO-Revision-Date: 2022-01-19 13:09\n"
+"PO-Revision-Date: 2022-01-19 16:04\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -13271,28 +13271,30 @@ msgstr ""
 #, no-wrap
 msgid "00:01:14.320 --> 00:01:15.680\n"
 "So what is a Standard?\n"
-msgstr ""
+msgstr "00:01:14.320 --> 00:01:15.680\n"
+"Таким образом, что является стандартом?\n"
 
 #. type: Plain text
 #: videos/Foundations_Standards_Darwin_Core.en.vtt:68
 #, no-wrap
 msgid "00:01:16.240 --> 00:01:17.600\n"
 "At its simplest, it is:\n"
-msgstr ""
+msgstr "В самом простейшем случае это:\n"
 
 #. type: Plain text
 #: videos/Foundations_Standards_Darwin_Core.en.vtt:71
 #, no-wrap
 msgid "00:01:17.600 --> 00:01:19.440\n"
 "“An agreed way of doing something.”\n"
-msgstr ""
+msgstr "«Согласованный способ что-то сделать»\n"
 
 #. type: Plain text
 #: videos/Foundations_Standards_Darwin_Core.en.vtt:74
 #, no-wrap
 msgid "00:01:20.400 --> 00:01:23.920\n"
 "Standards are combinations of norms, conventions,&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "00:01:20.400 --> 00:01:23.920\n"
+"Стандарты представляют собой сочетания норм, конвенций,&nbsp;&nbsp;\n"
 
 #. type: Plain text
 #: videos/Foundations_Standards_Darwin_Core.en.vtt:78
@@ -13300,7 +13302,8 @@ msgstr ""
 msgid "00:01:23.920 --> 00:01:27.600\n"
 "specifications, requirements,&nbsp;\n"
 "restrictions, and rules.\n"
-msgstr ""
+msgstr "00:01:23.920 --> 00:01:27.600\n"
+"спецификаций, требований,&nbsp; ограничений и правил.\n"
 
 #. type: Plain text
 #: videos/Foundations_Standards_Darwin_Core.en.vtt:82
@@ -13339,42 +13342,48 @@ msgstr ""
 #, no-wrap
 msgid "00:01:48.160 --> 00:01:49.120\n"
 "Units of Measurement\n"
-msgstr ""
+msgstr "00:01:48.160 --> 00:01:49.120\n"
+"Единицы измерения\n"
 
 #. type: Plain text
 #: videos/Foundations_Standards_Darwin_Core.en.vtt:100
 #, no-wrap
 msgid "00:01:50.000 --> 00:01:50.960\n"
 "Numeral Systems\n"
-msgstr ""
+msgstr "00:01:50.000 --> 00:01:50,960\n"
+"Числовые системы\n"
 
 #. type: Plain text
 #: videos/Foundations_Standards_Darwin_Core.en.vtt:103
 #, no-wrap
 msgid "00:01:51.680 --> 00:01:52.320\n"
 "Alphabets\n"
-msgstr ""
+msgstr "00:01:51.680 --> 00:01:52.320\n"
+"Алфавиты\n"
 
 #. type: Plain text
 #: videos/Foundations_Standards_Darwin_Core.en.vtt:106
 #, no-wrap
 msgid "00:01:53.200 --> 00:01:53.840\n"
 "Languages\n"
-msgstr ""
+msgstr "00:01:53.200 --> 00:01:53.840\n"
+"Языки\n"
 
 #. type: Plain text
 #: videos/Foundations_Standards_Darwin_Core.en.vtt:109
 #, no-wrap
 msgid "00:01:54.480 --> 00:01:55.200\n"
 "Emojis\n"
-msgstr ""
+msgstr "00:01:54.480 --> 00:01:55.200\n"
+"Смайлики\n"
 
 #. type: Plain text
 #: videos/Foundations_Standards_Darwin_Core.en.vtt:112
 #, no-wrap
 msgid "00:01:55.760 --> 00:01:56.800\n"
 "Postal Addressing\n"
-msgstr ""
+msgstr "00:01:55.760 --> 00:01:56.800\n"
+"Почтовая адресация\n"
 
 #. type: Plain text
 #: videos/Foundations_Standards_Darwin_Core.en.vtt:115
@@ -13388,7 +13397,8 @@ msgstr ""
 #, no-wrap
 msgid "00:01:58.720 --> 00:01:59.440\n"
 "Barcoding\n"
-msgstr ""
+msgstr "00:01:58.720 --> 00:01:59.440\n"
+"Штрих-код\n"
 
 #. type: Plain text
 #: videos/Foundations_Standards_Darwin_Core.en.vtt:122
@@ -13447,14 +13457,16 @@ msgstr ""
 #, no-wrap
 msgid "00:02:35.920 --> 00:02:37.040\n"
 "language - English\n"
-msgstr ""
+msgstr "00:02:35.920 --> 00:02:37.040\n"
+"язык - Английский\n"
 
 #. type: Plain text
 #: videos/Foundations_Standards_Darwin_Core.en.vtt:148
 #, no-wrap
 msgid "00:02:37.840 --> 00:02:38.800\n"
 "alphabet - Latin\n"
-msgstr ""
+msgstr "00:02:37.840 --> 00:02:38.800\n"
+"алфавит - латиница\n"
 
 #. type: Plain text
 #: videos/Foundations_Standards_Darwin_Core.en.vtt:151
@@ -13468,7 +13480,8 @@ msgstr ""
 #, no-wrap
 msgid "00:02:41.840 --> 00:02:42.880\n"
 "font - Roboto\n"
-msgstr ""
+msgstr "00:02:41.840 --> 00:02:42.880\n"
+"шрифт - Roboto\n"
 
 #. type: Plain text
 #: videos/Foundations_Standards_Darwin_Core.en.vtt:158
@@ -13562,7 +13575,8 @@ msgstr ""
 #, no-wrap
 msgid "00:03:47.440 --> 00:03:49.840\n"
 "For our purposes, we’ll use UTF-8.\n"
-msgstr ""
+msgstr "00:03:47.440 --> 00:03:49.840\n"
+"Для наших целей мы будем использовать UTF-8.\n"
 
 #. type: Plain text
 #: videos/Foundations_Standards_Darwin_Core.en.vtt:204
@@ -13616,7 +13630,8 @@ msgstr ""
 #, no-wrap
 msgid "00:04:22.160 --> 00:04:27.840\n"
 "A dataset may make use of csv, xml, json and rdf.\n"
-msgstr ""
+msgstr "00:04:22.160 --> 00:04:27,840\n"
+"Набор данных может использовать csv, xml, json и rdf.\n"
 
 #. type: Plain text
 #: videos/Foundations_Standards_Darwin_Core.en.vtt:229
@@ -13904,63 +13919,71 @@ msgstr ""
 #, no-wrap
 msgid "00:07:33.280 --> 00:07:34.720\n"
 "Record &amp; Dataset\n"
-msgstr ""
+msgstr "00:07:33.280 --> 00:07:34.720\n"
+"Запись &amp; Набор данных\n"
 
 #. type: Plain text
 #: videos/Foundations_Standards_Darwin_Core.en.vtt:369
 #, no-wrap
 msgid "00:07:34.720 --> 00:07:35.760\n"
 "Occurrence\n"
-msgstr ""
+msgstr "00:07:34.720 --> 00:07:35,760\n"
+"Наблюдение\n"
 
 #. type: Plain text
 #: videos/Foundations_Standards_Darwin_Core.en.vtt:372
 #, no-wrap
 msgid "00:07:35.760 --> 00:07:36.720\n"
 "Organism\n"
-msgstr ""
+msgstr "00:07:35.760 --> 00:07:36.720\n"
+"Организм\n"
 
 #. type: Plain text
 #: videos/Foundations_Standards_Darwin_Core.en.vtt:375
 #, no-wrap
 msgid "00:07:36.720 --> 00:07:38.080\n"
 "Material Sample\n"
-msgstr ""
+msgstr "00:07:36.720 --> 00:07:38.080\n"
+"Образец материала\n"
 
 #. type: Plain text
 #: videos/Foundations_Standards_Darwin_Core.en.vtt:378
 #, no-wrap
 msgid "00:07:38.080 --> 00:07:38.560\n"
 "Event\n"
-msgstr ""
+msgstr "00:07:38.080 --> 00:07:38.560\n"
+"Событие\n"
 
 #. type: Plain text
 #: videos/Foundations_Standards_Darwin_Core.en.vtt:381
 #, no-wrap
 msgid "00:07:39.280 --> 00:07:39.920\n"
 "Location\n"
-msgstr ""
+msgstr "00:07:39.280 --> 00:07:39.920\n"
+"Местоположение\n"
 
 #. type: Plain text
 #: videos/Foundations_Standards_Darwin_Core.en.vtt:384
 #, no-wrap
 msgid "00:07:40.640 --> 00:07:42.000\n"
 "Geological Context\n"
-msgstr ""
+msgstr "00:07:40.640 --> 00:07:42.000\n"
+"Геологический контекст\n"
 
 #. type: Plain text
 #: videos/Foundations_Standards_Darwin_Core.en.vtt:387
 #, no-wrap
 msgid "00:07:43.840 --> 00:07:44.000\n"
 "Identification\n"
-msgstr ""
+msgstr "00:07:43.840 --> 00:07:44.000\n"
+"Идентификация\n"
 
 #. type: Plain text
 #: videos/Foundations_Standards_Darwin_Core.en.vtt:390
 #, no-wrap
 msgid "00:07:44.000 --> 00:07:44.640\n"
 "Taxon\n"
-msgstr ""
+msgstr "Таксон\n"
 
 #. type: Plain text
 #: videos/Foundations_Standards_Darwin_Core.en.vtt:394
@@ -13975,14 +13998,15 @@ msgstr ""
 #, no-wrap
 msgid "00:07:49.440 --> 00:07:50.640\n"
 "ResourceRelationship\n"
-msgstr ""
+msgstr "ResourceRelationship (РесурсСвязь)\n"
 
 #. type: Plain text
 #: videos/Foundations_Standards_Darwin_Core.en.vtt:400
 #, no-wrap
 msgid "00:07:51.200 --> 00:07:51.920\n"
 "MeasurementOrFact\n"
-msgstr ""
+msgstr "00:07:51.200 --> 00:07:51.920\n"
+"MeasurementOrFact (Измерения или Факт)\n"
 
 #. type: Plain text
 #: videos/Foundations_Standards_Darwin_Core.en.vtt:404
@@ -14367,21 +14391,24 @@ msgstr ""
 #, no-wrap
 msgid "00:12:07.520 --> 00:12:08.560\n"
 "Measurements or Facts\n"
-msgstr ""
+msgstr "00:12:07.520 --> 00:12:08.920\n"
+"MeasurementOrFact (Измерения или Факт)\n"
 
 #. type: Plain text
 #: videos/Foundations_Standards_Darwin_Core.en.vtt:592
 #, no-wrap
 msgid "00:12:09.360 --> 00:12:10.800\n"
 "Identification History\n"
-msgstr ""
+msgstr "00:12:09.360 --> 00:12:10.800\n"
+"История идентификации\n"
 
 #. type: Plain text
 #: videos/Foundations_Standards_Darwin_Core.en.vtt:595
 #, no-wrap
 msgid "00:12:11.760 --> 00:12:13.840\n"
 "There are many more extensions.&nbsp;\n"
-msgstr ""
+msgstr "00:12:11.760 --> 00:12:13,840\n"
+"Больше расширений.&nbsp;\n"
 
 #. type: Plain text
 #: videos/Foundations_Standards_Darwin_Core.en.vtt:599
@@ -14444,14 +14471,16 @@ msgstr ""
 #, no-wrap
 msgid "00:12:53.680 --> 00:12:55.600\n"
 "It is encoded as UTF-8.\n"
-msgstr ""
+msgstr "00:12:53.680 --> 00:12:55.600\n"
+"Кодировка в UTF-8.\n"
 
 #. type: Plain text
 #: videos/Foundations_Standards_Darwin_Core.en.vtt:629
 #, no-wrap
 msgid "00:12:56.480 --> 00:12:58.560\n"
 "In this example, these three files are:\n"
-msgstr ""
+msgstr "00:12:56.480 --> 00:12:58.560\n"
+"В этом примере эти три файла:\n"
 
 #. type: Plain text
 #: videos/Foundations_Standards_Darwin_Core.en.vtt:633
@@ -14474,7 +14503,8 @@ msgstr ""
 #, no-wrap
 msgid "00:13:10.080 --> 00:13:13.920\n"
 "2. A meta file (meta.xml)&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "00:13:10.080 --> 00:13:13,920\n"
+"2. Мета-файл (meta.xml)&nbsp;&nbsp;\n"
 
 #. type: Plain text
 #: videos/Foundations_Standards_Darwin_Core.en.vtt:644
@@ -14639,7 +14669,8 @@ msgstr ""
 #, no-wrap
 msgid "00:14:54.640 --> 00:14:55.120\n"
 "Thank you.\n"
-msgstr ""
+msgstr "00:14:54.640 --> 00:14:55.520\n"
+"Спасибо.\n"
 
 #. type: Plain text
 #: videos/Foundations_Standards_Darwin_Core.en.vtt:725
@@ -14647,7 +14678,8 @@ msgstr ""
 msgid "00:14:55.760 --> 00:15:00.800\n"
 "If you have questions on this presentation, please&nbsp;\n"
 "use the provided forum in the e-Learning platform.\n"
-msgstr ""
+msgstr "00:14:55.760 --> 00:15:00.890\n"
+"если у вас есть вопросы по этой презентации, пожалуйста, используйте предоставленный форум в e-Learning.\n"
 
 #. type: Plain text
 #: videos/Foundations_Standards_Darwin_Core.en.vtt:729
@@ -14655,14 +14687,17 @@ msgstr ""
 msgid "00:15:01.680 --> 00:15:04.560\n"
 "This video is part of a series&nbsp;\n"
 "of presentations used in the&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "00:15:01.680 --> 00:15:04.560\n"
+"Это видео является частью серии&nbsp;\n"
+"презентаций, используемых в&nbsp;&nbsp;\n"
 
 #. type: Plain text
 #: videos/Foundations_Standards_Darwin_Core.en.vtt:732
 #, no-wrap
 msgid "00:15:04.560 --> 00:15:07.200\n"
 "GBIF Biodiversity Data Mobilization course.&nbsp;\n"
-msgstr ""
+msgstr "00:15:04.560 --> 00:15:07.200\n"
+"курс GBIF Мобилизация данных о биоразнообразии.&nbsp;\n"
 
 #. type: Plain text
 #: videos/Foundations_Standards_Darwin_Core.en.vtt:736
@@ -14670,7 +14705,9 @@ msgstr ""
 msgid "00:15:08.160 --> 00:15:12.320\n"
 "The biodiversity data mobilization curriculum&nbsp;\n"
 "was originally developed as part of the&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "00:15:08.160 --> 00:15:12.459\n"
+"Программа по мобилизации данных о биоразнообразии\n"
+"была первоначально разработана как часть Программы\n"
 
 #. type: Plain text
 #: videos/Foundations_Standards_Darwin_Core.en.vtt:740
@@ -14678,7 +14715,8 @@ msgstr ""
 msgid "00:15:12.320 --> 00:15:16.720\n"
 "Biodiversity Information Development&nbsp;\n"
 "Programme funded by the European Union.\n"
-msgstr ""
+msgstr "00:15:12.320 --> 00:15:16.260\n"
+"развития информации о биоразнообразии (Biodiversity Information Development Programme), финансируемой Европейским Союзом.\n"
 
 #. type: Plain text
 #: videos/Foundations_Standards_Darwin_Core.en.vtt:744
@@ -14686,7 +14724,8 @@ msgstr ""
 msgid "00:15:18.160 --> 00:15:22.800\n"
 "This presentation was originally created&nbsp;\n"
 "by Paula Zermoglio and John Wieczorek&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "00:15:18.160 --> 00:15:22.800\n"
+"Эта презентация была изначально создана&nbsp; Paula Zermoglio и John Wieczorek&nbsp;&nbsp;\n"
 
 #. type: Plain text
 #: videos/Foundations_Standards_Darwin_Core.en.vtt:748
@@ -14694,7 +14733,8 @@ msgstr ""
 msgid "00:15:22.800 --> 00:15:26.720\n"
 "with additional contributions by&nbsp;\n"
 "Sharon Grant, Sophie Pamerlon,&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "00:15:22.800 --> 00:15:26.720\n"
+"с дополнительными вкладами от&nbsp; Sharon Grant, Sophie Pamerlon,&nbsp;&nbsp;\n"
 
 #. type: Plain text
 #: videos/Foundations_Standards_Darwin_Core.en.vtt:752
@@ -14702,7 +14742,8 @@ msgstr ""
 msgid "00:15:26.720 --> 00:15:32.320\n"
 "Laura Anne Russell and Dag Endresen, BID&nbsp;\n"
 "and BIFA Trainers, Mentors and students.\n"
-msgstr ""
+msgstr "00:15:26.720 --> 00:15:32:320\n"
+"Laura Anne Russell и Dag Endresen, BID&nbsp; и BIFA Тренеров, наставников и студентов.\n"
 
 #. type: Plain text
 #: videos/Foundations_Standards_Darwin_Core.en.vtt:756
@@ -14710,7 +14751,8 @@ msgstr ""
 msgid "00:15:33.120 --> 00:15:36.720\n"
 "This presentation has been&nbsp;\n"
 "narrated by Laura Anne Russell.\n"
-msgstr ""
+msgstr "00:15:20:50--> 00:15:23:20\n"
+"Эта презентация озвучена Laura Anne Russell.\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:8
