@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: publishing-dna-derived-data\n"
 "POT-Creation-Date: 2021-12-08 16:51+0000\n"
-"PO-Revision-Date: 2022-01-23 13:36\n"
+"PO-Revision-Date: 2022-01-23 16:34\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -589,7 +589,7 @@ msgstr ""
 #. type: delimited block =
 #: software.en.adoc:144
 msgid "Choose \"Open\""
-msgstr "Выберите \"Открыть\""
+msgstr "Выберите \"Open(Открыть)\""
 
 #. type: Target for macro image
 #: software.en.adoc:151
@@ -600,7 +600,7 @@ msgstr ""
 #. type: delimited block =
 #: software.en.adoc:153
 msgid "Finally, the application archive is opened! Drag it to your Applications folder."
-msgstr ""
+msgstr "В конечном итоге, открывается архив приложения! Перетащите его в папку Приложения."
 
 #. type: Target for macro image
 #: software.en.adoc:160
@@ -611,7 +611,7 @@ msgstr ""
 #. type: delimited block =
 #: software.en.adoc:162
 msgid "Double-click the OpenRefine icon.  Another security warning appears!"
-msgstr ""
+msgstr "Дважды щелкните значок OpenRefine. Появится еще одно предупреждение безопасности!"
 
 #. type: Target for macro image
 #: software.en.adoc:169
@@ -633,7 +633,7 @@ msgstr ""
 #. type: delimited block =
 #: software.en.adoc:180
 msgid "(To avoid these warnings, the OpenRefine developers would need to pay Apple.)"
-msgstr ""
+msgstr "(Чтобы избежать этих предупреждений, разработчикам OpenRefine придется заплатить Apple.)"
 
 #. type: delimited block =
 #: software.en.adoc:182
@@ -709,7 +709,7 @@ msgstr ""
 #. type: delimited block =
 #: software.en.adoc:231
 msgid "Choose a suitable place.  I also selected \"Open destination folder after extraction\" and \"Close Ark after extraction\""
-msgstr ""
+msgstr "Выберите подходящее место. Например, «Открыть папку назначения после извлечения» и «Закрыть архив после извлечения»"
 
 #. type: Target for macro image
 #: software.en.adoc:238
@@ -793,24 +793,24 @@ msgstr ""
 #: research-data.en.adoc:1
 #, no-wrap
 msgid "Data as a first-class research citizen"
-msgstr ""
+msgstr "Данные как первоклассные объекты"
 
 #. type: Plain text
 #: research-data.en.adoc:5
 msgid "This module includes information about trends to treat research data as a first-class scientific citizen, to be independently cited, and contribute to researcher career assessment."
-msgstr ""
+msgstr "Этот модуль включает информацию о тенденциях для рассмотрения исследовательских данных как первоклассных объектах, для независимого цитирования и содействия оценке карьеры исследователя."
 
 #. type: Title ===
 #: research-data.en.adoc:6
 #, no-wrap
 msgid "Open research data"
-msgstr ""
+msgstr "Открытые данные исследований"
 
 #.  If you are unable to view the embedded slideshow, you can download it locally. (Slides - ??.? MB)
 #. type: Plain text
 #: research-data.en.adoc:11
 msgid "In this presentation, you will review recent trends to treat research data as a first-class scientific citizen, to be independently cited, and contribute to researcher career assessment used in this course."
-msgstr ""
+msgstr "В этой презентации вы проанализируете последние тенденции для рассмотрения исследовательских данных как первоклассных объектов, которые будут независимо цитироваться, и внесете вклад в оценку карьеры исследователя, используемую в этом курсе."
 
 #. type: delimited block +
 #: research-data.en.adoc:21
@@ -824,12 +824,12 @@ msgstr ""
 #: data-journey.en.adoc:1
 #, no-wrap
 msgid "Data journey - bumblebee pollinators"
-msgstr ""
+msgstr "Перемещение по данным - шмели опылители"
 
 #. type: Plain text
 #: data-journey.en.adoc:6
 msgid "This data journey is a series of practical exercises focusing on bumblebee pollinators.  Using GBIF and BOLD, you will learn: I. how to find and use already available biodiversity data in connexion with your research questions; II. How to efficiently capture and clean this data – i.e. put them in a standard format that is directly relevant and exploitable for you; III. How to generate and publish new data according to a international standards."
-msgstr ""
+msgstr "Перемещение по данным представляет собой серию практических упражнений, посвященных шмелям опылителям. Используя GBIF и BOLD, вы узнаете: I. как найти и использовать уже имеющиеся данные о биоразнообразии в связи с вашими исследовательскими вопросами; II. Как эффективно фиксировать и очищать эти данные, т.е. использовать их в стандартном формате, который имеет непосредственное отношение и пригоден для использования; III. Как генерировать и публиковать новые данные в соответствии с международными стандартами."
 
 #. type: Target for macro image
 #: data-journey.en.adoc:7
@@ -840,7 +840,7 @@ msgstr ""
 #. type: Plain text
 #: data-journey.en.adoc:14
 msgid "This data journey is comprised of nine steps.  Each step (or set of steps), correlate to the different modules of the course.  After a series of theoretical lectures, you will return to the Data Journey to complete the practical exercises.  The practical exercises follow a path: I. the study system; II. questions and hypotheses; III. availability of data; IV. capture and cleaning of data; and V. generate and publish data."
-msgstr ""
+msgstr "Перемещение по данным состоит из девяти этапов. Каждый этап (или наборы этапов) соотносится с различными модулями курса. После серии теоретических лекций вы вернетесь в Перемещению по данным, чтобы завершить практические занятия. Практические занятия идут по пути: I. система исследования; I. вопросы и гипотезы; III. наличие данных; IV. сбор и очистка данных; и V. сбор и публикация данных."
 
 #. type: Target for macro image
 #: data-journey.en.adoc:15
@@ -1013,7 +1013,7 @@ msgstr "На этапе 1 вы разработаете свои исследо�
 #. type: Plain text
 #: data-journey.en.adoc:64
 msgid "In a workshop setting, complete Step 1 as a group. Select a recorder/reporter to report back after task 3 is complete."
-msgstr ""
+msgstr "В настройках семинара выполните Этап 1 в группе. Выберите записывающего/ отчитывающегося для представления отчета после завершения этапа 3."
 
 #. type: Title ====
 #: data-journey.en.adoc:65
@@ -1210,7 +1210,7 @@ msgstr "Рассмотрите базу данных https://v3.boldsystems.org[
 #. type: Plain text
 #: data-journey.en.adoc:136
 msgid "In a workshop setting, complete task 6 as a group. Select a recorder/reporter to report back (1 minute per group) after task 6 is complete."
-msgstr ""
+msgstr "В настройках семинара выполните Этап 6 в группе. Выберите записывающего/ отчитывающегося для представления отчета (1 минута на группу) после завершения этапа 6."
 
 #. type: Title ===
 #: data-journey.en.adoc:137
@@ -1309,7 +1309,7 @@ msgstr "Изучите информацию о том, какая информа
 #. type: Plain text
 #: data-journey.en.adoc:174
 msgid "In a workshop setting, complete task 9 as a group. Select a recorder/reporter to report back (2 minutes per group) after task 9 is complete."
-msgstr ""
+msgstr "В настройках семинара выполните Этап 9 в группе. Выберите записывающего/ отчитывающегося для представления отчета (2 минуты на группу) после завершения этапа 9."
 
 #. type: Title ===
 #: data-journey.en.adoc:175
@@ -1336,12 +1336,12 @@ msgstr "Скачайте файл по ссылке:../exercise-data/sequences.z
 #. type: Plain text
 #: data-journey.en.adoc:185
 msgid "Get an identification for a sequence by copying-pasting an “unknown” DNA sequence to BOLD."
-msgstr ""
+msgstr "Проведите идентификацию последовательности путем копирования-вставки «неизвестной» последовательности ДНК в BOLD."
 
 #. type: Plain text
 #: data-journey.en.adoc:186
 msgid "Enter species names and check whether they have records in BOLD, look these sequences with the sequence analysis tools in BOLD."
-msgstr ""
+msgstr "Введите названия видов и проверьте, есть ли у них записи в BOLD, просмотрите эти последовательности с помощью инструментов анализа последовательностей в BOLD."
 
 #. type: Plain text
 #: data-journey.en.adoc:187
@@ -1528,7 +1528,7 @@ msgstr "Задание 14"
 #. type: Plain text
 #: data-journey.en.adoc:251
 msgid "Continue using the same file. Filter for the cracca species."
-msgstr ""
+msgstr "Продолжайте использовать тот же файл. Фильтр для вида cracca."
 
 #. type: Plain text
 #: data-journey.en.adoc:252
@@ -1543,12 +1543,12 @@ msgstr "виды - валидные ли названия?"
 #. type: Plain text
 #: data-journey.en.adoc:254
 msgid "decimalLatitude and decimalLongitude - Are all the coordinates consistent and in decimal format?"
-msgstr ""
+msgstr "decimalLatitude и decimalDolude - Все ли координаты согласованы и имеют десятичный формат?"
 
 #. type: Plain text
 #: data-journey.en.adoc:255
 msgid "decimalLatitude and decimalLongitude - Are all the occurrences with coordinates taking place in Armenia?"
-msgstr ""
+msgstr "decimalLatitude и decimalДолгота - Все ли наблюдения с координатами происходят в Армении?"
 
 #. type: Plain text
 #: data-journey.en.adoc:256
@@ -1569,17 +1569,17 @@ msgstr "Для завершения работы вам понадобится 6
 #. type: Plain text
 #: data-journey.en.adoc:264
 msgid "Use OpenRefine to improve the quality of a dataset by using the default features, existing web services and regular expressions."
-msgstr ""
+msgstr "Используйте OpenRefine для повышения качества набора данных с помощью функций по умолчанию, существующих веб-служб и регулярных выражений."
 
 #. type: Plain text
 #: data-journey.en.adoc:265
 msgid "Download link:../exercise-data/UC1-3c-open-refine.csv[UC1-3c-open-refine.csv,opts=download]. (207.5 KB)"
-msgstr ""
+msgstr "Скачайте файл по ссылке:../exercise-data/-open-refine.csv[UC1-3c-open-refine.csv,opts=download файл, opts=download] (ZIP 207.5 KB)"
 
 #. type: Plain text
 #: data-journey.en.adoc:266
 msgid "Download and complete the exercises in link:../course-docs/OpenRefine-Exercise3c-EN.pdf[OpenRefine-Exercise3c-EN.pdf,opts=download]. (PDF, 1.1 MB)"
-msgstr ""
+msgstr "Скачайте и завершите упражнения в link:../course-docs/OpenRefine-Exercise3c-EN.pdf[OpenRefine-Exercise3c-EN.pdf,opts=download]. (PDF, 1.1 MB)"
 
 #. type: Title ===
 #: data-journey.en.adoc:267
@@ -1665,17 +1665,17 @@ msgstr "Задание 17"
 #. type: Plain text
 #: data-journey.en.adoc:301
 msgid "Upload specimen data"
-msgstr ""
+msgstr "Загрузить данные образца"
 
 #. type: Plain text
 #: data-journey.en.adoc:302
 msgid "Upload images"
-msgstr ""
+msgstr "Загрузить изображение"
 
 #. type: Plain text
 #: data-journey.en.adoc:302
 msgid "Upload sequence & trace files"
-msgstr ""
+msgstr "Выгрузить последовательность и файлы трассировки"
 
 #. type: Title ==
 #: species-identification.en.adoc:1
@@ -1725,7 +1725,7 @@ msgstr "Выполнить шаг 3, задачи 7-9"
 #: species-identification.en.adoc:34
 #, no-wrap
 msgid "Species identification and delimitation with DNA "
-msgstr ""
+msgstr "Идентификация и делимитация видов ДНК "
 
 #. type: delimited block +
 #: species-identification.en.adoc:49
@@ -1785,12 +1785,12 @@ msgstr "Завершите шаг 5, задача11."
 #: data-capture.en.adoc:1
 #, no-wrap
 msgid "Data capture"
-msgstr ""
+msgstr "Сбор данных"
 
 #. type: Plain text
 #: data-capture.en.adoc:6
 msgid "In this module, you will learn the types of primary biodiversity data and how to best share that information within GBIF.  You will also review principles of data quality in the context of data capture and will learn about data quality and coherence (especially on subjects such as georeferencing, dates, names and taxa cross-checking)."
-msgstr "В этом модуле вы узнаете типы первичных данных о биоразнообразии и как наилучшим образом обмениваться этой информацией в GBIF. Вы также рассмотрите принципы качества данных в контексте сбора данных и узнаете о качестве и согласованности данных (особенно по таким вопросам, как географическое распределение), даты, названия и перекрестная таксономическая проверка)."
+msgstr "В этом модуле вы узнаете типы первичных данных о биоразнообразии и как наилучшим образом обмениваться этой информацией в рамках GBIF. Вы также рассмотрите принципы качества данных в контексте сбора данных и узнаете о качестве и согласованности данных (особенно по таким вопросам, как географическое распределение), даты, названия и перекрестная таксономическая проверка)."
 
 #. type: Title ===
 #: data-capture.en.adoc:7
@@ -1801,7 +1801,7 @@ msgstr "Источники и типы данных"
 #. type: Plain text
 #: data-capture.en.adoc:12
 msgid "In this video (10:45), you will review https://www.gbif.org/dataset-classes[primary biodiversity data^] that can be shared within GBIF.  If you are unable to watch the embedded video, you can link:../videos/data_origins_types.mp4[download^,opts=download] it locally. (MP4 - 19 MB)"
-msgstr ""
+msgstr "В этом видеоролике (10:45) вы рассмотрите https://www.gbif.org/dataset-classes [первичные данные о биоразнообразии ^], которыми можно поделиться в рамках GBIF. Если вы не можете посмотреть встроенное видео, вы можете скачать его по ссылке link:../videos/data_origins_types.mp4[download^,opts=download]. (MP4 - 19 МБ)"
 
 #. type: Title ====
 #: data-capture.en.adoc:16
@@ -1812,7 +1812,7 @@ msgstr "Обзор типов данных"
 #. type: Plain text
 #: data-capture.en.adoc:20
 msgid "Quiz yourself on the concepts learned in this section."
-msgstr ""
+msgstr "Проверьте себя на освоение понятий, изученных в этом разделе."
 
 #.  Note the lack of empty lines between the end of the question (....) and the start of the next question
 #.  (. What…) is required, so I have added // comments to help separate them.
@@ -1891,7 +1891,7 @@ msgstr "- [x] наблюдение\n"
 #. type: Plain text
 #: data-capture.en.adoc:69
 msgid "What dataset type(s) would you choose for bird tracking data?"
-msgstr ""
+msgstr "Какой тип(ы) набора(ов) данных вы бы выбрали для данных управления национальными парками?"
 
 #. type: delimited block .
 #: data-capture.en.adoc:73
@@ -1973,7 +1973,7 @@ msgstr "Какой тип (типы) наборов данных вы выбир
 #: data-capture.en.adoc:116
 #, no-wrap
 msgid "Citizen science data are often collected through thematic fieldwork days known as a “bioblitz.” Volunteers typically gather in a given area and spend the day trying to observe and identify as many species as they can in this area.\n"
-msgstr ""
+msgstr "Данные гражданской науки зачастую собираются во время тематических полевых дней, известныех как «биоблиц». Волонтеры, как правило, собираются в конкретном регионе и проводят день наблюдая и определяя столько видов, сколько смогут найти в этом регионе.\n"
 
 #. type: delimited block .
 #: data-capture.en.adoc:118
@@ -2213,7 +2213,7 @@ msgstr "Принципы управления данными"
 #. type: Plain text
 #: data-management.en.adoc:10
 msgid "In this video (09:49), you will review an important set of principles necessary to improve data through the processes of data cleaning.  If you are unable to watch the embedded video, you can link:../videos/Data_Management.mp4[download^,opts=download] it locally. (MP4 - 16.6 MB)"
-msgstr ""
+msgstr "В этом видео (09:49) вы узнаете о различных инструментах, которые вы можете использовать для улучшения качества ваших данных. Если вы не можете смотреть встроенное видео, вы можете воспользоваться ссылкой link:../videos/Data_Management_Tools.mp4[download,opts=download] локально. (MP4 - 16.6 MB)"
 
 #. type: Title ===
 #: data-management.en.adoc:14
