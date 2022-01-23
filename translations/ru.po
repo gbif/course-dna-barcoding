@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: publishing-dna-derived-data\n"
 "POT-Creation-Date: 2021-12-08 16:51+0000\n"
-"PO-Revision-Date: 2022-01-19 23:18\n"
+"PO-Revision-Date: 2022-01-23 10:36\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -20,12 +20,12 @@ msgstr ""
 #: index.en.adoc:1
 #, no-wrap
 msgid "Accelerating biodiversity research through DNA barcodes, collection and observation data"
-msgstr ""
+msgstr "Ускорение исследований биоразнообразия с помощью ДНК-баркодинга, коллекционных данных и данных наблюдений"
 
 #. type: Plain text
 #: index.en.adoc:3
 msgid "GBIF Secretariat <training@gbif.org>"
-msgstr ""
+msgstr "Секретариат GBIF <training@gbif.org>"
 
 #. type: Plain text
 #: index.en.adoc:17
@@ -36,7 +36,7 @@ msgstr ""
 #: index.en.adoc:22
 #, no-wrap
 msgid "https://www.gbif.org/occurrence/2840632116[Bombus pascuorum (Scopoli, 1763)^] observed in Georgia by Jean-Sébastien Rousseau-Piot (licensed under http://creativecommons.org/licenses/by-nc-nd/4.0/[CC BY-NC^])"
-msgstr ""
+msgstr "https://www.gbif.org/occurrence/2840632116[Bombus pascuorum (Scopoli, 1763)^] наблюдение в Грузии сделанное Jean-Sébastien Rousseau-Piot (лицензируется по адресу: http://creativecommons.org/licenses/by-nc-nd/4.0/[CC BY-NC^])"
 
 #. type: Target for macro image
 #: index.en.adoc:23
