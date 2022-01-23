@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: publishing-dna-derived-data\n"
 "POT-Creation-Date: 2021-12-08 16:51+0000\n"
-"PO-Revision-Date: 2022-01-23 16:34\n"
+"PO-Revision-Date: 2022-01-23 21:33\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -2335,7 +2335,8 @@ msgstr "*Обмен*: \n"
 msgid "*Outliers*: \n"
 "Detect outliers, but remember that not all outliers are necessarily errors. \n"
 "For example, compare against a known species range, or known environmental range (but remember that outliers may be misidentifications, rather than incorrect coordinates).\n"
-msgstr ""
+msgstr "* Отклонения *: \n"
+"Обнаруживайте отклонения, но помните, что не все отклонения обязательно являются ошибками. Например, сравните с известным спектром видов или известным экологическим диапазоном (но помните, что отклонения могут быть неправильной идентификацией, а не неправильными координатами).\n"
 
 #. type: Plain text
 #: data-management.en.adoc:70
@@ -2343,7 +2344,9 @@ msgstr ""
 msgid "*Geographic*: \n"
 "Are the coordinates within the identified locality or region? \n"
 "For example, are there any terrestrial occurrences in the sea or marine occurrences on land?\n"
-msgstr ""
+msgstr "*География*: \n"
+"Координаты в пределах идентифицированного населенного пункта или региона?\n"
+"Например, имеются ли какие-либо наземные наблюдения на море или морские наблюдения на суше?\n"
 
 #. type: Plain text
 #: data-management.en.adoc:74
@@ -2352,14 +2355,16 @@ msgid "*Collecting patterns*: \n"
 "Does the occurrence detail match the known collecting patterns of the organization or collector?\n"
 "Do any records appear to have been created after a collector has died (could this possibly be a different collector with a similar name)?\n"
 "For example, are any mammal records attributed to a bird watching group?\n"
-msgstr ""
+msgstr "*Коллекционные шаблоны*: \n"
+"Соответствует ли подробная информация о наблюдении известным коллекционным шаблонам организации или сборщика? Возможно ли создание каких-либо записей после смерти сборщика (возможно, это другой сборщик с похожим именем)? Например, приписываются ли какие-либо записи о млекопитающих группе, наблюдающей за птицами?\n"
 
 #. type: Plain text
 #: data-management.en.adoc:76
 #, no-wrap
 msgid "*Accuracy and precision*: \n"
 "For example, are any georeferenced records indicating very high precision or accuracy from a pre-GPS (or pre-accurate GPS) collecting period?\n"
-msgstr ""
+msgstr "*Аккуратность и точность*: \n"
+"Например, являются ли какие-либо географически привязанные записи, указывающие на очень высокую точность или аккуратность из периода сбора данных до GPS (или до точности GPS)?\n"
 
 #. type: Plain text
 #: data-management.en.adoc:79
@@ -2367,7 +2372,8 @@ msgstr ""
 msgid "*Collecting methods*: \n"
 "Different survey methods (e.g. transects and area surveys) have particular characteristics. \n"
 "Are the records consistent with the method provided?\n"
-msgstr ""
+msgstr "* Методы сбора *: \n"
+"Различные методы обследования (например, трансекты и обследования целых районов) имеют особые характеристики. Согласуются ли записи с предоставленным методом?\n"
 
 #. type: Title ====
 #: data-management.en.adoc:80
@@ -3009,13 +3015,13 @@ msgstr "Чувствительные виды"
 #. type: Plain text
 #: keydocs.en.adoc:135
 msgid "https://doi.org/10.15468/doc-5jp4-5g10[Current Best Practices for Generalizing Sensitive Species Occurrence Data^] + Arthur D. Chapman 2020."
-msgstr ""
+msgstr "https://doi.org/10.15468/doc-5jp4-5g10 [Текущая передовая практика обобщения данных о наблюдениях чувствительных видов ^] + Arthur D. Chapman 2020."
 
 #. type: Title ===
 #: keydocs.en.adoc:136
 #, no-wrap
 msgid "Taxonomy"
-msgstr ""
+msgstr "Таксономия"
 
 #. type: Plain text
 #: keydocs.en.adoc:139
