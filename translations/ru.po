@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: publishing-dna-derived-data\n"
 "POT-Creation-Date: 2021-12-08 16:51+0000\n"
-"PO-Revision-Date: 2022-01-24 07:08\n"
+"PO-Revision-Date: 2022-01-24 16:13\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -3326,13 +3326,13 @@ msgstr "Лицензия"
 #. type: Plain text
 #: colophon.en.adoc:18
 msgid "_Accelerating biodiversity research through DNA barcodes, collection and observation data_ is licensed under https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License]."
-msgstr ""
+msgstr "_Ускорение исследований биоразнообразия с помощью ДНК-баркодирования, коллекций и данных наблюдения_ распространяется на условиях лицензии https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License]."
 
 #. type: Title ===
 #: colophon.en.adoc:19
 #, no-wrap
 msgid "Persistent URI"
-msgstr ""
+msgstr "Постоянный URI"
 
 #. type: Plain text
 #: colophon.en.adoc:22
@@ -3660,7 +3660,7 @@ msgstr "Коллекции и образцы сильно различаются
 msgid "00:02:46.720 --> 00:02:51.800\n"
 "However, any kind of collection that holds\n"
 "preserved living organisms can be captured\n"
-msgstr ""
+msgstr "По сути, любой вид коллекции, в которой находятся сохранившиеся живые организмы, может быть взят\n"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:128
@@ -3668,7 +3668,7 @@ msgstr ""
 msgid "00:02:51.800 --> 00:02:57.240\n"
 "and shared within GBIF; herbarium or zoological\n"
 "collections (including fossils) for example,\n"
-msgstr ""
+msgstr "и распространен в рамках GBIF; также как, например, гербарные или зоологические коллекции (включая окаменелости),\n"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:132
@@ -3676,7 +3676,7 @@ msgstr ""
 msgid "00:02:57.240 --> 00:03:04.010\n"
 "but geology or human artifacts collections\n"
 "do not fall under the GBIF scope.\n"
-msgstr ""
+msgstr "однако геологические коллекции или коллекции человеческих артефактов не подпадают под сферу охвата GBIF.\n"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:136
@@ -3684,7 +3684,7 @@ msgstr ""
 msgid "00:03:04.010 --> 00:03:10.280\n"
 "Biodiversity data can also be found in technical\n"
 "and scientific literature: it is possible\n"
-msgstr ""
+msgstr "Данные о биоразнообразии также можно найти в технической и научной литературе:\n"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:140
@@ -3692,7 +3692,7 @@ msgstr ""
 msgid "00:03:10.280 --> 00:03:15.920\n"
 "to compile and share this kind of data within\n"
 "GBIF, but you should be extra-cautious not\n"
-msgstr ""
+msgstr "в рамках GBIF можно компилировать данные такого рода и обмениваться ими, но следует быть очень осторожными,\n"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:144
@@ -3700,7 +3700,7 @@ msgstr ""
 msgid "00:03:15.920 --> 00:03:21.430\n"
 "to share duplicate data (for example, a specimen\n"
 "described in a scientific article might already\n"
-msgstr ""
+msgstr "чтобы не делиться дублирующими данными (например, экземпляр, описанный в научной статье, уже может присутствовать\n"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:148
@@ -3708,7 +3708,7 @@ msgstr ""
 msgid "00:03:21.430 --> 00:03:27.980\n"
 "be present on GBIF.org in the dataset of its\n"
 "collection)\n"
-msgstr ""
+msgstr "в GBIF.org в наборе данных соответствующей коллекции).\n"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:152
@@ -3716,7 +3716,7 @@ msgstr ""
 msgid "00:03:27.980 --> 00:03:33.790\n"
 "In the absence of digitized datasets, biodiversity\n"
 "data can be extracted and compiled from scientific\n"
-msgstr ""
+msgstr "При отсутствии оцифрованных наборов данных данные о биоразнообразии могут извлекаться и компилироваться из научных\n"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:156
@@ -3724,7 +3724,7 @@ msgstr ""
 msgid "00:03:33.790 --> 00:03:40.630\n"
 "articles, phD or master theses, reports and\n"
 "other documents.\n"
-msgstr ""
+msgstr "статей, кандидатских или магистерских диссертаций, докладов и других документов.\n"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:160
@@ -3732,14 +3732,14 @@ msgstr ""
 msgid "00:03:40.630 --> 00:03:45.980\n"
 "ALWAYS contact the data owner first when compiling\n"
 "literature data to ask for permission to publish\n"
-msgstr ""
+msgstr "ВСЕГДА связывайтесь с владельцем данных при компиляции литературных данных, чтобы попросить разрешения опубликовать\n"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:163
 #, no-wrap
 msgid "00:03:45.980 --> 00:03:50.060\n"
 "them to GBIF ! \n"
-msgstr ""
+msgstr "их в GBIF!\n"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:167
@@ -3747,7 +3747,7 @@ msgstr ""
 msgid "00:03:50.060 --> 00:03:55.910\n"
 "A large majority of the data available on\n"
 "GBIF.org now comes from fieldwork records.\n"
-msgstr ""
+msgstr "Значительная часть данных, имеющихся на GBIF.org, в настоящее время поступает из записей полевых работ.\n"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:171
@@ -3755,7 +3755,7 @@ msgstr ""
 msgid "00:03:55.910 --> 00:04:01.460\n"
 "These data can be observed and/or collected\n"
 "using different protocols in the field, by\n"
-msgstr ""
+msgstr "Эти данные могут наблюдаться и/или собираться с использованием различных протоколов в полевых условиях\n"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:175
@@ -3763,7 +3763,7 @@ msgstr ""
 msgid "00:04:01.460 --> 00:04:09.520\n"
 "scientists, naturalists or amateur citizen-scientists\n"
 "via programmes and apps.\n"
-msgstr ""
+msgstr "учеными, натуралистами или учеными любителями (представителями гражданской науки) с помощью программ и приложений.\n"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:179
@@ -3771,14 +3771,14 @@ msgstr ""
 msgid "00:04:09.520 --> 00:04:14.840\n"
 "These field data can be compiled in survey\n"
 "reports, environmental impact assessment studies,\n"
-msgstr ""
+msgstr "Эти полевые данные могут быть собраны в обзорных докладах, исследованиях по оценке воздействия на окружающую среду,\n"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:182
 #, no-wrap
 msgid "00:04:14.840 --> 00:04:17.160\n"
 "field notes and other logs.\n"
-msgstr ""
+msgstr "записях в полевых дневниках и других журналах.\n"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:186
@@ -3786,7 +3786,7 @@ msgstr ""
 msgid "00:04:17.160 --> 00:04:21.670\n"
 "They can be linked to other types of data,\n"
 "such as checklists, which are complementary\n"
-msgstr ""
+msgstr "Они могут быть связаны с другими типами данных, такими как таксономические списки, которые дополняют \n"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:190
@@ -3794,7 +3794,7 @@ msgstr ""
 msgid "00:04:21.670 --> 00:04:28.820\n"
 "to occurrence data observed or collected in\n"
 "the wilderness.\n"
-msgstr ""
+msgstr "данные о находках, наблюдаемых или собираемых в дикой природе.\n"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:194
@@ -3802,14 +3802,14 @@ msgstr ""
 msgid "00:04:28.820 --> 00:04:33.320\n"
 "Occurrence data represents the GBIF class\n"
 "of datasets with the largest number of records\n"
-msgstr ""
+msgstr "Данные о находках представляют собой класс наборов данных GBIF с наибольшим количеством записей \n"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:197
 #, no-wrap
 msgid "00:04:33.320 --> 00:04:35.150\n"
 "on GBIF.org.\n"
-msgstr ""
+msgstr "на сайте gbif.org.\n"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:201
@@ -3817,7 +3817,7 @@ msgstr ""
 msgid "00:04:35.150 --> 00:04:40.790\n"
 "Collection (aka specimens), literature and\n"
 "fieldwork data can be shared within GBIF using\n"
-msgstr ""
+msgstr "Коллекции (в том же смысле как и образцы), литература и данные полевых исследований могут быть распространены в GBIF с использованием\n"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:205
@@ -3825,7 +3825,7 @@ msgstr ""
 msgid "00:04:40.790 --> 00:04:46.670\n"
 "this template, which focuses on the observed\n"
 "individual or collected specimen.\n"
-msgstr ""
+msgstr "этого шаблона, который фокусируется на наблюдаемом индивидуальном или собранном образце.\n"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:209
@@ -3833,7 +3833,7 @@ msgstr ""
 msgid "00:04:46.670 --> 00:04:51.510\n"
 "In this kind of dataset, multiple individuals\n"
 "or specimens can be recorded for a single\n"
-msgstr ""
+msgstr "В этом типе набора данных несколько особей или экземпляров могут быть записаны для одного\n"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:213
@@ -3841,7 +3841,7 @@ msgstr ""
 msgid "00:04:51.510 --> 00:04:56.400\n"
 "taxon, as long as they each have a unique\n"
 "identifier.\n"
-msgstr ""
+msgstr "таксона, если у каждого из них есть уникальный идентификатор.\n"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:217
@@ -3849,14 +3849,14 @@ msgstr ""
 msgid "00:04:56.400 --> 00:05:02.139\n"
 "Other fields for occurrence data include where,\n"
 "when, how and by whom was each occurrence\n"
-msgstr ""
+msgstr "Другие поля для данных о находках включают в себя, где, когда, как и кем каждое наблюдение\n"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:220
 #, no-wrap
 msgid "00:05:02.139 --> 00:05:06.720\n"
 "observed and/or collected in the field.\n"
-msgstr ""
+msgstr "было обнаружено и/или получено в полевых условиях.\n"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:224
@@ -3864,7 +3864,7 @@ msgstr ""
 msgid "00:05:06.720 --> 00:05:13.409\n"
 "Event data is a class of datasets that was\n"
 "added on GBIF.org in 2015.\n"
-msgstr ""
+msgstr "Данные о событиях - это класс наборов данных, который был добавлен на GBIF.org в 2015 году.\n"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:228
@@ -3872,7 +3872,7 @@ msgstr ""
 msgid "00:05:13.409 --> 00:05:18.650\n"
 "They allow data publishers to share more information\n"
 "about the context of the observation or collection\n"
-msgstr ""
+msgstr "Они позволяют издателям данных обмениваться дополнительной информацией о контексте наблюдения или сбора\n"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:232
@@ -3880,7 +3880,7 @@ msgstr ""
 msgid "00:05:18.650 --> 00:05:25.180\n"
 "of specimens, and to group occurrences linked\n"
 "to the same event.\n"
-msgstr ""
+msgstr "образцов, а также группировать находки, связанные с одним и тем же событием.\n"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:236
@@ -3888,7 +3888,7 @@ msgstr ""
 msgid "00:05:25.180 --> 00:05:30.240\n"
 "The GBIF template for Event data allows data\n"
 "publishers to share more information about\n"
-msgstr ""
+msgstr "Шаблон GBIF для данных о событиях позволяет издателям данных обмениваться дополнительной информацией об \n"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:240
@@ -3896,14 +3896,14 @@ msgstr ""
 msgid "00:05:30.240 --> 00:05:36.830\n"
 "the context of a biodiversity data collecting/recording\n"
 "event such as camera traps, insect traps,\n"
-msgstr ""
+msgstr "особенностях события сбора/записи данных о биоразнообразии, таких как фотоловушки, ловушки насекомых,\n"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:243
 #, no-wrap
 msgid "00:05:36.830 --> 00:05:40.230\n"
 "botanical relevés, birding sites and so on.\n"
-msgstr ""
+msgstr "ботанические данные, площадки для птиц и так далее.\n"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:247
@@ -3911,7 +3911,7 @@ msgstr ""
 msgid "00:05:40.230 --> 00:05:45.480\n"
 "Its structure is a bit more complex than the\n"
 "Taxonomical datasets and Occurrence datasets\n"
-msgstr ""
+msgstr "Его структура немного сложнее, чем таксономические наборы данных и наборы данных о находках,\n"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:251
@@ -3919,7 +3919,7 @@ msgstr ""
 msgid "00:05:45.480 --> 00:05:52.470\n"
 "as it involves two files (e.g., two tabs in\n"
 "a spreadsheet): one for describing the ‘events’\n"
-msgstr ""
+msgstr "поскольку он включает в себя два файла (например, две вкладки в электронной таблице): один для описания «событий»\n"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:255
@@ -3927,14 +3927,14 @@ msgstr ""
 msgid "00:05:52.470 --> 00:05:58.790\n"
 "(e.g. each trap) and the other one to describe\n"
 "the specimens or occurrences linked to each\n"
-msgstr ""
+msgstr "(например, каждая ловушка), а другой для описания образцов или находок, связанных с каждым\n"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:258
 #, no-wrap
 msgid "00:05:58.790 --> 00:06:00.760\n"
 "event.\n"
-msgstr ""
+msgstr "событием.\n"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:262
@@ -3957,7 +3957,7 @@ msgstr "чем те, которые ранее упоминались в это�
 msgid "00:06:12.660 --> 00:06:17.960\n"
 "These other sources include remote sensing\n"
 "tools, maps and satellite data, and other\n"
-msgstr ""
+msgstr "Эти другие источники включают средства дистанционного зондирования, карты и спутниковые данные, а также другую\n"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:273
@@ -3965,7 +3965,7 @@ msgstr ""
 msgid "00:06:17.960 --> 00:06:22.790\n"
 "information supports such as pictures, audio\n"
 "and video recordings of wildlife.\n"
-msgstr ""
+msgstr "сопутствующую информацию, например изображения, аудио- и видеозаписи дикой природы.\n"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:277
@@ -3983,7 +3983,7 @@ msgid "00:06:28.150 --> 00:06:33.910\n"
 "but can provide valuable information about\n"
 "individuals and their location, habitat, migratory\n"
 msgstr "00:06:28.150 --> 00:06:33.910\n"
-"но может предоставить ценную информацию о особях и их местонахождении, ареале, миграционных\n"
+"но может предоставить ценную информацию об особях и их местонахождении, ареале, миграционных\n"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:284
@@ -4000,8 +4000,7 @@ msgid "00:06:37.520 --> 00:06:41.680\n"
 "In the following slides, we will see how the\n"
 "Darwin Core standard works with different\n"
 msgstr "00:06:37.520 --> 00:06:41.680\n"
-"На следующих слайдах мы рассмотрим, как работает\n"
-"стандарт Darwin Core с разными\n"
+"На следующих слайдах мы рассмотрим, как работает стандарт Darwin Core с разными\n"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:292
@@ -4018,7 +4017,7 @@ msgstr "00:06:41.680 --> 00:06:49.460\n"
 msgid "00:06:49.460 --> 00:06:54.030\n"
 "As you learned in the Foundations - Darwin\n"
 "Core presentation, Darwin Core is a data sharing\n"
-msgstr ""
+msgstr "Как вы узнали из Основ – презентации о Darwin Core, он является \n"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:300
@@ -4026,7 +4025,7 @@ msgstr ""
 msgid "00:06:54.030 --> 00:07:00.919\n"
 "standard developed by the Biodiversity Information\n"
 "Standards (TDWG) organization, and is widely\n"
-msgstr ""
+msgstr "стандартом обмена данными, разработанным организацией «Стандарты информации о биоразнообразии» (TDWG), и широко \n"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:304
@@ -4034,7 +4033,7 @@ msgstr ""
 msgid "00:07:00.919 --> 00:07:05.550\n"
 "used to publish data within the extended GBIF\n"
 "community.\n"
-msgstr ""
+msgstr "используется для публикации данных в пределах сообщества GBIF.\n"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:308
@@ -4043,8 +4042,7 @@ msgid "00:07:05.550 --> 00:07:09.440\n"
 "Depending on the type of dataset with which\n"
 "you work, you’ll have to choose one of its\n"
 msgstr "00:07:05.550 --> 00:07:09.440\n"
-"В зависимости от типа набора данных, с которым\n"
-"вы работаете, вы должны выбрать один из его\n"
+"В зависимости от типа набора данных, с которым вы работаете, вы должны выбрать один из его\n"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:312
@@ -4053,8 +4051,7 @@ msgid "00:07:09.440 --> 00:07:16.020\n"
 "three Cores (Occurrence, Taxon or Event Core),\n"
 "which can be linked to one or more Extensions\n"
 msgstr "00:07:09.440 --> 00:07:16.020\n"
-"3 ядер (Наблюдение, Таксон или Ядро событий),\n"
-"которые можно связать с одним или несколькими Расширениями\n"
+"3 ядер (Наблюдение, Таксон или Ядро событий), которые можно связать с одним или несколькими Расширениями\n"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:316
@@ -4063,8 +4060,7 @@ msgid "00:07:16.020 --> 00:07:21.900\n"
 "to share more information (such as multimedia\n"
 "links, variables, identification history and\n"
 msgstr "00:07:16.020 --> 00:07:21.900\n"
-"для обмена большей информацией (например, мультимедийные\n"
-"ссылки, переменные, история идентификации и\n"
+"для обмена большей информацией (например, мультимедийные ссылки, переменные, история идентификации и\n"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:319
@@ -4081,7 +4077,7 @@ msgid "00:07:22.900 --> 00:07:29.320\n"
 "In some cases, a core can be used as an extension\n"
 "linked to another core: that is the case when\n"
 msgstr "00:07:22,900 --> 00:07:24. 20\n"
-"В некоторых случаях ядро может использоваться как расширение, связанное с другим ядром: это случай, когда\n"
+"В некоторых случаях ядро можно использовать в качестве расширения, связанного с другим ядром, как в случае с\n"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:327
@@ -4089,7 +4085,7 @@ msgstr "00:07:22,900 --> 00:07:24. 20\n"
 msgid "00:07:29.320 --> 00:07:34.680\n"
 "publishing Event data, where one can use the\n"
 "Event Core to describe the sampled areas and\n"
-msgstr ""
+msgstr "публикацией данных события, где можно использовать ядро события для описания областей выборки, а затем \n"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:331
@@ -4097,7 +4093,7 @@ msgstr ""
 msgid "00:07:34.680 --> 00:07:42.620\n"
 "then use the Occurrence Core as an Extension\n"
 "to share the specimens or individuals recorded.\n"
-msgstr ""
+msgstr "использовать ядро наблюдений в качестве расширения для совместного использования образцов или зарегистрированных особей.\n"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:335
@@ -4134,8 +4130,7 @@ msgid "00:07:58.120 --> 00:08:03.169\n"
 "The most frequently used tool within the GBIF\n"
 "community is the GBIF-developed Integrated\n"
 msgstr "00:07:58.120 --> 00:08:03.169\n"
-"Наиболее часто используемым инструментом в сообществе GBIF\n"
-"является интегрированный\n"
+"Наиболее часто используемым инструментом в сообществе GBIF является Integrated\n"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:351
@@ -4272,7 +4267,7 @@ msgstr "00:09:04.770 --> 00:09:300\n"
 msgid "00:09:09.300 --> 00:09:14.480\n"
 "Lastly, if information about the protocols\n"
 "used on the field are available, you can choose\n"
-msgstr ""
+msgstr "Наконец, если информация о протоколах, используемых в полевых условиях доступна, можно выбрать\n"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:408
@@ -4280,7 +4275,7 @@ msgstr ""
 msgid "00:09:14.480 --> 00:09:19.830\n"
 "to share your dataset as a sampling-event\n"
 "dataset.\n"
-msgstr ""
+msgstr "совместное использование набора данных в качестве набора данных «выборка-событие».\n"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:412
@@ -4493,14 +4488,14 @@ msgstr "00:00:20.970 --> 00:00:23.450\n"
 msgid "00:00:23.450 --> 00:00:28.260\n"
 "Data quality is essential at every step of\n"
 "the data mobilization process, especially\n"
-msgstr ""
+msgstr "Качество данных необходимо на каждом этапе процесса мобилизации данных, особенно\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:26
 #, no-wrap
 msgid "00:00:28.260 --> 00:00:30.910\n"
 "in the data capture steps.\n"
-msgstr ""
+msgstr "на этапах сбора данных.\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:30
@@ -4539,7 +4534,7 @@ msgstr "00:00:42.510 --> 00:00:46.340\n"
 msgid "00:00:46.340 --> 00:00:51.530\n"
 "As mentioned in the Foundations documentation\n"
 "presentation, use existing standards and plan\n"
-msgstr ""
+msgstr "Как указано в презентации Основы документирования, использовать существующие стандарты и планировать\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:48
@@ -4547,7 +4542,7 @@ msgstr ""
 msgid "00:00:51.530 --> 00:00:57.149\n"
 "your workflows to match your goals; document\n"
 "everything you can, at every step, and share\n"
-msgstr ""
+msgstr "свои рабочие процессы необходимо в соответствии с вашими целями; документировать все, что можно, на каждом шагу, и\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:52
@@ -4555,7 +4550,7 @@ msgstr ""
 msgid "00:00:57.149 --> 00:01:04.589\n"
 "or re-use documents, data, tools and standards\n"
 "as much as possible.\n"
-msgstr ""
+msgstr "максимально использовать или повторно использовать документы, данные, инструменты и стандарты.\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:55
@@ -4588,7 +4583,7 @@ msgstr "00:01:13.050 --> 00:01:16.550\n"
 msgid "00:01:16.550 --> 00:01:21.110\n"
 "Data quality isn’t the sole responsibility\n"
 "of the first person in the process (here,\n"
-msgstr ""
+msgstr "Качество данных не является единственной ответственностью первого лица в процессе (здесь, \n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:70
@@ -4596,14 +4591,14 @@ msgstr ""
 msgid "00:01:21.110 --> 00:01:26.020\n"
 "the collector) -- it is shared at every step\n"
 "and every person in the process should have\n"
-msgstr ""
+msgstr "сборщик) - оно разделяется на каждом этапе и каждый человек в процессе должен нести\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:73
 #, no-wrap
 msgid "00:01:26.020 --> 00:01:27.870\n"
 "a responsibility for quality.\n"
-msgstr ""
+msgstr "ответственность за качество.\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:77
@@ -4611,14 +4606,14 @@ msgstr ""
 msgid "00:01:27.870 --> 00:01:33.540\n"
 "A functioning feedback loop needs to be in\n"
 "place in order to check, complete, update\n"
-msgstr ""
+msgstr "Функциональная петля обратной связи должна быть установлена для проверки, заполнения, обновления \n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:80
 #, no-wrap
 msgid "00:01:33.540 --> 00:01:35.600\n"
 "or correct data.\n"
-msgstr ""
+msgstr "или исправления данных.\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:84
@@ -4626,7 +4621,7 @@ msgstr ""
 msgid "00:01:35.600 --> 00:01:40.040\n"
 "This is where documentation is essential:\n"
 "you need to know who was responsible for each\n"
-msgstr ""
+msgstr "Именно здесь документирование имеет важное значение: необходимо знать, кто отвечал за каждый\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:88
@@ -4634,14 +4629,14 @@ msgstr ""
 msgid "00:01:40.040 --> 00:01:45.270\n"
 "step in the process in order to validate changes\n"
 "that have been made to the data (or need to\n"
-msgstr ""
+msgstr "шаг процесса, чтобы проверить изменения, которые были внесены в данные (или должны быть\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:91
 #, no-wrap
 msgid "00:01:45.270 --> 00:01:49.320\n"
 "be made to the data).\n"
-msgstr ""
+msgstr "внесены в данные).\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:95
@@ -4649,14 +4644,14 @@ msgstr ""
 msgid "00:01:49.320 --> 00:01:54.460\n"
 "In this simplified view of the data flow,\n"
 "you can see some of the data quality responsibilities\n"
-msgstr ""
+msgstr "В этом упрощенном обзоре потока данных можно просмотреть некоторые сферы ответственности\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:98
 #, no-wrap
 msgid "00:01:54.460 --> 00:01:56.720\n"
 "of each group of people involved.\n"
-msgstr ""
+msgstr "за качество данных для каждой группы сотрудников.\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:102
@@ -4664,14 +4659,14 @@ msgstr ""
 msgid "00:01:56.720 --> 00:02:01.720\n"
 "In this example, the team in charge of the\n"
 "mobilization can be split into the ‘transcribers’\n"
-msgstr ""
+msgstr "В этом примере команда, отвечающая за мобилизацию, может быть разделена на роли «транскриберов»\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:105
 #, no-wrap
 msgid "00:02:01.720 --> 00:02:03.800\n"
 "and ‘curator’ roles.\n"
-msgstr ""
+msgstr "и «кураторов».\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:109
@@ -4679,7 +4674,7 @@ msgstr ""
 msgid "00:02:03.800 --> 00:02:08.860\n"
 "The transcribers team needs to ensure data\n"
 "is captured and saved as best as possible,\n"
-msgstr ""
+msgstr "Группа транскриберов должна обеспечивать сбор и сохранение данных как можно лучше,\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:113
@@ -4687,14 +4682,14 @@ msgstr ""
 msgid "00:02:08.860 --> 00:02:14.079\n"
 "while the ‘curator’ role has the ultimate\n"
 "responsibility for ensuring that each team\n"
-msgstr ""
+msgstr "в то время как роль «куратора» несет главную ответственность за обеспечение выполнения каждой группой\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:116
 #, no-wrap
 msgid "00:02:14.079 --> 00:02:19.450\n"
 "is fulfilling their roles in the process.\n"
-msgstr ""
+msgstr "своих ролей в процессе.\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:120
@@ -4737,14 +4732,14 @@ msgstr "00:02:32.810 --> 00:02:36.670\n"
 msgid "00:02:36.670 --> 00:02:42.410\n"
 "The main topics will be as follows: taxonomic\n"
 "information, spatial information, collection\n"
-msgstr ""
+msgstr "Основные темы будут следующими: таксономическая информация, пространственная информация, информация о коллекции,\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:139
 #, no-wrap
 msgid "00:02:42.410 --> 00:02:45.560\n"
 "information, descriptive information.\n"
-msgstr ""
+msgstr "информация описательного характера.\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:143
@@ -4877,7 +4872,7 @@ msgstr "Наиболее распространенными проблемами
 msgid "00:03:59.400 --> 00:04:03.700\n"
 "incorrect or non-atomic values, duplicates\n"
 "and uncertainty.\n"
-msgstr ""
+msgstr "неправильные значения, дубликаты и недостоверная информация.\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:204
@@ -4920,7 +4915,7 @@ msgstr "00:04:17.049 --> 00:04:20:169\n"
 msgid "00:04:20.169 --> 00:04:25.520\n"
 "While ‘old’ collections or specimens can\n"
 "be understandably difficult, if not impossible,\n"
-msgstr ""
+msgstr "Хотя «старые» коллекции или образцы могут быть сложными для понимания, если не невозможными,\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:223
@@ -4928,14 +4923,14 @@ msgstr ""
 msgid "00:04:25.520 --> 00:04:31.280\n"
 "to geolocate precisely, it is recommended\n"
 "to share precise coordinates or textual information\n"
-msgstr ""
+msgstr "для точного определения геолокации, рекомендуется обмениваться точными координатами или текстовой информацией\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:226
 #, no-wrap
 msgid "00:04:31.280 --> 00:04:33.360\n"
 "when possible.\n"
-msgstr ""
+msgstr "по мере возможности.\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:230
@@ -4943,14 +4938,14 @@ msgstr ""
 msgid "00:04:33.360 --> 00:04:37.780\n"
 "Coordinates should be recorded directly on\n"
 "the field when possible, along with the uncertainty\n"
-msgstr ""
+msgstr "Координаты должны регистрироваться непосредственно в полевых условиях, когда это возможно, совместно с неясными\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:233
 #, no-wrap
 msgid "00:04:37.780 --> 00:04:39.940\n"
 "and the geodetic datum used.\n"
-msgstr ""
+msgstr "и используемыми исходными геодезическими данными.\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:237
@@ -4967,7 +4962,7 @@ msgstr "00:04:39.940 --> 00:04:44.639\n"
 msgid "00:04:44.639 --> 00:04:49.090\n"
 "You should note that coordinates or other\n"
 "geographic information can be generalized\n"
-msgstr ""
+msgstr "Следует отметить, что координаты или другая географическая информация могут быть представлены в общем виде\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:245
@@ -4975,14 +4970,15 @@ msgstr ""
 msgid "00:04:49.090 --> 00:04:53.879\n"
 "or not even shared at all in some contexts,\n"
 "such as with the conservation of sensitive\n"
-msgstr ""
+msgstr "или даже вообще не предоставляться в некоторых случаях, например, при сохранении чувствительных\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:248
 #, no-wrap
 msgid "00:04:53.879 --> 00:04:57.580\n"
 "species.\n"
-msgstr ""
+msgstr "00:04:53.879 --> 00:04:57.580\n"
+"видов.\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:252
@@ -4990,7 +4986,7 @@ msgstr ""
 msgid "00:04:57.580 --> 00:05:02.840\n"
 "Spatial information can be found in numerous\n"
 "formats, not only geographic coordinates:\n"
-msgstr ""
+msgstr "Пространственная информация может быть найдена в многочисленных форматах, а не только в виде географических координат:\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:256
@@ -4998,7 +4994,7 @@ msgstr ""
 msgid "00:05:02.840 --> 00:05:08.960\n"
 "examples include (but are not limited to)\n"
 "grid data, point+radius, or polygons.\n"
-msgstr ""
+msgstr "примеры включают (но не ограничиваются ими) данные сетки, точку + радиус или полигоны.\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:260
@@ -5029,7 +5025,7 @@ msgstr "с поездкам сборщика)\n"
 msgid "00:05:23.650 --> 00:05:27.840\n"
 "Within GBIF, it is recommended to share the\n"
 "geodetic Datum that was used to derive the\n"
-msgstr ""
+msgstr "В GBIF рекомендуется предоставлять исходные геодезические данные, которые использовались\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:275
@@ -5037,7 +5033,7 @@ msgstr ""
 msgid "00:05:27.840 --> 00:05:32.090\n"
 "coordinates (decimal latitude and longitude)\n"
 "shared.\n"
-msgstr ""
+msgstr "для получения координат (десятичная широта и долгота).\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:279
@@ -5055,8 +5051,7 @@ msgid "00:05:40.530 --> 00:05:46.539\n"
 "This slide shows an old GBIF map with different\n"
 "types of geographical issues: the most obvious\n"
 msgstr "00:05:40.530 --> 00:05:46.539\n"
-"Этот слайд показывает старую карту GBIF с различными\n"
-"типами географических проблем: наиболее очевидный\n"
+"На этом слайде показана старая карта GBIF с различными типами географических проблем: наиболее очевидной\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:287
@@ -5065,8 +5060,7 @@ msgid "00:05:46.539 --> 00:05:52.340\n"
 "one is a mirror effect between the USA and\n"
 "China (reversed coordinates), and you can\n"
 msgstr "00:05:46.539 --> 00:05:52.340\n"
-"из них является зеркальный эффект между США и\n"
-"Китаем (обратные координаты), и вы можете\n"
+"является зеркальный эффект между США и Китаем (обратные координаты), а также можно\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:291
@@ -5075,8 +5069,7 @@ msgid "00:05:52.340 --> 00:05:57.759\n"
 "also notice an artificial line along the Greenwich\n"
 "meridian where ‘0’ values were put in\n"
 msgstr "00:05:52.340 --> 00:05:57.759\n"
-"также отметить искусственную линию вдоль Гринвича\n"
-"меридиана, где были помещены значения «0» в\n"
+"отметить искусственную линию вдоль Гринвичского меридиана, где в поле «decimalLatitude» ставились значения «0»,\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:295
@@ -5085,7 +5078,7 @@ msgid "00:05:57.759 --> 00:06:03.330\n"
 "the ‘decimalLongitude’ field, as well\n"
 "as another one on the Equator where ‘0’\n"
 msgstr "00:05:57.759 --> 00:06:03.330\n"
-"поле «decimalLongitude», а также другое поле на экваторе, где «0»\n"
+"а также ещё одну на экваторе, где в поле «decimalLatitude»\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:299
@@ -5093,7 +5086,7 @@ msgstr "00:05:57.759 --> 00:06:03.330\n"
 msgid "00:06:03.330 --> 00:06:06.199\n"
 "values were put in the ‘decimalLatitude’\n"
 "field.\n"
-msgstr "значения были помещены в поле «decimalLatitude».\n"
+msgstr "ставились значения «0».\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:303
@@ -5126,7 +5119,7 @@ msgstr "00:06:14.210 --> 00:06:20.199\n"
 msgid "00:06:20.199 --> 00:06:23.990\n"
 "Information about the context of the data\n"
 "collection or observation are very useful\n"
-msgstr ""
+msgstr "Весьма полезно поделиться информацией о контексте сбора данных или наблюдения, \n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:318
@@ -5134,7 +5127,7 @@ msgstr ""
 msgid "00:06:23.990 --> 00:06:29.330\n"
 "to share in order to give as much detail as\n"
 "possible regarding each occurrence.\n"
-msgstr ""
+msgstr "с тем чтобы дать как можно больше деталей относительно каждого случая.\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:322
@@ -5159,7 +5152,7 @@ msgstr "факторы, могут оказаться важными при по
 msgid "00:06:42.199 --> 00:06:46.650\n"
 "Data quality factors regarding collection\n"
 "information are mainly along the lines of\n"
-msgstr ""
+msgstr "Факторы качества данных, касающиеся собираемой информации, в основном\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:334
@@ -5167,7 +5160,7 @@ msgstr ""
 msgid "00:06:46.650 --> 00:06:52.330\n"
 "exactitude like the correct collector name,\n"
 "consistency for example using the same vocabulary\n"
-msgstr ""
+msgstr "соответствуют таким точным признакам, как правильное имя сборщика, согласованность, например, использования одинаковой терминологии\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:338
@@ -5175,7 +5168,7 @@ msgstr ""
 msgid "00:06:52.330 --> 00:06:58.050\n"
 "for describing soils, habitats, and completeness\n"
 "as in providing all existing information about\n"
-msgstr ""
+msgstr "для описания почв, местообитаний и полноты, как в предоставлении всей существующей информации об \n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:342
@@ -5183,14 +5176,14 @@ msgstr ""
 msgid "00:06:58.050 --> 00:07:03.409\n"
 "the description of a given species including\n"
 "the flowering period, colour of the leaves,\n"
-msgstr ""
+msgstr "описании представленных видов, включая период цветения, цвет листьев\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:345
 #, no-wrap
 msgid "00:07:03.409 --> 00:07:05.620\n"
 "and medicinal uses.\n"
-msgstr ""
+msgstr "и медицинское применение.\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:349
@@ -5198,14 +5191,14 @@ msgstr ""
 msgid "00:07:05.620 --> 00:07:10.469\n"
 "Within the Darwin Core and within the IPT\n"
 "you can find recommended controlled vocabularies\n"
-msgstr ""
+msgstr "В Darwin Core и в IPT можно найти рекомендуемые управляемые словари\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:352
 #, no-wrap
 msgid "00:07:10.469 --> 00:07:13.460\n"
 "for some fields such as the ‘lifeStage’.\n"
-msgstr ""
+msgstr "для некоторых полей, таких как «lifeStage».\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:356
@@ -5228,14 +5221,14 @@ msgstr "словарей.\n"
 msgid "00:07:23.320 --> 00:07:27.770\n"
 "Keep in mind that descriptive information\n"
 "are often incomplete due to a whole array\n"
-msgstr ""
+msgstr "Помните, что информация описательного характера часто является неполной из-за целого ряда\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:366
 #, no-wrap
 msgid "00:07:27.770 --> 00:07:29.240\n"
 "of factors.\n"
-msgstr ""
+msgstr "факторов.\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:370
@@ -5243,7 +5236,7 @@ msgstr ""
 msgid "00:07:29.240 --> 00:07:35.740\n"
 "Depending on the collection state, some labels\n"
 "can be incomplete or lacking crucial information;\n"
-msgstr ""
+msgstr "В зависимости от состояния сбора некоторые этикетки могут быть неполными или не иметь важной информации;\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:374
@@ -5251,14 +5244,14 @@ msgstr ""
 msgid "00:07:35.740 --> 00:07:40.460\n"
 "Completeness (for example of a species description)\n"
 "is often impossible to achieve with a single\n"
-msgstr ""
+msgstr "Полноты (например, описания вида) зачастую невозможно достичь по одной \n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:377
 #, no-wrap
 msgid "00:07:40.460 --> 00:07:41.800\n"
 "individual;\n"
-msgstr ""
+msgstr "особи;\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:381
@@ -5266,7 +5259,7 @@ msgstr ""
 msgid "00:07:41.800 --> 00:07:46.460\n"
 "and you should always check for consistency\n"
 "in your database or spreadsheet, for example\n"
-msgstr ""
+msgstr "и вы всегда должны проверять согласованность в своей базе данных или электронной таблице, например, \n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:385
@@ -5274,7 +5267,7 @@ msgstr ""
 msgid "00:07:46.460 --> 00:07:53.009\n"
 "in the terms used for describing colours,\n"
 "in order to avoid redundant information.\n"
-msgstr ""
+msgstr "в терминах, используемых для описания цветов, во избежание избыточной информации.\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:389
@@ -5282,7 +5275,7 @@ msgstr ""
 msgid "00:07:53.009 --> 00:07:58.770\n"
 "This presentation has focused on the topic\n"
 "of data quality applied to data capture; indeed,\n"
-msgstr ""
+msgstr "Основное внимание в этой презентации было уделено вопросу о качестве данных, применяемых для сбора данных; действительно,\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:393
@@ -5290,7 +5283,7 @@ msgstr ""
 msgid "00:07:58.770 --> 00:08:03.389\n"
 "these are the steps where it is crucial to\n"
 "ensure that all information related to each\n"
-msgstr ""
+msgstr "именно на этих этапах крайне важно обеспечить, чтобы вся информация, относящаяся к каждой \n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:397
@@ -5298,14 +5291,14 @@ msgstr ""
 msgid "00:08:03.389 --> 00:08:08.840\n"
 "record is correctly and completely captured,\n"
 "in order for the data to be as clear and understandable\n"
-msgstr ""
+msgstr "записи, была правильно и полностью охвачена, с тем чтобы данные были как можно более четкими и понятными \n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:400
 #, no-wrap
 msgid "00:08:08.840 --> 00:08:11.580\n"
 "as possible for future users.\n"
-msgstr ""
+msgstr "для последующих пользователей.\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:404
@@ -5313,7 +5306,7 @@ msgstr ""
 msgid "00:08:11.580 --> 00:08:16.740\n"
 "This can only be done if consistent decisions\n"
 "are made at the institutional level in order\n"
-msgstr ""
+msgstr "Это может быть сделано только в том случае, если на институциональном уровне будут приняты согласованные решения с целью \n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:408
@@ -5321,7 +5314,7 @@ msgstr ""
 msgid "00:08:16.740 --> 00:08:20.879\n"
 "to create a solid workflow for data capture\n"
 "and data management.\n"
-msgstr ""
+msgstr "создания надежного потока операций для сбора данных и управления данными.\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:412
@@ -5329,7 +5322,7 @@ msgstr ""
 msgid "00:08:20.879 --> 00:08:25.500\n"
 "The chain of responsibility regarding data\n"
 "quality is then split between the persons\n"
-msgstr ""
+msgstr "Затем цепочка ответственности за качество данных разделяется между задействованными лицами\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:416
@@ -5337,7 +5330,7 @@ msgstr ""
 msgid "00:08:25.500 --> 00:08:30.560\n"
 "involved at each step of the process, but\n"
 "keep in mind that data can always be improved\n"
-msgstr ""
+msgstr "на каждом этапе процесса, но следует иметь в виду, что данные всегда могут быть улучшены\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:420
@@ -5345,7 +5338,7 @@ msgstr ""
 msgid "00:08:30.560 --> 00:08:37.839\n"
 "and fixed if errors or omissions are detected\n"
 "at later stages.\n"
-msgstr ""
+msgstr "и исправлены, если ошибки или упущения обнаруживаются на более поздних этапах.\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:424
@@ -5354,7 +5347,7 @@ msgid "00:08:37.839 --> 00:08:42.750\n"
 "If you have questions on this presentation,\n"
 "please use the provided forum in the e-Learning\n"
 msgstr "00:08:37.839 --> 00:08:42.890\n"
-"если у вас есть вопросы по этой презентации, пожалуйста, используйте предоставленный форум в e-Learning\n"
+"Если у вас есть вопросы по этой презентации, пожалуйста, используйте предоставленный форум в e-Learning\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:427
@@ -5587,7 +5580,7 @@ msgstr "Далее мы исправляем эти ошибки, во всех 
 msgid "00:01:24.710 --> 00:01:29.950\n"
 "When we decide on the best means to make corrections,\n"
 "we want to document both the types of errors\n"
-msgstr ""
+msgstr "Когда мы выбираем наилучшие способы внесения исправлений, мы хотим документировать как типы обнаруженных ошибок,\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:82
@@ -5595,7 +5588,7 @@ msgstr ""
 msgid "00:01:29.950 --> 00:01:34.259\n"
 "we find, as well as the solutions we have\n"
 "applied to them.\n"
-msgstr ""
+msgstr "так и решения, которые мы применили по отношению к ним.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:86
@@ -5603,14 +5596,14 @@ msgstr ""
 msgid "00:01:34.259 --> 00:01:39.930\n"
 "Finally, we want to modify how data entry\n"
 "is practiced to reduce future errors of the\n"
-msgstr ""
+msgstr "Наконец, мы хотим изменить практику ввода данных, чтобы уменьшить будущие ошибки\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:89
 #, no-wrap
 msgid "00:01:39.930 --> 00:01:41.420\n"
 "same type.\n"
-msgstr ""
+msgstr "того же типа.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:92
@@ -5626,14 +5619,14 @@ msgstr "00:01:41.420 --> 00:01:45.020\n"
 msgid "00:01:45.020 --> 00:01:49.810\n"
 "One thing is certain: Errors are common and\n"
 "we can always expect to find them in the data\n"
-msgstr "Одно несомненно: ошибки обычны, и мы всегда можем ожидать найти их в данных\n"
+msgstr "Несомненно одно: ошибки являются общими, и мы всегда можем рассчитывать найти их в данных, \n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:99
 #, no-wrap
 msgid "00:01:49.810 --> 00:01:51.610\n"
 "we maintain.\n"
-msgstr ""
+msgstr "которые мы поддерживаем.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:103
@@ -5714,7 +5707,7 @@ msgstr "00:02:21.260 --> 00:02:27.390\n"
 msgid "00:02:27.390 --> 00:02:32.120\n"
 "Talk to your colleagues to learn about their\n"
 "workflows, but ultimately you should strive\n"
-msgstr ""
+msgstr "Поговорите с коллегами, чтобы узнать об их рабочих процессах, но в конечном счете вы должны\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:137
@@ -5722,7 +5715,7 @@ msgstr ""
 msgid "00:02:32.120 --> 00:02:40.030\n"
 "to create a workflow that will help you to\n"
 "achieve your data quality goals.\n"
-msgstr ""
+msgstr "постараться создать рабочий процесс, который поможет вам достичь целей качества данных.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:141
@@ -5730,7 +5723,7 @@ msgstr ""
 msgid "00:02:40.030 --> 00:02:44.950\n"
 "The first two principles in data cleaning\n"
 "are planning and organization.\n"
-msgstr ""
+msgstr "Первые два принципа очистки данных - планирование и организация.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:145
@@ -5747,7 +5740,7 @@ msgstr "00:02:44.950 --> 00:02:47.190\n"
 msgid "00:02:47.190 --> 00:02:52.900\n"
 "A scattered or random approach is not likely\n"
 "to produce consistent results.\n"
-msgstr ""
+msgstr "Разбросанный или случайный подход вряд ли даст последовательные результаты.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:153
@@ -5765,7 +5758,7 @@ msgid "00:02:57.170 --> 00:03:02.590\n"
 "A solid plan will improve both your data and\n"
 "the reputation of your institution among data\n"
 msgstr "00:02:57.170 --> 00:03:02.590\n"
-"Тщательный план улучшит ваши данные и репутацию вашего учреждения среди поьзователей\n"
+"Тщательный план улучшит как ваши данные, так и репутацию вашего учреждения среди\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:160
@@ -5773,7 +5766,7 @@ msgstr "00:02:57.170 --> 00:03:02.590\n"
 msgid "00:03:02.590 --> 00:03:04.840\n"
 "users.\n"
 msgstr "00:03:02.561 --> 00:03:03:03:03:07\n"
-"данными.\n"
+"пользователей данными.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:164
@@ -5789,7 +5782,7 @@ msgstr "Одним из первых шагов плана должна быть
 msgid "00:03:09.099 --> 00:03:13.770\n"
 "For example, you could organize your data\n"
 "by taxon and then send the appropriate subset\n"
-msgstr ""
+msgstr "Например, можно упорядочить ваши данные по таксону, а затем отправить соответствующее подмножество\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:172
@@ -5797,7 +5790,7 @@ msgstr ""
 msgid "00:03:13.770 --> 00:03:18.760\n"
 "of data to individuals with the knowledge\n"
 "or resources to clean based on names.\n"
-msgstr ""
+msgstr "данных лицам, обладающим знаниями или ресурсами для их очистки на основе таксономических названий.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:176
@@ -5805,14 +5798,14 @@ msgstr ""
 msgid "00:03:18.760 --> 00:03:24.019\n"
 "This can be done by geography or basis of\n"
 "record, or even in specifically sized packages\n"
-msgstr ""
+msgstr "Это может быть сделано по географическому принципу или на основе записей, или даже в пакетах\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:179
 #, no-wrap
 msgid "00:03:24.019 --> 00:03:26.370\n"
 "of data in numeric order.\n"
-msgstr ""
+msgstr "данных определенного размера в порядке нумерации.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:182
@@ -5827,7 +5820,7 @@ msgstr "Работайте на сильные стороны вашего уч�
 msgid "00:03:32.970 --> 00:03:36.790\n"
 "As Arthur Chapman says “Prevention is better\n"
 "than cure.”\n"
-msgstr ""
+msgstr "Как говорит Arthur Chapman «Профилактика лучше, чем лечение»\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:190
@@ -5835,14 +5828,14 @@ msgstr ""
 msgid "00:03:36.790 --> 00:03:41.159\n"
 "At the end of the day is always easier and\n"
 "less expensive to prevent an error than it\n"
-msgstr ""
+msgstr "Наконец всегда легче и дешевле предотвратить ошибку, чем искать\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:193
 #, no-wrap
 msgid "00:03:41.159 --> 00:03:43.580\n"
 "is seek one out and correct it.\n"
-msgstr ""
+msgstr "одну из них и исправлять.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:197
@@ -5850,7 +5843,7 @@ msgstr ""
 msgid "00:03:43.580 --> 00:03:47.650\n"
 "The more planning you do in advance, even\n"
 "all the way back to the moment that data is\n"
-msgstr ""
+msgstr "Чем больше планирования вы сделаете заранее, даже вплоть до момента \n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:201
@@ -5858,7 +5851,7 @@ msgstr ""
 msgid "00:03:47.650 --> 00:03:52.470\n"
 "recorded in the field, the fewer errors you\n"
 "are likely to find.\n"
-msgstr ""
+msgstr "записи данных в поле, тем меньше ошибок вы, вероятно, найдете.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:205
@@ -5866,7 +5859,7 @@ msgstr ""
 msgid "00:03:52.470 --> 00:03:56.620\n"
 "Standardized vocabularies and clear procedures\n"
 "for data capture and data entry are only a\n"
-msgstr ""
+msgstr "Стандартизированные словари и четкие процедуры для сбора и ввода данных - \n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:209
@@ -5874,7 +5867,7 @@ msgstr ""
 msgid "00:03:56.620 --> 00:04:01.400\n"
 "few of the many tools you can use to prevent\n"
 "possible errors.\n"
-msgstr ""
+msgstr "это лишь некоторые из множества инструментов, которые можно использовать для предотвращения возможных ошибок.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:213
@@ -5928,7 +5921,7 @@ msgstr "которые они могут обнаружить.\n"
 msgid "00:04:28.610 --> 00:04:33.130\n"
 "Data maintenance is only as effective as the\n"
 "expertise that support the process and no\n"
-msgstr ""
+msgstr "Обслуживание данных является столь же эффективным, как и экспертный потенциал, поддерживающий процесс, \n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:239
@@ -5936,7 +5929,7 @@ msgstr ""
 msgid "00:04:33.130 --> 00:04:38.050\n"
 "single individual can be expected to know\n"
 "everything about everything.\n"
-msgstr ""
+msgstr "и нельзя ожидать, что один человек будет знать все обо всем.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:243
@@ -5944,14 +5937,14 @@ msgstr ""
 msgid "00:04:38.050 --> 00:04:42.650\n"
 "Developing partnerships with data users and\n"
 "content experts can help to make the data\n"
-msgstr ""
+msgstr "Развитие партнерских отношений с пользователями данных и экспертами по информационному наполнению может способствовать \n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:246
 #, no-wrap
 msgid "00:04:42.650 --> 00:04:45.600\n"
 "quality process more successful.\n"
-msgstr ""
+msgstr "повышению эффективности процесса обеспечения качества данных.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:250
@@ -5959,7 +5952,7 @@ msgstr ""
 msgid "00:04:45.600 --> 00:04:50.630\n"
 "Reach out to your user community, both inside\n"
 "and outside of your institution, and work\n"
-msgstr ""
+msgstr "Обращайтесь к сообществу пользователей, как в, так и за пределами вашего учреждения, и работайте\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:254
@@ -5967,7 +5960,7 @@ msgstr ""
 msgid "00:04:50.630 --> 00:04:56.400\n"
 "with them to help maintain your data at the\n"
 "highest quality.\n"
-msgstr ""
+msgstr "с ними, чтобы помочь поддерживать ваши данные на высочайшем уровне качества.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:258
@@ -5975,14 +5968,14 @@ msgstr ""
 msgid "00:04:56.400 --> 00:05:00.990\n"
 "Prioritize your cleaning to take advantage\n"
 "of the resources and knowledge that your institution\n"
-msgstr ""
+msgstr "Расставьте приоритеты в очистке данных, чтобы воспользоваться ресурсами и знаниями, которыми \n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:261
 #, no-wrap
 msgid "00:05:00.990 --> 00:05:02.130\n"
 "possesses.\n"
-msgstr ""
+msgstr "располагает ваше учреждение.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:265
@@ -5990,7 +5983,7 @@ msgstr ""
 msgid "00:05:02.130 --> 00:05:06.360\n"
 "For example, you may choose to review all\n"
 "of the data recorded by collectors who are\n"
-msgstr ""
+msgstr "Например, можно просмотреть все данные, записанные сборщиками, которые\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:269
@@ -5998,7 +5991,7 @@ msgstr ""
 msgid "00:05:06.360 --> 00:05:10.270\n"
 "still alive so that important data is not\n"
 "lost later.\n"
-msgstr ""
+msgstr "все еще живы, чтобы важные данные не были потеряны позже.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:273
@@ -6006,7 +5999,7 @@ msgstr ""
 msgid "00:05:10.270 --> 00:05:14.630\n"
 "If you maintain a large dataset you might\n"
 "choose to prioritize data that can be cleaned\n"
-msgstr ""
+msgstr "При ведении большого набора данных можно выбрать приоритет данных, которые могут быть очищены\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:277
@@ -6014,14 +6007,14 @@ msgstr ""
 msgid "00:05:14.630 --> 00:05:20.300\n"
 "at the lowest cost using automated processes\n"
 "and then prioritize the more difficult errors\n"
-msgstr ""
+msgstr "при наименьших затратах с помощью автоматизированных процессов, а затем определить приоритеты более сложных ошибок, \n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:280
 #, no-wrap
 msgid "00:05:20.300 --> 00:05:23.210\n"
 "that require individual attention.\n"
-msgstr ""
+msgstr "требующих персонального внимания.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:284
@@ -6029,7 +6022,7 @@ msgstr ""
 msgid "00:05:23.210 --> 00:05:27.840\n"
 "Ultimately, you should prioritize the data\n"
 "that is of the greatest value to the work\n"
-msgstr ""
+msgstr "В конечном счете, вы должны расставить приоритеты в отношении данных, которые представляют наибольшую ценность для работы\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:288
@@ -6037,7 +6030,7 @@ msgstr ""
 msgid "00:05:27.840 --> 00:05:36.449\n"
 "of your institution and then move through\n"
 "the data in a logical and orderly manner.\n"
-msgstr ""
+msgstr "вашего учреждения, а затем двигаться через данные логическим и упорядоченным образом.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:292
@@ -6045,14 +6038,14 @@ msgstr ""
 msgid "00:05:36.449 --> 00:05:40.760\n"
 "Some times it can be an effective strategy\n"
 "to set some measures of performance before\n"
-msgstr ""
+msgstr "Иногда может быть эффективной стратегией установить некоторые показатели производительности до \n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:295
 #, no-wrap
 msgid "00:05:40.760 --> 00:05:43.520\n"
 "the cleaning process begins.\n"
-msgstr ""
+msgstr "начала процесса очистки.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:299
@@ -6060,7 +6053,7 @@ msgstr ""
 msgid "00:05:43.520 --> 00:05:48.340\n"
 "One performance measure might be to complete\n"
 "the cleaning of 500 records every week.\n"
-msgstr ""
+msgstr "Одним из показателей эффективности может быть завершение очистки 500 записей каждую неделю.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:303
@@ -6068,14 +6061,14 @@ msgstr ""
 msgid "00:05:48.340 --> 00:05:52.910\n"
 "Another measure might be to provide a statistical\n"
 "report of the accuracy of the corrections\n"
-msgstr ""
+msgstr "Другой мерой может быть представление статистического отчета о точности \n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:306
 #, no-wrap
 msgid "00:05:52.910 --> 00:05:54.949\n"
 "being made, such as:\n"
-msgstr ""
+msgstr "внесенных исправлений, например:\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:310
@@ -6083,14 +6076,14 @@ msgstr ""
 msgid "00:05:54.949 --> 00:06:00.090\n"
 "“95% of all georeferences corrected this\n"
 "week now have an uncertainty in meters of\n"
-msgstr ""
+msgstr "«95% всех географических привязок, исправленных на этой неделе, теперь имеют неточность в метрах\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:313
 #, no-wrap
 msgid "00:06:00.090 --> 00:06:02.919\n"
 "less than 1000 meters.”\n"
-msgstr ""
+msgstr "менее 1000 метров»\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:317
@@ -6098,7 +6091,7 @@ msgstr ""
 msgid "00:06:02.919 --> 00:06:06.419\n"
 "These kinds of measures can give direction\n"
 "and guidance to the people performing the\n"
-msgstr ""
+msgstr "Такого рода меры могут дать направление и руководство людям, выполняющим \n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:321
@@ -6106,14 +6099,14 @@ msgstr ""
 msgid "00:06:06.419 --> 00:06:13.169\n"
 "cleaning, as well as, to serve as a means\n"
 "to report on successes and areas in need of\n"
-msgstr ""
+msgstr "чистку, а также служить средством отчетности об успехах и областях, нуждающихся в\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:324
 #, no-wrap
 msgid "00:06:13.169 --> 00:06:14.169\n"
 "improvement.\n"
-msgstr ""
+msgstr "улучшении.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:328
@@ -6121,14 +6114,14 @@ msgstr ""
 msgid "00:06:14.169 --> 00:06:19.259\n"
 "In an ideal world, you will have developed\n"
 "a data maintenance plan that has been optimized\n"
-msgstr ""
+msgstr "В идеальном случае вы можете разработать план поддержки данных, оптимизированный\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:331
 #, no-wrap
 msgid "00:06:19.259 --> 00:06:22.789\n"
 "to be as efficient and effective as possible.\n"
-msgstr ""
+msgstr "таким образом, чтобы он был максимально эффективным и действенным.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:335
@@ -6136,7 +6129,7 @@ msgstr ""
 msgid "00:06:22.789 --> 00:06:28.470\n"
 "Optimization can be achieved in many different\n"
 "ways including taking advantage of your institution’s\n"
-msgstr ""
+msgstr "Оптимизация может быть достигнута различными способами, включая использование преимуществ вашего учреждения, \n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:339
@@ -6144,14 +6137,14 @@ msgstr ""
 msgid "00:06:28.470 --> 00:06:34.419\n"
 "strengths, setting clear objectives and measure\n"
 "of success, and regular adjustment of your\n"
-msgstr ""
+msgstr "установление четких целей и показателей успеха, а также регулярную корректировку ваших\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:342
 #, no-wrap
 msgid "00:06:34.419 --> 00:06:39.919\n"
 "priorities based on available resources.\n"
-msgstr ""
+msgstr "приоритетов на основе имеющихся ресурсов.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:346
@@ -6159,7 +6152,7 @@ msgstr ""
 msgid "00:06:39.919 --> 00:06:44.169\n"
 "One of the best ways to learn how successful\n"
 "your data cleaning and data maintenance processes\n"
-msgstr ""
+msgstr "Одним из лучших способов узнать, насколько успешны процессы очистки и поддержания данных,\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:350
@@ -6167,7 +6160,7 @@ msgstr ""
 msgid "00:06:44.169 --> 00:06:48.230\n"
 "are, is to seek feedback from the data users\n"
 "in your community.\n"
-msgstr ""
+msgstr "является получение отзывов от пользователей данных в вашем сообществе.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:354
@@ -6175,14 +6168,14 @@ msgstr ""
 msgid "00:06:48.230 --> 00:06:52.460\n"
 "This can be accomplished through the partnerships\n"
 "we discussed earlier, but you can also seek\n"
-msgstr ""
+msgstr "Это может быть достигнуто через партнерские отношения, которые мы обсуждали ранее, но вы также можете искать\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:357
 #, no-wrap
 msgid "00:06:52.460 --> 00:06:54.600\n"
 "feedback in other ways.\n"
-msgstr ""
+msgstr "обратную связь другими способами.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:361
@@ -6198,14 +6191,14 @@ msgstr "Один из таких путей – рассмотреть, как G
 msgid "00:06:58.560 --> 00:07:03.419\n"
 "You can view the comparison between the verbatim\n"
 "data published to GBIF and the interpreted\n"
-msgstr ""
+msgstr "Можно просмотреть сравнение между дословными данными, опубликованными в GBIF, и интерпретированными\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:368
 #, no-wrap
 msgid "00:07:03.419 --> 00:07:06.699\n"
 "data that GBIF might have corrected or updated.\n"
-msgstr ""
+msgstr "данными, которые GBIF мог исправить или обновить.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:372
@@ -6213,7 +6206,7 @@ msgstr ""
 msgid "00:07:06.699 --> 00:07:11.360\n"
 "These comparisons can help you to optimize\n"
 "your data cleaning process, but you can also\n"
-msgstr ""
+msgstr "Эти сравнения могут помочь вам оптимизировать процесс очистки данных, но вы также\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:376
@@ -6221,14 +6214,14 @@ msgstr ""
 msgid "00:07:11.360 --> 00:07:17.039\n"
 "help GBIF to improve its data quality processes,\n"
 "too, when you provide expert feedback back\n"
-msgstr ""
+msgstr "можете помочь GBIF улучшить его процессы качества данных, когда вы предоставляете экспертную обратную связь\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:379
 #, no-wrap
 msgid "00:07:17.039 --> 00:07:18.990\n"
 "to them.\n"
-msgstr ""
+msgstr "с ними.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:383
@@ -6236,14 +6229,14 @@ msgstr ""
 msgid "00:07:18.990 --> 00:07:24.280\n"
 "One of the best ways to achieve success with\n"
 "data cleaning is to provide training and education\n"
-msgstr ""
+msgstr "Одним из лучших способов достижения успеха при очистке данных является подготовка и обучение\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:386
 #, no-wrap
 msgid "00:07:24.280 --> 00:07:26.910\n"
 "to everyone who works with your data.\n"
-msgstr ""
+msgstr "всех, кто работает с вашими данными.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:390
@@ -6251,7 +6244,7 @@ msgstr ""
 msgid "00:07:26.910 --> 00:07:31.860\n"
 "These may be trainings that you organize yourself,\n"
 "local or regional trainings in partnership\n"
-msgstr ""
+msgstr "Это могут быть тренинги, организованные вами самостоятельно, местные или региональные тренинги в партнерстве\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:394
@@ -6259,14 +6252,14 @@ msgstr ""
 msgid "00:07:31.860 --> 00:07:36.710\n"
 "with, or presented by, other institutions\n"
 "in your area, or workshops and courses provided\n"
-msgstr ""
+msgstr "с другими учреждениями в вашем регионе или представленные другими учреждениями, или семинары и курсы, проводимые\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:397
 #, no-wrap
 msgid "00:07:36.710 --> 00:07:39.450\n"
 "by other groups, such as GBIF.\n"
-msgstr ""
+msgstr "другими группами, такими как GBIF.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:401
@@ -6282,14 +6275,14 @@ msgstr "Если вам нужно обучение, пожалуйста, ре�
 msgid "00:07:44.639 --> 00:07:50.150\n"
 "Mentors or GBIF’s Biodiversity Open Data\n"
 "Ambassadors who also can be good resources\n"
-msgstr ""
+msgstr "Наставники или послы GBIF по открытым данным биоразнообразия, которые также могут быть хорошими ресурсами\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:408
 #, no-wrap
 msgid "00:07:50.150 --> 00:07:57.139\n"
 "for training and education opportunities.\n"
-msgstr ""
+msgstr "для обучения и образования.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:412
@@ -6304,7 +6297,7 @@ msgstr "Документирование является одним из важ
 #, no-wrap
 msgid "00:08:00.680 --> 00:08:03.099\n"
 "This is true in two key ways.\n"
-msgstr ""
+msgstr "Это справедливо двумя ключевыми способами.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:419
@@ -6312,14 +6305,14 @@ msgstr ""
 msgid "00:08:03.099 --> 00:08:08.960\n"
 "First, whatever processes you use to maintain\n"
 "your data, it is important to be transparent\n"
-msgstr ""
+msgstr "Во-первых, какие бы процессы вы ни использовали для ведения данных, важно быть очевидным \n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:422
 #, no-wrap
 msgid "00:08:08.960 --> 00:08:12.110\n"
 "about how errors are discovered and corrected.\n"
-msgstr ""
+msgstr "в отношении того, как обнаруживаются и исправляются ошибки.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:426
@@ -6335,14 +6328,14 @@ msgstr "Эта прозрачность может быть действител
 msgid "00:08:18.289 --> 00:08:22.919\n"
 "Without clear and accessible documentation,\n"
 "you run the risk of losing best practices,\n"
-msgstr ""
+msgstr "Без четкой и доступной документации вы рискуете потерять передовые практики,\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:433
 #, no-wrap
 msgid "00:08:22.919 --> 00:08:27.590\n"
 "building redundant processes and losing optimization.\n"
-msgstr ""
+msgstr "создать избыточные процессы и потерять оптимизацию.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:437
@@ -6365,14 +6358,14 @@ msgstr "Документирование также является ключе�
 msgid "00:08:36.550 --> 00:08:41.800\n"
 "Good documentation, in metadata, for example,\n"
 "allows data users to determine the fitness\n"
-msgstr ""
+msgstr "Например, хорошее документирование в метаданных позволяет пользователям данных определить пригодность \n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:447
 #, no-wrap
 msgid "00:08:41.800 --> 00:08:43.769\n"
 "for use of your data.\n"
-msgstr ""
+msgstr "для использования ваших данных.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:451
@@ -6380,7 +6373,7 @@ msgstr ""
 msgid "00:08:43.769 --> 00:08:47.950\n"
 "Your documentation should not only include\n"
 "good metadata, it should also include the\n"
-msgstr ""
+msgstr "Ваша документация должна включать не только хорошие метаданные, \n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:455
@@ -6388,7 +6381,7 @@ msgstr ""
 msgid "00:08:47.950 --> 00:08:54.060\n"
 "best practices, standardized vocabularies,\n"
 "and taxonomic and geographic authorities used.\n"
-msgstr ""
+msgstr "но и передовые практики, стандартизированные словари, а также используемые таксономические и географические источники.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:459
@@ -6396,7 +6389,7 @@ msgstr ""
 msgid "00:08:54.060 --> 00:08:59.430\n"
 "Documenting what data was cleaned by whom\n"
 "will help you to improve your optimization,\n"
-msgstr ""
+msgstr "Документирование данных, которые были очищены, поможет вам улучшить оптимизацию, \n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:463
@@ -6404,14 +6397,14 @@ msgstr ""
 msgid "00:08:59.430 --> 00:09:04.020\n"
 "reach performance measures, and ultimately,\n"
 "tell a more complete story of where your data\n"
-msgstr ""
+msgstr "достичь показателей производительности и, в конечном счете, рассказать более полную историю о том,\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:466
 #, no-wrap
 msgid "00:09:04.020 --> 00:09:11.700\n"
 "came from and how it was improved over time.\n"
-msgstr ""
+msgstr "откуда были получены данные и как они были улучшены с течением времени.\n"
 
 #. type: Plain text
 #: videos/Data_Management.en.vtt:470
@@ -6510,7 +6503,7 @@ msgstr "00:00:01.120 --> 00:00:05.840\n"
 msgid "00:00:09.040 --> 00:00:15.440\n"
 "Previously known as Google Refine; it is now Open&nbsp;\n"
 "access and open sourced. OpenRefine can be used&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "Ранее известен как Google Refine; теперь Open(Открыт) доступ и открыт источник. OpenRefine может использоваться \n"
 
 #. type: Plain text
 #: videos/Data_Management_OpenRefine.en.vtt:16
@@ -6518,7 +6511,7 @@ msgstr ""
 msgid "00:00:15.440 --> 00:00:20.080\n"
 "for data cleaning and standardization.&nbsp;\n"
 "You can find it at openrefine.org.\n"
-msgstr ""
+msgstr "для очистки и стандартизации данных. Вы можете найти его по адресу openrefine.org.\n"
 
 #. type: Plain text
 #: videos/Data_Management_OpenRefine.en.vtt:20
@@ -6526,7 +6519,7 @@ msgstr ""
 msgid "00:00:22.400 --> 00:00:25.760\n"
 "OpenRefine is a powerful tool&nbsp;\n"
 "for working with messy data.\n"
-msgstr "OpenRefine является мощным инструментом&nbsp; для работы с беспорядочными данными.\n"
+msgstr "OpenRefine - это мощный инструмент для работы с беспорядочными данными.\n"
 
 #. type: Plain text
 #: videos/Data_Management_OpenRefine.en.vtt:24
@@ -6534,7 +6527,7 @@ msgstr "OpenRefine является мощным инструментом&nbsp; 
 msgid "00:00:26.560 --> 00:00:32.080\n"
 "OpenRefine supports faceted browsing as a&nbsp;\n"
 "mechanism for seeing a big picture of your data,&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "OpenRefine поддерживает фасетный поиск как механизм для просмотра общей картины данных и\n"
 
 #. type: Plain text
 #: videos/Data_Management_OpenRefine.en.vtt:28
@@ -6542,7 +6535,7 @@ msgstr ""
 msgid "00:00:32.080 --> 00:00:36.720\n"
 "and filtering down to just the subset&nbsp;\n"
 "of rows that you want to change in bulk.\n"
-msgstr ""
+msgstr "фильтрации только к подмножеству строк, которые необходимо изменить массово.\n"
 
 #. type: Plain text
 #: videos/Data_Management_OpenRefine.en.vtt:32
@@ -6550,7 +6543,7 @@ msgstr ""
 msgid "00:00:37.760 --> 00:00:42.320\n"
 "The clustering feature works by trying&nbsp;\n"
 "to group the choices in the text facet,&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "Функция кластеризации работает, пытаясь сгруппировать варианты в текстовом фасете, \n"
 
 #. type: Plain text
 #: videos/Data_Management_OpenRefine.en.vtt:36
@@ -6558,7 +6551,7 @@ msgstr ""
 msgid "00:00:42.320 --> 00:00:45.760\n"
 "so that choices that \"look&nbsp;\n"
 "similar\" get grouped together.\n"
-msgstr ""
+msgstr "чтобы «похожие» варианты сгруппировались.\n"
 
 #. type: Plain text
 #: videos/Data_Management_OpenRefine.en.vtt:40
@@ -6566,7 +6559,7 @@ msgstr ""
 msgid "00:00:47.120 --> 00:00:52.800\n"
 "Reconciliation is a semi-automated process of&nbsp;\n"
 "matching text names to database IDs (keys).&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "Согласование - это полуавтоматический процесс сопоставления текстовых имен с идентификаторами базы данных (ключами)\n"
 
 #. type: Plain text
 #: videos/Data_Management_OpenRefine.en.vtt:44
@@ -6574,14 +6567,14 @@ msgstr ""
 msgid "00:00:53.680 --> 00:00:58.160\n"
 "You can use OpenRefine to perform&nbsp;\n"
 "reconciliation of names in your data&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "OpenRefine можно использовать для согласования названий в ваших данных \n"
 
 #. type: Plain text
 #: videos/Data_Management_OpenRefine.en.vtt:47
 #, no-wrap
 msgid "00:00:58.160 --> 00:01:01.120\n"
 "against any database that exposes a web service.\n"
-msgstr ""
+msgstr "с любой базой данных, представляющей веб-службу.\n"
 
 #. type: Plain text
 #: videos/Data_Management_OpenRefine.en.vtt:51
@@ -6589,7 +6582,7 @@ msgstr ""
 msgid "00:01:04.560 --> 00:01:10.480\n"
 "OpenRefine, however, is not like other tools&nbsp;\n"
 "you’ve used. OpenRefine CANNOT be used for&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "OpenRefine, однако, не похож на другие используемые вами инструменты. OpenRefine НЕЛЬЗЯ использовать для \n"
 
 #. type: Plain text
 #: videos/Data_Management_OpenRefine.en.vtt:55
@@ -6597,7 +6590,7 @@ msgstr ""
 msgid "00:01:10.480 --> 00:01:15.280\n"
 "storing or managing data; it is strictly&nbsp;\n"
 "a cleaning and/or standardizing tool.\n"
-msgstr ""
+msgstr "хранения или управления данными; это инструмент исключительно используемый для очистки и/или стандартизации.\n"
 
 #. type: Plain text
 #: videos/Data_Management_OpenRefine.en.vtt:59
@@ -6605,14 +6598,14 @@ msgstr ""
 msgid "00:01:18.720 --> 00:01:22.400\n"
 "As OpenRefine is a different kind&nbsp;\n"
 "of tool, you should consider when&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "Поскольку OpenRefine - это инструмент другого типа, следует учитывать, \n"
 
 #. type: Plain text
 #: videos/Data_Management_OpenRefine.en.vtt:62
 #, no-wrap
 msgid "00:01:22.400 --> 00:01:26.160\n"
 "it is appropriate to use it versus other tools.\n"
-msgstr ""
+msgstr "когда его следует использовать по сравнению с другими инструментами.\n"
 
 #. type: Plain text
 #: videos/Data_Management_OpenRefine.en.vtt:66
@@ -6628,7 +6621,7 @@ msgstr "База данных обеспечивает инфраструкту�
 msgid "00:01:30.960 --> 00:01:36.000\n"
 "Generally, it requires programming skills&nbsp;\n"
 "to edit and is absent of easy visualization.\n"
-msgstr ""
+msgstr "Как правило, для этого требуются навыки программирования для редактирования и отсутствует простая визуализация.\n"
 
 #. type: Plain text
 #: videos/Data_Management_OpenRefine.en.vtt:74
@@ -6644,7 +6637,7 @@ msgstr "Excel - это приложение для работы с электр�
 msgid "00:01:43.280 --> 00:01:46.720\n"
 "And while you can manage your data&nbsp;\n"
 "and have limited ability to clean and&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "И хотя вы можете управлять своими данными и иметь лимитированные возможности по очистке и \n"
 
 #. type: Plain text
 #: videos/Data_Management_OpenRefine.en.vtt:82
@@ -6652,7 +6645,7 @@ msgstr ""
 msgid "00:01:46.720 --> 00:01:51.040\n"
 "standardize your data, it is usually&nbsp;\n"
 "restricted to editing cell by cell.&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "стандартизации данных, они обычно ограничиваются редактированием ячеек\n"
 
 #. type: Plain text
 #: videos/Data_Management_OpenRefine.en.vtt:86
@@ -6842,7 +6835,7 @@ msgstr "которые помогут поддерживать, очищать �
 msgid "00:00:11.830 --> 00:00:16.390\n"
 "Data Quality happens at every step in the\n"
 "data mobilization process.\n"
-msgstr ""
+msgstr "Качество данных осуществляется на каждом этапе процесса мобилизации данных.\n"
 
 #. type: Plain text
 #: videos/Data_Management_Tools.en.vtt:20
@@ -6850,7 +6843,7 @@ msgstr ""
 msgid "00:00:16.390 --> 00:00:20.570\n"
 "Within the roles on your team, you should\n"
 "ensure that someone is responsible and skilled\n"
-msgstr ""
+msgstr "Согласно функциям в вашей группе необходимо убедиться в том, что кто-то несет ответственность и обладает\n"
 
 #. type: Plain text
 #: videos/Data_Management_Tools.en.vtt:24
@@ -6858,7 +6851,7 @@ msgstr ""
 msgid "00:00:20.570 --> 00:00:26.060\n"
 "with data maintenance and manipulation.\n"
 "We know that real-world data are messy and\n"
-msgstr ""
+msgstr "навыками ведения и обработки данных. Мы знаем, что реальные данные являются беспорядочными, и \n"
 
 #. type: Plain text
 #: videos/Data_Management_Tools.en.vtt:28
@@ -6866,14 +6859,14 @@ msgstr ""
 msgid "00:00:26.060 --> 00:00:31.480\n"
 "transformation and standardization is needed\n"
 "to make the data easily understandable and\n"
-msgstr ""
+msgstr "необходимы преобразования и стандартизация, чтобы сделать данные легко понятными и \n"
 
 #. type: Plain text
 #: videos/Data_Management_Tools.en.vtt:31
 #, no-wrap
 msgid "00:00:31.480 --> 00:00:33.530\n"
 "fit for use.\n"
-msgstr ""
+msgstr "пригодными для использования.\n"
 
 #. type: Plain text
 #: videos/Data_Management_Tools.en.vtt:35
@@ -6881,7 +6874,7 @@ msgstr ""
 msgid "00:00:33.530 --> 00:00:38.710\n"
 "When transforming data (for example merging\n"
 "columns, converting coordinates, changing\n"
-msgstr ""
+msgstr "При преобразовании данных (например, при объединении столбцов, преобразовании координат, изменении\n"
 
 #. type: Plain text
 #: videos/Data_Management_Tools.en.vtt:39
@@ -6889,14 +6882,14 @@ msgstr ""
 msgid "00:00:38.710 --> 00:00:43.621\n"
 "datum, etc), make sure that you document changes\n"
 "and that you have an original copy that you\n"
-msgstr ""
+msgstr "системы координат и т.д.) убедитесь, что изменения задокументированы и имеется исходная копия, \n"
 
 #. type: Plain text
 #: videos/Data_Management_Tools.en.vtt:42
 #, no-wrap
 msgid "00:00:43.621 --> 00:00:48.230\n"
 "can revert to if necessary.\n"
-msgstr ""
+msgstr "к которой при необходимости можно вернуться.\n"
 
 #. type: Plain text
 #: videos/Data_Management_Tools.en.vtt:46
@@ -6904,7 +6897,7 @@ msgstr ""
 msgid "00:00:48.230 --> 00:00:52.530\n"
 "As was covered in the foundations section,\n"
 "in choosing tools, some things you should\n"
-msgstr ""
+msgstr "Как было описано в основной секции, при выборе инструментов следует учитывать\n"
 
 #. type: Plain text
 #: videos/Data_Management_Tools.en.vtt:50
@@ -6912,7 +6905,7 @@ msgstr ""
 msgid "00:00:52.530 --> 00:00:59.410\n"
 "consider include, price, ease of use, documentation\n"
 "and support and any technical requirements\n"
-msgstr ""
+msgstr "следующие моменты: стоимость, простота использования, документация и поддержка, а также любые технические требования \n"
 
 #. type: Plain text
 #: videos/Data_Management_Tools.en.vtt:54
@@ -6920,7 +6913,7 @@ msgstr ""
 msgid "00:00:59.410 --> 00:01:03.940\n"
 "to run the tool.\n"
 "No tool is perfect, the importance is to find\n"
-msgstr ""
+msgstr "к запуску инструмента. Ни один инструмент не идеален, важно найти \n"
 
 #. type: Plain text
 #: videos/Data_Management_Tools.en.vtt:58
@@ -6928,7 +6921,7 @@ msgstr ""
 msgid "00:01:03.940 --> 00:01:09.510\n"
 "the right balance and the tool that fits your\n"
 "requirement.\n"
-msgstr ""
+msgstr "правильный баланс и инструмент, который соответствует вашим требованиям.\n"
 
 #. type: Plain text
 #: videos/Data_Management_Tools.en.vtt:62
@@ -6936,7 +6929,7 @@ msgstr ""
 msgid "00:01:09.510 --> 00:01:14.460\n"
 "The tools you choose may not be the tools\n"
 "that others use within your institution – and\n"
-msgstr ""
+msgstr "Инструменты, которые вы выбираете, могут не быть инструментами, которые другие используют в вашем учреждении - и \n"
 
 #. type: Plain text
 #: videos/Data_Management_Tools.en.vtt:66
@@ -6944,7 +6937,7 @@ msgstr ""
 msgid "00:01:14.460 --> 00:01:19.910\n"
 "that’s just fine, unless your organization\n"
 "places mandates on the tools you can use.\n"
-msgstr ""
+msgstr "это просто прекрасно, если ваша организация не устанавливает мандаты на инструменты, которые вы можете использовать.\n"
 
 #. type: Plain text
 #: videos/Data_Management_Tools.en.vtt:70
@@ -6962,14 +6955,14 @@ msgstr "00:01:19.910 --> 00:01:24.320\n"
 msgid "00:01:24.320 --> 00:01:29.570\n"
 "So, you need to build a palette of tools that\n"
 "will help you and the people with whom you\n"
-msgstr ""
+msgstr "Значит, нужно построить палитру инструментов, которые помогут вам и людям, с которыми \n"
 
 #. type: Plain text
 #: videos/Data_Management_Tools.en.vtt:77
 #, no-wrap
 msgid "00:01:29.570 --> 00:01:35.150\n"
 "work to do their work as effectively as possible.\n"
-msgstr ""
+msgstr "вы работаете, максимально эффективно выполнять их работу.\n"
 
 #. type: Plain text
 #: videos/Data_Management_Tools.en.vtt:81
@@ -6977,7 +6970,7 @@ msgstr ""
 msgid "00:01:35.150 --> 00:01:40.170\n"
 "Some of the technical considerations when\n"
 "choosing tools should include the inputs and\n"
-msgstr ""
+msgstr "Некоторые технические соображения при выборе инструментов должны включать входные и \n"
 
 #. type: Plain text
 #: videos/Data_Management_Tools.en.vtt:85
@@ -6985,7 +6978,7 @@ msgstr ""
 msgid "00:01:40.170 --> 00:01:46.240\n"
 "outputs that the tool uses for files.\n"
 "Does it allow for importing and exporting\n"
-msgstr ""
+msgstr "выходные данные, которые инструмент использует для файлов. Позволяет ли он импортировать и экспортировать\n"
 
 #. type: Plain text
 #: videos/Data_Management_Tools.en.vtt:89
@@ -6993,7 +6986,7 @@ msgstr ""
 msgid "00:01:46.240 --> 00:01:51.880\n"
 "standardized delimited files?\n"
 "Can you select encoding (for example UTF-8)\n"
-msgstr ""
+msgstr "стандартизированные файлы с разделителями? Можете ли вы выбрать кодировку (например, UTF-8)\n"
 
 #. type: Plain text
 #: videos/Data_Management_Tools.en.vtt:93
