@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: publishing-dna-derived-data\n"
 "POT-Creation-Date: 2021-12-08 16:51+0000\n"
-"PO-Revision-Date: 2022-01-24 13:17\n"
+"PO-Revision-Date: 2022-01-24 16:13\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -6582,7 +6582,7 @@ msgstr "с любой базой данных, представляющей ве
 msgid "00:01:04.560 --> 00:01:10.480\n"
 "OpenRefine, however, is not like other tools&nbsp;\n"
 "you’ve used. OpenRefine CANNOT be used for&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "OpenRefine, однако, не похож на другие используемые вами инструменты. OpenRefine НЕЛЬЗЯ использовать для \n"
 
 #. type: Plain text
 #: videos/Data_Management_OpenRefine.en.vtt:55
@@ -6590,7 +6590,7 @@ msgstr ""
 msgid "00:01:10.480 --> 00:01:15.280\n"
 "storing or managing data; it is strictly&nbsp;\n"
 "a cleaning and/or standardizing tool.\n"
-msgstr ""
+msgstr "хранения или управления данными; это инструмент исключительно используемый для очистки и/или стандартизации.\n"
 
 #. type: Plain text
 #: videos/Data_Management_OpenRefine.en.vtt:59
@@ -6598,14 +6598,14 @@ msgstr ""
 msgid "00:01:18.720 --> 00:01:22.400\n"
 "As OpenRefine is a different kind&nbsp;\n"
 "of tool, you should consider when&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "Поскольку OpenRefine - это инструмент другого типа, следует учитывать, \n"
 
 #. type: Plain text
 #: videos/Data_Management_OpenRefine.en.vtt:62
 #, no-wrap
 msgid "00:01:22.400 --> 00:01:26.160\n"
 "it is appropriate to use it versus other tools.\n"
-msgstr ""
+msgstr "когда его следует использовать по сравнению с другими инструментами.\n"
 
 #. type: Plain text
 #: videos/Data_Management_OpenRefine.en.vtt:66
@@ -6621,7 +6621,7 @@ msgstr "База данных обеспечивает инфраструкту�
 msgid "00:01:30.960 --> 00:01:36.000\n"
 "Generally, it requires programming skills&nbsp;\n"
 "to edit and is absent of easy visualization.\n"
-msgstr ""
+msgstr "Как правило, для этого требуются навыки программирования для редактирования и отсутствует простая визуализация.\n"
 
 #. type: Plain text
 #: videos/Data_Management_OpenRefine.en.vtt:74
@@ -6637,7 +6637,7 @@ msgstr "Excel - это приложение для работы с электр�
 msgid "00:01:43.280 --> 00:01:46.720\n"
 "And while you can manage your data&nbsp;\n"
 "and have limited ability to clean and&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "И хотя вы можете управлять своими данными и иметь лимитированные возможности по очистке и \n"
 
 #. type: Plain text
 #: videos/Data_Management_OpenRefine.en.vtt:82
@@ -6645,7 +6645,7 @@ msgstr ""
 msgid "00:01:46.720 --> 00:01:51.040\n"
 "standardize your data, it is usually&nbsp;\n"
 "restricted to editing cell by cell.&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "стандартизации данных, они обычно ограничиваются редактированием ячеек\n"
 
 #. type: Plain text
 #: videos/Data_Management_OpenRefine.en.vtt:86
@@ -6835,7 +6835,7 @@ msgstr "которые помогут поддерживать, очищать �
 msgid "00:00:11.830 --> 00:00:16.390\n"
 "Data Quality happens at every step in the\n"
 "data mobilization process.\n"
-msgstr ""
+msgstr "Качество данных осуществляется на каждом этапе процесса мобилизации данных.\n"
 
 #. type: Plain text
 #: videos/Data_Management_Tools.en.vtt:20
@@ -6843,7 +6843,7 @@ msgstr ""
 msgid "00:00:16.390 --> 00:00:20.570\n"
 "Within the roles on your team, you should\n"
 "ensure that someone is responsible and skilled\n"
-msgstr ""
+msgstr "Согласно функциям в вашей группе необходимо убедиться в том, что кто-то несет ответственность и обладает\n"
 
 #. type: Plain text
 #: videos/Data_Management_Tools.en.vtt:24
@@ -6851,7 +6851,7 @@ msgstr ""
 msgid "00:00:20.570 --> 00:00:26.060\n"
 "with data maintenance and manipulation.\n"
 "We know that real-world data are messy and\n"
-msgstr ""
+msgstr "навыками ведения и обработки данных. Мы знаем, что реальные данные являются беспорядочными, и \n"
 
 #. type: Plain text
 #: videos/Data_Management_Tools.en.vtt:28
@@ -6859,14 +6859,14 @@ msgstr ""
 msgid "00:00:26.060 --> 00:00:31.480\n"
 "transformation and standardization is needed\n"
 "to make the data easily understandable and\n"
-msgstr ""
+msgstr "необходимы преобразования и стандартизация, чтобы сделать данные легко понятными и \n"
 
 #. type: Plain text
 #: videos/Data_Management_Tools.en.vtt:31
 #, no-wrap
 msgid "00:00:31.480 --> 00:00:33.530\n"
 "fit for use.\n"
-msgstr ""
+msgstr "пригодными для использования.\n"
 
 #. type: Plain text
 #: videos/Data_Management_Tools.en.vtt:35
@@ -6874,7 +6874,7 @@ msgstr ""
 msgid "00:00:33.530 --> 00:00:38.710\n"
 "When transforming data (for example merging\n"
 "columns, converting coordinates, changing\n"
-msgstr ""
+msgstr "При преобразовании данных (например, при объединении столбцов, преобразовании координат, изменении\n"
 
 #. type: Plain text
 #: videos/Data_Management_Tools.en.vtt:39
@@ -6882,14 +6882,14 @@ msgstr ""
 msgid "00:00:38.710 --> 00:00:43.621\n"
 "datum, etc), make sure that you document changes\n"
 "and that you have an original copy that you\n"
-msgstr ""
+msgstr "системы координат и т.д.) убедитесь, что изменения задокументированы и имеется исходная копия, \n"
 
 #. type: Plain text
 #: videos/Data_Management_Tools.en.vtt:42
 #, no-wrap
 msgid "00:00:43.621 --> 00:00:48.230\n"
 "can revert to if necessary.\n"
-msgstr ""
+msgstr "к которой при необходимости можно вернуться.\n"
 
 #. type: Plain text
 #: videos/Data_Management_Tools.en.vtt:46
@@ -6897,7 +6897,7 @@ msgstr ""
 msgid "00:00:48.230 --> 00:00:52.530\n"
 "As was covered in the foundations section,\n"
 "in choosing tools, some things you should\n"
-msgstr ""
+msgstr "Как было описано в основной секции, при выборе инструментов следует учитывать\n"
 
 #. type: Plain text
 #: videos/Data_Management_Tools.en.vtt:50
@@ -6905,7 +6905,7 @@ msgstr ""
 msgid "00:00:52.530 --> 00:00:59.410\n"
 "consider include, price, ease of use, documentation\n"
 "and support and any technical requirements\n"
-msgstr ""
+msgstr "следующие моменты: стоимость, простота использования, документация и поддержка, а также любые технические требования \n"
 
 #. type: Plain text
 #: videos/Data_Management_Tools.en.vtt:54
@@ -6913,7 +6913,7 @@ msgstr ""
 msgid "00:00:59.410 --> 00:01:03.940\n"
 "to run the tool.\n"
 "No tool is perfect, the importance is to find\n"
-msgstr ""
+msgstr "к запуску инструмента. Ни один инструмент не идеален, важно найти \n"
 
 #. type: Plain text
 #: videos/Data_Management_Tools.en.vtt:58
@@ -6921,7 +6921,7 @@ msgstr ""
 msgid "00:01:03.940 --> 00:01:09.510\n"
 "the right balance and the tool that fits your\n"
 "requirement.\n"
-msgstr ""
+msgstr "правильный баланс и инструмент, который соответствует вашим требованиям.\n"
 
 #. type: Plain text
 #: videos/Data_Management_Tools.en.vtt:62
@@ -6929,7 +6929,7 @@ msgstr ""
 msgid "00:01:09.510 --> 00:01:14.460\n"
 "The tools you choose may not be the tools\n"
 "that others use within your institution – and\n"
-msgstr ""
+msgstr "Инструменты, которые вы выбираете, могут не быть инструментами, которые другие используют в вашем учреждении - и \n"
 
 #. type: Plain text
 #: videos/Data_Management_Tools.en.vtt:66
@@ -6937,7 +6937,7 @@ msgstr ""
 msgid "00:01:14.460 --> 00:01:19.910\n"
 "that’s just fine, unless your organization\n"
 "places mandates on the tools you can use.\n"
-msgstr ""
+msgstr "это просто прекрасно, если ваша организация не устанавливает мандаты на инструменты, которые вы можете использовать.\n"
 
 #. type: Plain text
 #: videos/Data_Management_Tools.en.vtt:70
@@ -6955,14 +6955,14 @@ msgstr "00:01:19.910 --> 00:01:24.320\n"
 msgid "00:01:24.320 --> 00:01:29.570\n"
 "So, you need to build a palette of tools that\n"
 "will help you and the people with whom you\n"
-msgstr ""
+msgstr "Значит, нужно построить палитру инструментов, которые помогут вам и людям, с которыми \n"
 
 #. type: Plain text
 #: videos/Data_Management_Tools.en.vtt:77
 #, no-wrap
 msgid "00:01:29.570 --> 00:01:35.150\n"
 "work to do their work as effectively as possible.\n"
-msgstr ""
+msgstr "вы работаете, максимально эффективно выполнять их работу.\n"
 
 #. type: Plain text
 #: videos/Data_Management_Tools.en.vtt:81
@@ -6970,7 +6970,7 @@ msgstr ""
 msgid "00:01:35.150 --> 00:01:40.170\n"
 "Some of the technical considerations when\n"
 "choosing tools should include the inputs and\n"
-msgstr ""
+msgstr "Некоторые технические соображения при выборе инструментов должны включать входные и \n"
 
 #. type: Plain text
 #: videos/Data_Management_Tools.en.vtt:85
@@ -6978,7 +6978,7 @@ msgstr ""
 msgid "00:01:40.170 --> 00:01:46.240\n"
 "outputs that the tool uses for files.\n"
 "Does it allow for importing and exporting\n"
-msgstr ""
+msgstr "выходные данные, которые инструмент использует для файлов. Позволяет ли он импортировать и экспортировать\n"
 
 #. type: Plain text
 #: videos/Data_Management_Tools.en.vtt:89
@@ -6986,7 +6986,7 @@ msgstr ""
 msgid "00:01:46.240 --> 00:01:51.880\n"
 "standardized delimited files?\n"
 "Can you select encoding (for example UTF-8)\n"
-msgstr ""
+msgstr "стандартизированные файлы с разделителями? Можете ли вы выбрать кодировку (например, UTF-8)\n"
 
 #. type: Plain text
 #: videos/Data_Management_Tools.en.vtt:93
