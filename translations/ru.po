@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: publishing-dna-derived-data\n"
 "POT-Creation-Date: 2021-12-08 16:51+0000\n"
-"PO-Revision-Date: 2022-01-24 00:29\n"
+"PO-Revision-Date: 2022-01-24 07:08\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -4912,7 +4912,7 @@ msgstr "00:04:12.309 --> 00:04:17.049\n"
 msgid "00:04:17.049 --> 00:04:20.169\n"
 "niche modelling or studies about species distribution.\n"
 msgstr "00:04:17.049 --> 00:04:20:169\n"
-"моделирование ниши или изучении распространения видов.\n"
+"моделирование ниши или изучение распространения видов.\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:219
