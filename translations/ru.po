@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: publishing-dna-derived-data\n"
 "POT-Creation-Date: 2021-12-08 16:51+0000\n"
-"PO-Revision-Date: 2022-01-19 23:18\n"
+"PO-Revision-Date: 2022-01-24 07:08\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -20,12 +20,12 @@ msgstr ""
 #: index.en.adoc:1
 #, no-wrap
 msgid "Accelerating biodiversity research through DNA barcodes, collection and observation data"
-msgstr ""
+msgstr "Ускорение исследований биоразнообразия с помощью ДНК-баркодинга, коллекционных данных и данных наблюдений"
 
 #. type: Plain text
 #: index.en.adoc:3
 msgid "GBIF Secretariat <training@gbif.org>"
-msgstr ""
+msgstr "Секретариат GBIF <training@gbif.org>"
 
 #. type: Plain text
 #: index.en.adoc:17
@@ -36,7 +36,7 @@ msgstr ""
 #: index.en.adoc:22
 #, no-wrap
 msgid "https://www.gbif.org/occurrence/2840632116[Bombus pascuorum (Scopoli, 1763)^] observed in Georgia by Jean-Sébastien Rousseau-Piot (licensed under http://creativecommons.org/licenses/by-nc-nd/4.0/[CC BY-NC^])"
-msgstr ""
+msgstr "https://www.gbif.org/occurrence/2840632116[Bombus pascuorum (Scopoli, 1763)^] наблюдение в Грузии сделанное Jean-Sébastien Rousseau-Piot (лицензируется по адресу: http://creativecommons.org/licenses/by-nc-nd/4.0/[CC BY-NC^])"
 
 #. type: Target for macro image
 #: index.en.adoc:23
@@ -223,7 +223,7 @@ msgstr ""
 #. type: Plain text
 #: course-prep.en.adoc:24
 msgid "https://www.theguardian.com/environment/2020/jul/29/bees-food-crops-shortage-study[Loss of bees causes shortage of key food crops, study finds^]"
-msgstr ""
+msgstr "https://www.theguardian.com/environment/2020/jul/29/bees-food-crops-shortage-study[Потеря пчел вызывает нехватку основных пищевых культур, результаты исследований^]"
 
 #. type: Title ===
 #: course-prep.en.adoc:25
@@ -239,22 +239,22 @@ msgstr "Следующие действия являются необязате�
 #. type: Plain text
 #: course-prep.en.adoc:30
 msgid "https://vimeo.com/434831655[What is GBIF?^] - video, 8 minutes"
-msgstr ""
+msgstr "https://vimeo.com/434831655[Что такое GBIF?^] - видео, 8 минут"
 
 #. type: Plain text
 #: course-prep.en.adoc:31
 msgid "https://ibol.org/site/wp-content/uploads/2021/03/DNA_Barcoding.mp4[What is BOLD?] - video, 9.5 minutes"
-msgstr ""
+msgstr "https://ibol.org/site/wp-content/uploads/2021/03/ДНК-баркодирование.mp4[Что такое BOLD?] - видео, 9.5 минут"
 
 #. type: Plain text
 #: course-prep.en.adoc:32
 msgid "https://docs.gbif.org/course-introduction-to-gbif[Introduction to GBIF^] - online course"
-msgstr ""
+msgstr "https://docs.gbif.org/course-introduction-to-gbif[Введение в GBIF^] - онлайн-курс"
 
 #. type: Plain text
 #: course-prep.en.adoc:32
 msgid "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0185809[More than 75 percent decline over 27 years in total flying insect biomass in protected areas^] - paper"
-msgstr ""
+msgstr "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0185809[Более 75% снижения за 27 лет общей биомассы летающих насекомых в охраняемых зонах^] - статья"
 
 #. type: Title ==
 #: downloads.en.adoc:1
@@ -322,7 +322,7 @@ msgstr ""
 #. type: Plain text
 #: downloads.en.adoc:27
 msgid "https://github.com/gbif/ipt/wiki/gbif-ipt-docs/downloads/occurrence_ipt_template_v2.xlsx[Excel template^]"
-msgstr ""
+msgstr "https://github.com/gbif/ipt/wiki/gbif-ipt-docs/downloads/occurrence_ipt_template_v2.xlsx[Excel template^]"
 
 #. type: Plain text
 #: downloads.en.adoc:28
@@ -359,13 +359,13 @@ msgstr "Установить OpenRefine"
 #. type: Plain text
 #: software.en.adoc:6
 msgid "Install software required for activities later in the course"
-msgstr ""
+msgstr "Установите программное обеспечение, необходимое для выполнения дальнейших действий в рамках прохождения курса"
 
 #. type: Positional ($1) AttributeList argument for macro 'image'
 #: software.en.adoc:7
 #, no-wrap
 msgid "Open Refine Logo"
-msgstr ""
+msgstr "Open Refine логотип"
 
 #. type: Target for macro image
 #: software.en.adoc:7
@@ -397,12 +397,12 @@ msgstr "Требования для установки"
 #. type: Plain text
 #: software.en.adoc:23
 msgid "Linux users only: Java JRE installed."
-msgstr ""
+msgstr "Только для пользователей Linux: установлен Java JRE."
 
 #. type: Plain text
 #: software.en.adoc:24
 msgid "Google Chrome, Microsoft Edge or Mozilla Firefox installed.  Internet Explorer is not supported."
-msgstr ""
+msgstr "Google Chrome, Microsoft Edge или Mozilla Firefox установлены. Internet Explorer не поддерживается."
 
 #. type: Plain text
 #: software.en.adoc:26
@@ -423,18 +423,18 @@ msgstr "Скачайте https://github.com/OpenRefine/OpenRefine/releases/downl
 #. type: Plain text
 #: software.en.adoc:31
 msgid "Find the downloaded file.  Right click it, and choose \"Extract all…\". Unzip, and double-click on openrefine.exe or refine.bat if the former does not work."
-msgstr ""
+msgstr "Найдите скачанный файл. Щелкните правой кнопкой мыши и выберите \"Extract all...\" (Извлечь все…). Разархивируйте и дважды щелкните на openrefine.exe или refine.bat, если первая не работает."
 
 #. type: Plain text
 #: software.en.adoc:32
 msgid "A command window will appear (don't close it) and soon after a new web browser window will show the application."
-msgstr ""
+msgstr "Появится командное окно (не закрывайте его), и вскоре после этого новое окно веб-браузера покажет приложение."
 
 #. type: Block title
 #: software.en.adoc:33
 #, no-wrap
 msgid "Detailed instructions for MS Windows (click to expand)"
-msgstr ""
+msgstr "Подробные инструкции для MS Windows (нажмите, чтобы развернуть)"
 
 #. type: delimited block =
 #: software.en.adoc:37 software.en.adoc:46 software.en.adoc:55
@@ -474,7 +474,7 @@ msgstr ""
 #. type: delimited block =
 #: software.en.adoc:61
 msgid "Click \"Extract\""
-msgstr ""
+msgstr "Нажмите \"Extract(Извлечь)\""
 
 #. type: Target for macro image
 #: software.en.adoc:68
@@ -485,7 +485,7 @@ msgstr ""
 #. type: delimited block =
 #: software.en.adoc:70
 msgid "Find the extracted files.  Optionally, right click \"openrefine\" and choose \"Send to → Desktop (create shortcut)\" to create a shortcut on your desktop.  Then double click \"openrefine\""
-msgstr ""
+msgstr "Найдите извлеченные файлы. При необходимости щелкните правой кнопкой мыши \"openrefine\" и выберите \"Send to → Desktop (создать ярлык)\", чтобы создать ярлык на рабочем столе. Затем дважды нажмите \"openrefine\""
 
 #. type: Target for macro image
 #: software.en.adoc:77
@@ -496,7 +496,7 @@ msgstr ""
 #. type: delimited block =
 #: software.en.adoc:79
 msgid "A black console window opens, and a short time later the browser opens.  OpenRefine is now ready to use."
-msgstr ""
+msgstr "Откроется черное окно консоли, а через некоторое время откроется браузер. OpenRefine теперь готов к использованию."
 
 #. type: Title ====
 #: software.en.adoc:82
@@ -512,18 +512,18 @@ msgstr "Скачайте https://github.com/OpenRefine/OpenRefine/releases/downl
 #. type: Plain text
 #: software.en.adoc:87
 msgid "Download, open, drag icon into the Applications folder.  You do not need to install Java separately."
-msgstr ""
+msgstr "Загрузите, откройте, перетащите значок в папку Приложения. Отдельно устанавливать Java не требуется."
 
 #. type: Plain text
 #: software.en.adoc:88
 msgid "Double click on it and a new web browser window will show the application."
-msgstr ""
+msgstr "Дважды щелкните по нему, и новое окно веб-браузера покажет приложение."
 
 #. type: Block title
 #: software.en.adoc:89
 #, no-wrap
 msgid "Detailed instructions for Mac (click to expand)"
-msgstr ""
+msgstr "Подробные инструкции для Mac (нажмите, чтобы развернуть)"
 
 #. type: Target for macro image
 #: software.en.adoc:97
@@ -534,7 +534,7 @@ msgstr ""
 #. type: delimited block =
 #: software.en.adoc:99
 msgid "Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-mac-3.4.1.dmg[Mac kit], and choose to open it."
-msgstr ""
+msgstr "Скачайте https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-mac-3.4.1.dmg[Mac kit] и откройте его."
 
 #. type: Target for macro image
 #: software.en.adoc:106
@@ -567,7 +567,7 @@ msgstr ""
 #. type: delimited block =
 #: software.en.adoc:126
 msgid "Open Security & Privacy"
-msgstr ""
+msgstr "Безопасность и конфиденциальность"
 
 #. type: Target for macro image
 #: software.en.adoc:133
@@ -578,7 +578,7 @@ msgstr ""
 #. type: delimited block =
 #: software.en.adoc:135
 msgid "Choose \"Open Anyway\" at the bottom."
-msgstr "В нижней части выберите \"Открыть в любом случае\"."
+msgstr "В нижней части выберите \"Open Anyway (Открыть в любом случае)\"."
 
 #. type: Target for macro image
 #: software.en.adoc:142
@@ -589,7 +589,7 @@ msgstr ""
 #. type: delimited block =
 #: software.en.adoc:144
 msgid "Choose \"Open\""
-msgstr "Выберите \"Открыть\""
+msgstr "Выберите \"Open(Открыть)\""
 
 #. type: Target for macro image
 #: software.en.adoc:151
@@ -600,7 +600,7 @@ msgstr ""
 #. type: delimited block =
 #: software.en.adoc:153
 msgid "Finally, the application archive is opened! Drag it to your Applications folder."
-msgstr ""
+msgstr "В конечном итоге, открывается архив приложения! Перетащите его в папку Приложения."
 
 #. type: Target for macro image
 #: software.en.adoc:160
@@ -611,7 +611,7 @@ msgstr ""
 #. type: delimited block =
 #: software.en.adoc:162
 msgid "Double-click the OpenRefine icon.  Another security warning appears!"
-msgstr ""
+msgstr "Дважды щелкните значок OpenRefine. Появится еще одно предупреждение безопасности!"
 
 #. type: Target for macro image
 #: software.en.adoc:169
@@ -633,7 +633,7 @@ msgstr ""
 #. type: delimited block =
 #: software.en.adoc:180
 msgid "(To avoid these warnings, the OpenRefine developers would need to pay Apple.)"
-msgstr ""
+msgstr "(Чтобы избежать этих предупреждений, разработчикам OpenRefine придется заплатить Apple.)"
 
 #. type: delimited block =
 #: software.en.adoc:182
@@ -709,7 +709,7 @@ msgstr ""
 #. type: delimited block =
 #: software.en.adoc:231
 msgid "Choose a suitable place.  I also selected \"Open destination folder after extraction\" and \"Close Ark after extraction\""
-msgstr ""
+msgstr "Выберите подходящее место. Например, «Открыть папку назначения после извлечения» и «Закрыть архив после извлечения»"
 
 #. type: Target for macro image
 #: software.en.adoc:238
@@ -793,24 +793,24 @@ msgstr ""
 #: research-data.en.adoc:1
 #, no-wrap
 msgid "Data as a first-class research citizen"
-msgstr ""
+msgstr "Данные как первоклассные объекты"
 
 #. type: Plain text
 #: research-data.en.adoc:5
 msgid "This module includes information about trends to treat research data as a first-class scientific citizen, to be independently cited, and contribute to researcher career assessment."
-msgstr ""
+msgstr "Этот модуль включает информацию о тенденциях для рассмотрения исследовательских данных как первоклассных объектах, для независимого цитирования и содействия оценке карьеры исследователя."
 
 #. type: Title ===
 #: research-data.en.adoc:6
 #, no-wrap
 msgid "Open research data"
-msgstr ""
+msgstr "Открытые данные исследований"
 
 #.  If you are unable to view the embedded slideshow, you can download it locally. (Slides - ??.? MB)
 #. type: Plain text
 #: research-data.en.adoc:11
 msgid "In this presentation, you will review recent trends to treat research data as a first-class scientific citizen, to be independently cited, and contribute to researcher career assessment used in this course."
-msgstr ""
+msgstr "В этой презентации вы проанализируете последние тенденции для рассмотрения исследовательских данных как первоклассных объектов, которые будут независимо цитироваться, и внесете вклад в оценку карьеры исследователя, используемую в этом курсе."
 
 #. type: delimited block +
 #: research-data.en.adoc:21
@@ -824,12 +824,12 @@ msgstr ""
 #: data-journey.en.adoc:1
 #, no-wrap
 msgid "Data journey - bumblebee pollinators"
-msgstr ""
+msgstr "Перемещение по данным - шмели опылители"
 
 #. type: Plain text
 #: data-journey.en.adoc:6
 msgid "This data journey is a series of practical exercises focusing on bumblebee pollinators.  Using GBIF and BOLD, you will learn: I. how to find and use already available biodiversity data in connexion with your research questions; II. How to efficiently capture and clean this data – i.e. put them in a standard format that is directly relevant and exploitable for you; III. How to generate and publish new data according to a international standards."
-msgstr ""
+msgstr "Перемещение по данным представляет собой серию практических упражнений, посвященных шмелям опылителям. Используя GBIF и BOLD, вы узнаете: I. как найти и использовать уже имеющиеся данные о биоразнообразии в связи с вашими исследовательскими вопросами; II. Как эффективно фиксировать и очищать эти данные, т.е. использовать их в стандартном формате, который имеет непосредственное отношение и пригоден для использования; III. Как генерировать и публиковать новые данные в соответствии с международными стандартами."
 
 #. type: Target for macro image
 #: data-journey.en.adoc:7
@@ -840,7 +840,7 @@ msgstr ""
 #. type: Plain text
 #: data-journey.en.adoc:14
 msgid "This data journey is comprised of nine steps.  Each step (or set of steps), correlate to the different modules of the course.  After a series of theoretical lectures, you will return to the Data Journey to complete the practical exercises.  The practical exercises follow a path: I. the study system; II. questions and hypotheses; III. availability of data; IV. capture and cleaning of data; and V. generate and publish data."
-msgstr ""
+msgstr "Перемещение по данным состоит из девяти этапов. Каждый этап (или наборы этапов) соотносится с различными модулями курса. После серии теоретических лекций вы вернетесь в Перемещению по данным, чтобы завершить практические занятия. Практические занятия идут по пути: I. система исследования; I. вопросы и гипотезы; III. наличие данных; IV. сбор и очистка данных; и V. сбор и публикация данных."
 
 #. type: Target for macro image
 #: data-journey.en.adoc:15
@@ -1013,7 +1013,7 @@ msgstr "На этапе 1 вы разработаете свои исследо�
 #. type: Plain text
 #: data-journey.en.adoc:64
 msgid "In a workshop setting, complete Step 1 as a group. Select a recorder/reporter to report back after task 3 is complete."
-msgstr ""
+msgstr "В настройках семинара выполните Этап 1 в группе. Выберите записывающего/ отчитывающегося для представления отчета после завершения этапа 3."
 
 #. type: Title ====
 #: data-journey.en.adoc:65
@@ -1210,7 +1210,7 @@ msgstr "Рассмотрите базу данных https://v3.boldsystems.org[
 #. type: Plain text
 #: data-journey.en.adoc:136
 msgid "In a workshop setting, complete task 6 as a group. Select a recorder/reporter to report back (1 minute per group) after task 6 is complete."
-msgstr ""
+msgstr "В настройках семинара выполните Этап 6 в группе. Выберите записывающего/ отчитывающегося для представления отчета (1 минута на группу) после завершения этапа 6."
 
 #. type: Title ===
 #: data-journey.en.adoc:137
@@ -1309,7 +1309,7 @@ msgstr "Изучите информацию о том, какая информа
 #. type: Plain text
 #: data-journey.en.adoc:174
 msgid "In a workshop setting, complete task 9 as a group. Select a recorder/reporter to report back (2 minutes per group) after task 9 is complete."
-msgstr ""
+msgstr "В настройках семинара выполните Этап 9 в группе. Выберите записывающего/ отчитывающегося для представления отчета (2 минуты на группу) после завершения этапа 9."
 
 #. type: Title ===
 #: data-journey.en.adoc:175
@@ -1336,12 +1336,12 @@ msgstr "Скачайте файл по ссылке:../exercise-data/sequences.z
 #. type: Plain text
 #: data-journey.en.adoc:185
 msgid "Get an identification for a sequence by copying-pasting an “unknown” DNA sequence to BOLD."
-msgstr ""
+msgstr "Проведите идентификацию последовательности путем копирования-вставки «неизвестной» последовательности ДНК в BOLD."
 
 #. type: Plain text
 #: data-journey.en.adoc:186
 msgid "Enter species names and check whether they have records in BOLD, look these sequences with the sequence analysis tools in BOLD."
-msgstr ""
+msgstr "Введите названия видов и проверьте, есть ли у них записи в BOLD, просмотрите эти последовательности с помощью инструментов анализа последовательностей в BOLD."
 
 #. type: Plain text
 #: data-journey.en.adoc:187
@@ -1528,7 +1528,7 @@ msgstr "Задание 14"
 #. type: Plain text
 #: data-journey.en.adoc:251
 msgid "Continue using the same file. Filter for the cracca species."
-msgstr ""
+msgstr "Продолжайте использовать тот же файл. Фильтр для вида cracca."
 
 #. type: Plain text
 #: data-journey.en.adoc:252
@@ -1543,12 +1543,12 @@ msgstr "виды - валидные ли названия?"
 #. type: Plain text
 #: data-journey.en.adoc:254
 msgid "decimalLatitude and decimalLongitude - Are all the coordinates consistent and in decimal format?"
-msgstr ""
+msgstr "decimalLatitude и decimalDolude - Все ли координаты согласованы и имеют десятичный формат?"
 
 #. type: Plain text
 #: data-journey.en.adoc:255
 msgid "decimalLatitude and decimalLongitude - Are all the occurrences with coordinates taking place in Armenia?"
-msgstr ""
+msgstr "decimalLatitude и decimalДолгота - Все ли наблюдения с координатами происходят в Армении?"
 
 #. type: Plain text
 #: data-journey.en.adoc:256
@@ -1569,17 +1569,17 @@ msgstr "Для завершения работы вам понадобится 6
 #. type: Plain text
 #: data-journey.en.adoc:264
 msgid "Use OpenRefine to improve the quality of a dataset by using the default features, existing web services and regular expressions."
-msgstr ""
+msgstr "Используйте OpenRefine для повышения качества набора данных с помощью функций по умолчанию, существующих веб-служб и регулярных выражений."
 
 #. type: Plain text
 #: data-journey.en.adoc:265
 msgid "Download link:../exercise-data/UC1-3c-open-refine.csv[UC1-3c-open-refine.csv,opts=download]. (207.5 KB)"
-msgstr ""
+msgstr "Скачайте файл по ссылке:../exercise-data/-open-refine.csv[UC1-3c-open-refine.csv,opts=download файл, opts=download] (ZIP 207.5 KB)"
 
 #. type: Plain text
 #: data-journey.en.adoc:266
 msgid "Download and complete the exercises in link:../course-docs/OpenRefine-Exercise3c-EN.pdf[OpenRefine-Exercise3c-EN.pdf,opts=download]. (PDF, 1.1 MB)"
-msgstr ""
+msgstr "Скачайте и завершите упражнения в link:../course-docs/OpenRefine-Exercise3c-EN.pdf[OpenRefine-Exercise3c-EN.pdf,opts=download]. (PDF, 1.1 MB)"
 
 #. type: Title ===
 #: data-journey.en.adoc:267
@@ -1665,17 +1665,17 @@ msgstr "Задание 17"
 #. type: Plain text
 #: data-journey.en.adoc:301
 msgid "Upload specimen data"
-msgstr ""
+msgstr "Загрузить данные образца"
 
 #. type: Plain text
 #: data-journey.en.adoc:302
 msgid "Upload images"
-msgstr ""
+msgstr "Загрузить изображение"
 
 #. type: Plain text
 #: data-journey.en.adoc:302
 msgid "Upload sequence & trace files"
-msgstr ""
+msgstr "Выгрузить последовательность и файлы трассировки"
 
 #. type: Title ==
 #: species-identification.en.adoc:1
@@ -1725,7 +1725,7 @@ msgstr "Выполнить шаг 3, задачи 7-9"
 #: species-identification.en.adoc:34
 #, no-wrap
 msgid "Species identification and delimitation with DNA "
-msgstr ""
+msgstr "Идентификация и делимитация видов ДНК "
 
 #. type: delimited block +
 #: species-identification.en.adoc:49
@@ -1785,12 +1785,12 @@ msgstr "Завершите шаг 5, задача11."
 #: data-capture.en.adoc:1
 #, no-wrap
 msgid "Data capture"
-msgstr ""
+msgstr "Сбор данных"
 
 #. type: Plain text
 #: data-capture.en.adoc:6
 msgid "In this module, you will learn the types of primary biodiversity data and how to best share that information within GBIF.  You will also review principles of data quality in the context of data capture and will learn about data quality and coherence (especially on subjects such as georeferencing, dates, names and taxa cross-checking)."
-msgstr "В этом модуле вы узнаете типы первичных данных о биоразнообразии и как наилучшим образом обмениваться этой информацией в GBIF. Вы также рассмотрите принципы качества данных в контексте сбора данных и узнаете о качестве и согласованности данных (особенно по таким вопросам, как географическое распределение), даты, названия и перекрестная таксономическая проверка)."
+msgstr "В этом модуле вы узнаете типы первичных данных о биоразнообразии и как наилучшим образом обмениваться этой информацией в рамках GBIF. Вы также рассмотрите принципы качества данных в контексте сбора данных и узнаете о качестве и согласованности данных (особенно по таким вопросам, как географическое распределение), даты, названия и перекрестная таксономическая проверка)."
 
 #. type: Title ===
 #: data-capture.en.adoc:7
@@ -1801,7 +1801,7 @@ msgstr "Источники и типы данных"
 #. type: Plain text
 #: data-capture.en.adoc:12
 msgid "In this video (10:45), you will review https://www.gbif.org/dataset-classes[primary biodiversity data^] that can be shared within GBIF.  If you are unable to watch the embedded video, you can link:../videos/data_origins_types.mp4[download^,opts=download] it locally. (MP4 - 19 MB)"
-msgstr ""
+msgstr "В этом видеоролике (10:45) вы рассмотрите https://www.gbif.org/dataset-classes [первичные данные о биоразнообразии ^], которыми можно поделиться в рамках GBIF. Если вы не можете посмотреть встроенное видео, вы можете скачать его по ссылке link:../videos/data_origins_types.mp4[download^,opts=download]. (MP4 - 19 МБ)"
 
 #. type: Title ====
 #: data-capture.en.adoc:16
@@ -1812,7 +1812,7 @@ msgstr "Обзор типов данных"
 #. type: Plain text
 #: data-capture.en.adoc:20
 msgid "Quiz yourself on the concepts learned in this section."
-msgstr ""
+msgstr "Проверьте себя на освоение понятий, изученных в этом разделе."
 
 #.  Note the lack of empty lines between the end of the question (....) and the start of the next question
 #.  (. What…) is required, so I have added // comments to help separate them.
@@ -1891,7 +1891,7 @@ msgstr "- [x] наблюдение\n"
 #. type: Plain text
 #: data-capture.en.adoc:69
 msgid "What dataset type(s) would you choose for bird tracking data?"
-msgstr ""
+msgstr "Какой тип(ы) набора(ов) данных вы бы выбрали для данных управления национальными парками?"
 
 #. type: delimited block .
 #: data-capture.en.adoc:73
@@ -1973,7 +1973,7 @@ msgstr "Какой тип (типы) наборов данных вы выбир
 #: data-capture.en.adoc:116
 #, no-wrap
 msgid "Citizen science data are often collected through thematic fieldwork days known as a “bioblitz.” Volunteers typically gather in a given area and spend the day trying to observe and identify as many species as they can in this area.\n"
-msgstr ""
+msgstr "Данные гражданской науки зачастую собираются во время тематических полевых дней, известныех как «биоблиц». Волонтеры, как правило, собираются в конкретном регионе и проводят день наблюдая и определяя столько видов, сколько смогут найти в этом регионе.\n"
 
 #. type: delimited block .
 #: data-capture.en.adoc:118
@@ -2059,7 +2059,7 @@ msgstr ""
 #. type: delimited block =
 #: data-capture.en.adoc:167
 msgid "checklist + Invasive species can be tracked and monitored at different scales (regional, national, thematic…); as this type of dataset focuses more on the species and their distribution across a given geographical scope, they are mainly shared as taxonomical datasets within GBIF (https://www.gbif.org/dataset/search?project_id=GRIIS[see GRIIS search results])."
-msgstr ""
+msgstr "таксономический список + инвазивные виды могут отслеживаться и контролироваться в различных масштабах (региональном, национальном, тематическом...); поскольку этот тип набора данных больше фокусируется на видах и их распределении по данному географическому охвату, они в основном используются в качестве таксономических наборов данных в рамках GBIF (https://www.gbif.org/dataset/search?project_id=GRIIS [см. результаты поиска GRIIS])."
 
 #. type: delimited block =
 #: data-capture.en.adoc:169
@@ -2097,12 +2097,12 @@ msgstr ""
 #. type: delimited block =
 #: data-capture.en.adoc:184
 msgid "occurrence + Although such data can be shared as simple occurrence datasets, it is best if they’re shared as event datasets, where the location, identifier and contents of each trap can be better detailed."
-msgstr ""
+msgstr "наблюдение + Хотя такие данные могут совместно использоваться как простые наборы данных наблюдений, лучше всего, если они совместно используются как наборы данных событий, где местоположение, идентификатор и содержимое каждой ловушки могут быть более детализированы."
 
 #. type: delimited block =
 #: data-capture.en.adoc:188
 msgid "sampling event + Insect traps (as well as other traps such as pitfall traps, malaise traps…) are typically used in monitoring programmes to check the presence (or absence) of some species and/or assess their specific abundance.  Using the “eventID” field to identify each trap allows the users to get all of the specimens collected within each trap.  The same logic applies to other field protocols such as transects, plots, remote cameras, etc.: by using the Event Core instead of the Occurrence core, you’ll be able to share much more information about the context of the data collection, and allow users to better understand (and even replicate) your work."
-msgstr ""
+msgstr "отбор проб + ловушки для насекомых (а также другие ловушки, такие как ловушки Барбера, ловушки Малеза...), как правило, используются в программах мониторинга для проверки наличия (или отсутствия) некоторых видов и/или оценки их конкретной численности. Использование поля «eventID» для идентификации каждой ловушки позволяет пользователям получить все образцы, собранные в каждой ловушке. Та же логика применима и к другим полевым протоколам, таким как трансекты, графики, удаленные камеры и т. д.: используя ядро Event Core вместо ядра Occurrence, вы сможете обмениваться гораздо большей информацией о контексте сбора данных и позволять пользователям лучше понимать (и даже воспроизвести) вашу работу."
 
 #. type: delimited block =
 #: data-capture.en.adoc:190
@@ -2213,7 +2213,7 @@ msgstr "Принципы управления данными"
 #. type: Plain text
 #: data-management.en.adoc:10
 msgid "In this video (09:49), you will review an important set of principles necessary to improve data through the processes of data cleaning.  If you are unable to watch the embedded video, you can link:../videos/Data_Management.mp4[download^,opts=download] it locally. (MP4 - 16.6 MB)"
-msgstr ""
+msgstr "В этом видео (09:49) вы узнаете о различных инструментах, которые вы можете использовать для улучшения качества ваших данных. Если вы не можете смотреть встроенное видео, вы можете воспользоваться ссылкой link:../videos/Data_Management_Tools.mp4[download,opts=download] локально. (MP4 - 16.6 MB)"
 
 #. type: Title ===
 #: data-management.en.adoc:14
@@ -2335,7 +2335,8 @@ msgstr "*Обмен*: \n"
 msgid "*Outliers*: \n"
 "Detect outliers, but remember that not all outliers are necessarily errors. \n"
 "For example, compare against a known species range, or known environmental range (but remember that outliers may be misidentifications, rather than incorrect coordinates).\n"
-msgstr ""
+msgstr "* Отклонения *: \n"
+"Обнаруживайте отклонения, но помните, что не все отклонения обязательно являются ошибками. Например, сравните с известным спектром видов или известным экологическим диапазоном (но помните, что отклонения могут быть неправильной идентификацией, а не неправильными координатами).\n"
 
 #. type: Plain text
 #: data-management.en.adoc:70
@@ -2343,7 +2344,9 @@ msgstr ""
 msgid "*Geographic*: \n"
 "Are the coordinates within the identified locality or region? \n"
 "For example, are there any terrestrial occurrences in the sea or marine occurrences on land?\n"
-msgstr ""
+msgstr "*География*: \n"
+"Координаты в пределах идентифицированного населенного пункта или региона?\n"
+"Например, имеются ли какие-либо наземные наблюдения на море или морские наблюдения на суше?\n"
 
 #. type: Plain text
 #: data-management.en.adoc:74
@@ -2352,14 +2355,16 @@ msgid "*Collecting patterns*: \n"
 "Does the occurrence detail match the known collecting patterns of the organization or collector?\n"
 "Do any records appear to have been created after a collector has died (could this possibly be a different collector with a similar name)?\n"
 "For example, are any mammal records attributed to a bird watching group?\n"
-msgstr ""
+msgstr "*Коллекционные шаблоны*: \n"
+"Соответствует ли подробная информация о наблюдении известным коллекционным шаблонам организации или сборщика? Возможно ли создание каких-либо записей после смерти сборщика (возможно, это другой сборщик с похожим именем)? Например, приписываются ли какие-либо записи о млекопитающих группе, наблюдающей за птицами?\n"
 
 #. type: Plain text
 #: data-management.en.adoc:76
 #, no-wrap
 msgid "*Accuracy and precision*: \n"
 "For example, are any georeferenced records indicating very high precision or accuracy from a pre-GPS (or pre-accurate GPS) collecting period?\n"
-msgstr ""
+msgstr "*Аккуратность и точность*: \n"
+"Например, являются ли какие-либо географически привязанные записи, указывающие на очень высокую точность или аккуратность из периода сбора данных до GPS (или до точности GPS)?\n"
 
 #. type: Plain text
 #: data-management.en.adoc:79
@@ -2367,7 +2372,8 @@ msgstr ""
 msgid "*Collecting methods*: \n"
 "Different survey methods (e.g. transects and area surveys) have particular characteristics. \n"
 "Are the records consistent with the method provided?\n"
-msgstr ""
+msgstr "* Методы сбора *: \n"
+"Различные методы обследования (например, трансекты и обследования целых районов) имеют особые характеристики. Согласуются ли записи с предоставленным методом?\n"
 
 #. type: Title ====
 #: data-management.en.adoc:80
@@ -3009,258 +3015,258 @@ msgstr "Чувствительные виды"
 #. type: Plain text
 #: keydocs.en.adoc:135
 msgid "https://doi.org/10.15468/doc-5jp4-5g10[Current Best Practices for Generalizing Sensitive Species Occurrence Data^] + Arthur D. Chapman 2020."
-msgstr ""
+msgstr "https://doi.org/10.15468/doc-5jp4-5g10 [Текущая передовая практика обобщения данных о наблюдениях чувствительных видов ^] + Arthur D. Chapman 2020."
 
 #. type: Title ===
 #: keydocs.en.adoc:136
 #, no-wrap
 msgid "Taxonomy"
-msgstr ""
+msgstr "Таксономия"
 
 #. type: Plain text
 #: keydocs.en.adoc:139
 msgid "https://data-blog.gbif.org/post/gbif-checklist-datasets-and-data-gaps/[GBIF checklist datasets and data gaps^]"
-msgstr ""
+msgstr "https://data-blog.gbif.org/post/gbif-checklist-datasets-and-data-gaps/ [Наборы данных таксономических списков и пробелы в данных GBIF ^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:140
 msgid "https://www.gbif.org/tools/name-parser[GBIF Labs - Names Parser^]"
-msgstr ""
+msgstr "https://www.gbif.org/tools/name-parser [GBIF Labs - анализатор названий^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:141
 msgid "https://www.gbif.org/tools/species-lookup[GBIF Labs - Species Matching^]"
-msgstr ""
+msgstr "https://www.gbif.org/tools/species-lookup [GBIF Labs - Сопоставление видов ^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:142
 msgid "http://resolver.globalnames.org/[Global Names Resolver^]"
-msgstr ""
+msgstr "http://resolver.globalnames.org/ [Глобальный распознаватель названий^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:143
 msgid "https://obis.org/manual/namematching/[Marine Name Matching Strategy for taxonomic quality control^]"
-msgstr ""
+msgstr "https://obis.org/manual/namematching/ [Стратегия сопоставления морских названий для таксономического контроля качества^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:143
 msgid "http://match.taibif.tw/index.html[Nomenmatch^]"
-msgstr ""
+msgstr "http://match.taibif.tw/index.html[Nomenmatch^]"
 
 #. type: Title ==
 #: glossary.en.adoc:2
 #, no-wrap
 msgid "Glossary"
-msgstr ""
+msgstr "Словарь"
 
 #. Glossaries are optional. Glossaries entries are an example of a style of AsciiDoc labelled lists.
 #. type: Labeled list
 #: glossary.en.adoc:7
 #, no-wrap
 msgid "[[ALA]]ALA"
-msgstr ""
+msgstr "[[ALA]]ALA"
 
 #. type: Plain text
 #: glossary.en.adoc:9
 msgid "Atlas of Living Australia.  The Australian node of GBIF, who developed an open source data portal now widely used within the GBIF community & partners for biodiversity national portals."
-msgstr ""
+msgstr "Атлас живой Австралии. Австралийский узел GBIF, который разработал портал данных с открытым исходным кодом, в настоящее время широко используется в рамках сообщества и партнеров GBIF для национальных порталов биоразнообразия."
 
 #. type: Labeled list
 #: glossary.en.adoc:10
 #, no-wrap
 msgid "[[API]]API"
-msgstr ""
+msgstr "[[API]]API"
 
 #. type: Plain text
 #: glossary.en.adoc:12
 msgid "Application Programming Interface.  A set of clearly defined methods of communication between various software components."
-msgstr ""
+msgstr "Интерфейс прикладного программирования. Набор четко определенных способов связи между различными программными компонентами."
 
 #. type: Labeled list
 #: glossary.en.adoc:13
 #, no-wrap
 msgid "[[BID]]BID"
-msgstr ""
+msgstr "[[BID]]BID"
 
 #. type: Plain text
 #: glossary.en.adoc:15
 msgid "Biodiversity Information for Development.  An EU funded project co-ordinated by GBIF whose aim is to increase data mobilization capacity in the Africa, Caribbean and Pacific regions."
-msgstr ""
+msgstr "Информация о биоразнообразии в целях развития. Финансируемый ЕС проект, координируемый GBIF и направленный на расширение возможностей по мобилизации данных в регионах Африки, Карибского бассейна и Тихого океана."
 
 #. type: Labeled list
 #: glossary.en.adoc:16
 #, no-wrap
 msgid "[[BIFA]]BIFA"
-msgstr ""
+msgstr "[[BIFA]]BIFA"
 
 #. type: Plain text
 #: glossary.en.adoc:17
 msgid "Biodiversity Fund for Asia."
-msgstr ""
+msgstr "Фонд биоразнообразия Азии."
 
 #. type: Labeled list
 #: glossary.en.adoc:18
 #, no-wrap
 msgid "[[CC]]CC Licences"
-msgstr ""
+msgstr "Лицензии CC"
 
 #. type: Plain text
 #: glossary.en.adoc:21
 msgid "Creative Commons.  These are a series of licenses set up by the Creative Commons organization that enable sharing and reuse of creativity and knowledge through the provision of free legal tools.  Three of them can be assigned to GBIF-shared datasets: CC0, CC BY and CC BY-NC."
-msgstr ""
+msgstr "Creative Commons. Это серия лицензий, созданных организацией Creative Commons, которые позволяют обмениваться и повторно использовать творчество и знания посредством предоставления бесплатных юридических инструментов. Три из них могут быть назначены совместно используемым наборам данных GBIF: CC0, CC BY и CC BY-NC."
 
 #. type: Labeled list
 #: glossary.en.adoc:22
 #, no-wrap
 msgid "[[vocab]]Controlled Vocabulary"
-msgstr ""
+msgstr "[Контролируемый словарь"
 
 #. type: Plain text
 #: glossary.en.adoc:26
 msgid "This is a restricted set of terms that are used as possible values for a given field.  One can think of it as a lookup list or dropdown for a particular field.  For example the DwC field basisOfRecord should only contain one of these values: \"PreservedSpecimen\", \"FossilSpecimen\", \"LivingSpecimen\", \"HumanObservation\", \"MachineObservation\".  We would say that list of values is a controlled vocabulary for that field."
-msgstr ""
+msgstr "Это ограниченный набор терминов, которые используются в качестве возможных значений для данного поля. Его можно рассматривать как список подстановки или раскрывающийся список для определенного поля. Например, область DwC basisOfRecord должно содержать только одно из этих значений: «PreservedSpecimen», «FossilSpecimen», «LivingSpecimen», «HumanObservation», «MachineObservation». Мы бы сказали, что список значений является контролируемым словарем для этой области."
 
 #. type: Labeled list
 #: glossary.en.adoc:27
 #, no-wrap
 msgid "[[DwC]]DwC"
-msgstr ""
+msgstr "[[DwC]]DwC"
 
 #. type: Plain text
 #: glossary.en.adoc:29
 msgid "Darwin Core is a biodiversity data standard, maintained by TDWG & widely used within the GBIF community and partners.  It is a set of standardized terms (or field names) and their definitions, which are used to share biodiversity information."
-msgstr ""
+msgstr "Darwin Core - это стандарт данных о биоразнообразии, поддерживаемый TDWG и широко используемый в сообществе и партнерах GBIF. Это набор стандартизированных терминов (или названий полей) и их определений, которые используются для обмена информацией о биоразнообразии."
 
 #. type: Labeled list
 #: glossary.en.adoc:30
 #, no-wrap
 msgid "[[DOI]]DOI"
-msgstr ""
+msgstr "[[DOI]]DOI"
 
 #. type: Plain text
 #: glossary.en.adoc:32
 msgid "Digital Object Identifier.  A persistent identifier or handle used to uniquely identify objects. DOIs are in wide use mainly to identify academic, professional, and government information, such as journal articles, research reports and data sets, and official publications."
-msgstr ""
+msgstr "Digital Object Identifier (Цифровой идентификатор объекта). Постоянный идентификатор или дескриптор, используемый для уникальной идентификации объектов. DOI широко используются в основном для выявления академической, профессиональной и правительственной информации, такой как журнальные статьи, исследовательские отчеты и наборы данных, а также официальных публикаций."
 
 #. type: Labeled list
 #: glossary.en.adoc:33
 #, no-wrap
 msgid "[[DwC-A]]DwC-A"
-msgstr ""
+msgstr "[[DwC-A]]DwC"
 
 #. type: Plain text
 #: glossary.en.adoc:36
 msgid "Darwin Core Archive.  A compressed (zipped) file containing all the information needed to share with GBIF, for a particular resource.  Each zip contains three types of files:"
-msgstr ""
+msgstr "Архив Darwin Core. Сжатый (архивированный) файл, содержащий всю информацию, необходимую для совместного использования с GBIF для определенного ресурса. Каждый zip содержит три типа файлов:"
 
 #. type: Plain text
 #: glossary.en.adoc:37
 msgid "the actual data, in one or more text files: occurrence.txt/event.txt/measurmentoffact.txt etc"
-msgstr ""
+msgstr "фактические данные в одном или нескольких текстовых файлах: occurrence.txt/event.txt/measurmentoffact.txt и т.д"
 
 #. type: Plain text
 #: glossary.en.adoc:38
 msgid "a mapping file: rtf.xml"
-msgstr ""
+msgstr "файл сопоставления: rtf.xml"
 
 #. type: Plain text
 #: glossary.en.adoc:41
 msgid "a metadata (EML) file: eml.xml When you publish using the IPT, it creates a Darwin Core Archive, which is shared with GBIF.  Also, when you download data from the GBIF website you can choose a DwC-A format as well."
-msgstr ""
+msgstr "файл метаданных (EML) eml.xml. При публикации с помощью IPT создается архив Darwin Core, совместно используемый с GBIF. Кроме того, при загрузке данных с сайта GBIF можно также выбрать формат DwC-A."
 
 #. type: Labeled list
 #: glossary.en.adoc:42
 #, no-wrap
 msgid "[[GUID]]GUID"
-msgstr ""
+msgstr "[[GUID]]GUID"
 
 #. type: Plain text
 #: glossary.en.adoc:43
 msgid "Globally Unique IDentifier"
-msgstr ""
+msgstr "Globally Unique Identifier (Глобальный идентификатор уникальных имен)"
 
 #. type: Labeled list
 #: glossary.en.adoc:44
 #, no-wrap
 msgid "[[IPT]]IPT"
-msgstr ""
+msgstr "[[IPT]]IPT"
 
 #. type: Plain text
 #: glossary.en.adoc:48
 msgid "Integrated Publishing Toolkit.  It is a free and open source web application (software) for publishing biodiversity data.  The software itself lives on a server (either at your institution or elsewhere) that must have access to the internet 24/7.  It is used to create and handle Darwin Core Archive files that can be shared and used by anyone including GBIF."
-msgstr ""
+msgstr "Integrated Publishing Toolkit (интегрированный набор средств публикации). Это бесплатное и открытое веб-приложение (программное обеспечение) для публикации данных о биоразнообразии. Само программное обеспечение находится на сервере (либо в вашем учреждении, либо в другом месте), который должен иметь доступ к Интернету 24/7. Он используется для создания и обработки файлов Darwin Core Archive, которые могут совместно использоваться любым пользователем, включая GBIF."
 
 #. type: Labeled list
 #: glossary.en.adoc:49
 #, no-wrap
 msgid "[[loan]]Loan"
-msgstr ""
+msgstr "Заимствование"
 
 #. type: Plain text
 #: glossary.en.adoc:50
 msgid "In the context of natural history collections, this is the procedure of lending specimens between institutions."
-msgstr ""
+msgstr "В контексте коллекций естественной истории это процедура заимствования образцов между учреждениями."
 
 #. type: Labeled list
 #: glossary.en.adoc:51
 #, no-wrap
 msgid "[[LSID]]LSID"
-msgstr ""
+msgstr "[[LSID]]LSID"
 
 #. type: Plain text
 #: glossary.en.adoc:53
 msgid "Life Sciences Identifier.  They are persistent, globally unique identifiers for biological objects."
-msgstr ""
+msgstr "Life Sciences Identifier (идентификатор наук о жизни). Они являются постоянными, глобально уникальными идентификаторами биологических объектов."
 
 #. type: Labeled list
 #: glossary.en.adoc:54
 #, no-wrap
 msgid "[[DP]]Data Publishing"
-msgstr ""
+msgstr "[Публикация данных"
 
 #. type: Plain text
 #: glossary.en.adoc:56
 msgid "With regards to GBIF we have a very specific definition of data publishing.  It refers to making biodiversity datasets publicly accessible and discoverable, in a standardized form, via an access point, typically a web address (a URL)."
-msgstr ""
+msgstr "По отношению к GBIF, у нас есть очень конкретное определение публикации данных. Речь идет о том, чтобы сделать наборы данных о биоразнообразии общедоступными и обнаруживаемыми в стандартизированной форме через точку доступа, как правило, через веб-адрес (URL)."
 
 #. type: Labeled list
 #: glossary.en.adoc:57
 #, no-wrap
 msgid "[[resource]]Resource"
-msgstr ""
+msgstr "[[resource]]Ресурсы"
 
 #. type: Plain text
 #: glossary.en.adoc:58
 msgid "A Resource is the collective term used to refer to a particular dataset and its metadata once it has been uploaded to an IPT instance."
-msgstr ""
+msgstr "Ресурс - это собирательный термин, используемый для ссылки на определенный набор данных и его метаданные после загрузки в конкретный IPT."
 
 #. type: Labeled list
 #: glossary.en.adoc:59
 #, no-wrap
 msgid "[[TDWG]]TDWG"
-msgstr ""
+msgstr "[[TDWG]]TDWG"
 
 #. type: Plain text
 #: glossary.en.adoc:60
 msgid "Taxonomic Databases Working Group, now renamed Biodiversity Information Standards."
-msgstr ""
+msgstr "Рабочая группа по таксономическим базам данных, которая в настоящее время переименована в стандарты информации о биоразнообразии."
 
 #. type: Labeled list
 #: glossary.en.adoc:61
 #, no-wrap
 msgid "[[URN]]URN"
-msgstr ""
+msgstr "[[URN]]URN"
 
 #. type: Plain text
 #: glossary.en.adoc:62
 msgid "Uniform Resource Number"
-msgstr ""
+msgstr "Uniform Resource Number (Унифицированный номер ресурса)"
 
 #. type: Labeled list
 #: glossary.en.adoc:63
 #, no-wrap
 msgid "[[UUID]]UUID"
-msgstr ""
+msgstr "[[UUID]]UUID"
 
 #. type: Plain text
 #: glossary.en.adoc:64
@@ -3276,7 +3282,7 @@ msgstr ""
 #: colophon.en.adoc:1
 #, no-wrap
 msgid "Colophon"
-msgstr ""
+msgstr "Колофон"
 
 #. type: Title ===
 #: colophon.en.adoc:3
@@ -3287,7 +3293,7 @@ msgstr "Предлагаемая цитата"
 #. type: Plain text
 #: colophon.en.adoc:6
 msgid "Accelerating biodiversity research through DNA barcodes, collection and observation data. 1st edition. GBIF Secretariat: Copenhagen. https://doi.org/10.35035/DZE9-MP34. [Date of course]"
-msgstr ""
+msgstr "Ускорение исследований биоразнообразия с помощью ДНК-баркодов, сбора и наблюдения данных. 1-е издание. Секретариат GBIF: Копенгаген. https://doi.org/10.35035/DZE9-MP34. [Дата проведения]"
 
 #. type: Title ===
 #: colophon.en.adoc:7
@@ -3309,7 +3315,7 @@ msgstr "Благодарности"
 #. type: Plain text
 #: colophon.en.adoc:14
 msgid "Icons made by https://www.freepik.com[Freepik] from https://www.flaticon.com/[flaticon.com]."
-msgstr ""
+msgstr "Иконки, созданные https://www.freepik.com[Freepik] с https://www.flaticon.com/[flaticon.com]."
 
 #. type: Title ===
 #: colophon.en.adoc:15
@@ -3337,12 +3343,12 @@ msgstr ""
 #: colophon.en.adoc:23
 #, no-wrap
 msgid "Document control"
-msgstr ""
+msgstr "Управление документами"
 
 #. type: Plain text
 #: colophon.en.adoc:25
 msgid "First edition, June 2021"
-msgstr ""
+msgstr "Первое издание, июнь 2021 года"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:4
@@ -3359,7 +3365,9 @@ msgstr ""
 msgid "WEBVTT\n"
 "Kind: captions\n"
 "Language: en\n"
-msgstr ""
+msgstr "WEBTT\n"
+"Kind: подписи\n"
+"Язык: en\n"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:8
@@ -3546,7 +3554,7 @@ msgstr "00:01:38.380 --> 00:01:45.299\n"
 msgid "00:01:45.299 --> 00:01:50.939\n"
 "GBIF provides data publishers with templates\n"
 "for each class of dataset.\n"
-msgstr ""
+msgstr "GBIF предоставляет издателям данных шаблоны для каждого класса набора данных.\n"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:84
@@ -3554,7 +3562,8 @@ msgstr ""
 msgid "00:01:50.939 --> 00:01:56.209\n"
 "The GBIF template for checklists (taxon Data)\n"
 "allows you to share information linked to\n"
-msgstr ""
+msgstr "00:01:50.939 --> 00:01:56.209\n"
+"GBIF шаблон для таксономических списков (taxon Data) позволяет вам поделиться информацией, связанной с\n"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:88
@@ -3562,7 +3571,8 @@ msgstr ""
 msgid "00:01:56.209 --> 00:02:03.420\n"
 "each species or taxa: its ID, full name and\n"
 "authorship, relationship to other taxa, geographical\n"
-msgstr ""
+msgstr "00:01:56.209 --> 00:02:03:420\n"
+"каждым видом или таксоном: его ID (идентификационный номер), полное название и авторство, отношение к другим таксонам, географические\n"
 
 #. type: Plain text
 #: videos/data_origins_types.en.vtt:91
@@ -4902,7 +4912,7 @@ msgstr "00:04:12.309 --> 00:04:17.049\n"
 msgid "00:04:17.049 --> 00:04:20.169\n"
 "niche modelling or studies about species distribution.\n"
 msgstr "00:04:17.049 --> 00:04:20:169\n"
-"моделирование ниши или изучении распространения видов.\n"
+"моделирование ниши или изучение распространения видов.\n"
 
 #. type: Plain text
 #: videos/Data_capture_processing_quality.en.vtt:219
