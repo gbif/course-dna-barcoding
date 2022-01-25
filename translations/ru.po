@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: publishing-dna-derived-data\n"
 "POT-Creation-Date: 2021-12-08 16:51+0000\n"
-"PO-Revision-Date: 2022-01-25 17:10\n"
+"PO-Revision-Date: 2022-01-25 22:06\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -8207,14 +8207,14 @@ msgstr "Если обязательные поля не указаны, GBIF б�
 msgid "00:07:54.169 --> 00:07:59.129\n"
 "Each core has its own set of required and\n"
 "recommended fields for the dataset and for\n"
-msgstr ""
+msgstr "Каждое ядро имеет свой собственный набор обязательных и рекомендуемых полей для\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:360
 #, no-wrap
 msgid "00:07:59.129 --> 00:08:02.740\n"
 "the associated dataset metadata.\n"
-msgstr ""
+msgstr "набора данных и для связанных метаданных набора данных.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:364
@@ -8222,14 +8222,14 @@ msgstr ""
 msgid "00:08:02.740 --> 00:08:08.099\n"
 "As you now know, metadata is the data about\n"
 "your data and it enables users to know if\n"
-msgstr ""
+msgstr "Как вам теперь известно, метаданные - это данные о данных, которые позволяют пользователям узнать, \n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:367
 #, no-wrap
 msgid "00:08:08.099 --> 00:08:11.060\n"
 "your dataset will be fit for their use.\n"
-msgstr ""
+msgstr "подходит ли набор данных для их использования.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:371
@@ -8253,7 +8253,7 @@ msgstr "Чем больше данных вы можете представит�
 msgid "00:08:20.770 --> 00:08:29.499\n"
 "You can find the data quality on the gbif\n"
 "website under the How-to menu.\n"
-msgstr ""
+msgstr "Качество данных можно найти на веб-сайте gbif в меню « How-to (Как)».\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:383
@@ -8261,7 +8261,7 @@ msgstr ""
 msgid "00:08:29.499 --> 00:08:33.400\n"
 "Extensions were introduced in the Standards\n"
 "presentation.\n"
-msgstr ""
+msgstr "В презентацию стандартов были включены расширения.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:387
@@ -8269,7 +8269,7 @@ msgstr ""
 msgid "00:08:33.400 --> 00:08:37.450\n"
 "Publishing a dataset is now where you will\n"
 "put them into use.\n"
-msgstr ""
+msgstr "Теперь можно использовать набор данных для публикации.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:391
