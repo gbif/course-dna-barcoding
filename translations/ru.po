@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: publishing-dna-derived-data\n"
 "POT-Creation-Date: 2021-12-08 16:51+0000\n"
-"PO-Revision-Date: 2022-01-25 09:15\n"
+"PO-Revision-Date: 2022-01-25 17:10\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -8112,7 +8112,7 @@ msgstr "Последний вариант - ядро события.\n"
 msgid "00:06:51.219 --> 00:06:57.650\n"
 "As a reminder, sampling event datasets allow\n"
 "data publishers to provide greater detail,\n"
-msgstr ""
+msgstr "Напоминаем, что наборы данных о событиях выборки позволяют издателям данных предоставлять более подробную информацию,\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:316
@@ -8120,7 +8120,7 @@ msgstr ""
 msgid "00:06:57.650 --> 00:07:02.510\n"
 "not only offering evidence that a species\n"
 "occurred at a given location and date, but\n"
-msgstr ""
+msgstr "не только предлагая доказательства того, что вид найден в данном месте и времени, но \n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:320
@@ -8128,7 +8128,7 @@ msgstr ""
 msgid "00:07:02.510 --> 00:07:08.169\n"
 "also making it possible to assess community\n"
 "composition for broader taxonomic groups or\n"
-msgstr ""
+msgstr "также позволяя оценить состав сообщества для более обширных таксономических групп или \n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:324
@@ -8136,7 +8136,7 @@ msgstr ""
 msgid "00:07:08.169 --> 00:07:12.129\n"
 "even the abundance of species at multiple\n"
 "times and places.\n"
-msgstr ""
+msgstr "даже обилие видов в различное время и в нескольких местах.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:328
@@ -8144,7 +8144,7 @@ msgstr ""
 msgid "00:07:12.129 --> 00:07:18.480\n"
 "By indicating the methods, events and relative\n"
 "abundance of species recorded in a sample,\n"
-msgstr ""
+msgstr "Указывая методы, события и относительную численность видов, зарегистрированных в выборке,\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:332
@@ -8152,7 +8152,7 @@ msgstr ""
 msgid "00:07:18.480 --> 00:07:23.370\n"
 "these datasets improve comparisons with data\n"
 "collected using the same protocols at different\n"
-msgstr ""
+msgstr "эти наборы данных улучшают сравнения с данными, собранными с использованием одних и тех же протоколов в разное\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:336
@@ -8160,14 +8160,14 @@ msgstr ""
 msgid "00:07:23.370 --> 00:07:29.750\n"
 "times and places—in some cases, even leading\n"
 "researchers to infer the absence of particular\n"
-msgstr ""
+msgstr "время и в разных местах - в некоторых случаях, даже приводя исследователей к выводу об отсутствии конкретных \n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:339
 #, no-wrap
 msgid "00:07:29.750 --> 00:07:33.699\n"
 "species from particular sites.\n"
-msgstr ""
+msgstr "видов с конкретных участков.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:342
@@ -8191,7 +8191,7 @@ msgstr "00:07:22.949 --> 00:07:060\n"
 msgid "00:07:42.740 --> 00:07:47.599\n"
 "This is a good point to review all of the\n"
 "fields required by GBIF.\n"
-msgstr ""
+msgstr "Это хороший аргумент для анализа всех полей, требуемых GBIF.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:353
