@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: publishing-dna-derived-data\n"
 "POT-Creation-Date: 2021-12-08 16:51+0000\n"
-"PO-Revision-Date: 2022-01-25 06:01\n"
+"PO-Revision-Date: 2022-01-25 09:15\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -7671,7 +7671,7 @@ msgstr "использования на портале GBIF, должны быт
 msgid "00:02:13.040 --> 00:02:20.879\n"
 "CC0, a waiver for data made available for\n"
 "any use without any restrictions\n"
-msgstr ""
+msgstr "CC0, отказ от данных, доступны для любого использования без каких-либо ограничений\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:113
@@ -7679,7 +7679,7 @@ msgstr ""
 msgid "00:02:20.879 --> 00:02:27.569\n"
 "CC BY, a license for data made available for\n"
 "any use with appropriate attribution\n"
-msgstr ""
+msgstr "CC BY, лицензия на данные, доступны для любого использования с соответствующей атрибуцией\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:117
@@ -7687,14 +7687,14 @@ msgstr ""
 msgid "00:02:27.569 --> 00:02:33.760\n"
 "CC BY-NC, a license for data made available\n"
 "for any non-commercial use with appropriate\n"
-msgstr ""
+msgstr "CC BY-NC, лицензия на данные, доступные для любого некоммерческого использования с соответствующей \n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:120
 #, no-wrap
 msgid "00:02:33.760 --> 00:02:36.590\n"
 "attribution.\n"
-msgstr ""
+msgstr "атрибуцией.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:124
@@ -7710,7 +7710,7 @@ msgstr "Следует отметить, что лицензии CC-BY-NC ока
 msgid "00:02:42.939 --> 00:02:51.150\n"
 "GBIF encourages data publishers to choose\n"
 "the most open option they can wherever possible.\n"
-msgstr ""
+msgstr "GBIF призывает издателей данных выбирать наиболее открытый вариант, где это возможно.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:132
@@ -7718,7 +7718,7 @@ msgstr ""
 msgid "00:02:51.150 --> 00:03:01.319\n"
 "Projects supported through GBIF-led funding\n"
 "must use either the CC0 or CC BY options.\n"
-msgstr ""
+msgstr "Проекты, поддерживаемые за счет финансирования под руководством GBIF, должны использовать варианты CC0 или CC BY.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:136
@@ -7726,7 +7726,7 @@ msgstr ""
 msgid "00:03:01.319 --> 00:03:06.870\n"
 "The Integrated Publishing Toolkit (IPT) is\n"
 "a free, open source software tool written\n"
-msgstr ""
+msgstr "Integrated Publishing Toolkit (IPT) - это бесплатный программный инструмент с открытым исходным кодом, написанный \n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:140
@@ -7734,7 +7734,7 @@ msgstr ""
 msgid "00:03:06.870 --> 00:03:13.439\n"
 "in Java that is used to publish and share\n"
 "biodiversity datasets through the GBIF network.\n"
-msgstr ""
+msgstr "на Java, который используется для публикации и совместного использования наборов данных о биоразнообразии через сеть GBIF.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:143
@@ -7757,14 +7757,14 @@ msgstr "Приложение было переработано и переизд
 msgid "00:03:21.579 --> 00:03:25.989\n"
 "Since that time, the IPT has been updated\n"
 "periodically with new features, bug fixes\n"
-msgstr ""
+msgstr "С тех пор IPT периодически обновлялся с новыми характеристиками, исправлениями ошибок \n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:153
 #, no-wrap
 msgid "00:03:25.989 --> 00:03:27.760\n"
 "and security improvements.\n"
-msgstr ""
+msgstr "и улучшениями безопасности.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:157
@@ -7772,14 +7772,14 @@ msgstr ""
 msgid "00:03:27.760 --> 00:03:34.489\n"
 "While the IPT is maintained at GBIF, the community\n"
 "of biodiversity informatics developers are\n"
-msgstr ""
+msgstr "Хотя IPT поддерживается в GBIF, сообщество разработчиков информатики биоразнообразия может \n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:160
 #, no-wrap
 msgid "00:03:34.489 --> 00:03:37.879\n"
 "able to contribute to its development.\n"
-msgstr ""
+msgstr "внести свой вклад в его развитие.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:163
@@ -7826,14 +7826,14 @@ msgstr ""
 msgid "00:04:00.689 --> 00:04:05.279\n"
 "It is a server-side software, so it needs\n"
 "a stable connection and requires technical\n"
-msgstr ""
+msgstr "Это серверное программное обеспечение, поэтому оно нуждается в стабильном подключении и требует технического\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:184
 #, no-wrap
 msgid "00:04:05.279 --> 00:04:07.290\n"
 "administration.\n"
-msgstr ""
+msgstr "администрирования.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:188
@@ -7888,14 +7888,14 @@ msgstr ""
 msgid "00:04:36.340 --> 00:04:42.000\n"
 "At its heart, the IPT is based on Darwin Core\n"
 "and the Darwin Core text guide and its recommendations\n"
-msgstr ""
+msgstr "В основе IPT лежат Darwin Core и текстовое руководство Darwin Core, а также рекомендации\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:214
 #, no-wrap
 msgid "00:04:42.000 --> 00:04:44.680\n"
 "for sharing data in a Darwin Core Archive.\n"
-msgstr ""
+msgstr "по обмену данными в Darwin Core Archive.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:218
@@ -7903,14 +7903,14 @@ msgstr ""
 msgid "00:04:44.680 --> 00:04:50.940\n"
 "The Darwin Core contains three distinct data\n"
 "cores which match up to three of the dataset\n"
-msgstr ""
+msgstr "Darwin Core содержит три отдельных ядра данных, которые соответствуют трем типам наборов данных,\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:221
 #, no-wrap
 msgid "00:04:50.940 --> 00:04:54.140\n"
 "types that GBIF accepts.\n"
-msgstr ""
+msgstr "принятых GBIF.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:224
@@ -7925,7 +7925,7 @@ msgstr "00:04:54.140 --> 00:04:55,629\n"
 #, no-wrap
 msgid "00:04:55.629 --> 00:04:59.699\n"
 "Each dataset has one and only one Core file\n"
-msgstr ""
+msgstr "Каждый набор данных имеет один и только один файл ядра\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:231
@@ -7933,7 +7933,7 @@ msgstr ""
 msgid "00:04:59.699 --> 00:05:07.160\n"
 "Each Core file corresponds to a dataset type:\n"
 "occurrence, checklist or sampling event.\n"
-msgstr ""
+msgstr "Каждый основной файл соответствует типу набора данных: наблюдение, таксономический список или событие выборки.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:235
@@ -8034,7 +8034,7 @@ msgstr "00:06:02.900 --> 00:06:05:\n"
 msgid "00:06:05.159 --> 00:06:11.970\n"
 "As a reminder, an occurrence dataset contains\n"
 "one individual or one group of individuals.\n"
-msgstr ""
+msgstr "Напоминаем, что набор данных Наблюдения содержит одну особь или одну группу особей.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:281
@@ -8050,14 +8050,14 @@ msgstr "00:06:11.970 --> 00:06:16.240\n"
 msgid "00:06:16.240 --> 00:06:21.819\n"
 "Other fields for occurrence data include where,\n"
 "when, how and by whom was each occurrence\n"
-msgstr ""
+msgstr "Другие поля для данных о Наблюдениях включают в себя, где, когда, как и кем было обнаружено\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:288
 #, no-wrap
 msgid "00:06:21.819 --> 00:06:27.530\n"
 "observed and/or collected in the field.\n"
-msgstr ""
+msgstr "и/или собрано каждое наблюдение в полевых условиях.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:291
@@ -8073,7 +8073,7 @@ msgstr "00:06:27.530 --> 00:06:30.470\n"
 msgid "00:06:30.470 --> 00:06:35.620\n"
 "As a reminder, a checklist dataset contains\n"
 "taxonomic concepts, not individuals.\n"
-msgstr ""
+msgstr "Напоминаем, что набор данных таксономического списка содержит таксономические понятия, а не особей.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:299
@@ -8081,7 +8081,7 @@ msgstr ""
 msgid "00:06:35.620 --> 00:06:40.319\n"
 "It is a “A catalogue or list of named organisms,\n"
 "or taxa.”\n"
-msgstr ""
+msgstr "Это «Каталог или список названий организмов, или таксонов»\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:302
@@ -8104,7 +8104,7 @@ msgstr "00:06:22.949 --> 00:06:060\n"
 #, no-wrap
 msgid "00:06:49.060 --> 00:06:51.219\n"
 "The last option is the Event core.\n"
-msgstr ""
+msgstr "Последний вариант - ядро события.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:312
