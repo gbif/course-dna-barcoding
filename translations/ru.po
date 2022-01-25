@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: publishing-dna-derived-data\n"
 "POT-Creation-Date: 2021-12-08 16:51+0000\n"
-"PO-Revision-Date: 2022-01-24 19:10\n"
+"PO-Revision-Date: 2022-01-25 06:01\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -7647,7 +7647,7 @@ msgstr "00:01:48.590 --> 00:01:55.090\n"
 msgid "00:01:55.090 --> 00:02:00.580\n"
 "In an effort to document the level of openness\n"
 "of a dataset, GBIF maintains, in keeping with\n"
-msgstr ""
+msgstr "Стремясь документально подтвердить уровень открытости набора данных, GBIF, в соответствии с \n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:101
@@ -7655,7 +7655,7 @@ msgstr ""
 msgid "00:02:00.580 --> 00:02:06.850\n"
 "a 2014 decision by the GBIF governing board,\n"
 "that all data published and registered for\n"
-msgstr ""
+msgstr "решением совета управляющих GBIF 2014 года подтверждает, что все данные, опубликованные и зарегистрированные для \n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:105
@@ -7663,7 +7663,7 @@ msgstr ""
 msgid "00:02:06.850 --> 00:02:13.040\n"
 "use in the GBIF portal, must be issued with\n"
 "one of three Creative Commons options:\n"
-msgstr ""
+msgstr "использования на портале GBIF, должны быть выпущены с одним из трех вариантов Creative Commons:\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:109
