@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: publishing-dna-derived-data\n"
 "POT-Creation-Date: 2021-12-08 16:51+0000\n"
-"PO-Revision-Date: 2022-01-30 16:01\n"
+"PO-Revision-Date: 2022-01-30 18:57\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -10142,14 +10142,14 @@ msgstr "00:07:51.960 --> 00:07:55.659\n"
 msgid "00:07:55.659 --> 00:08:01.490\n"
 "Here, your dataset contains specimens collected\n"
 "in a place called Kalamazoo by a scientist\n"
-msgstr ""
+msgstr "Здесь ваш набор данных содержит образцы, собранные в месте под названием Kalamazoo ученым\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:398
 #, no-wrap
 msgid "00:08:01.490 --> 00:08:03.659\n"
 "named Richard Spruce.\n"
-msgstr ""
+msgstr "по имени Richard Spruce.\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:401
@@ -10209,7 +10209,7 @@ msgstr "00:08:31.870 --> 00:08:35.760\n"
 msgid "00:08:35.760 --> 00:08:41.669\n"
 "He was born in 1817 and died in 1893, but\n"
 "he conducted his collecting in the Amazon\n"
-msgstr ""
+msgstr "Он родился в 1817 году и умер в 1893 году, но свои сборы он проводил в бассейне Амазонки\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:426
@@ -10240,7 +10240,7 @@ msgstr "сможем быть уверены в правильности эти�
 msgid "00:08:53.670 --> 00:09:00.300\n"
 "Let’s take a look now at what Consistency,\n"
 "or precision, means to data.\n"
-msgstr ""
+msgstr "Теперь рассмотрим, что означает Согласованность или четкость данных.\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:442
