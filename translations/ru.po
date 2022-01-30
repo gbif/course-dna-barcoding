@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: publishing-dna-derived-data\n"
 "POT-Creation-Date: 2021-12-08 16:51+0000\n"
-"PO-Revision-Date: 2022-01-26 01:07\n"
+"PO-Revision-Date: 2022-01-30 13:04\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -7841,7 +7841,7 @@ msgstr "администрирования.\n"
 msgid "00:04:07.290 --> 00:04:12.870\n"
 "This is why many institutions choose to publish\n"
 "their data on hosted IPTs.\n"
-msgstr ""
+msgstr "Именно поэтому многие учреждения предпочитают публиковать свои данные на хостинговых IPT.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:192
