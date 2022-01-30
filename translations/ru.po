@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: publishing-dna-derived-data\n"
 "POT-Creation-Date: 2021-12-08 16:51+0000\n"
-"PO-Revision-Date: 2022-01-30 13:04\n"
+"PO-Revision-Date: 2022-01-30 16:01\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -7849,7 +7849,7 @@ msgstr "Именно поэтому многие учреждения предп
 msgid "00:04:12.870 --> 00:04:18.500\n"
 "You can find more information on data hosting\n"
 "on the GBIF website under the How-to menu.\n"
-msgstr ""
+msgstr "Дополнительную информацию о хостинге данных можно найти на веб-сайте GBIF в меню «How-to (Как)».\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:196
@@ -7857,14 +7857,15 @@ msgstr ""
 msgid "00:04:18.500 --> 00:04:23.830\n"
 "For the remainder of our course, we’ll be\n"
 "demonstrating and completing exercises using\n"
-msgstr ""
+msgstr "В течение оставшейся части курса продемонстрируем и завершим упражнения с использованием\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:199
 #, no-wrap
 msgid "00:04:23.830 --> 00:04:26.639\n"
 "the IPT.\n"
-msgstr ""
+msgstr "00:04:23.830 --> 00:04:26,639\n"
+"IPT.\n"
 
 #. type: Plain text
 #: videos/Data_publishing_concepts.en.vtt:203
@@ -9402,14 +9403,14 @@ msgstr ""
 msgid "00:00:55.460 --> 00:01:00.100\n"
 "Stepping back into the domain of biodiversity\n"
 "informatics, the classic definition of data\n"
-msgstr ""
+msgstr "Вернемся в область информатики биоразнообразия, классическое определение\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:55
 #, no-wrap
 msgid "00:01:00.100 --> 00:01:03.430\n"
 "quality was coined in 2005 by Arthur Chapman.\n"
-msgstr ""
+msgstr "качества данных разработал в 2005 году Arthur Chapman.\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:59
@@ -9448,14 +9449,14 @@ msgstr "ценность, которая реализуется только т�
 msgid "00:01:20.409 --> 00:01:25.320\n"
 "Information quality relates to its ability\n"
 "to satisfy its customers and to meet customers’\n"
-msgstr ""
+msgstr "Качество информации связано с ее способностью удовлетворять потребности \n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:77
 #, no-wrap
 msgid "00:01:25.320 --> 00:01:26.899\n"
 "needs (English 1999).”\n"
-msgstr ""
+msgstr "клиентов (англ. 1999). \"\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:81
@@ -9463,7 +9464,7 @@ msgstr ""
 msgid "00:01:26.899 --> 00:01:32.740\n"
 "And so, for us, as individuals who are responsible\n"
 "for maintaining data, we want the data we\n"
-msgstr ""
+msgstr "Таким образом, для нас, как лиц, ответственных за ведение данных, мы хотим, чтобы \n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:85
@@ -9471,7 +9472,7 @@ msgstr ""
 msgid "00:01:32.740 --> 00:01:37.619\n"
 "publish to be as satisfying to all of our\n"
 "potential users as possible.\n"
-msgstr ""
+msgstr "публикуемые нами данные были как можно более удовлетворительными для всех наших потенциальных пользователей.\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:89
@@ -9487,7 +9488,7 @@ msgstr "Для этого мы стремимся предоставить да�
 msgid "00:01:45.020 --> 00:01:48.909\n"
 "To help you to accomplish this task, we will\n"
 "explore Fitness for Use.\n"
-msgstr ""
+msgstr "Чтобы помочь вам выполнить эту задачу, мы рассмотрим понятие Пригодность к употреблению.\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:97
@@ -9495,7 +9496,7 @@ msgstr ""
 msgid "00:01:48.909 --> 00:01:54.759\n"
 "We will also explore the Measures of Quality,\n"
 "specifically, Correctness and Consistency.\n"
-msgstr ""
+msgstr "Мы также рассмотрим Показатели Качества, в частности, Корректность и Непротиворечивость.\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:101
@@ -9518,7 +9519,7 @@ msgstr "собственных данных или данных, которые 
 msgid "00:02:02.509 --> 00:02:06.939\n"
 "Let’s begin with an example of Fitness for\n"
 "Use.\n"
-msgstr ""
+msgstr "Начнем с примера Пригодности к употреблению.\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:112
@@ -9526,14 +9527,14 @@ msgstr ""
 msgid "00:02:06.939 --> 00:02:12.140\n"
 "A shoemaker creates a pair of clogs for the\n"
 "purpose of covering a person’s feet, just\n"
-msgstr ""
+msgstr "Сапожник создает пару ботинок с целью прикрыть ноги человека, точно так же, \n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:115
 #, no-wrap
 msgid "00:02:12.140 --> 00:02:18.050\n"
 "like those at the top of this image.\n"
-msgstr ""
+msgstr "как те, что в верхней части этого изображения.\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:119
@@ -9541,7 +9542,7 @@ msgstr ""
 msgid "00:02:18.050 --> 00:02:24.450\n"
 "When the shoemaker made these shoes, did he\n"
 "know that this girl would use them for dancing?\n"
-msgstr ""
+msgstr "Когда сапожник сделал эти туфли, знал ли он, что эта девушка будет использовать их для танцев?\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:122
@@ -9557,14 +9558,14 @@ msgstr "00:02:24.450 --> 00:02:26,620\n"
 msgid "00:02:26.620 --> 00:02:30.950\n"
 "Do you think that the same shoemaker knew\n"
 "that a gardener might one day use the shoes\n"
-msgstr ""
+msgstr "Как вы думаете, тот же сапожник знал, что садовник однажды может использовать обувь\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:129
 #, no-wrap
 msgid "00:02:30.950 --> 00:02:33.850\n"
 "as plant pots?\n"
-msgstr ""
+msgstr "как цветочный горшок?\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:132
@@ -9580,7 +9581,7 @@ msgstr "00:02:33.850 --> 00:02:37.750\n"
 msgid "00:02:37.750 --> 00:02:43.780\n"
 "We often hear people talk about data’s Fitness\n"
 "for Use in the ecological sciences, but what\n"
-msgstr ""
+msgstr "Мы часто слышим, как люди говорят о пригодности данных для использования в экологических науках, но\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:140
@@ -9588,7 +9589,7 @@ msgstr ""
 msgid "00:02:43.780 --> 00:02:48.260\n"
 "we need to remember is that data is not inherently\n"
 "good or bad.\n"
-msgstr ""
+msgstr "нам нужно помнить, что данные по своей сути не являются хорошими или плохими.\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:144
@@ -9604,14 +9605,14 @@ msgstr "Скорее, именно пользователь данных дае�
 msgid "00:02:52.650 --> 00:02:57.900\n"
 "For example, for one person, data identified\n"
 "to the level of Genus may be sufficient to\n"
-msgstr ""
+msgstr "Например, для одного человека данных, идентифицированных до уровня рода, может быть достаточно \n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:151
 #, no-wrap
 msgid "00:02:57.900 --> 00:03:01.560\n"
 "run predictive models of ecological niches.\n"
-msgstr ""
+msgstr "для прогностических моделей экологических ниш.\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:155
@@ -9635,7 +9636,7 @@ msgstr "полезны, чем более подробные наблюдени�
 msgid "00:03:13.820 --> 00:03:20.540\n"
 "So, what is Fitness for Use and how does it\n"
 "relate to data?\n"
-msgstr ""
+msgstr "Итак, что такое Пригодность к употреблению и как он связан с данными?\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:167
@@ -9643,7 +9644,7 @@ msgstr ""
 msgid "00:03:20.540 --> 00:03:24.940\n"
 "When Chapman discusses Fitness for Use, he\n"
 "says that once a dataset has been created\n"
-msgstr ""
+msgstr "Когда Chapman обсуждает «Пригодность к употреблению», он говорит, что после создания набора данных\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:171
@@ -9651,7 +9652,7 @@ msgstr ""
 msgid "00:03:24.940 --> 00:03:30.710\n"
 "and shared there are two primary perspectives\n"
 "on how those data might be used; the perspective\n"
-msgstr ""
+msgstr "и совместного использования есть два основных аспекта того, как эти данные могут быть использованы; перспектива \n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:175
@@ -9659,7 +9660,7 @@ msgstr ""
 msgid "00:03:30.710 --> 00:03:34.840\n"
 "of the creator and the perspective of the\n"
 "user.\n"
-msgstr ""
+msgstr "создателя и перспектива пользователя.\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:179
@@ -9667,7 +9668,7 @@ msgstr ""
 msgid "00:03:34.840 --> 00:03:39.650\n"
 "To help somebody to decide if your data is\n"
 "trustworthy or useful enough for them to use,\n"
-msgstr ""
+msgstr "Чтобы помочь кому-либо решить, являются ли ваши данные надежными или полезными для использования,\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:183
@@ -9675,7 +9676,7 @@ msgstr ""
 msgid "00:03:39.650 --> 00:03:44.980\n"
 "you have to understand your data and how to\n"
 "convey those data to the potential user.\n"
-msgstr ""
+msgstr "вы должны понимать ваши данные и как передать их потенциальному пользователю.\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:187
@@ -9683,7 +9684,7 @@ msgstr ""
 msgid "00:03:44.980 --> 00:03:49.650\n"
 "These are some of the important questions\n"
 "about the metadata, or characteristics of\n"
-msgstr ""
+msgstr "Вот некоторые важные вопросы о метаданных или характеристиках \n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:191
@@ -9691,7 +9692,7 @@ msgstr ""
 msgid "00:03:49.650 --> 00:03:55.060\n"
 "your data, that you should be able to answer\n"
 "and share with others:\n"
-msgstr ""
+msgstr "данных, на которые вы должны быть в состоянии ответить и поделиться с другими:\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:194
@@ -9736,7 +9737,7 @@ msgstr "Можно ли доверять вашим данным?\n"
 msgid "00:04:10.210 --> 00:04:17.540\n"
 "For example, are your identifications current\n"
 "and were they made by known experts?\n"
-msgstr ""
+msgstr "Например, являются ли ваши идентификации актуальными и были ли они сделаны известными экспертами?\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:214
@@ -9767,7 +9768,7 @@ msgstr "00:04:21.459 --> 00:04:26.180\n"
 #, no-wrap
 msgid "00:04:26.180 --> 00:04:29.410\n"
 "How Complete or Comprehensive are the data?\n"
-msgstr ""
+msgstr "Насколько данные завершены или всеобъемлющи?\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:227
@@ -9807,7 +9808,7 @@ msgstr "Всегда ли данные в каждом поле имеют од�
 msgid "00:04:45.370 --> 00:04:50.700\n"
 "Was the data collected using the same documented\n"
 "protocols?\n"
-msgstr ""
+msgstr "Были ли данные собраны с использованием схожих, документально подтвержденных протоколов?\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:245
@@ -9878,7 +9879,7 @@ msgstr "Если ваши документы написаны от руки, о�
 msgid "00:05:23.330 --> 00:05:28.430\n"
 "While Fitness for Use is subjective, measures\n"
 "of data quality are much less so.\n"
-msgstr ""
+msgstr "Хотя понятие Пригодность к использованию субъективно, показателей качества данных гораздо меньше.\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:277
@@ -9886,7 +9887,7 @@ msgstr ""
 msgid "00:05:28.430 --> 00:05:34.229\n"
 "Chapman states that: \"All data include error\n"
 "– there is no escaping it!\n"
-msgstr ""
+msgstr "Chapman заявляет, что: \"Все данные включают в себя ошибку - ее не избежать!\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:281
@@ -9894,7 +9895,7 @@ msgstr ""
 msgid "00:05:34.229 --> 00:05:39.340\n"
 "It is knowing what the error is that is important,\n"
 "and knowing if the error is within acceptable\n"
-msgstr ""
+msgstr "Это знание того, что ошибка важна, и знание того, находится ли ошибка в допустимых \n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:285
@@ -9902,7 +9903,7 @@ msgstr ""
 msgid "00:05:39.340 --> 00:05:46.340\n"
 "limits for the purpose to which the data are\n"
 "to be put.”\n"
-msgstr ""
+msgstr "для цели пределах, в которых должны быть помещены данные.\"\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:289
@@ -9925,14 +9926,14 @@ msgstr "внутренние ошибки в данных.\n"
 msgid "00:05:54.060 --> 00:05:58.580\n"
 "Correctness, sometimes called accuracy, is\n"
 "“How close the recorded value is to the\n"
-msgstr ""
+msgstr "Корректность, иногда называемая точностью, - это «Насколько близко зарегистрированное значение к\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:299
 #, no-wrap
 msgid "00:05:58.580 --> 00:06:01.400\n"
 "actual, real-world value”.\n"
-msgstr ""
+msgstr "действительному, реальному значению».\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:303
@@ -9948,7 +9949,7 @@ msgstr "На этой диаграмме точность такова, наск
 msgid "00:06:07.069 --> 00:06:12.639\n"
 "Consistency, sometimes called precision, is\n"
 "“How often you get it right”\n"
-msgstr ""
+msgstr "Согласованность, иногда называемая четкостью, это «Как часто вы получаете это правильно»\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:311
@@ -9956,14 +9957,14 @@ msgstr ""
 msgid "00:06:12.639 --> 00:06:17.460\n"
 "In this diagram, precision is how close the\n"
 "dots are together irrespective of how close\n"
-msgstr ""
+msgstr "На этой диаграмме четкость - это то, насколько близки точки друг к другу, независимо от того, насколько близки\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:314
 #, no-wrap
 msgid "00:06:17.460 --> 00:06:20.389\n"
 "they are to the centre of the target.\n"
-msgstr ""
+msgstr "они к центру цели.\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:318
@@ -9995,7 +9996,7 @@ msgstr "можно и нельзя очистить, проверить и об�
 msgid "00:06:39.449 --> 00:06:44.039\n"
 "This image provides a clear set of illustrations\n"
 "of accuracy and precision.\n"
-msgstr ""
+msgstr "Это изображение обеспечивает понятный набор иллюстраций точности и четкости.\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:334
@@ -10003,14 +10004,14 @@ msgstr ""
 msgid "00:06:44.039 --> 00:06:47.729\n"
 "This may be a good image to keep with you\n"
 "when you have to explain these concepts to\n"
-msgstr ""
+msgstr "Это может быть хорошим примером, который можно использовать, если вам понадобится объяснить эти понятия\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:337
 #, no-wrap
 msgid "00:06:47.729 --> 00:06:50.080\n"
 "others.\n"
-msgstr ""
+msgstr "другим.\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:341
@@ -10018,14 +10019,14 @@ msgstr ""
 msgid "00:06:50.080 --> 00:06:56.789\n"
 "Let’s look at some examples of Correctness,\n"
 "or accuracy, and how it can help us think\n"
-msgstr ""
+msgstr "Давайте рассмотрим некоторые примеры корректности, или точности, и как это может помочь нам подумать\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:344
 #, no-wrap
 msgid "00:06:56.789 --> 00:07:00.259\n"
 "about the practicalities of data cleaning.\n"
-msgstr ""
+msgstr "о практичности очистки данных.\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:348
@@ -10033,7 +10034,7 @@ msgstr ""
 msgid "00:07:00.259 --> 00:07:04.159\n"
 "Remember that Correctness is how close you\n"
 "are to the center of a target.\n"
-msgstr ""
+msgstr "Помните, что корректность - это то, насколько вы близки к центру цели.\n"
 
 #. type: Plain text
 #: videos/Foundations_Data_Quality.en.vtt:351
