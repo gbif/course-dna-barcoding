@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: publishing-dna-derived-data\n"
 "POT-Creation-Date: 2021-12-08 16:51+0000\n"
-"PO-Revision-Date: 2022-01-30 22:05\n"
+"PO-Revision-Date: 2022-01-31 05:35\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -11207,7 +11207,7 @@ msgstr "Такие значения могут использоваться в �
 msgid "00:06:47.810 --> 00:06:58.030\n"
 "In this section we will look at what the term\n"
 "character means in relation to data and computers.\n"
-msgstr ""
+msgstr "В этом разделе мы рассмотрим, что означает термин «символ» применительно к данным и компьютерам.\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:287
@@ -11215,14 +11215,14 @@ msgstr ""
 msgid "00:06:58.030 --> 00:07:04.880\n"
 "As a reminder computers “see” in binary.\n"
 "Everything that you type in, is held in memory\n"
-msgstr ""
+msgstr "Напомним, что компьютеры «видят» в двоичном формате. Все, что вы вводите, хранится в памяти\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:290
 #, no-wrap
 msgid "00:07:04.880 --> 00:07:07.240\n"
 "as a series of ones and zeros.\n"
-msgstr ""
+msgstr "как серия единиц и нулей.\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:294
@@ -11230,7 +11230,7 @@ msgstr ""
 msgid "00:07:07.240 --> 00:07:12.500\n"
 "The computer does not “see” the repertoire\n"
 "of letters and symbols on your keyboard.\n"
-msgstr ""
+msgstr "Компьютер не «видит» набор букв и символов на вашей клавиатуре.\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:298
@@ -11238,7 +11238,7 @@ msgstr ""
 msgid "00:07:12.500 --> 00:07:17.050\n"
 "It needs a map to translate the character\n"
 "set that you would write or type, into its\n"
-msgstr ""
+msgstr "Требуется карта для перевода набора символов, который будет записан или введен, на \n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:302
@@ -11246,7 +11246,7 @@ msgstr ""
 msgid "00:07:17.050 --> 00:07:23.390\n"
 "binary language and then back again to show\n"
 "it to you on the screen or a printer.\n"
-msgstr ""
+msgstr "двоичный язык, а затем снова, чтобы показать его на экране или принтере.\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:305
@@ -11278,14 +11278,14 @@ msgstr "00:07:29.360 --> 00:07:32.090\n"
 msgid "00:07:32.090 --> 00:07:37.940\n"
 "Each symbol or glyph is assigned a numeric\n"
 "value and that number is then converted to\n"
-msgstr ""
+msgstr "Каждому символу или знаку присваивается числовое значение, и это число затем преобразуется в\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:318
 #, no-wrap
 msgid "00:07:37.940 --> 00:07:43.240\n"
 "binary.\n"
-msgstr ""
+msgstr "двоичное.\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:322
@@ -11293,14 +11293,14 @@ msgstr ""
 msgid "00:07:43.240 --> 00:07:49.400\n"
 "In this example we see how character encoding\n"
 "is used to map the capital letter A in the\n"
-msgstr ""
+msgstr "В этом примере показано, как кодировка символов используется для отображения заглавной буквы A \n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:325
 #, no-wrap
 msgid "00:07:49.400 --> 00:07:52.410\n"
 "western alphabet.\n"
-msgstr "В этом примере показано, как кодировка символов используется для отображения заглавной буквы A в западном алфавите.\n"
+msgstr "в западном алфавите.\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:329
@@ -11341,7 +11341,7 @@ msgstr "Попробуйте сопоставить свое имя с двои�
 msgid "00:08:24.380 --> 00:08:31.050\n"
 "In effect what is happening is that when you\n"
 "type into a keyboard and save a file the software\n"
-msgstr ""
+msgstr "Фактически происходит то, что при вводе на клавиатуру и сохранении файла используемое программное обеспечение\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:347
@@ -11349,7 +11349,7 @@ msgstr ""
 msgid "00:08:31.050 --> 00:08:35.649\n"
 "that you are using will select an encoding\n"
 "to save with it.&nbsp;\n"
-msgstr ""
+msgstr "выберет кодировку для сохранения в ней.\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:351
@@ -11357,14 +11357,14 @@ msgstr ""
 msgid "00:08:35.649 --> 00:08:40.750\n"
 "When you open that file again the software\n"
 "needs to know which encoding (map) to use\n"
-msgstr ""
+msgstr "При повторном открытии этого файла программное обеспечение должно знать, какую кодировку (карту) использовать\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:354
 #, no-wrap
 msgid "00:08:40.750 --> 00:08:58.509\n"
 "to redisplay the information back to you correctly. This table shows you some examples of the more common character encoding and character sets.\n"
-msgstr ""
+msgstr "для повторного отображения информации. В этой таблице приведены некоторые примеры наиболее распространенной кодировки символов и наборов символов.\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:358
@@ -11372,7 +11372,7 @@ msgstr ""
 msgid "00:08:58.509 --> 00:09:02.449\n"
 "So why is this important to you as a data\n"
 "custodian?\n"
-msgstr ""
+msgstr "Итак почему это важно для вас как хранителя данных?\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:362
@@ -11380,14 +11380,14 @@ msgstr ""
 msgid "00:09:02.449 --> 00:09:06.949\n"
 "Let’s say that you translate the start of\n"
 "Hamlet’s soliloquy\n"
-msgstr ""
+msgstr "Допустим, вы переводите начало монолога Гамлета \n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:365
 #, no-wrap
 msgid "00:09:06.949 --> 00:09:09.899\n"
 "&nbsp;”To be or not to be, that is the question”\n"
-msgstr ""
+msgstr "«Быть или не быть, вот в чем вопрос»\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:369
@@ -11395,7 +11395,7 @@ msgstr ""
 msgid "00:09:09.899 --> 00:09:17.430\n"
 "into French and then save the file with a\n"
 "text editor that uses the encoding Latin-1\n"
-msgstr ""
+msgstr "на французский язык и затем сохраняете файл с текстовым редактором, использующим кодировку Latin-1\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:373
@@ -11418,7 +11418,7 @@ msgstr "Когда они открывают файл в MicroSoft Word это �
 #, no-wrap
 msgid "00:09:34.100 --> 00:09:35.850\n"
 "Mon dieu!\n"
-msgstr ""
+msgstr "Боже мой!\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:383
@@ -11442,7 +11442,7 @@ msgstr "Вы забыли сказать коллеге, что вы здесь 
 msgid "00:09:45.690 --> 00:09:50.589\n"
 "MicroSoft Word on their end was set to use\n"
 "the encoding set Unicode UTF-8.\n"
-msgstr ""
+msgstr "MicroSoft Word с их стороны был настроен на использование набора кодировок Unicode UTF-8.\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:394
@@ -11474,7 +11474,7 @@ msgstr "В обзоре мы рассмотрели различия между 
 msgid "00:10:08.990 --> 00:10:18.600\n"
 "Database; database language; database program,\n"
 "data-cleaning tool; and also between\n"
-msgstr ""
+msgstr "База данных; язык базы данных; программа базы данных, средство очистки данных; а также между\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:410
@@ -11482,14 +11482,14 @@ msgstr ""
 msgid "00:10:18.600 --> 00:10:26.080\n"
 "Field names &amp; Field labels; Drop-down lists\n"
 "&amp; Controlled vocabularies and lastly, we looked at\n"
-msgstr ""
+msgstr "именами Полей; Метки полей; Раскрывающиеся списки; Контролируемые словари и, наконец, мы рассмотрели \n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:413
 #, no-wrap
 msgid "00:10:26.080 --> 00:10:29.300\n"
 "Repertoires, Coded sets &amp; Encodings as they related to characters\n"
-msgstr ""
+msgstr "Наборы, Кодированные наборы; Кодировки, связанные с символами\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:417
@@ -11521,7 +11521,7 @@ msgstr ".. \"Первым шагом в мудрости является поз
 msgid "00:10:54.639 --> 00:10:59.589\n"
 "We often take for granted that there is a\n"
 "whole language associated with biodiversity\n"
-msgstr ""
+msgstr "Мы часто считаем само собой разумеющимся, что существует целый язык, связанный с информатикой биоразнообразия,\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:432
@@ -11529,7 +11529,7 @@ msgstr ""
 msgid "00:10:59.589 --> 00:11:04.610\n"
 "informatics that is not commonplace and has\n"
 "to be learned.\n"
-msgstr ""
+msgstr "который не является обычным явлением и должен быть изучен.\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:436
@@ -11537,7 +11537,7 @@ msgstr ""
 msgid "00:11:04.610 --> 00:11:09.240\n"
 "There is no shame in going back to basics\n"
 "and getting to grips with the vocabulary,\n"
-msgstr ""
+msgstr "Не стоит стесняться того, чтобы вернуться к основам и разобраться с лексикой, \n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:440
@@ -11545,7 +11545,7 @@ msgstr ""
 msgid "00:11:09.240 --> 00:11:21.470\n"
 "grammar and syntax just like with any new\n"
 "language.\n"
-msgstr ""
+msgstr "грамматикой и синтаксисом так же, как с любым новым языком.\n"
 
 #. type: Plain text
 #: videos/Foundations_Definitions.en.vtt:444
@@ -11623,14 +11623,14 @@ msgstr "вкладом Тренеров BID и BIFA, Инструкторов и
 msgid "00:00:01.430 --> 00:00:07.059\n"
 "In this presentation, we will provide an overview\n"
 "of the importance of documentation as it relates\n"
-msgstr ""
+msgstr "В этой презентации мы представим обзор важности документации в отношении того,\n"
 
 #. type: Plain text
 #: videos/Foundations_Documentation.en.vtt:11
 #, no-wrap
 msgid "00:00:07.059 --> 00:00:09.810\n"
 "to data management and data publishing.\n"
-msgstr ""
+msgstr "что касается управления данными и публикации данных.\n"
 
 #. type: Plain text
 #: videos/Foundations_Documentation.en.vtt:15
@@ -11638,7 +11638,7 @@ msgstr ""
 msgid "00:00:09.810 --> 00:00:16.100\n"
 "You will learn about data mapping, data relationships\n"
 "and metadata .\n"
-msgstr ""
+msgstr "Вы узнаете о сопоставлении данных, взаимосвязях данных и метаданных.\n"
 
 #. type: Plain text
 #: videos/Foundations_Documentation.en.vtt:19
