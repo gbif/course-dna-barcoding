@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: publishing-dna-derived-data\n"
 "POT-Creation-Date: 2021-12-08 16:51+0000\n"
-"PO-Revision-Date: 2022-01-31 09:00\n"
+"PO-Revision-Date: 2022-01-31 12:14\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -14972,7 +14972,7 @@ msgstr "поплавок всегда имеет десятичные разря
 msgid "00:02:39.349 --> 00:02:44.330\n"
 "The number of decimal places being an integral\n"
 "element of the type.\n"
-msgstr ""
+msgstr "Число десятичных разрядов, являющихся интегральным элементом типа.\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:110
@@ -14980,7 +14980,7 @@ msgstr ""
 msgid "00:02:44.330 --> 00:02:52.760\n"
 "This has implications when it comes to precision\n"
 "and accuracy.\n"
-msgstr ""
+msgstr "Это имеет значение, когда дело доходит до четкости и точности.\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:114
@@ -14988,7 +14988,7 @@ msgstr ""
 msgid "00:02:52.760 --> 00:02:58.890\n"
 "Alphanumeric fields are also referred to as\n"
 "text, character or string fields.\n"
-msgstr ""
+msgstr "Буквенно-цифровые поля также называются текстовыми, символьными или строковыми полями.\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:118
@@ -14996,7 +14996,7 @@ msgstr ""
 msgid "00:02:58.890 --> 00:03:04.670\n"
 "They can hold any letter, number or symbol\n"
 "in the coded character set and usually have\n"
-msgstr ""
+msgstr "Они могут содержать любую букву, число или символ в кодированном наборе символов и обычно имеют\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:122
@@ -15004,7 +15004,7 @@ msgstr ""
 msgid "00:03:04.670 --> 00:03:09.420\n"
 "a defined character limit.\n"
 "Entering more characters than the character\n"
-msgstr ""
+msgstr "определенный предел символов. Ввод большего количества символов, чем ограничение символов,\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:126
@@ -15012,7 +15012,7 @@ msgstr ""
 msgid "00:03:09.420 --> 00:03:17.849\n"
 "limit can often result in truncation and loss\n"
 "of data on save.\n"
-msgstr ""
+msgstr "часто может привести к усечению и потере данных при сохранении.\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:130
@@ -15020,7 +15020,7 @@ msgstr ""
 msgid "00:03:17.849 --> 00:03:23.099\n"
 "Another type of text field that you will come\n"
 "across is the Unstructured text field, also\n"
-msgstr ""
+msgstr "Другим типом текстового поля, с которым вы столкнетесь, является неструктурированное текстовое поле, также\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:134
@@ -15028,7 +15028,7 @@ msgstr ""
 msgid "00:03:23.099 --> 00:03:30.900\n"
 "known as memo, long char or blob fields.\n"
 "These types of field are used to hold large\n"
-msgstr ""
+msgstr "известное как поля memo, long char или blob. Эти типы полей используются для хранения большого \n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:138
@@ -15036,7 +15036,7 @@ msgstr ""
 msgid "00:03:30.900 --> 00:03:38.939\n"
 "amounts of unformatted text and unlike alphanumeric\n"
 "fields may not have an obvious character limit.\n"
-msgstr ""
+msgstr "количества неформатированного текста и, в отличие от буквенно-цифровых полей, могут не иметь явного ограничения символов.\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:142
@@ -15044,7 +15044,7 @@ msgstr ""
 msgid "00:03:38.939 --> 00:03:44.390\n"
 "In simple systems, they are generally less\n"
 "flexible in terms of processing; for example\n"
-msgstr ""
+msgstr "В простых системах они, как правило, менее гибки с точки зрения обработки; например,\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:146
@@ -15052,7 +15052,7 @@ msgstr ""
 msgid "00:03:44.390 --> 00:03:49.980\n"
 "sorting and indexing, than their smaller alphanumeric\n"
 "cousins.\n"
-msgstr ""
+msgstr "сортировка и индексация, чем их меньшие буквенно-цифровые родственники.\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:150
@@ -15060,14 +15060,14 @@ msgstr ""
 msgid "00:03:49.980 --> 00:03:55.790\n"
 "With decreased storage costs and the rise\n"
 "of NoSQL document-oriented database programs,\n"
-msgstr ""
+msgstr "Однако с уменьшением затрат на хранение и увеличением числа программ баз данных,\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:153
 #, no-wrap
 msgid "00:03:55.790 --> 00:04:03.620\n"
 "such as MongoDB however, this is changing.\n"
-msgstr ""
+msgstr "ориентированных на документы NoSQL, таких как MongoDB, это меняется.\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:157
@@ -15075,7 +15075,7 @@ msgstr ""
 msgid "00:04:03.620 --> 00:04:08.140\n"
 "System Value fields have a double nature and\n"
 "what you see on the screen is not usually\n"
-msgstr ""
+msgstr "Поля системных значений имеют двойной характер, и то, что вы видите на экране, обычно не\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:161
@@ -15083,7 +15083,7 @@ msgstr ""
 msgid "00:04:08.140 --> 00:04:12.530\n"
 "the actual value that the software is storing\n"
 "in memory.\n"
-msgstr ""
+msgstr "не является фактическим значением, которое программное обеспечение хранит в памяти.\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:165
@@ -15091,7 +15091,7 @@ msgstr ""
 msgid "00:04:12.530 --> 00:04:16.940\n"
 "Date and time fields are the most common example\n"
 "of this type of field.\n"
-msgstr ""
+msgstr "Поля даты и времени являются наиболее распространенным примером этого типа полей.\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:169
@@ -15099,7 +15099,7 @@ msgstr ""
 msgid "00:04:16.940 --> 00:04:26.170\n"
 "In this example you typed 1 March 1971 into\n"
 "a cell in Excel and hit return.\n"
-msgstr ""
+msgstr "В этом примере вы ввели 1 марта 1971 года в ячейку в Excel и получили возврат.\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:173
@@ -15107,7 +15107,7 @@ msgstr ""
 msgid "00:04:26.170 --> 00:04:36.410\n"
 "Now it says 1-Mar-71 in the cell AND 3/1/1971\n"
 "in the functionbar.\n"
-msgstr ""
+msgstr "Сейчас это выглядит как 1-Mar-71 в ячейке И 3/1/1971 в функционале.\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:177
@@ -15115,7 +15115,7 @@ msgstr ""
 msgid "00:04:36.410 --> 00:04:41.490\n"
 "Excel is applying a display format to the\n"
 "cell, which you can change at will.\n"
-msgstr ""
+msgstr "Excel применяет к ячейке формат отображения, который можно изменить по желанию.\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:181
@@ -15123,7 +15123,7 @@ msgstr ""
 msgid "00:04:41.490 --> 00:04:47.000\n"
 "HOWEVER, if you remove the format you see\n"
 "that what is actually being stored in the\n"
-msgstr ""
+msgstr "ТЕМ не менее, если удалить формат, вы увидите, что то, что на самом деле хранится в\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:185
@@ -15131,7 +15131,8 @@ msgstr ""
 msgid "00:04:47.000 --> 00:04:55.840\n"
 "field is the number 25993.00!\n"
 "So you can see that the field is actually\n"
-msgstr ""
+msgstr "поле, это номер 25993.00! \n"
+"Таким образом, вы можете видеть, что поле на самом деле\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:189
@@ -15139,7 +15140,8 @@ msgstr ""
 msgid "00:04:55.840 --> 00:05:00.880\n"
 "a float.\n"
 "You should beware because that system value\n"
-msgstr ""
+msgstr "поплавок. \n"
+"Следует остерегаться, так как это значение системы\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:193
@@ -15147,7 +15149,7 @@ msgstr ""
 msgid "00:05:00.880 --> 00:05:07.010\n"
 "not be the same from software to software.\n"
 "Exports should to checked to make sure the\n"
-msgstr ""
+msgstr "отличается от программного обеспечения к программному обеспечению. Экспорт должен быть проверен,\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:197
@@ -15155,7 +15157,7 @@ msgstr ""
 msgid "00:05:07.010 --> 00:05:13.100\n"
 "actual date is exported and not the system\n"
 "value.\n"
-msgstr ""
+msgstr "чтобы убедиться, что фактическая дата экспортирована, а не системное значение.\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:201
@@ -15163,7 +15165,7 @@ msgstr ""
 msgid "00:05:13.100 --> 00:05:19.700\n"
 "Boolean fields, also known as Binary fields,\n"
 "only contain one of two values that represent\n"
-msgstr ""
+msgstr "Логические поля, также называемые двоичными полями, содержат только одно из двух значений, представляющих\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:205
@@ -15171,7 +15173,7 @@ msgstr ""
 msgid "00:05:19.700 --> 00:05:24.760\n"
 "a one or a zero.\n"
 "They are a special case of a System Value\n"
-msgstr ""
+msgstr "собой единицу или ноль. Они представляют собой особый случай поля System Value,\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:209
@@ -15179,7 +15181,7 @@ msgstr ""
 msgid "00:05:24.760 --> 00:05:30.680\n"
 "field as mentioned previously in that whilst\n"
 "the software actually saves a number it often\n"
-msgstr ""
+msgstr "как упоминалось выше, в котором, хотя программное обеспечение фактически сохраняет число, оно часто\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:213
@@ -15187,7 +15189,7 @@ msgstr ""
 msgid "00:05:30.680 --> 00:05:37.810\n"
 "displays values such as: Yes/No, Yes/no, Y/N,\n"
 "True/False.\n"
-msgstr ""
+msgstr "отображает такие значения, как: Yes/No, Yes/no, Y/N, True/False.\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:217
@@ -15195,14 +15197,15 @@ msgstr ""
 msgid "00:05:37.810 --> 00:05:44.480\n"
 "You should take care to find out which way\n"
 "around the system you are using translates.\n"
-msgstr ""
+msgstr "Вы должны позаботиться, чтобы выяснить, в каком направлении вокруг системы вы используете переводы.\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:220
 #, no-wrap
 msgid "00:05:44.480 --> 00:05:50.960\n"
 "Is a 1 a yes or no?\n"
-msgstr ""
+msgstr "00:05:44480 --> 00:10:50,960\n"
+"Это 1 да или нет?\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:224
@@ -15210,7 +15213,7 @@ msgstr ""
 msgid "00:05:50.960 --> 00:05:55.660\n"
 "Structured Text fields are less common but\n"
 "mentioned here for completeness.\n"
-msgstr ""
+msgstr "Структурированные текстовые поля встречаются реже, но упоминаются здесь для полной картины.\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:228
@@ -15218,7 +15221,7 @@ msgstr ""
 msgid "00:05:55.660 --> 00:06:00.770\n"
 "They are fields which can be either made up\n"
 "of combinations of the simple data types or\n"
-msgstr ""
+msgstr "Они представляют собой поля, которые могут быть либо составлены из комбинаций простых типов данных, либо\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:232
@@ -15226,7 +15229,7 @@ msgstr ""
 msgid "00:06:00.770 --> 00:06:06.620\n"
 "even be defined by the data itself.\n"
 "Most often these are used in programming languages\n"
-msgstr ""
+msgstr "даже определены самими данными. Чаще всего они используются в языках программирования\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:236
@@ -15234,7 +15237,7 @@ msgstr ""
 msgid "00:06:06.620 --> 00:06:11.210\n"
 "to allow flexibility and handling of complex\n"
 "concepts.\n"
-msgstr ""
+msgstr "для обеспечения гибкости и обработки сложных концепций.\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:240
@@ -15242,7 +15245,7 @@ msgstr ""
 msgid "00:06:11.210 --> 00:06:17.130\n"
 "An example is the factor field used in the\n"
 "R programming language, which is defined as\n"
-msgstr ""
+msgstr "Примером является поле коэффициента, используемое в языке программирования R, которое определяется как\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:244
@@ -15250,7 +15253,7 @@ msgstr ""
 msgid "00:06:17.130 --> 00:06:30.940\n"
 "a type vector containing a set of numeric\n"
 "codes with character-valued levels.\n"
-msgstr ""
+msgstr "вектор типа, содержащий набор цифровых кодов с символьными уровнями.\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:248
@@ -15258,7 +15261,7 @@ msgstr ""
 msgid "00:06:30.940 --> 00:06:36.500\n"
 "Now that you have an understanding of the\n"
 "field types used to represent your data elements\n"
-msgstr ""
+msgstr "Теперь, когда вы понимаете типы полей, используемые для представления элементов данных,\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:252
@@ -15266,14 +15269,14 @@ msgstr ""
 msgid "00:06:36.500 --> 00:06:42.130\n"
 "let us talk about the containers or structures,\n"
 "that many database programs and software use\n"
-msgstr ""
+msgstr "давайте поговорим о контейнерах или структурах, которые многие программы баз данных и программное обеспечение используют \n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:255
 #, no-wrap
 msgid "00:06:42.130 --> 00:06:48.720\n"
 "collate and display your data.\n"
-msgstr ""
+msgstr "для сопоставления и отображения данных.\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:259
@@ -15281,7 +15284,7 @@ msgstr ""
 msgid "00:06:48.720 --> 00:06:53.720\n"
 "First is the cell.\n"
 "This is the smallest data structure, it holds\n"
-msgstr ""
+msgstr "Во-первых, ячейка. Это наименьшая структура данных, она содержит\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:263
@@ -15289,7 +15292,7 @@ msgstr ""
 msgid "00:06:53.720 --> 00:07:01.860\n"
 "a single value and has a single data type\n"
 "associated with it.\n"
-msgstr ""
+msgstr "одно значение и с ней связан один тип данных.\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:267
@@ -15297,7 +15300,7 @@ msgstr ""
 msgid "00:07:01.860 --> 00:07:06.340\n"
 "There is one concept that you should beware\n"
 "of when it comes to cells and that is the\n"
-msgstr ""
+msgstr "Есть одна концепция, которой следует остерегаться, когда речь идет о ячейках, и это\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:271
@@ -15305,7 +15308,7 @@ msgstr ""
 msgid "00:07:06.340 --> 00:07:12.330\n"
 "empty cell. An empty cell doesn't necessarily\n"
 "mean an empty field.\n"
-msgstr ""
+msgstr "пустая ячейка. Пустая ячейка не обязательно означает пустое поле.\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:275
@@ -15313,14 +15316,15 @@ msgstr ""
 msgid "00:07:12.330 --> 00:07:18.180\n"
 "Some software fills an empty field with a\n"
 "System value based on the data type.\n"
-msgstr ""
+msgstr "Некоторые программы заполняют пустое поле значением System в зависимости от типа данных.\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:278
 #, no-wrap
 msgid "00:07:18.180 --> 00:07:26.880\n"
 "Examples are NULL N A or even zero!\n"
-msgstr ""
+msgstr "00:07:18.180 --> 00:07:26.880\n"
+"Примеры NULL N A или даже ноль!\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:282
@@ -15328,7 +15332,7 @@ msgstr ""
 msgid "00:07:26.880 --> 00:07:31.180\n"
 "As you start to organize cells you begin to\n"
 "build a grid.\n"
-msgstr ""
+msgstr "Как только вы начинаете организовывать ячейки, вы начинаете строить сетку.\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:286
@@ -15336,7 +15340,7 @@ msgstr ""
 msgid "00:07:31.180 --> 00:07:37.460\n"
 "Grids have implied structure in the form of\n"
 "Rows.\n"
-msgstr ""
+msgstr "Сетки предполагают структуру в виде строк.\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:289
@@ -15352,7 +15356,7 @@ msgstr "00:07:37.460 --> 00:07:45.500\n"
 msgid "00:07:45.500 --> 00:07:51.440\n"
 "When you organize cells into rows and columns,\n"
 "obviously, what you get is a grid!\n"
-msgstr ""
+msgstr "Когда вы организуете ячейки в строки и столбцы, очевидно, что вы получаете сетку!\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:297
@@ -15360,7 +15364,7 @@ msgstr ""
 msgid "00:07:51.440 --> 00:07:54.220\n"
 "This is looks very much like a spreadsheet\n"
 "right?\n"
-msgstr ""
+msgstr "Это похоже на электронную таблицу, верно?\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:301
@@ -15368,7 +15372,8 @@ msgstr ""
 msgid "00:07:54.220 --> 00:07:58.280\n"
 "Well, yes.\n"
 "The difference however between a spreadsheet\n"
-msgstr ""
+msgstr "Ну да. \n"
+"Однако различие между сеткой таблицы\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:305
@@ -15376,7 +15381,7 @@ msgstr ""
 msgid "00:07:58.280 --> 00:08:09.080\n"
 "grid and a table are the strength of the ties\n"
 "that hold the rows and columns together.\n"
-msgstr ""
+msgstr "и таблицей заключается в прочности связей, которые удерживают строки и столбцы вместе.\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:309
@@ -15384,7 +15389,7 @@ msgstr ""
 msgid "00:08:09.080 --> 00:08:14.770\n"
 "So let us now talk about those connections.\n"
 "What the implications for the integrity and\n"
-msgstr ""
+msgstr "Давайте поговорим о таких связях. Каковы последствия для целостности и \n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:313
@@ -15392,7 +15397,7 @@ msgstr ""
 msgid "00:08:14.770 --> 00:08:24.330\n"
 "security of your data of loose unenforced\n"
 "relationships between rows and columns?\n"
-msgstr ""
+msgstr "безопасности ваших данных незакрепленных отношений между строками и столбцами?\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:317
@@ -15400,7 +15405,7 @@ msgstr ""
 msgid "00:08:24.330 --> 00:08:29.320\n"
 "What actually makes a table useful are the\n"
 "connections that we create to give the data\n"
-msgstr ""
+msgstr "Что на самом деле делает таблицу полезной, так это связи, которые мы создаем, чтобы дать данные\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:321
@@ -15408,7 +15413,8 @@ msgstr ""
 msgid "00:08:29.320 --> 00:08:34.439\n"
 "in the structure meaning.\n"
 "We intrinsically make patterns of attributes\n"
-msgstr ""
+msgstr "в структуре значение. \n"
+"Мы по сути создаем шаблоны атрибутов,\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:325
@@ -15416,7 +15422,7 @@ msgstr ""
 msgid "00:08:34.439 --> 00:08:42.779\n"
 "that turns data into information.\n"
 "Rows become records and Columns become attributes.\n"
-msgstr ""
+msgstr "которые превращают данные в информацию. Строки становятся записями, а столбцы - атрибутами.\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:329
@@ -15424,7 +15430,7 @@ msgstr ""
 msgid "00:08:42.779 --> 00:08:48.410\n"
 "In a spreadsheet however, the connections\n"
 "between cells are idiomatic, loose and un-enforced.\n"
-msgstr ""
+msgstr "Однако в электронной таблице связи между ячейками являются идиоматическими, неплотными и неохваченными.\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:333
@@ -15432,14 +15438,14 @@ msgstr ""
 msgid "00:08:48.410 --> 00:08:54.610\n"
 "It is easy for the attributes between the\n"
 "rows to get jumbled up or for the values get\n"
-msgstr ""
+msgstr "Атрибуты между строками легко перепрыгивать или \n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:336
 #, no-wrap
 msgid "00:08:54.610 --> 00:09:05.339\n"
 "changed and then the meaning is lost.\n"
-msgstr ""
+msgstr "изменять значения, а затем терять значение.\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:340
@@ -15447,7 +15453,7 @@ msgstr ""
 msgid "00:09:05.339 --> 00:09:11.480\n"
 "This lack of enforced connections makes a\n"
 "spreadsheet easy to use but these same qualities\n"
-msgstr ""
+msgstr "Это отсутствие принудительного соединения делает электронную таблицу простой в использовании, но эти же качества\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:344
@@ -15463,7 +15469,7 @@ msgstr ""
 msgid "00:09:16.350 --> 00:09:23.930\n"
 "-- Connections and relationships are not documentable\n"
 "and so subject to interpretation and mutation.\n"
-msgstr ""
+msgstr "связи и отношения не поддаются документированию и поэтому подвержены интерпретации и изменению.\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:352
@@ -15471,7 +15477,7 @@ msgstr ""
 msgid "00:09:23.930 --> 00:09:28.939\n"
 "Spreadsheets are not built to scale either\n"
 "in terms of size or numbers of users -- So\n"
-msgstr ""
+msgstr "Электронные таблицы не строятся для масштабирования ни по размеру, ни по количеству пользователей - так\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:356
@@ -15479,7 +15485,7 @@ msgstr ""
 msgid "00:09:28.939 --> 00:09:36.960\n"
 "can be slow, crashy and easily corruptible.\n"
 "Spreadsheets are easy to copy and email -- So\n"
-msgstr ""
+msgstr "что могут быть медленными, разбитыми и легко развращаемыми. Электронные таблицы легко копировать и отправлять по электронной почте - поэтому\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:360
@@ -15487,7 +15493,7 @@ msgstr ""
 msgid "00:09:36.960 --> 00:09:49.709\n"
 "they are hard to version and keep track of.\n"
 "The question is what is the solution?\n"
-msgstr ""
+msgstr "их трудно редактировать и отслеживать. Вопрос в том, что такое решение?\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:364
@@ -15495,7 +15501,7 @@ msgstr ""
 msgid "00:09:49.709 --> 00:09:53.920\n"
 "Let us look back, at the connections in a\n"
 "bit more detail.\n"
-msgstr ""
+msgstr "Давайте остановимся на этих связях немного подробнее.\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:368
@@ -15503,7 +15509,7 @@ msgstr ""
 msgid "00:09:53.920 --> 00:10:00.490\n"
 "We generally understand that the data in each\n"
 "row of a table means something.\n"
-msgstr ""
+msgstr "Мы в целом понимаем, что данные в каждой строке таблицы что-то значат.\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:372
@@ -15511,7 +15517,7 @@ msgstr ""
 msgid "00:10:00.490 --> 00:10:06.790\n"
 "For example each row can represent a specimen\n"
 "or a taxa that was found at a particular place,\n"
-msgstr ""
+msgstr "Например, каждая строка может представлять образец или таксоны, которые были найдены в конкретном месте,\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:376
@@ -15519,7 +15525,7 @@ msgstr ""
 msgid "00:10:06.790 --> 00:10:13.600\n"
 "at a particular time, by a particular person.\n"
 "It would be odd to have one row in a table\n"
-msgstr ""
+msgstr "в конкретное время, конкретным человеком. Было бы странно иметь одну строку в таблице,\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:380
@@ -15527,7 +15533,7 @@ msgstr ""
 msgid "00:10:13.600 --> 00:10:19.560\n"
 "that represents a specimen followed by a row\n"
 "that represents a collection site.\n"
-msgstr ""
+msgstr "которая представляет образец, а затем строку, которая представляет сайт сбора.\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:384
@@ -15535,7 +15541,7 @@ msgstr ""
 msgid "00:10:19.560 --> 00:10:27.470\n"
 "We also often want to analyse, sort and compare\n"
 "values of particular attributes between rows.\n"
-msgstr ""
+msgstr "Мы также часто хотим анализировать, сортировать и сравнивать значения определенных атрибутов между строками.\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:388
@@ -15543,7 +15549,7 @@ msgstr ""
 msgid "00:10:27.470 --> 00:10:32.779\n"
 "For example you may want find the mean weight\n"
 "of all the Kenyan bats.\n"
-msgstr ""
+msgstr "Например, вы можете найти средний вес всех кенийских летучих мышей.\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:392
@@ -15551,7 +15557,7 @@ msgstr ""
 msgid "00:10:32.779 --> 00:10:39.080\n"
 "So ideally we want to use a system to store\n"
 "our data that: 1) always holds the rows together;\n"
-msgstr ""
+msgstr "Так что в идеале мы хотим использовать систему для хранения наших данных, которая: 1) всегда удерживает строки вместе;\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:396
@@ -15559,7 +15565,7 @@ msgstr ""
 msgid "00:10:39.080 --> 00:10:45.230\n"
 "2)does not mix data types; 3) and segregates\n"
 "data in each table to a single concept or\n"
-msgstr ""
+msgstr "2) не смешивает типы данных; 3) и разделяет данные в каждой таблице на одну концепцию или \n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:400
@@ -15567,7 +15573,8 @@ msgstr ""
 msgid "00:10:45.230 --> 00:10:57.500\n"
 "theme.\n"
 "These are functions of a database!\n"
-msgstr ""
+msgstr "тему. \n"
+"Это функции базы данных!\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:404
@@ -15575,7 +15582,7 @@ msgstr ""
 msgid "00:10:57.500 --> 00:11:03.500\n"
 "Functions in a true database inherently bind\n"
 "rows together and columns may only have a\n"
-msgstr ""
+msgstr "Функции в истинной базе данных по своей природе связывают строки вместе, а столбцы могут иметь только\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:408
@@ -15583,7 +15590,8 @@ msgstr ""
 msgid "00:11:03.500 --> 00:11:08.879\n"
 "single data type.\n"
 "Tables in database are held together by virtual\n"
-msgstr ""
+msgstr "один тип данных. \n"
+"Таблицы в базе данных удерживаются вместе виртуальными\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:412
@@ -15591,7 +15599,8 @@ msgstr ""
 msgid "00:11:08.879 --> 00:11:14.089\n"
 "links called keys.\n"
 "These keys are identifiers that match between\n"
-msgstr ""
+msgstr "ссылками, называемыми ключами. \n"
+"Эти ключи представляют собой идентификаторы, которые совпадают между \n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:416
@@ -15599,14 +15608,14 @@ msgstr ""
 msgid "00:11:14.089 --> 00:11:21.660\n"
 "tables and allow data to be connected efficiently.\n"
 "It is these 2 key concepts that distinguish\n"
-msgstr ""
+msgstr "таблицами и позволяют эффективно подключать данные. Именно эти 2 ключевые понятия отличают\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:419
 #, no-wrap
 msgid "00:11:21.660 --> 00:11:29.389\n"
 "a spreadsheet from a database.\n"
-msgstr ""
+msgstr "электронную таблицу от базы данных.\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:423
@@ -15614,7 +15623,7 @@ msgstr ""
 msgid "00:11:29.389 --> 00:11:35.649\n"
 "In review then, we have looked at the 6 most\n"
 "common data types, the basic building blocks\n"
-msgstr ""
+msgstr "Мы рассмотрели 6 наиболее распространенных типов данных, основные строительные блоки\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:427
@@ -15622,7 +15631,7 @@ msgstr ""
 msgid "00:11:35.649 --> 00:11:43.470\n"
 "of data structure and distinguished between\n"
 "a spreadsheet grid and database table.\n"
-msgstr ""
+msgstr "структуры данных и различия между электронной таблицей и таблицей базой данных.\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:431
@@ -15630,7 +15639,7 @@ msgstr ""
 msgid "00:11:43.470 --> 00:11:48.139\n"
 "Understanding these elements and how they\n"
 "interact with one another will allow you to\n"
-msgstr ""
+msgstr "Понимание этих элементов и того, как они взаимодействуют друг с другом, позволит вам\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:435
@@ -15638,14 +15647,14 @@ msgstr ""
 msgid "00:11:48.139 --> 00:11:57.170\n"
 "better determine the best ways to manipulate\n"
 "and document the data that falls under your\n"
-msgstr ""
+msgstr "лучше определить наилучшие способы манипулирования и документирования данных, которые находятся в вашем\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:438
 #, no-wrap
 msgid "00:11:57.170 --> 00:11:59.510\n"
 "custodianship.\n"
-msgstr ""
+msgstr "ведении.\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:442
@@ -15653,7 +15662,7 @@ msgstr ""
 msgid "00:11:59.510 --> 00:12:04.990\n"
 "Remember that: When you realize the difference\n"
 "between the container and the content, you\n"
-msgstr ""
+msgstr "Помните, что когда вы осознаете разницу между хранилищем и содержимым,\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:446
@@ -15661,7 +15670,8 @@ msgstr ""
 msgid "00:12:04.990 --> 00:12:08.949\n"
 "will have knowledge.\n"
 "Using the correct terms to describe both your\n"
-msgstr ""
+msgstr "у вас будут знания. \n"
+"Использование правильных терминов для описания\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:450
@@ -15669,7 +15679,7 @@ msgstr ""
 msgid "00:12:08.949 --> 00:12:13.930\n"
 "data and the structures that you create and\n"
 "use to store it; is the most important way\n"
-msgstr ""
+msgstr "данных и структур, создаваемых и используемых для их хранения; является наиболее важным способом \n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:454
@@ -15677,7 +15687,7 @@ msgstr ""
 msgid "00:12:13.930 --> 00:12:19.749\n"
 "to ensure that it remains relevant and useable.\n"
 "Never underestimate how much damage can be\n"
-msgstr ""
+msgstr "обеспечения того, чтобы он оставался актуальным и полезным. Никогда не стоит недооценивать, какой ущерб может быть\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:458
@@ -15685,7 +15695,7 @@ msgstr ""
 msgid "00:12:19.749 --> 00:12:30.810\n"
 "done to priceless information by careless\n"
 "descriptions and storage.\n"
-msgstr ""
+msgstr "нанесен бесценной информации с помощью небрежных описаний и хранения.\n"
 
 #. type: Plain text
 #: videos/Foundations_Structures.en.vtt:462
