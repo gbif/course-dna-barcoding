@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: publishing-dna-derived-data\n"
 "POT-Creation-Date: 2021-12-08 16:51+0000\n"
-"PO-Revision-Date: 2022-01-31 12:14\n"
+"PO-Revision-Date: 2022-02-01 23:25\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -15766,7 +15766,7 @@ msgstr "вкладом Тренеров BID и BIFA, Инструкторов и
 msgid "00:00:01.920 --> 00:00:08.480\n"
 "hello my name is tim hirsch i'm deputy director&nbsp;\n"
 "at gbiff the global biodiversity information&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "Здравствуйте, меня зовут Тим Хирш, я заместитель директора в Gbif, Глобального информационного\n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:12
@@ -15774,7 +15774,7 @@ msgstr ""
 msgid "00:00:08.480 --> 00:00:14.960\n"
 "facility i'm going to take a few minutes to give&nbsp;\n"
 "you a basic introduction to gbiff who we are&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "фонда по биоразнообразию. Я займу несколько минут, чтобы познакомить вас с Gbif. Кто мы,\n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:16
@@ -15782,7 +15782,7 @@ msgstr ""
 msgid "00:00:14.960 --> 00:00:21.680\n"
 "what we do and why we do it hopefully it will give&nbsp;\n"
 "a bit of context to the rest of this training and&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "что мы делаем и почему мы это делаем. Надеюсь, это даст определенный контекста для остальной части этого обучения и\n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:20
