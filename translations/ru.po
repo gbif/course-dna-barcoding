@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: publishing-dna-derived-data\n"
 "POT-Creation-Date: 2021-12-08 16:51+0000\n"
-"PO-Revision-Date: 2022-01-31 12:14\n"
+"PO-Revision-Date: 2022-02-02 02:24\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -15766,7 +15766,7 @@ msgstr "вкладом Тренеров BID и BIFA, Инструкторов и
 msgid "00:00:01.920 --> 00:00:08.480\n"
 "hello my name is tim hirsch i'm deputy director&nbsp;\n"
 "at gbiff the global biodiversity information&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "Здравствуйте, меня зовут Tim Hirsch, я заместитель директора в Gbif, Глобального информационного\n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:12
@@ -15774,7 +15774,7 @@ msgstr ""
 msgid "00:00:08.480 --> 00:00:14.960\n"
 "facility i'm going to take a few minutes to give&nbsp;\n"
 "you a basic introduction to gbiff who we are&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "фонда по биоразнообразию. Я займу несколько минут, чтобы познакомить вас с Gbif. Кто мы,\n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:16
@@ -15782,7 +15782,7 @@ msgstr ""
 msgid "00:00:14.960 --> 00:00:21.680\n"
 "what we do and why we do it hopefully it will give&nbsp;\n"
 "a bit of context to the rest of this training and&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "что мы делаем и почему мы это делаем. Надеюсь, это даст определенный контекста для остальной части этого обучения и\n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:20
@@ -15790,7 +15790,7 @@ msgstr ""
 msgid "00:00:21.680 --> 00:00:27.040\n"
 "motivate you to use the skills you'll be acquiring&nbsp;\n"
 "in this course to support gbiff's mission\n"
-msgstr ""
+msgstr "побудит вас использовать навыки, которые вы будете приобретать в этом курсе, чтобы поддержать миссию GBIF.\n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:24
@@ -15798,7 +15798,7 @@ msgstr ""
 msgid "00:00:29.600 --> 00:00:36.160\n"
 "so what is gbif well we're an intergovernmental&nbsp;\n"
 "network and research infrastructure with the&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "Итак, что такое GBIF. Начнем, мы межправительственная сеть и исследовательская инфраструктура с\n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:28
@@ -15806,7 +15806,7 @@ msgstr ""
 msgid "00:00:36.160 --> 00:00:42.480\n"
 "overall purpose of providing anyone anywhere with&nbsp;\n"
 "free and open access to data about all types of&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "общей целью предоставления любому человеку в любом месте свободного и открытого доступа к данным о всех типах\n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:32
@@ -15814,7 +15814,7 @@ msgstr ""
 msgid "00:00:42.480 --> 00:00:49.440\n"
 "life on earth gbif was established in 2001 and&nbsp;\n"
 "it's a voluntary collaboration among governments&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "жизни на Земле. GBIF был создан в 2001 году и это добровольное сотрудничество между правительствами\n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:36
@@ -15822,7 +15822,7 @@ msgstr ""
 msgid "00:00:49.440 --> 00:00:54.720\n"
 "and international organizations the gbif&nbsp;\n"
 "participants working through a common&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "и международными организациями. Участники GBIF работают в рамках общего \n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:40
@@ -15830,7 +15830,7 @@ msgstr ""
 msgid "00:00:54.720 --> 00:01:01.600\n"
 "memorandum of understanding or mou this mou sets&nbsp;\n"
 "out the basic principles of sharing data for the&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "Меморандума о взаимопонимании или MoU. В этом меморандуме изложены основные принципы обмена данными\n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:44
@@ -15838,7 +15838,7 @@ msgstr ""
 msgid "00:01:01.600 --> 00:01:08.240\n"
 "common good and the way gbif should be governed&nbsp;\n"
 "and funded under the mou each gbif participant&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "в интересах общего блага, а также порядок управления и финансирования GBIF. В соответствии с MoU каждый участник GBIF\n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:48
@@ -15846,7 +15846,7 @@ msgstr ""
 msgid "00:01:08.240 --> 00:01:14.720\n"
 "agrees to set up a node to coordinate data sharing&nbsp;\n"
 "and use among stakeholders in the country or&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "соглашается создать узел для координации обмена данными и их использования между заинтересованными сторонами в стране или\n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:52
@@ -15854,7 +15854,7 @@ msgstr ""
 msgid "00:01:14.720 --> 00:01:21.280\n"
 "organization a secretariat based in copenhagen&nbsp;\n"
 "denmark manages the technical infrastructure&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "организации. Секретариат располагается Копенгагене, Дания, управляет технической инфраструктурой\n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:56
@@ -15862,7 +15862,7 @@ msgstr ""
 msgid "00:01:21.280 --> 00:01:26.960\n"
 "and supports the collaborations that keep&nbsp;\n"
 "gbif going and growing as a global community&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "и поддерживает кооперацию, которая поддерживает GBIF как глобальное сообщество.\n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:60
@@ -15870,7 +15870,7 @@ msgstr ""
 msgid "00:01:27.760 --> 00:01:33.680\n"
 "as you'll see from the gbiff.org homepage on the&nbsp;\n"
 "right this community is now managing very large&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "Как вы увидите из gbif.org домашней страницы, справа это сообщество сейчас управляет очень большими\n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:64
@@ -15878,7 +15878,7 @@ msgstr ""
 msgid "00:01:33.680 --> 00:01:40.240\n"
 "volumes of data shared from hundreds of publishing&nbsp;\n"
 "institutions around the world and used in a&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "объемами данных, которыми делятся сотни издательских учреждений по всему миру и которые используются в\n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:68
@@ -15886,7 +15886,7 @@ msgstr ""
 msgid "00:01:40.240 --> 00:01:45.920\n"
 "growing body of research to support understanding&nbsp;\n"
 "and decisions relating to biodiversity\n"
-msgstr ""
+msgstr "растущем объеме исследований для поддержки понимания и решений, касающихся биоразнообразия.\n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:72
@@ -15894,7 +15894,7 @@ msgstr ""
 msgid "00:01:48.960 --> 00:01:55.280\n"
 "one way to look at gbiff is as a window&nbsp;\n"
 "on the huge amount of evidence accumulated&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "Одна из точек зрения состоит в том, что GBIF это как окно с огромным количеством доказательств, накопленных\n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:76
@@ -15902,7 +15902,7 @@ msgstr ""
 msgid "00:01:55.280 --> 00:02:01.440\n"
 "over centuries about where species have lived&nbsp;\n"
 "and when they lived there the evidence takes&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "за столетия о том, где обитали виды и когда они там жили. Доказательства принимают \n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:80
@@ -15910,7 +15910,7 @@ msgstr ""
 msgid "00:02:01.440 --> 00:02:08.000\n"
 "many different forms and often starts out&nbsp;\n"
 "scattered isolated and inaccessible here are&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "много различных форм и часто поступают как разрозненные, изолированные и труднодоступные.  Вот\n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:84
@@ -15918,7 +15918,7 @@ msgstr ""
 msgid "00:02:08.000 --> 00:02:14.480\n"
 "some examples and you can follow this if you look&nbsp;\n"
 "at the semicircle on the left starting at the top&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "несколько примеров, и вы можете следовать им. Если смотреть на полукруг слева начиная с верхней \n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:88
@@ -15926,7 +15926,7 @@ msgstr ""
 msgid "00:02:14.480 --> 00:02:21.120\n"
 "and working anti-clockwise specimens literally&nbsp;\n"
 "billions of them collected from around the world&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "и рабочей против часовой стрелки образцов. Буквально миллиарды из них собраны со всего мира\n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:92
@@ -15934,7 +15934,7 @@ msgstr ""
 msgid "00:02:21.120 --> 00:02:27.360\n"
 "along with the labels that describe them contain&nbsp;\n"
 "vital evidence which may be literally locked away&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "вместе с этикетками, которые описывают их, содержат жизненно важные доказательства, которые могут быть буквально заперты\n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:96
@@ -15942,7 +15942,7 @@ msgstr ""
 msgid "00:02:27.360 --> 00:02:33.360\n"
 "in the drawers of natural history collections&nbsp;\n"
 "observations from surveys and monitoring&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "в ящиках коллекций естественной истории. Наблюдения из обследований и программ\n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:100
@@ -15950,7 +15950,7 @@ msgstr ""
 msgid "00:02:33.360 --> 00:02:39.760\n"
 "programs as well as the increasing activities&nbsp;\n"
 "of citizen scientists are recorded and stored&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "мониторинга, а также возрастающая деятельность представителей гражданской науки регистрируются и накапливаются\n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:104
@@ -15958,7 +15958,7 @@ msgstr ""
 msgid "00:02:39.760 --> 00:02:47.120\n"
 "in varying formats literature about the natural&nbsp;\n"
 "world both historic and current often contains&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "в различных форматах. Литература о природном мире как историческом, так и текущем часто содержит\n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:108
@@ -15966,7 +15966,7 @@ msgstr ""
 msgid "00:02:47.120 --> 00:02:53.520\n"
 "detailed information on species occurrences but&nbsp;\n"
 "it's embedded and effectively hidden in the text&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "подробную информацию о наблюдениях за видами, но она встроена и эффективно скрыта в текст, \n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:112
@@ -15974,7 +15974,7 @@ msgstr ""
 msgid "00:02:53.520 --> 00:03:00.400\n"
 "it needs liberating automated wildlife records&nbsp;\n"
 "such as through satellite tracking camera traps&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "из которого она нуждается в высвобождении. Автоматизированные записи из дикой природы, такие как спутниковое слежение, фотоловушки\n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:116
@@ -15982,7 +15982,7 @@ msgstr ""
 msgid "00:03:00.400 --> 00:03:07.440\n"
 "or acoustic monitoring add yet more to this&nbsp;\n"
 "wealth of evidence and finally large volumes of&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "или акустический мониторинг, еще больше добавляют к этому богатству доказательств. И наконец, большие объемы \n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:120
@@ -15990,7 +15990,7 @@ msgstr ""
 msgid "00:03:07.440 --> 00:03:15.120\n"
 "data derived from dna sequencing of samples from&nbsp;\n"
 "the environment so called edna provide evidence&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "данных, полученных из Днк, секвенирования образцов из окружающей среды, так называемой eДНК, дают доказательства\n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:124
@@ -15998,7 +15998,7 @@ msgstr ""
 msgid "00:03:15.120 --> 00:03:22.400\n"
 "of previously hidden biodiversity the key to&nbsp;\n"
 "discovering and applying all of this evidence&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "ранее скрытого биоразнообразия. Ключом к обнаружению и применению всех этих доказательств\n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:128
@@ -16006,7 +16006,7 @@ msgstr ""
 msgid "00:03:22.400 --> 00:03:28.720\n"
 "is the use of common standards a common language&nbsp;\n"
 "if you like that organizes all the essential&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "является использование общих стандартов, общего языка, если хотите. Это организует все важные\n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:132
@@ -16014,7 +16014,7 @@ msgstr ""
 msgid "00:03:28.720 --> 00:03:35.040\n"
 "facts according to an agreed vocabulary even if&nbsp;\n"
 "they started out in a mess of different formats&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "факты в соответствии с согласованным словарем, даже если они начались в беспорядке различных форматов,\n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:136
@@ -16022,7 +16022,7 @@ msgstr ""
 msgid "00:03:35.760 --> 00:03:38.960\n"
 "that's one of the things you'll be&nbsp;\n"
 "learning much more about in this course&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "это одна из вещей, которые вы изучите более подробно в этом курсе.\n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:140
@@ -16030,7 +16030,7 @@ msgstr ""
 msgid "00:03:39.840 --> 00:03:47.280\n"
 "once organized using agreed standards data sets&nbsp;\n"
 "can be shared or published through gbiff and using&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "после организации с использованием согласованных стандартов. Наборы данных могут совместно использоваться или публиковаться через GBIF и с использованием\n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:144
@@ -16038,7 +16038,7 @@ msgstr ""
 msgid "00:03:47.280 --> 00:03:53.120\n"
 "the technical infrastructure of the network easily&nbsp;\n"
 "discovered by users through filtered searches&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "технической инфраструктуры сети, легко обнаруживаемой пользователями посредством отфильтрованных поисков,\n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:148
@@ -16046,7 +16046,7 @@ msgstr ""
 msgid "00:03:53.680 --> 00:04:00.320\n"
 "plotted on maps and used in models always&nbsp;\n"
 "with clear links back to the original evidence\n"
-msgstr ""
+msgstr "построенных на картах и используемых в моделях, всегда с четкими ссылками на исходные данные.\n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:152
@@ -16054,7 +16054,7 @@ msgstr ""
 msgid "00:04:03.040 --> 00:04:09.520\n"
 "so we've brought all of this data together but&nbsp;\n"
 "for what purpose through tracking the citations&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "Итак, мы собрали все эти данные вместе, но с какой целью?  Отслеживая цитаты \n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:156
@@ -16062,7 +16062,7 @@ msgstr ""
 msgid "00:04:09.520 --> 00:04:15.680\n"
 "of gbif in research and its onward relevance to&nbsp;\n"
 "policy and decisions we can build up a picture of&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "на GBIF в исследованиях и его дальнейшую актуальность для политики и решений, мы можем создать картину\n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:160
@@ -16070,7 +16070,7 @@ msgstr ""
 msgid "00:04:15.680 --> 00:04:21.920\n"
 "how all of those involved in sharing standardized&nbsp;\n"
 "data from the volunteer wildlife observer to&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "того, как все те, кто участвует в обмене стандартизированными данными от добровольца-наблюдателя дикой природы к \n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:164
@@ -16078,7 +16078,7 @@ msgstr ""
 msgid "00:04:21.920 --> 00:04:28.000\n"
 "researchers and museum curators are contributing&nbsp;\n"
 "to the knowledge that supports better decisions&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "исследователям и музейным кураторам, вносят вклад в знания, которые поддерживают лучшие решения \n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:168
@@ -16086,7 +16086,7 @@ msgstr ""
 msgid "00:04:28.000 --> 00:04:35.120\n"
 "for our planet and for our societies here are just&nbsp;\n"
 "some examples data shared through gbif supports&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "для нашей планеты и для наших обществ. Вот лишь некоторые примеры данных, которыми обмениваются через GBIF, способствуя\n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:172
@@ -16094,7 +16094,7 @@ msgstr ""
 msgid "00:04:35.120 --> 00:04:39.760\n"
 "conservation by helping to identify&nbsp;\n"
 "the most important sites for protected&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "охране, помогая определить наиболее важные участки для охраняемых районов,\n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:176
@@ -16102,7 +16102,7 @@ msgstr ""
 msgid "00:04:39.760 --> 00:04:45.920\n"
 "areas by underpinning assessment of species&nbsp;\n"
 "extinction risk through the red listing process&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "подкрепляя оценку риска исчезновения видов с помощью процесса красного перечисления \n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:180
@@ -16110,7 +16110,7 @@ msgstr ""
 msgid "00:04:46.640 --> 00:04:54.320\n"
 "and by tracking the actual and predicted spread&nbsp;\n"
 "of invasive alien species data shared through gmif&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "и отслеживая фактическое и прогнозируемое распространение инвазивных чужеродных видов. Обмен данными через GBIF\n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:184
@@ -16118,7 +16118,7 @@ msgstr ""
 msgid "00:04:54.320 --> 00:05:00.960\n"
 "supports food security by mapping the distribution&nbsp;\n"
 "of the wild relatives of the most important food&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "обеспечивает продовольственную безопасность путем картирования распределения диких сородичей наиболее важных продовольственных\n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:188
@@ -16126,7 +16126,7 @@ msgstr ""
 msgid "00:05:00.960 --> 00:05:06.720\n"
 "crops and therefore the location of the genetic&nbsp;\n"
 "resources that need to be conserved for future&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "культур и, следовательно, местоположения генетических ресурсов, которые необходимо сохранить для будущего\n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:192
@@ -16134,7 +16134,7 @@ msgstr ""
 msgid "00:05:06.720 --> 00:05:13.840\n"
 "plant breeding and by providing information on&nbsp;\n"
 "both marine and freshwater fish species along with&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "размножения растений, а также путем предоставления информации как о морских, так и о пресноводных видах рыб наряду с\n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:196
@@ -16142,7 +16142,7 @@ msgstr ""
 msgid "00:05:13.840 --> 00:05:20.800\n"
 "other wild species important for nutrition data&nbsp;\n"
 "shared through gbiff supports action on climate&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "другими дикими видами, имеющими важное значение для питания. Обмен данными через GBIF способствует принятию мер в связи с изменением климата\n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:200
@@ -16150,7 +16150,7 @@ msgstr ""
 msgid "00:05:20.800 --> 00:05:27.440\n"
 "change through helping to model how species ranges&nbsp;\n"
 "will change under different climate scenarios&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "путем оказания помощи в моделировании того, как изменятся видовые ареалы при различных сценариях\n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:204
@@ -16158,7 +16158,7 @@ msgstr ""
 msgid "00:05:27.440 --> 00:05:33.920\n"
 "informing strategies to adapt to climate change&nbsp;\n"
 "and assessing the impacts of measures to mitigate&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "изменения климата, с целью разработки стратегий адаптации к изменению климата и оценки воздействия мер\n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:208
@@ -16166,7 +16166,7 @@ msgstr ""
 msgid "00:05:33.920 --> 00:05:40.720\n"
 "climate change for example increased production&nbsp;\n"
 "of biofuels and hydropower and finally&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "по смягчению последствий изменения климата, например увеличения производства биотоплива и гидроэнергетики. И, наконец, \n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:212
@@ -16174,7 +16174,7 @@ msgstr ""
 msgid "00:05:40.720 --> 00:05:47.040\n"
 "data shared through gbif supports human health&nbsp;\n"
 "by tracking the distribution of species that&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "данные, распространяемые через GBIF, поддерживают здоровье человека, отслеживая распределение видов,\n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:216
@@ -16182,7 +16182,7 @@ msgstr ""
 msgid "00:05:47.040 --> 00:05:54.080\n"
 "act as vectors hosts and reservoirs of human&nbsp;\n"
 "diseases by helping to map medicinal plant species&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "которые действуют как переносчики-хозяева и резервуары заболеваний человека, помогая картировать лекарственные виды растений \n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:220
@@ -16190,7 +16190,7 @@ msgstr ""
 msgid "00:05:54.720 --> 00:06:00.640\n"
 "and by assessing risks posed by significant&nbsp;\n"
 "public health hazards such as snake bite\n"
-msgstr ""
+msgstr "и оценивая риски, создаваемые значительными рисками для здоровья населения, такими как укусы змей.\n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:224
@@ -16198,7 +16198,7 @@ msgstr ""
 msgid "00:06:03.360 --> 00:06:10.000\n"
 "gpiff provides technical solutions but it is above&nbsp;\n"
 "all a global community its people collaborating&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "GBIF предоставляет технические решения, но это прежде всего глобальное сообщество, которое сотрудничает со своими людьми\n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:228
@@ -16206,7 +16206,7 @@ msgstr ""
 msgid "00:06:10.000 --> 00:06:15.600\n"
 "to develop skills and good practices in the&nbsp;\n"
 "management sharing and use of biodiversity data&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "в целях развития навыков и передовой практики в области управления обменом данными о биоразнообразии и их использования.\n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:232
@@ -16214,7 +16214,7 @@ msgstr ""
 msgid "00:06:16.400 --> 00:06:22.320\n"
 "this biodiversity informatics community&nbsp;\n"
 "of practice has over the years generated&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "Это сообщество специалистов по информатике биоразнообразия на протяжении многих лет создавало\n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:236
@@ -16222,7 +16222,7 @@ msgstr ""
 msgid "00:06:22.320 --> 00:06:28.160\n"
 "a variety of tools and guidance materials which&nbsp;\n"
 "are all freely available through the gbif network&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "разнообразные инструменты и руководящие материалы, которые все чаще доступны через сеть GBIF\n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:240
@@ -16230,7 +16230,7 @@ msgstr ""
 msgid "00:06:28.160 --> 00:06:34.640\n"
 "increasingly in multiple languages at the heart of&nbsp;\n"
 "this collaboration is training through the use of&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "на нескольких языках. В основе этого сотрудничества лежит обучение с использованием \n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:244
@@ -16238,7 +16238,7 @@ msgstr ""
 msgid "00:06:34.640 --> 00:06:40.640\n"
 "curricular and e-learning like the course you're&nbsp;\n"
 "following now another key feature is the use of&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "учебных программ и электронного обучения, как и курс, который вы сейчас изучаете. Другой ключевой особенностью является использование\n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:248
@@ -16246,7 +16246,7 @@ msgstr ""
 msgid "00:06:40.640 --> 00:06:47.200\n"
 "our growing pool of volunteer mentors experienced&nbsp;\n"
 "gbif practitioners who help new colleagues to&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "Другой ключевой особенностью является использование нашего растущего пула волонтеров-наставников, опытных практиков GBIF, которые помогают новым коллегам \n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:252
@@ -16254,7 +16254,7 @@ msgstr ""
 msgid "00:06:47.200 --> 00:06:54.240\n"
 "get started with advice and technical guidance&nbsp;\n"
 "today's trainees soon become tomorrow's mentors&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "начать с консультаций и технического руководства. Сегодняшние стажеры вскоре становятся завтрашними наставниками \n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:256
@@ -16262,7 +16262,7 @@ msgstr ""
 msgid "00:06:54.240 --> 00:07:00.880\n"
 "and so the community of practice grows g this&nbsp;\n"
 "network of nodes helps develop these skills&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "и поэтому сообщество практиков растет. Эта сеть узлов помогает развивать эти навыки\n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:260
@@ -16270,7 +16270,7 @@ msgstr ""
 msgid "00:07:00.880 --> 00:07:05.680\n"
 "both within a country's institutions and&nbsp;\n"
 "through collaboration at regional and&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "как в рамках учреждений страны, так и на основе сотрудничества на региональном и\n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:264
@@ -16278,7 +16278,7 @@ msgstr ""
 msgid "00:07:05.680 --> 00:07:12.160\n"
 "global levels through a range of programs&nbsp;\n"
 "and partnerships gbif brings funding into&nbsp;&nbsp;\n"
-msgstr ""
+msgstr " глобальном уровнях. Благодаря целому ряду программ и партнерств GBIF обеспечивает финансирование\n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:268
@@ -16286,7 +16286,7 @@ msgstr ""
 msgid "00:07:12.160 --> 00:07:18.000\n"
 "projects that enhance biodiversity informatics&nbsp;\n"
 "capacity among countries and institutions\n"
-msgstr ""
+msgstr "проектов, направленных на укрепление потенциала стран и учреждений в области информатики биоразнообразия.\n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:272
@@ -16294,7 +16294,7 @@ msgstr ""
 msgid "00:07:21.360 --> 00:07:27.920\n"
 "so welcome to the gbif community and good luck if&nbsp;\n"
 "you have questions on this presentation please use&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "Tак что добро пожаловать в сообщество GBIF и удачи. Если у вас есть вопросы по этой презентации, пожалуйста, используйте \n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:276
@@ -16302,7 +16302,7 @@ msgstr ""
 msgid "00:07:27.920 --> 00:07:34.720\n"
 "the forum provided in the e-learning platform this&nbsp;\n"
 "video is part of a series of presentations used in&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "форум, предоставленный в e-learning платформе. Этот видеоролик является частью серии презентаций, используемых в\n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:280
@@ -16310,7 +16310,7 @@ msgstr ""
 msgid "00:07:34.720 --> 00:07:40.080\n"
 "the gbif biodiversity data mobilization course&nbsp;\n"
 "the curriculum for this course was originally&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "в курсе GBIF по мобилизации данных о биоразнообразии. Учебная программа для этого курса была первоначально\n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:284
@@ -16318,7 +16318,7 @@ msgstr ""
 msgid "00:07:40.080 --> 00:07:45.840\n"
 "developed as part of the biodiversity information&nbsp;\n"
 "for development program the bid program funded&nbsp;&nbsp;\n"
-msgstr ""
+msgstr "разработана в рамках программы информации о биоразнообразии для развития конкурсной программы, финансируемой\n"
 
 #. type: Plain text
 #: videos/Introduction-to-GBIF.en.vtt:288
@@ -16326,5 +16326,5 @@ msgstr ""
 msgid "00:07:45.840 --> 00:07:54.800\n"
 "by the european union this presentation&nbsp;\n"
 "was created and narrated by me tim hirsch\n"
-msgstr ""
+msgstr "Европейским союзом. Эта презентация была создана и озвучена мной Тимом Хиршем\n"
 
