@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: publishing-dna-derived-data\n"
 "POT-Creation-Date: 2021-12-08 16:51+0000\n"
-"PO-Revision-Date: 2022-02-06 20:21\n"
+"PO-Revision-Date: 2022-02-06 23:24\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -59,7 +59,7 @@ msgstr "Цель\n"
 #. type: delimited block *
 #: description.en.adoc:13
 msgid "This course will teach you how to use DNA barcodes, collection and observation data to resolve research questions in biodiversity.  The programme uses a combination of lectures, tutorials, and hands-on exercises.  You will learn to handle biodiversity data including DNA barcoding.  You will gain practical experience in using open and digitally documented biodiversity data through GBIF and BOLD to answer biodiversity research questions.  You will understand and practice capturing observation, collection, and genetic data from analogue and digital sources.  Finally, this course provides basic skills in data publishing through GBIF and BOLD."
-msgstr "При прохождении курса вы научитесь использовать штрихкоды ДНК, данные коллекций и наблюдений для решения исследовательских вопросов в области биоразнообразия. В программе комбинируются лекции, учебные пособия и практические упражнения. Вы научитесь обрабатывать данные о биоразнообразии, включая штрих-коды ДНК. Получите практический опыт использования открытых и задокументированных данных о биоразнообразии через GBIF и BOLD для ответа на вопросы об исследовании биоразнообразия. Вы будете понимать и применять данные наблюдений, коллекционные и генетические данные из аналоговых и цифровых источников. Наконец, этот курс предоставляет базовые навыки публикации данных через GBIF и BOLD."
+msgstr "При прохождении курса вы научитесь использовать штрихкоды ДНК, данные коллекций и наблюдений для решения исследовательских вопросов в области биоразнообразия. В программе комбинируются лекции, учебные пособия и практические упражнения. Вы научитесь обрабатывать данные о биоразнообразии, включая штрихкоды ДНК. Получите практический опыт использования открытых и задокументированных данных о биоразнообразии через GBIF и BOLD для ответа на вопросы об исследовании биоразнообразия. Вы будете понимать и применять данные наблюдений, коллекционные и генетические данные из аналоговых и цифровых источников. Наконец, этот курс предоставляет базовые навыки публикации данных через GBIF и BOLD."
 
 #. type: delimited block *
 #: description.en.adoc:15
@@ -213,12 +213,12 @@ msgstr "Рекомендуем"
 #. type: Plain text
 #: course-prep.en.adoc:21
 msgid "The course will include a practical part where you will design a research project and its data elements. This project and its “data journey” will be on a plant-pollinator system. To prepare for this part, please read the following. Skip if you are working on pollinators yourself already."
-msgstr "Курс будет включать практическую часть, где вы будете разрабатывать исследовательский проект и его элементы данных. Этот проект и его «путь данных» будут создан на основе системы растение-опылитель. Для подготовки к этой части, пожалуйста, прочитайте следующее. Пропустите этот раздел, если вы уже работаете с опылителями."
+msgstr "Курс будет включать практическую часть, где вы будете разрабатывать исследовательский проект и его элементы данных. Этот проект и его «путь данных» будут созданы на основе системы растение-опылитель. Для подготовки к этой части, пожалуйста, прочитайте следующее. Пропустите этот раздел, если вы уже работаете с опылителями."
 
 #. type: Plain text
 #: course-prep.en.adoc:23
 msgid "https://www.bbc.com/news/science-environment-55662985[Honey detective work raises fears for bees^]"
-msgstr ""
+msgstr "https://www.bbc.com/news/science-environment-55662985[Детективное исследование меда вызывает опасения за пчел^]"
 
 #. type: Plain text
 #: course-prep.en.adoc:24
@@ -254,7 +254,7 @@ msgstr "https://docs.gbif.org/course-introduction-to-gbif[Введение в GB
 #. type: Plain text
 #: course-prep.en.adoc:32
 msgid "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0185809[More than 75 percent decline over 27 years in total flying insect biomass in protected areas^] - paper"
-msgstr "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0185809[Более 75% снижения за 27 лет общей биомассы летающих насекомых в охраняемых зонах^] - статья"
+msgstr "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0185809[Более чем 75% снижение за 27 лет общей биомассы летающих насекомых на охраняемых территориях^] - статья"
 
 #. type: Title ==
 #: downloads.en.adoc:1
@@ -312,12 +312,12 @@ msgstr "Упражнения"
 #. type: Plain text
 #: downloads.en.adoc:23
 msgid "Data journey step 4: link:../exercise-data/sequences.zip[sequences.zip file,opts=download] (ZIP 5 KB)"
-msgstr ""
+msgstr "Путь данных, этап 4: link:../exercise-data/sequences.zip[sequences.zip файл, opts=download] (ZIP 5 KB)"
 
 #. type: Plain text
 #: downloads.en.adoc:25
 msgid "Data journey step 6:"
-msgstr ""
+msgstr "Путь данных, этап 6:"
 
 #. type: Plain text
 #: downloads.en.adoc:27
@@ -332,7 +332,7 @@ msgstr ""
 #. type: Plain text
 #: downloads.en.adoc:30
 msgid "Data journey step 7:"
-msgstr "Шаг 7. Передача данных:"
+msgstr "Путь данных, этап 7:"
 
 #. type: Plain text
 #: downloads.en.adoc:32
@@ -354,7 +354,7 @@ msgstr "Установка программного обеспечения"
 #: software.en.adoc:3
 #, no-wrap
 msgid "Install OpenRefine"
-msgstr "Установить OpenRefine"
+msgstr "Установка OpenRefine"
 
 #. type: Plain text
 #: software.en.adoc:6
@@ -418,7 +418,7 @@ msgstr "Установка на Windows"
 #. type: delimited block =
 #: software.en.adoc:30 software.en.adoc:43
 msgid "Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-win-with-java-3.4.1.zip[Windows kit *with embedded Java*].  Choose to save the file rather than open it."
-msgstr "Скачайте https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-win-with-java-3.4.1.zip[Windows kit *with embedded Java*]. Выберите сохранить файл, а не открыть его."
+msgstr "Скачайте https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-win-with-java-3.4.1.zip[Windows kit *with embedded Java*] (Windows со встроенной Java). Выберите сохранить файл, а не открыть его."
 
 #. type: Plain text
 #: software.en.adoc:31
@@ -463,7 +463,7 @@ msgstr ""
 #. type: delimited block =
 #: software.en.adoc:52
 msgid "Find the file you downloaded.  Right click it, and choose \"Extract All…\""
-msgstr "Найдите файл, который вы скачали. Щелкните правой кнопкой мыши и выберите \"Извлечь все…\""
+msgstr "Найдите файл, который вы скачали. Щелкните правой кнопкой мыши и выберите \"Extract All…\" (Извлечь все…)"
 
 #. type: Target for macro image
 #: software.en.adoc:59
@@ -474,7 +474,7 @@ msgstr ""
 #. type: delimited block =
 #: software.en.adoc:61
 msgid "Click \"Extract\""
-msgstr "Нажмите \"Extract(Извлечь)\""
+msgstr "Нажмите \"Extract\" (Извлечь)"
 
 #. type: Target for macro image
 #: software.en.adoc:68
@@ -485,7 +485,7 @@ msgstr ""
 #. type: delimited block =
 #: software.en.adoc:70
 msgid "Find the extracted files.  Optionally, right click \"openrefine\" and choose \"Send to → Desktop (create shortcut)\" to create a shortcut on your desktop.  Then double click \"openrefine\""
-msgstr "Найдите извлеченные файлы. При необходимости щелкните правой кнопкой мыши \"openrefine\" и выберите \"Send to → Desktop (создать ярлык)\", чтобы создать ярлык на рабочем столе. Затем дважды нажмите \"openrefine\""
+msgstr "Найдите извлеченные файлы. При необходимости щелкните правой кнопкой мыши \"openrefine\" и выберите \"Send to → Desktop (create shortcut)\", чтобы создать ярлык на рабочем столе. Затем дважды нажмите \"openrefine\""
 
 #. type: Target for macro image
 #: software.en.adoc:77
@@ -578,7 +578,7 @@ msgstr ""
 #. type: delimited block =
 #: software.en.adoc:135
 msgid "Choose \"Open Anyway\" at the bottom."
-msgstr "В нижней части выберите \"Open Anyway (Открыть в любом случае)\"."
+msgstr "В нижней части выберите \"Open Anyway\" (Открыть в любом случае)."
 
 #. type: Target for macro image
 #: software.en.adoc:142
@@ -589,7 +589,7 @@ msgstr ""
 #. type: delimited block =
 #: software.en.adoc:144
 msgid "Choose \"Open\""
-msgstr "Выберите \"Open(Открыть)\""
+msgstr "Выберите \"Open\" (Открыть)"
 
 #. type: Target for macro image
 #: software.en.adoc:151
@@ -600,7 +600,7 @@ msgstr ""
 #. type: delimited block =
 #: software.en.adoc:153
 msgid "Finally, the application archive is opened! Drag it to your Applications folder."
-msgstr "В конечном итоге, открывается архив приложения! Перетащите его в папку Приложения."
+msgstr "В конечном итоге открывается архив приложения! Перетащите его в папку Приложения."
 
 #. type: Target for macro image
 #: software.en.adoc:160
@@ -622,7 +622,7 @@ msgstr ""
 #. type: delimited block =
 #: software.en.adoc:171
 msgid "Go back to \"Security & Privacy\" and click \"Open Anyway\" — again."
-msgstr "Вернитесь в \"Безопасность и конфиденциальность\" и снова нажмите \"Открыть в любом случае\"."
+msgstr "Вернитесь в \"Безопасность и конфиденциальность\" и снова нажмите \"Open Anyway\" (Открыть в любом случае)."
 
 #. type: Target for macro image
 #: software.en.adoc:178
@@ -665,7 +665,7 @@ msgstr "Скачайте https://github.com/OpenRefine/OpenRefine/releases/downl
 #. type: Plain text
 #: software.en.adoc:200
 msgid "Download, extract, then type ./refine to start.  This requires Java to be installed on your computer."
-msgstr "Загрузите, извлеките, затем введите ./refine для запуска. Это требует установки Java на вашем компьютере."
+msgstr "Загрузите, извлеките, затем введите ./refine для запуска. Потребуется установка Java на вашем компьютере."
 
 #. type: Block title
 #: software.en.adoc:201
@@ -698,7 +698,7 @@ msgstr ""
 #. type: delimited block =
 #: software.en.adoc:222
 msgid "Click \"Extract\" to unpack the downloaded application."
-msgstr "Нажмите \"Извлечь\" для распаковки загруженного приложения."
+msgstr "Нажмите \"Extract\" (Извлечь) для распаковки загруженного приложения."
 
 #. type: Target for macro image
 #: software.en.adoc:229
@@ -709,7 +709,7 @@ msgstr ""
 #. type: delimited block =
 #: software.en.adoc:231
 msgid "Choose a suitable place.  I also selected \"Open destination folder after extraction\" and \"Close Ark after extraction\""
-msgstr "Выберите подходящее место. Например, «Открыть папку назначения после извлечения» и «Закрыть архив после извлечения»"
+msgstr "Выберите подходящее место. Например, «Open destination folder after extraction» (Открыть папку назначения после извлечения) и «Close Ark after extraction» (Закрыть архив после извлечения)"
 
 #. type: Target for macro image
 #: software.en.adoc:238
@@ -756,7 +756,7 @@ msgstr "Введение "
 #: introduction.en.adoc:6
 #, no-wrap
 msgid "Barcoding, data and biodiversity"
-msgstr "Штрих-код, данные и биоразнообразие"
+msgstr "Штрихкод, данные и биоразнообразие"
 
 #. type: Plain text
 #: introduction.en.adoc:14 introduction.en.adoc:32 research-data.en.adoc:14
@@ -779,7 +779,7 @@ msgstr ""
 #: introduction.en.adoc:24
 #, no-wrap
 msgid "GBIF for science and policy"
-msgstr "Наука и политика GBIF"
+msgstr "GBIF для науки и политики"
 
 #. type: delimited block +
 #: introduction.en.adoc:39
@@ -793,12 +793,12 @@ msgstr ""
 #: research-data.en.adoc:1
 #, no-wrap
 msgid "Data as a first-class research citizen"
-msgstr "Данные как первоклассные объекты"
+msgstr "Данные как первоклассные исследовательские объекты"
 
 #. type: Plain text
 #: research-data.en.adoc:5
 msgid "This module includes information about trends to treat research data as a first-class scientific citizen, to be independently cited, and contribute to researcher career assessment."
-msgstr "Этот модуль включает информацию о тенденциях для рассмотрения исследовательских данных как первоклассных объектах, для независимого цитирования и содействия оценке карьеры исследователя."
+msgstr "Этот модуль включает информацию о тенденциях для рассмотрения исследовательских данных как первоклассных научных объектах, для независимого цитирования и внесения вклада в оценку карьеры исследователя."
 
 #. type: Title ===
 #: research-data.en.adoc:6
@@ -810,7 +810,7 @@ msgstr "Открытые данные исследований"
 #. type: Plain text
 #: research-data.en.adoc:11
 msgid "In this presentation, you will review recent trends to treat research data as a first-class scientific citizen, to be independently cited, and contribute to researcher career assessment used in this course."
-msgstr "В этой презентации вы проанализируете последние тенденции для рассмотрения исследовательских данных как первоклассных объектов, которые будут независимо цитироваться, и внесете вклад в оценку карьеры исследователя, используемую в этом курсе."
+msgstr "В этой презентации вы рассмотрите последние тенденции относящиеся к исследовательским данным как первоклассных научным объектам, которые будут независимо цитироваться, и вносить вклад в оценку карьеры исследователя, используемую в этом курсе."
 
 #. type: delimited block +
 #: research-data.en.adoc:21
@@ -824,12 +824,12 @@ msgstr ""
 #: data-journey.en.adoc:1
 #, no-wrap
 msgid "Data journey - bumblebee pollinators"
-msgstr "Перемещение по данным - шмели опылители"
+msgstr "Путь данных - шмели опылители"
 
 #. type: Plain text
 #: data-journey.en.adoc:6
 msgid "This data journey is a series of practical exercises focusing on bumblebee pollinators.  Using GBIF and BOLD, you will learn: I. how to find and use already available biodiversity data in connexion with your research questions; II. How to efficiently capture and clean this data – i.e. put them in a standard format that is directly relevant and exploitable for you; III. How to generate and publish new data according to a international standards."
-msgstr "Перемещение по данным представляет собой серию практических упражнений, посвященных шмелям опылителям. Используя GBIF и BOLD, вы узнаете: I. как найти и использовать уже имеющиеся данные о биоразнообразии в связи с вашими исследовательскими вопросами; II. Как эффективно фиксировать и очищать эти данные, т.е. использовать их в стандартном формате, который имеет непосредственное отношение и пригоден для использования; III. Как генерировать и публиковать новые данные в соответствии с международными стандартами."
+msgstr "Путь данных представляет собой серию практических упражнений, посвященных шмелям опылителям. Используя GBIF и BOLD, вы узнаете: I. как найти и использовать уже имеющиеся данные о биоразнообразии в связи с вашими исследовательскими вопросами; II. Как эффективно фиксировать и очищать эти данные, т.е. перевести их в стандартный формат, который имеет прямое отношение к вам и пригоден для вашего использования; III. Как генерировать и публиковать новые данные в соответствии с международными стандартами."
 
 #. type: Target for macro image
 #: data-journey.en.adoc:7
@@ -840,7 +840,7 @@ msgstr ""
 #. type: Plain text
 #: data-journey.en.adoc:14
 msgid "This data journey is comprised of nine steps.  Each step (or set of steps), correlate to the different modules of the course.  After a series of theoretical lectures, you will return to the Data Journey to complete the practical exercises.  The practical exercises follow a path: I. the study system; II. questions and hypotheses; III. availability of data; IV. capture and cleaning of data; and V. generate and publish data."
-msgstr "Перемещение по данным состоит из девяти этапов. Каждый этап (или наборы этапов) соотносится с различными модулями курса. После серии теоретических лекций вы вернетесь в Перемещению по данным, чтобы завершить практические занятия. Практические занятия идут по пути: I. система исследования; I. вопросы и гипотезы; III. наличие данных; IV. сбор и очистка данных; и V. сбор и публикация данных."
+msgstr "Перемещение по данным состоит из девяти этапов. Каждый этап (или серия этапов) соотносится с различными модулями курса. После серии теоретических лекций вы вернетесь к Пути данных, чтобы завершить практические занятия. Практические занятия идут по следующему пути: I. система обучения; I. вопросы и гипотезы; III. доступность данных; IV. сбор и очистка данных; и V. создание и публикация данных."
 
 #. type: Target for macro image
 #: data-journey.en.adoc:15
@@ -858,7 +858,7 @@ msgstr "Система обучения"
 #: data-journey.en.adoc:20
 #, no-wrap
 msgid "Bombus-Vicia pollination network"
-msgstr "Система опыления Шмель (Bombus) - Вика (Vicia)"
+msgstr "Система опыления Шмель (Bombus) - Горошек (Vicia)"
 
 #. type: Target for macro image
 #: data-journey.en.adoc:21
@@ -895,7 +895,7 @@ msgstr "Определите простой и понятный исследов
 #. type: Plain text
 #: data-journey.en.adoc:30
 msgid "What resources and type of data you will need?"
-msgstr "Какие ресурсы и типы данных вам потребуется?"
+msgstr "Какие ресурсы и типы данных вам потребуются?"
 
 #. type: Plain text
 #: data-journey.en.adoc:31
@@ -937,7 +937,7 @@ msgstr "Систематический"
 #. type: Plain text
 #: data-journey.en.adoc:41
 msgid "DNA barcoding"
-msgstr "Штриховое кодирование ДНК"
+msgstr "Штрихкодирование ДНК"
 
 #. type: Plain text
 #: data-journey.en.adoc:42
@@ -947,7 +947,7 @@ msgstr "Биологические метаданные"
 #. type: Plain text
 #: data-journey.en.adoc:43
 msgid "Some biodiversity data is already available"
-msgstr "Некоторые данные о биоразнообразии уже имеются"
+msgstr "Некоторые данные о биоразнообразии уже доступны"
 
 #. type: Plain text
 #: data-journey.en.adoc:44
@@ -968,12 +968,12 @@ msgstr "Выявление пробелов в данных для будущи�
 #: data-journey.en.adoc:47
 #, no-wrap
 msgid "Public biodiversity databases"
-msgstr "Открытые базы данных о биоразнообразии"
+msgstr "Открытые базы данных по биоразнообразию"
 
 #. type: Plain text
 #: data-journey.en.adoc:50
 msgid "You may find the data in the ecoregion is not publicly available in all the databases so you will need to reflect on your strategy."
-msgstr "Вы можете столкнуться с тем, что данные по экорегиону не являются общедоступными во всех базах данных, и это необходимо учитывать в вашей стратегии."
+msgstr "Вы можете столкнуться с тем, что данные по этому экорегиону не являются общедоступными во всех базах данных, и это необходимо учитывать в вашей стратегии."
 
 #. type: Target for macro image
 #: data-journey.en.adoc:51
@@ -1013,7 +1013,7 @@ msgstr "На этапе 1 вы разработаете свои исследо�
 #. type: Plain text
 #: data-journey.en.adoc:64
 msgid "In a workshop setting, complete Step 1 as a group. Select a recorder/reporter to report back after task 3 is complete."
-msgstr "В настройках семинара выполните Этап 1 в группе. Выберите записывающего/ отчитывающегося для представления отчета после завершения этапа 3."
+msgstr "По условиям семинара, выполните Этап 1 в группе. Выберите записывающего/ отчитывающегося для представления отчета после завершения задания 3."
 
 #. type: Title ====
 #: data-journey.en.adoc:65
@@ -1062,7 +1062,7 @@ msgstr ""
 #. type: Plain text
 #: data-journey.en.adoc:80
 msgid "Take 25 minutes to complete the following using publicly available databases:"
-msgstr "Для завершения работы потребуется 25 минут, воспользуйтесь общедоступными базами данных:"
+msgstr "В течение 25 минут выполните следующие действия с использованием общедоступных баз данных:"
 
 #. type: Plain text
 #: data-journey.en.adoc:82
@@ -1104,7 +1104,7 @@ msgstr ""
 #. type: Plain text
 #: data-journey.en.adoc:92 data-journey.en.adoc:131
 msgid "Take 10 minutes to complete the following:"
-msgstr "Для завершения работы вам понадобится 10 минут:"
+msgstr "В течение 15 минут выполните следующее:"
 
 #. type: Plain text
 #: data-journey.en.adoc:94
@@ -1142,22 +1142,22 @@ msgstr ""
 #: data-journey.en.adoc:106 data-journey.en.adoc:119 data-journey.en.adoc:156
 #: data-journey.en.adoc:231 data-journey.en.adoc:249
 msgid "Take 15 minutes to complete the following:"
-msgstr "Для завершения работы вам понадобится 15 минут:"
+msgstr "В течение 15 минут выполните следующее:"
 
 #. type: Plain text
 #: data-journey.en.adoc:108
 msgid "Search Bombus records in both GBIF and GBD."
-msgstr "Поиск записей относящихся к роду Bombus в GBIF и GBD."
+msgstr "Найдите записи, относящиеся к роду Bombus в GBIF и GBD."
 
 #. type: Plain text
 #: data-journey.en.adoc:109
 msgid "What species of Bombus are known to occur in Georgia?"
-msgstr "Какие виды рода Bombus обитают в Грузии?"
+msgstr "Какие виды рода Bombus известны в Грузии?"
 
 #. type: Plain text
 #: data-journey.en.adoc:110
 msgid "Combine lists from the two databases into a final list in Excel of species names occurring in Georgia."
-msgstr "Объедините списки из двух баз данных в окончательный список в Excel названий видов, встречающихся в Грузии."
+msgstr "Объедините списки из двух баз данных в окончательный список  в Excel названий видов, встречающихся в Грузии."
 
 #. type: Plain text
 #: data-journey.en.adoc:111
@@ -1178,7 +1178,7 @@ msgstr "Задание 5"
 #. type: Plain text
 #: data-journey.en.adoc:121
 msgid "Using the https://www.gbif.org/tools/species-lookup[GBIF species lookup^], produce a clean list of species with validated taxonomic names."
-msgstr "Используя https://www.gbif.org/tools/species-lookup[поиск видов GBIF^], создайте чистовой список видов с выверенными названиями таксонов."
+msgstr "Используя https://www.gbif.org/tools/species-lookup[GBIF species lookup (поиск видов в GBIF)^], создайте чистовой список видов с выверенными названиями таксонов."
 
 #. type: Target for macro image
 #: data-journey.en.adoc:122
@@ -1210,7 +1210,7 @@ msgstr "Рассмотрите базу данных https://v3.boldsystems.org[
 #. type: Plain text
 #: data-journey.en.adoc:136
 msgid "In a workshop setting, complete task 6 as a group. Select a recorder/reporter to report back (1 minute per group) after task 6 is complete."
-msgstr "В настройках семинара выполните Этап 6 в группе. Выберите записывающего/ отчитывающегося для представления отчета (1 минута на группу) после завершения этапа 6."
+msgstr "По условиям семинара, выполните задание 6 в группе. Выберите записывающего/ отчитывающегося для представления отчета (1 минута на группу) после завершения задания 6."
 
 #. type: Title ===
 #: data-journey.en.adoc:137
@@ -1227,7 +1227,7 @@ msgstr "Задание 7"
 #. type: Plain text
 #: data-journey.en.adoc:144 data-journey.en.adoc:214 data-journey.en.adoc:276
 msgid "Take 45 minutes to complete the following:"
-msgstr "Для завершения работы вам понадобится 45 минут:"
+msgstr "В течение 45 минут выполните следующее:"
 
 #. type: Plain text
 #: data-journey.en.adoc:146
@@ -1252,7 +1252,7 @@ msgstr "Сколько экземпляров каждого вида?"
 #. type: Plain text
 #: data-journey.en.adoc:150
 msgid "Which and how many of these species lack a DNA barcode? Mark in your list."
-msgstr "Для скольких и по каким из этих видаов не хватает штрих-кода ДНК? Отметьте в своем списке."
+msgstr "Для скольких и по каким из этих видов не хватает штрихкода ДНК? Отметьте в своем списке."
 
 #. type: Title ====
 #: data-journey.en.adoc:151
@@ -1263,17 +1263,17 @@ msgstr "Задание 8"
 #. type: Plain text
 #: data-journey.en.adoc:158
 msgid "Explore more automatized ways for accessing DNA barcoding data in BOLD."
-msgstr "Изучите более автоматизированные способы доступа к данным штрих-кодов ДНК в BOLD."
+msgstr "Изучите более автоматизированные способы доступа к данным штрихкодов ДНК в BOLD."
 
 #. type: Plain text
 #: data-journey.en.adoc:160
 msgid "Use the GBIF shortcut for Bombus hortorum (https://www.gbif.org/species/1340542)"
-msgstr "Используйте ярлык GBIF для Bombus hortorum (https://www.gbif.org/species/1340542)"
+msgstr "Используйте ссылку на GBIF для Bombus hortorum (https://www.gbif.org/species/1340542)"
 
 #. type: Plain text
 #: data-journey.en.adoc:161
 msgid "Click around for different species"
-msgstr "Пощелкайте мышкой для разных видов"
+msgstr "Пощелкайте мышкой по разным видам"
 
 #. type: Plain text
 #: data-journey.en.adoc:162
@@ -1289,17 +1289,17 @@ msgstr "Задание 9"
 #. type: Plain text
 #: data-journey.en.adoc:168
 msgid "Take 35 minutes to complete the following:"
-msgstr "Для завершения работы вам понадобится 35 минут:"
+msgstr "В течение 35 минут выполните следующее:"
 
 #. type: Plain text
 #: data-journey.en.adoc:170
 msgid "How much information is needed for referencing a DNA barcode?"
-msgstr "Сколько информации требуется для подготовки штрих-кода ДНК?"
+msgstr "Сколько информации требуется для подготовки штрихкода ДНК?"
 
 #. type: Plain text
 #: data-journey.en.adoc:171
 msgid "Find out what data and metadata is available for each DNA barcode for the specimen you just located."
-msgstr "Определите, какие данные и метаданные доступны для каждого штрих-кода ДНК экземпляра только что вами найденного."
+msgstr "Определите, какие данные и метаданные доступны для каждого штрихкода ДНК экземпляра только что вами найденного."
 
 #. type: Plain text
 #: data-journey.en.adoc:172
@@ -1309,7 +1309,7 @@ msgstr "Изучите информацию о том, какая информа
 #. type: Plain text
 #: data-journey.en.adoc:174
 msgid "In a workshop setting, complete task 9 as a group. Select a recorder/reporter to report back (2 minutes per group) after task 9 is complete."
-msgstr "В настройках семинара выполните Этап 9 в группе. Выберите записывающего/ отчитывающегося для представления отчета (2 минуты на группу) после завершения этапа 9."
+msgstr "По условиям семинара, выполните задание 9 в группе. Выберите записывающего/ отчитывающегося для представления отчета (2 минуты на группу) после завершения задания 9."
 
 #. type: Title ===
 #: data-journey.en.adoc:175
@@ -1326,7 +1326,7 @@ msgstr "Задание 10"
 #. type: Plain text
 #: data-journey.en.adoc:182 data-journey.en.adoc:198
 msgid "Take 30 minutes to complete the following:"
-msgstr "Для завершения работы вам понадобится 30 минут:"
+msgstr "В течение 30 минут выполните следующее:"
 
 #. type: Plain text
 #: data-journey.en.adoc:184
@@ -1393,12 +1393,12 @@ msgstr "Посмотрите на BINs и виды"
 #. type: Plain text
 #: data-journey.en.adoc:203
 msgid "Look at barcode gaps"
-msgstr "Посмотрите на пробелы в штрих-коде"
+msgstr "Посмотрите на пробелы в штрихкоде"
 
 #. type: Plain text
 #: data-journey.en.adoc:204
 msgid "Among the barcodes for Bombus, are all of them useful for your research?"
-msgstr "Среди штрих-кодов Bombus, все ли они полезны для вашего исследования?"
+msgstr "Среди штрихкодов Bombus, все ли они полезны для вашего исследования?"
 
 #. type: Plain text
 #: data-journey.en.adoc:205
@@ -1425,12 +1425,12 @@ msgstr "Задание 12"
 #. type: Plain text
 #: data-journey.en.adoc:216
 msgid "Imagine that you are the person assigned to transcribe the collected field data. You know you will share your data with GBIF so you decided to start with an https://github.com/gbif/ipt/wiki/occurrenceData#templates[occurrence template^]. However, you know that that you will share more data than the GBIF required and recommended fields."
-msgstr "Представьте, что вы назначены ответственным за транскрипцию собранных полевых данных. Вы знаете, что вы поделитесь своими данными с GBIF, чтобы начать работу с https://github. om/gbif/ipt/wiki/occurrenceData#templates[occurrence template^]. Однако, вы знаете, что вы будете передавать больше данных, чем требуется GBIF и в рекомендуемых полях."
+msgstr "Представьте, что вы назначены ответственным за транскрипцию собранных полевых данных. Вы знаете, что вы поделитесь своими данными с GBIF, чтобы начать работу с https://github.com/gbif/ipt/wiki/occurrenceData#templates[occurrence template^]. Однако, вы знаете, что вы будете передавать больше данных, чем предусмотрено в обязательных и рекомендуемых полях GBIF."
 
 #. type: Plain text
 #: data-journey.en.adoc:218
 msgid "Review the herbarium sheets and determine what information can be captured. Consider that all data should be captured verbatim."
-msgstr "Обзор гербарных листов и определение того, какая информация может быть взята. Имейте в виду, что все данные должны быть взяты дословно."
+msgstr "Рассмотрите гербарные листы и определите, какая информация может быть использована. Имейте в виду, что все данные должны быть взяты дословно."
 
 #. type: Plain text
 #: data-journey.en.adoc:219
@@ -1440,12 +1440,12 @@ msgstr "Загрузите https://github.com/gbif/ipt/wiki/gbif-ipt-docs/downlo
 #. type: Plain text
 #: data-journey.en.adoc:220
 msgid "Transcribe the verbatim data from the two herbariums sheets. link:../exercise-data/Vicia.zip[Vicia.zip file,opts=download] (ZIP 51 MB)"
-msgstr "Перепишите дословные данные из двух таблиц гербариев:../exercise-data/Vicia.zip[Vicia.zip файл,opts=download] (ZIP 51 MB)"
+msgstr "Перепишите дословно данные из двух гербарных листов. link:../exercise-data/Vicia.zip[Vicia.zip file,opts=download] (ZIP 51 MB)"
 
 #. type: Plain text
 #: data-journey.en.adoc:221
 msgid "Consider other fields that you could add to the spreadsheet that can be derived from other known information."
-msgstr "Рассмотрим другие поля, которые можно добавить в электронную таблицу и которые могут быть получены из других известных источников информации."
+msgstr "Рассмотрите другие поля, которые можно добавить в электронную таблицу и которые могут быть получены из других известных источников информации."
 
 #. type: Title ===
 #: data-journey.en.adoc:222
@@ -1477,7 +1477,7 @@ msgstr "Скачайте файл по ссылке:../exercise-data/ViciaForCle
 #. type: Plain text
 #: data-journey.en.adoc:235
 msgid "Import the file in Excel using the Excel wizard. See https://docs.gbif.org/course-dna-barcoding/course-docs/Excel-tips-EN.pdf[Excel-tips-EN.pdf^] (PDF, 7 MB) for import instructions for your operating system (Windows, Mac, Linux)."
-msgstr ""
+msgstr "Импортируйте файл в Excel с помощью мастера Excel. Смотрите https://docs.gbif.org/course-dna-barcoding/course-docs/Excel-tips-EN.pdf[Excel-tips-EN.pdf^] (PDF, 7 MB) инструкции по импорту для вашей операционной системы (Windows, Mac, Linux)."
 
 #. type: Plain text
 #: data-journey.en.adoc:236
