@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: publishing-dna-derived-data\n"
 "POT-Creation-Date: 2021-12-08 16:51+0000\n"
-"PO-Revision-Date: 2022-02-06 17:20\n"
+"PO-Revision-Date: 2022-02-06 20:21\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -208,12 +208,12 @@ msgstr "https://www.youtube.com/playlist?list=PLy6tIKN_kHB8N5_1Li19e2sXpNHjsbziG
 #: course-prep.en.adoc:18
 #, no-wrap
 msgid "Recommended"
-msgstr "Рекомендуется"
+msgstr "Рекомендуем"
 
 #. type: Plain text
 #: course-prep.en.adoc:21
 msgid "The course will include a practical part where you will design a research project and its data elements. This project and its “data journey” will be on a plant-pollinator system. To prepare for this part, please read the following. Skip if you are working on pollinators yourself already."
-msgstr "Курс будет включать практическую часть, где вы будете разрабатывать исследовательский проект и его элементы данных. Этот проект и его «путь данных» будут осуществляться на основе системы растение-опылитель. Для подготовки к этой части, пожалуйста, прочитайте следующее. Пропустите, если вы уже работаете над опылителями."
+msgstr "Курс будет включать практическую часть, где вы будете разрабатывать исследовательский проект и его элементы данных. Этот проект и его «путь данных» будут создан на основе системы растение-опылитель. Для подготовки к этой части, пожалуйста, прочитайте следующее. Пропустите этот раздел, если вы уже работаете с опылителями."
 
 #. type: Plain text
 #: course-prep.en.adoc:23
