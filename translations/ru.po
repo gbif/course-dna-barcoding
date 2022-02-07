@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: publishing-dna-derived-data\n"
 "POT-Creation-Date: 2021-12-08 16:51+0000\n"
-"PO-Revision-Date: 2022-02-06 23:24\n"
+"PO-Revision-Date: 2022-02-07 11:47\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -1030,7 +1030,7 @@ msgstr ""
 #. type: Plain text
 #: data-journey.en.adoc:70
 msgid "Take 5 minutes to complete the following:"
-msgstr "Для завершения работы вам понадобится 5 минут:"
+msgstr "В течение 5 минут выполните следующие действия:"
 
 #. type: Plain text
 #: data-journey.en.adoc:72
@@ -1104,7 +1104,7 @@ msgstr ""
 #. type: Plain text
 #: data-journey.en.adoc:92 data-journey.en.adoc:131
 msgid "Take 10 minutes to complete the following:"
-msgstr "В течение 15 минут выполните следующее:"
+msgstr "В течение 15 минут выполните следующие действия:"
 
 #. type: Plain text
 #: data-journey.en.adoc:94
@@ -1142,7 +1142,7 @@ msgstr ""
 #: data-journey.en.adoc:106 data-journey.en.adoc:119 data-journey.en.adoc:156
 #: data-journey.en.adoc:231 data-journey.en.adoc:249
 msgid "Take 15 minutes to complete the following:"
-msgstr "В течение 15 минут выполните следующее:"
+msgstr "В течение 15 минут выполните следующие действия:"
 
 #. type: Plain text
 #: data-journey.en.adoc:108
@@ -1227,7 +1227,7 @@ msgstr "Задание 7"
 #. type: Plain text
 #: data-journey.en.adoc:144 data-journey.en.adoc:214 data-journey.en.adoc:276
 msgid "Take 45 minutes to complete the following:"
-msgstr "В течение 45 минут выполните следующее:"
+msgstr "В течение 45 минут выполните следующие действия:"
 
 #. type: Plain text
 #: data-journey.en.adoc:146
@@ -1289,7 +1289,7 @@ msgstr "Задание 9"
 #. type: Plain text
 #: data-journey.en.adoc:168
 msgid "Take 35 minutes to complete the following:"
-msgstr "В течение 35 минут выполните следующее:"
+msgstr "В течение 35 минут выполните следующие действия:"
 
 #. type: Plain text
 #: data-journey.en.adoc:170
@@ -1326,7 +1326,7 @@ msgstr "Задание 10"
 #. type: Plain text
 #: data-journey.en.adoc:182 data-journey.en.adoc:198
 msgid "Take 30 minutes to complete the following:"
-msgstr "В течение 30 минут выполните следующее:"
+msgstr "В течение 30 минут выполните следующие действия:"
 
 #. type: Plain text
 #: data-journey.en.adoc:184
@@ -1341,7 +1341,7 @@ msgstr "Проведите идентификацию последователь
 #. type: Plain text
 #: data-journey.en.adoc:186
 msgid "Enter species names and check whether they have records in BOLD, look these sequences with the sequence analysis tools in BOLD."
-msgstr "Введите названия видов и проверьте, есть ли у них записи в BOLD, просмотрите эти последовательности с помощью инструментов анализа последовательностей в BOLD."
+msgstr "Введите названия видов и проверьте, есть ли для них записи в BOLD, просмотрите эти последовательности с помощью инструментов анализа последовательностей в BOLD."
 
 #. type: Plain text
 #: data-journey.en.adoc:187
@@ -1356,7 +1356,7 @@ msgstr "Выберите три вида Bombus и создайте карту."
 #. type: Plain text
 #: data-journey.en.adoc:189
 msgid "How are species distributed (i.e. located in your area of interest)?"
-msgstr "Как распределtены виды (т.е. расположены в регионе который вас интересует)?"
+msgstr "Как распространены виды (т.е. распространены в регионе который вас интересует)?"
 
 #. type: Plain text
 #: data-journey.en.adoc:190
@@ -1378,7 +1378,7 @@ msgstr "Задание 11"
 #. type: Plain text
 #: data-journey.en.adoc:200
 msgid "Using the BOLD sequence analysis tools:"
-msgstr "Использование инструментов анализа последовательности BOLD:"
+msgstr "Использование BOLD инструментов анализа последовательностей:"
 
 #. type: Plain text
 #: data-journey.en.adoc:201
@@ -1388,7 +1388,7 @@ msgstr "Создайте дерево, чтобы проверить, наско
 #. type: Plain text
 #: data-journey.en.adoc:202
 msgid "Look at the BINs vs species"
-msgstr "Посмотрите на BINs и виды"
+msgstr "Посмотрите на BINs видов"
 
 #. type: Plain text
 #: data-journey.en.adoc:203
@@ -1425,7 +1425,7 @@ msgstr "Задание 12"
 #. type: Plain text
 #: data-journey.en.adoc:216
 msgid "Imagine that you are the person assigned to transcribe the collected field data. You know you will share your data with GBIF so you decided to start with an https://github.com/gbif/ipt/wiki/occurrenceData#templates[occurrence template^]. However, you know that that you will share more data than the GBIF required and recommended fields."
-msgstr "Представьте, что вы назначены ответственным за транскрипцию собранных полевых данных. Вы знаете, что вы поделитесь своими данными с GBIF, чтобы начать работу с https://github.com/gbif/ipt/wiki/occurrenceData#templates[occurrence template^]. Однако, вы знаете, что вы будете передавать больше данных, чем предусмотрено в обязательных и рекомендуемых полях GBIF."
+msgstr "Представьте, что вы назначены ответственным за транскрипцию собранных полевых данных. Вы знаете, что вы распространите свои данные через GBIF, поэтому вы решили начать работу с https://github.com/gbif/ipt/wiki/occurrenceData#templates[occurrence template^]. Однако, вы знаете, что вы будете распространять больше данных, чем предусмотрено в обязательных и рекомендуемых полях GBIF."
 
 #. type: Plain text
 #: data-journey.en.adoc:218
@@ -1456,7 +1456,7 @@ msgstr "Этап 7"
 #. type: Plain text
 #: data-journey.en.adoc:225
 msgid "Refer to <<Exercise tips>> in the data management section for information on types of errors and helpful tools."
-msgstr "Для получения информации о типах ошибок и полезных инструментах обратитесь к <<Exercise tips>> в разделе управления данными."
+msgstr "Для получения информации о типах ошибок и полезных инструментах обратитесь к <<Exercise tips (Советы по упражнениям)>> в разделе управления данными."
 
 #. type: Title ====
 #: data-journey.en.adoc:226
@@ -1477,7 +1477,7 @@ msgstr "Скачайте файл по ссылке:../exercise-data/ViciaForCle
 #. type: Plain text
 #: data-journey.en.adoc:235
 msgid "Import the file in Excel using the Excel wizard. See https://docs.gbif.org/course-dna-barcoding/course-docs/Excel-tips-EN.pdf[Excel-tips-EN.pdf^] (PDF, 7 MB) for import instructions for your operating system (Windows, Mac, Linux)."
-msgstr "Импортируйте файл в Excel с помощью мастера Excel. Смотрите https://docs.gbif.org/course-dna-barcoding/course-docs/Excel-tips-EN.pdf[Excel-tips-EN.pdf^] (PDF, 7 MB) инструкции по импорту для вашей операционной системы (Windows, Mac, Linux)."
+msgstr "Импортируйте файл в Excel с помощью мастера Excel. Посмотрите https://docs.gbif.org/course-dna-barcoding/course-docs/Excel-tips-EN.pdf[Excel-tips-EN.pdf^] (PDF, 7 MB) инструкции по импорту для вашей операционной системы (Windows, Mac, Linux)."
 
 #. type: Plain text
 #: data-journey.en.adoc:236
@@ -1507,7 +1507,7 @@ msgstr "месяц - ознакомьтесь с рекомендацией Darw
 #. type: Plain text
 #: data-journey.en.adoc:241
 msgid "taxonRank - check for blanks"
-msgstr "страна - проверьте на наличие пробелов"
+msgstr "taxonRank (ранг таксона) - проверьте на наличие пробелов"
 
 #. type: Plain text
 #: data-journey.en.adoc:242
@@ -1528,7 +1528,7 @@ msgstr "Задание 14"
 #. type: Plain text
 #: data-journey.en.adoc:251
 msgid "Continue using the same file. Filter for the cracca species."
-msgstr "Продолжайте использовать тот же файл. Фильтр для вида cracca."
+msgstr "Продолжайте использовать тот же файл. Фильтр для V. cracca (мышиный горошек)."
 
 #. type: Plain text
 #: data-journey.en.adoc:252
@@ -1564,7 +1564,7 @@ msgstr "Задание 15"
 #. type: Plain text
 #: data-journey.en.adoc:262 data-journey.en.adoc:299
 msgid "Take 60 minutes to complete the following:"
-msgstr "Для завершения работы вам понадобится 60 минут:"
+msgstr "В течение 60 минут выполните следующие действия:"
 
 #. type: Plain text
 #: data-journey.en.adoc:264
@@ -1703,23 +1703,23 @@ msgstr ""
 #: species-identification.en.adoc:24
 #, no-wrap
 msgid "Data journey step 2"
-msgstr "Шаг 2 Передачи данных"
+msgstr "Путь данных, этап 2"
 
 #. type: Plain text
 #: species-identification.en.adoc:28
 msgid "Complete step 2, tasks 4-6"
-msgstr "Завершить второй шаг, задачи 4-6"
+msgstr "Завершите второй этап, задачи 4-6"
 
 #. type: Title ====
 #: species-identification.en.adoc:29
 #, no-wrap
 msgid "Data journey step 3"
-msgstr "Шаг 3 передачи данных"
+msgstr "Путь данных, этап 3"
 
 #. type: Plain text
 #: species-identification.en.adoc:33
 msgid "Complete step 3, tasks 7-9"
-msgstr "Выполнить шаг 3, задачи 7-9"
+msgstr "Завершите этап 3, задачи 7-9"
 
 #. type: Title ===
 #: species-identification.en.adoc:34
@@ -1741,7 +1741,7 @@ msgstr ""
 #: barcode-depositories.en.adoc:1 barcode-depositories.en.adoc:6
 #, no-wrap
 msgid "Barcode reference depositories"
-msgstr "Ссылка на депозиты штрих-кода"
+msgstr "Депозитарии штрихкодов"
 
 #. type: delimited block +
 #: barcode-depositories.en.adoc:21
@@ -1763,23 +1763,23 @@ msgstr "Демонстрация"
 #: barcode-depositories.en.adoc:28
 #, no-wrap
 msgid "Data journey step 4"
-msgstr "Шаг 4 передачи данных"
+msgstr "Путь данных, этап 4"
 
 #. type: Plain text
 #: barcode-depositories.en.adoc:32
 msgid "Complete step 4, task 10."
-msgstr "Завершите шаг 4, задача 10."
+msgstr "Завершите этап 4, задача 10."
 
 #. type: Title ===
 #: barcode-depositories.en.adoc:33
 #, no-wrap
 msgid "Data journey step 5"
-msgstr "Шаг 5 Передачи данных"
+msgstr "Путь данных, этап 5"
 
 #. type: Plain text
 #: barcode-depositories.en.adoc:36
 msgid "Complete step 5, task 11."
-msgstr "Завершите шаг 5, задача11."
+msgstr "Завершите этап 5, задача 11."
 
 #. type: Title ==
 #: data-capture.en.adoc:1
@@ -1790,7 +1790,7 @@ msgstr "Сбор данных"
 #. type: Plain text
 #: data-capture.en.adoc:6
 msgid "In this module, you will learn the types of primary biodiversity data and how to best share that information within GBIF.  You will also review principles of data quality in the context of data capture and will learn about data quality and coherence (especially on subjects such as georeferencing, dates, names and taxa cross-checking)."
-msgstr "В этом модуле вы узнаете типы первичных данных о биоразнообразии и как наилучшим образом обмениваться этой информацией в рамках GBIF. Вы также рассмотрите принципы качества данных в контексте сбора данных и узнаете о качестве и согласованности данных (особенно по таким вопросам, как географическое распределение), даты, названия и перекрестная таксономическая проверка)."
+msgstr "В этом модуле вы узнаете типы первичных данных о биоразнообразии и как наилучшим образом обмениваться этой информацией в рамках GBIF. Вы также рассмотрите принципы качества данных в контексте сбора данных и узнаете о качестве и согласованности данных (особенно по таким вопросам, как географическое распространение, даты, названия и перекрестная таксономическая проверка)."
 
 #. type: Title ===
 #: data-capture.en.adoc:7
@@ -1821,7 +1821,7 @@ msgstr "Проверьте себя на освоение понятий, изу
 #. type: delimited block *
 #: data-capture.en.adoc:28
 msgid "What dataset type(s) would you choose for an ichthyology collection?"
-msgstr "Какие типы наборов данных вы выбираете для ихтиологической коллекции?"
+msgstr "Какие тип(ы) наборов данных вы выберите для ихтиологической коллекции?"
 
 #. type: delimited block .
 #: data-capture.en.adoc:34
@@ -1829,9 +1829,7 @@ msgstr "Какие типы наборов данных вы выбираете 
 msgid ":figure-caption!:\n"
 ".https://www.gbif.org/occurrence/441867173[Eutrigla gurnardus (Linnaeus, 1758)] | Muséum d’histoire naturelle de Nice\n"
 "image::img/web/QDataTypes-specimen.png[align=center,width=640,height=360]\n"
-msgstr ":figure-caption!:\n"
-".https://www.gbif.org/occurrence/441867173[Eutrigla gurnardus (Linnaeus, 1758)] | Muséum d’histoire naturelle de Nice\n"
-"image::img/web/QDataTypes-specimen.png[align=center,width=640,height=360]\n"
+msgstr ":figure-caption!: https://www.gbif.org/occurrence/441867173[Eutrigla gurnardus (Linnaeus, 1758)] | Muséum d’histoire naturelle de Nice image::img/web/QDataTypes-specimen.png[align=center,width=640,height=360]\n"
 
 #. type: delimited block .
 #: data-capture.en.adoc:38 data-capture.en.adoc:51
