@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: publishing-dna-derived-data\n"
 "POT-Creation-Date: 2021-12-08 16:51+0000\n"
-"PO-Revision-Date: 2022-02-07 11:47\n"
+"PO-Revision-Date: 2022-02-09 04:47\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -1853,7 +1853,9 @@ msgstr "Какие типы наборов данных вы выбираете 
 msgid ":figure-caption!:\n"
 ".Water hyacinth (Eichhornia crassipes) observed in Bourail, New Caledonia, where it is an introduced and invasive species by GRIIS. Photo by gérard (2016) licensed under CC BY-SA 2.0\n"
 "image::img/web/QDataTypes-plant.png[align=center,width=640,height=360]\n"
-msgstr ""
+msgstr ":figure-подписи!:\n"
+"Водяная гиацинт (Eichhornia crassipes), наблюдаемая в Бурае, Новая Каледония, где он является интродуцированным инвазивным видом согласно GRIIS. Фото gérard (2016) лицензировано под CC BY-SA 2.0\n"
+"изображением::img/web/QDataTypes-plant.png[align=center,width=640,height=360]\n"
 
 #.  Question 3
 #. type: Plain text
@@ -1865,7 +1867,7 @@ msgstr "Какой тип (типы) набора данных вы выбира
 #: data-capture.en.adoc:58
 #, no-wrap
 msgid "Environmental impact assessment studies are done by experts in order to assess the biodiversity and biotopes of a given area, before, during and after it is affected by human activities (road works, wind turbines, mining, building construction, etc.).\n"
-msgstr ""
+msgstr "Исследования по оценке воздействия на окружающую среду проводятся экспертами для определения биоразнообразия и биотопов в данном районе до, во время и после воздействия на них со стороны деятельности человека (дорожные работы, ветровые турбины, добыча полезных ископаемых, строительство зданий и т. д.).\n"
 
 #. type: delimited block .
 #: data-capture.en.adoc:62
