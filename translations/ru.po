@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: publishing-dna-derived-data\n"
 "POT-Creation-Date: 2021-12-08 16:51+0000\n"
-"PO-Revision-Date: 2022-02-09 07:43\n"
+"PO-Revision-Date: 2022-02-09 12:11\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -2923,22 +2923,22 @@ msgstr "http://iphylo.blogspot.com/2012/02/using-google-refine-and-taxonomic.htm
 #. type: Plain text
 #: keydocs.en.adoc:100
 msgid "http://iphylo.blogspot.com/2013/04/reconciling-author-names-using-open.html[Reconciling author names using Open Refine and VIAF^] + iPhylo blog post. Rod Page 2013."
-msgstr "http://iphylo.blogspot.com/2013/04/reconciling-author-names-using-open.html[Reconciling author names using Open Refine and VIAF^] + iPhylo blog post. Rod Page 2013."
+msgstr "http://iphylo.blogspot.com/2013/04/reconciling-author-names-using-open.html[Согласование имен авторов с Open Refine aи VIAF^] + iPhylo blog post. Rod Page 2013."
 
 #. type: Plain text
 #: keydocs.en.adoc:102
 msgid "http://gbif.blogspot.com/2013/07/validating-scientific-names-with.html[Validating scientific names with the GBIF Portal web service API^] + Guest post was written by Gaurav Vaidya, Victoria Tersigni and Robert Guralnick 2013."
-msgstr "http://gbif.blogspot.com/2013/07/validating-scientific-names-with.html[Validating scientific names with the GBIF Portal web service API^] + Guest post was written by Gaurav Vaidya, Victoria Tersigni and Robert Guralnick 2013."
+msgstr "http://gbif.blogspot.com/2013/07/validating-scientific-names-with.html[Проверка научных названий с помощью API веб-службы Портала GBIF^] + Guest post was written by Gaurav Vaidya, Victoria Tersigni and Robert Guralnick 2013."
 
 #. type: Plain text
 #: keydocs.en.adoc:104
 msgid "https://www.idigbio.org/wiki/images/2/22/OpenRefine.pdf[iDigBio Cleaning data with OpenRefine^] + iDigBio 2013."
-msgstr "https://www.idigbio.org/wiki/images/2/22/OpenRefine.pdf[iDigBio Cleaning data with OpenRefine^] + iDigBio 2013."
+msgstr "https://www.idigbio.org/wiki/images/2/22/OpenRefine.pdf[iDigBio Очистка данных с помощью OpenRefine^] + iDigBio 2013."
 
 #. type: Plain text
 #: keydocs.en.adoc:106
 msgid "http://www.canadensys.net/2014/have-we-got-the-names-right[Have We Got the Names “Right”?^] + Canadensys 2014."
-msgstr "http://www.canadensys.net/2014/have-we-got-the-names-right[Have We Got the Names “Right”?^] + Canadensys 2014."
+msgstr "http://www.canadensys.net/2014/have-we-got-the-names-right[У нас есть имена “Правда”?^] + Canadensys 2014."
 
 #. type: Plain text
 #: keydocs.en.adoc:108
@@ -2974,7 +2974,7 @@ msgstr "https://www.atlassian.com/agile/scrum[SCRUM Framework^]"
 #. type: Plain text
 #: keydocs.en.adoc:117
 msgid "https://www.atlassian.com/agile/kanban[Kanban methodology^]"
-msgstr "https://www.atlassian.com/agile/kanban[Kanban methodology^]"
+msgstr "https://www.atlassian.com/agile/kanban[методология Kanban^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:118
@@ -3052,7 +3052,7 @@ msgstr "https://www.gbif.org/tools/species-lookup [GBIF Labs - Сопостав�
 #. type: Plain text
 #: keydocs.en.adoc:142
 msgid "http://resolver.globalnames.org/[Global Names Resolver^]"
-msgstr "http://resolver.globalnames.org/ [Глобальный распознаватель названий^]"
+msgstr "http://resolver.globalnames.org/ [Глобальный сопоставитель названий^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:143
