@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: publishing-dna-derived-data\n"
 "POT-Creation-Date: 2021-12-08 16:51+0000\n"
-"PO-Revision-Date: 2022-02-13 19:58\n"
+"PO-Revision-Date: 2022-02-13 22:53\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -218,7 +218,7 @@ msgstr "Курс будет включать практическую часть
 #. type: Plain text
 #: course-prep.en.adoc:23
 msgid "https://www.bbc.com/news/science-environment-55662985[Honey detective work raises fears for bees^]"
-msgstr "https://www.bbc.com/news/science-environment-55662985[Детективное исследование меда вызывает опасения за пчел^]"
+msgstr "https://www.bbc.com/news/science-environment-55662985[Детективное исследование меда вызывает опасение за пчел^]"
 
 #. type: Plain text
 #: course-prep.en.adoc:24
