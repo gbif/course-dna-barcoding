@@ -5,8 +5,8 @@ GBIF Secretariat <training@gbif.org>
 :toc: left
 :toclevels: 3
 :numbered:
-:revnumber: 1
-:revdate: June 2021
+:revnumber: 2
+:revdate: April 2023
 :title-logo-image: img/web/Bombus_pascuorum_rehbinderi.jpg
 :license: https://creativecommons.org/licenses/by-sa/4.0/
 :docinfo: shared-head
