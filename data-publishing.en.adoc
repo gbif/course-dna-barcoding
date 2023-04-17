@@ -21,13 +21,13 @@ video::gHXsaN_JWeI[youtube]
 
 ==== Training IPT installations
 
-If you have not already been provided a login, please contact training@gbif.org and you will be provided with a login and password on the course IPT.
+If you have interest in trying the IPT, please contact training@gbif.org and you will be provided with a login and password to one of the training IPTs.
 
-// https://training-ipt-a.gbif.org/[^]
+https://training-ipt-a.gbif.org/[^]
 
 https://training-ipt-b.gbif.org/[^]
 
-// https://training-ipt-c.gbif.org/[^]
+https://training-ipt-c.gbif.org/[^]
 
 === IPT demonstration
 [NOTE.presentation]
@@ -42,10 +42,10 @@ video::eDH9IoTrMVE[youtube]
 [NOTE.activity]
 Complete step 8, task 16.
 
-=== Data journey step 9
+// === Data journey step 9
 
-[NOTE.activity]
-Complete step 9, task 17.
+// [NOTE.activity]
+// Complete step 9, task 17.
 
 // === Data publishing benefits
 
