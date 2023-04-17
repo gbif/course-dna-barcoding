@@ -14,3 +14,14 @@ The practical exercises follow a path: I. the study system; II. questions and hy
 
 image::img/web/DJC/DJC-1.png[align=center,width=640,height=360]
 
+ifdef::backend-pdf[]
+The presentation can be viewed in the online version of the course.
+endif::backend-pdf[]
+
+ifndef::backend-pdf[]
+++++
+<div class="responsive-slides">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQDOZYLNhWzmU5FX_WqTBg-h4TB7WglM6ZAi_5XTikhwlbEMTEiijYbH04qIwb-aw/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+</div>
+++++
+endif::backend-pdf[]
