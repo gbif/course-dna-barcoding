@@ -3,6 +3,20 @@
 // [NOTE.objectives]
 // This module includes ...
 
+=== Biodiversity of Bulgaria
+
+ifdef::backend-pdf[]
+The presentation can be viewed in the online version of the course.
+endif::backend-pdf[]
+
+ifndef::backend-pdf[]
+++++
+<div class="responsive-slides">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vThmqJ446bEuNToKHKRTGoa3Me9j7PPiD2cpSo_EpE1tITjnJHvqRoLw86Oj6_4hw/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+</div>
+++++
+endif::backend-pdf[]
+
 === Barcoding, data and biodiversity
 
 // [NOTE.presentation]
