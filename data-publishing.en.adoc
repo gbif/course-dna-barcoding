@@ -47,27 +47,27 @@ Complete step 8, task 16.
 [NOTE.activity]
 Complete step 9, task 17.
 
-=== Data publishing benefits
+// === Data publishing benefits
 
 // [NOTE.presentation]
 // In this presentation, you will review ... 
 // If you are unable to view the embedded slideshow, you can download it locally. (MP4 - ??.? MB)
 
-==== Benefits
+// ==== Benefits
 
-ifdef::backend-pdf[]
-The presentation can be viewed in the online version of the course.
-endif::backend-pdf[]
+// ifdef::backend-pdf[]
+// The presentation can be viewed in the online version of the course.
+// endif::backend-pdf[]
 
-ifndef::backend-pdf[]
-++++
-<div class="responsive-slides">
-  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTiAs2VGESe5nLRACVYBuPtTBL-3P2ibCKUO0R-3BAmIqPIORLCGvvvrAyavrcpYg/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
-</div>
-++++
-endif::backend-pdf[]
+// ifndef::backend-pdf[]
+// ++++
+// <div class="responsive-slides">
+//  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTiAs2VGESe5nLRACVYBuPtTBL-3P2ibCKUO0R-3BAmIqPIORLCGvvvrAyavrcpYg/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+// </div>
+// ++++
+// endif::backend-pdf[]
 
-==== Scholarly regcognition
+=== Scholarly regcognition
 
 ifdef::backend-pdf[]
 The presentation can be viewed in the online version of the course.
