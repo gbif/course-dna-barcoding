@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2023-04-17 09:15+0000\n"
+"POT-Creation-Date: 2023-04-17 09:26+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -904,7 +904,7 @@ msgstr ""
 #: introduction.en.adoc:14 introduction.en.adoc:32 research-data.en.adoc:14
 #: data-journey.en.adoc:19 species-identification.en.adoc:14
 #: species-identification.en.adoc:42 barcode-depositories.en.adoc:14
-#: data-capture.en.adoc:232 metabarcoding-edna.en.adoc:9
+#: metabarcoding-edna.en.adoc:9
 msgid "The presentation can be viewed in the online version of the course."
 msgstr ""
 
@@ -1629,35 +1629,11 @@ msgstr ""
 #. type: Title ===
 #: data-capture.en.adoc:222
 #, no-wrap
-msgid "iNaturalist"
-msgstr ""
-
-#. type: Plain text
-#: data-capture.en.adoc:229
-msgid ""
-"In this activity, you will venture into the field for first-person data "
-"capture."
-msgstr ""
-
-#. type: delimited block +
-#: data-capture.en.adoc:239
-#, no-wrap
-msgid ""
-"<div class=\"responsive-slides responsive-slides-4-3\">\n"
-"  <iframe "
-"src=\"https://docs.google.com/presentation/d/e/2PACX-1vTII4tP-7I40yo-wRIStynV1gOaS9HEu1j4j5tH5xZsnzUqOjXqgF5Pd6AXJ0UZqMH8KeY4-GWvrE4T/embed?start=false&loop=false\" "
-"frameborder=\"0\" allowfullscreen=\"true\"></iframe>\n"
-"</div>\n"
-msgstr ""
-
-#. type: Title ===
-#: data-capture.en.adoc:242
-#, no-wrap
 msgid "Data journey step 6"
 msgstr ""
 
 #. type: Plain text
-#: data-capture.en.adoc:245
+#: data-capture.en.adoc:225
 msgid "Complete step 6, task 12."
 msgstr ""
 
