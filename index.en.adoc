@@ -53,6 +53,8 @@ include::metabarcoding-edna.en.adoc[]
 
 include::bold.en.adoc[]
 
+include::iNaturalist.en.adoc[]
+
 include::data-capture.en.adoc[]
 
 include::data-management.en.adoc[]
