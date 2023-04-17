@@ -40,7 +40,7 @@ video::eDH9IoTrMVE[youtube]
 === Data journey step 8
 
 [NOTE.activity]
-Complete step 8, task 16.
+Complete step 8, task 16 using https://cloud.gbif.org/eca
 
 // === Data journey step 9
 
