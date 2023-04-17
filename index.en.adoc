@@ -45,11 +45,17 @@ include::species-identification.en.adoc[]
 
 include::barcode-depositories.en.adoc[]
 
+include::scholarly-recognition.en.adoc[]
+
+include::unite.en.adoc[]
+
+include::metabarcoding-edna.en.adoc[]
+
+include::bold.en.adoc[]
+
 include::data-capture.en.adoc[]
 
 include::data-management.en.adoc[]
-
-include::metabarcoding-edna.en.adoc[]
 
 include::data-publishing.en.adoc[]
 
