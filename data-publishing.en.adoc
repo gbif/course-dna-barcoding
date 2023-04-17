@@ -66,17 +66,3 @@ Complete step 9, task 17.
 // </div>
 // ++++
 // endif::backend-pdf[]
-
-=== Scholarly regcognition
-
-ifdef::backend-pdf[]
-The presentation can be viewed in the online version of the course.
-endif::backend-pdf[]
-
-ifndef::backend-pdf[]
-++++
-<div class="responsive-slides">
-  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vShQXbzL3zMx7Ev29dcAETy7__rs4QKdllbteedhifI5lM-BR3f4Lm68pXHO6p7mhO3j2qedOVXvOnj/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
-</div>
-++++
-endif::backend-pdf[]
