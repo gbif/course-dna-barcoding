@@ -219,26 +219,6 @@ If you are unable to watch the embedded video, you can link:../videos/Data_captu
 [.responsive-video]
 video::QkDJIkmwBMA[youtube]
 
-=== iNaturalist
-// [NOTE.presentation]
-// In this presentation, you will review ... 
-// If you are unable to view the embedded slideshow, you can download it locally. (MP4 - ??.? MB)
-
-[NOTE.field]
-In this activity, you will venture into the field for first-person data capture.
-
-ifdef::backend-pdf[]
-The presentation can be viewed in the online version of the course.
-endif::backend-pdf[]
-
-ifndef::backend-pdf[]
-++++
-<div class="responsive-slides responsive-slides-4-3">
-  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTII4tP-7I40yo-wRIStynV1gOaS9HEu1j4j5tH5xZsnzUqOjXqgF5Pd6AXJ0UZqMH8KeY4-GWvrE4T/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
-</div>
-++++
-endif::backend-pdf[]
-
 === Data journey step 6
 
 [NOTE.activity]
