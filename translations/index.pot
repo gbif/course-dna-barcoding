@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2023-04-17 09:26+0000\n"
+"POT-Creation-Date: 2023-04-17 09:43+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1998,18 +1998,25 @@ msgstr ""
 #. type: Plain text
 #: data-publishing.en.adoc:25
 msgid ""
-"If you have not already been provided a login, please contact "
-"training@gbif.org and you will be provided with a login and password on the "
-"course IPT."
+"If you have interest in trying the IPT, please contact training@gbif.org and "
+"you will be provided with a login and password to one of the training IPTs."
 msgstr ""
 
-#.  https://training-ipt-a.gbif.org/[^]
+#. type: Plain text
+#: data-publishing.en.adoc:27
+msgid "https://training-ipt-a.gbif.org/[^]"
+msgstr ""
+
 #. type: Plain text
 #: data-publishing.en.adoc:29
 msgid "https://training-ipt-b.gbif.org/[^]"
 msgstr ""
 
-#.  https://training-ipt-c.gbif.org/[^]
+#. type: Plain text
+#: data-publishing.en.adoc:31
+msgid "https://training-ipt-c.gbif.org/[^]"
+msgstr ""
+
 #. type: Title ===
 #: data-publishing.en.adoc:32
 #, no-wrap
@@ -2033,20 +2040,12 @@ msgstr ""
 
 #. type: Plain text
 #: data-publishing.en.adoc:44
-msgid "Complete step 8, task 16."
+msgid "Complete step 8, task 16 using https://cloud.gbif.org/eca"
 msgstr ""
 
-#. type: Title ===
-#: data-publishing.en.adoc:45
-#, no-wrap
-msgid "Data journey step 9"
-msgstr ""
-
-#. type: Plain text
-#: data-publishing.en.adoc:49
-msgid "Complete step 9, task 17."
-msgstr ""
-
+#.  === Data journey step 9
+#.  [NOTE.activity]
+#.  Complete step 9, task 17.
 #.  === Data publishing benefits
 #.  [NOTE.presentation]
 #.  In this presentation, you will review ... 
