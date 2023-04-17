@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2023-04-17 09:43+0000\n"
+"POT-Creation-Date: 2023-04-17 10:03+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -897,19 +897,36 @@ msgstr ""
 #. type: Title ===
 #: introduction.en.adoc:6
 #, no-wrap
-msgid "Barcoding, data and biodiversity"
+msgid "Biodiversity of Bulgaria"
 msgstr ""
 
 #. type: Plain text
-#: introduction.en.adoc:14 introduction.en.adoc:32 research-data.en.adoc:14
-#: data-journey.en.adoc:19 species-identification.en.adoc:14
-#: species-identification.en.adoc:42 barcode-depositories.en.adoc:14
-#: metabarcoding-edna.en.adoc:9
+#: introduction.en.adoc:10 introduction.en.adoc:28 introduction.en.adoc:46
+#: research-data.en.adoc:14 data-journey.en.adoc:19
+#: species-identification.en.adoc:14 species-identification.en.adoc:42
+#: barcode-depositories.en.adoc:14 metabarcoding-edna.en.adoc:9
 msgid "The presentation can be viewed in the online version of the course."
 msgstr ""
 
 #. type: delimited block +
-#: introduction.en.adoc:21
+#: introduction.en.adoc:17
+#, no-wrap
+msgid ""
+"<div class=\"responsive-slides\">\n"
+"  <iframe "
+"src=\"https://docs.google.com/presentation/d/e/2PACX-1vThmqJ446bEuNToKHKRTGoa3Me9j7PPiD2cpSo_EpE1tITjnJHvqRoLw86Oj6_4hw/embed?start=false&loop=false\" "
+"frameborder=\"0\" allowfullscreen=\"true\"></iframe>\n"
+"</div>\n"
+msgstr ""
+
+#. type: Title ===
+#: introduction.en.adoc:20
+#, no-wrap
+msgid "Barcoding, data and biodiversity"
+msgstr ""
+
+#. type: delimited block +
+#: introduction.en.adoc:35
 #, no-wrap
 msgid ""
 "<div class=\"responsive-slides\">\n"
@@ -920,13 +937,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: introduction.en.adoc:24
+#: introduction.en.adoc:38
 #, no-wrap
 msgid "GBIF for science and policy"
 msgstr ""
 
 #. type: delimited block +
-#: introduction.en.adoc:39
+#: introduction.en.adoc:53
 #, no-wrap
 msgid ""
 "<div class=\"responsive-slides\">\n"
