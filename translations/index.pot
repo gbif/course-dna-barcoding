@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2023-04-17 08:32+0000\n"
+"POT-Creation-Date: 2023-04-17 09:15+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -905,7 +905,6 @@ msgstr ""
 #: data-journey.en.adoc:19 species-identification.en.adoc:14
 #: species-identification.en.adoc:42 barcode-depositories.en.adoc:14
 #: data-capture.en.adoc:232 metabarcoding-edna.en.adoc:9
-#: data-publishing.en.adoc:60 data-publishing.en.adoc:74
 msgid "The presentation can be viewed in the online version of the course."
 msgstr ""
 
@@ -2072,49 +2071,21 @@ msgstr ""
 msgid "Complete step 9, task 17."
 msgstr ""
 
-#. type: Title ===
-#: data-publishing.en.adoc:50
-#, no-wrap
-msgid "Data publishing benefits"
-msgstr ""
-
+#.  === Data publishing benefits
 #.  [NOTE.presentation]
 #.  In this presentation, you will review ... 
 #.  If you are unable to view the embedded slideshow, you can download it locally. (MP4 - ??.? MB)
-#. type: Title ====
-#: data-publishing.en.adoc:56
-#, no-wrap
-msgid "Benefits"
-msgstr ""
-
-#. type: delimited block +
-#: data-publishing.en.adoc:67
-#, no-wrap
-msgid ""
-"<div class=\"responsive-slides\">\n"
-"  <iframe "
-"src=\"https://docs.google.com/presentation/d/e/2PACX-1vTiAs2VGESe5nLRACVYBuPtTBL-3P2ibCKUO0R-3BAmIqPIORLCGvvvrAyavrcpYg/embed?start=false&loop=false\" "
-"frameborder=\"0\" allowfullscreen=\"true\"></iframe>\n"
-"</div>\n"
-msgstr ""
-
-#. type: Title ====
-#: data-publishing.en.adoc:70
-#, no-wrap
-msgid "Scholarly regcognition"
-msgstr ""
-
-#. type: delimited block +
-#: data-publishing.en.adoc:81
-#, no-wrap
-msgid ""
-"<div class=\"responsive-slides\">\n"
-"  <iframe "
-"src=\"https://docs.google.com/presentation/d/e/2PACX-1vShQXbzL3zMx7Ev29dcAETy7__rs4QKdllbteedhifI5lM-BR3f4Lm68pXHO6p7mhO3j2qedOVXvOnj/embed?start=false&loop=false\" "
-"frameborder=\"0\" allowfullscreen=\"true\"></iframe>\n"
-"</div>\n"
-msgstr ""
-
+#.  ==== Benefits
+#.  ifdef::backend-pdf[]
+#.  The presentation can be viewed in the online version of the course.
+#.  endif::backend-pdf[]
+#.  ifndef::backend-pdf[]
+#.  ++++
+#.  <div class="responsive-slides">
+#.   <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTiAs2VGESe5nLRACVYBuPtTBL-3P2ibCKUO0R-3BAmIqPIORLCGvvvrAyavrcpYg/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+#.  </div>
+#.  ++++
+#.  endif::backend-pdf[]
 #. type: Title ==
 #: conclusion.en.adoc:1
 #, no-wrap
