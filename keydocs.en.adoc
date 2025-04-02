@@ -44,14 +44,6 @@ Robertson et al. (2014)
 * https://vimeo.com/116142276[Installing the IPT video^]
 * https://youtu.be/eDH9IoTrMVE[IPT in Practice demonstration video^]
 
-=== Digitization
-
-* https://www.idigbio.org/wiki/index.php/Digitization_Resources[iDigBio Digitization Resources^]
-* https://www.idigbio.org/wiki/index.php/Collections_Digitization_Workflows[iDigBio Collections Digitization Workflows^]
-* https://www.idigbio.org/wiki/index.php/Digitization_Workflows_and_Protocols[iDigBio Digitization Workflows and Protocols^]
-* https://www.idigbio.org/wiki/index.php/Specimen_Image_Capture[iDigBio specimen image capture guide^]
-* http://www.canadensys.net/publication/multimedia-publication-guide[Canadensys 10-step guide to managing images with your biodiversity data^]
-
 === GBIF
 
 * https://www.gbif.org/what-is-gbif[What is GBIF^]
@@ -61,30 +53,9 @@ Robertson et al. (2014)
 * https://doi.org/10.15468/doc-z79c-sa53[Establishing an Effective GBIF Participant Node: Concepts and general considerations^] +
 GBIF Secretariat (2019).
 
-=== Georeferencing
-
-* https://doi.org/10.15468/doc-gg7h-s853[Georeferencing Best Practices^] +
-Arthur D. Chapman & John R. Wieczorek (2020).
-* https://doi.org/10.35035/e09p-h128[Georeferencing Quick Reference Guide^] +
-Paula F. Zermoglio, Arthur D. Chapman, John R. Wieczorek, Maria Celeste Luna & David A. Bloom (2020).
-* https://doi.org/10.35035/gdwq-3v93[Georeferencing Calculator Manual^] +
-David A. Bloom, John R. Wieczorek & Paula F. Zermoglio (2020).
-* http://georeferencing.org/[Georeferencing resources^]
-
-=== Invasive Species
-
-* http://www.griis.org/about.php[GRISS - Global Register of Introduced and Invasive Species^]
-* https://osf.io/7dpgr/[TrIAS - Tracking Invasive Alien Species^]
-
-=== Living Atlases
-
-* https://living-atlases.gbif.org/[Living Atlases^]
-* http://www.gbif.org/resource/82847[ALA key technical documentation^]
-
 === Miscellaneous
 
 * http://vertnet.org/resources/downloadsinexcelguide.html[VertNet Guide to opening text files in Excel^]
-* http://vertnet.org/resources/datalicensingguide.html[VertNet data licensing guide^]
 
 === OpenRefine
 
@@ -108,15 +79,6 @@ Desmet and Brosens 2016 TDWG.
 * https://git-og.github.io/EasyOpenRedList/[EasyOpen Redlist^] +
 Querying the IUCN Red List, using a species list, OpenRefine, and some pre-written code. Olly Griffin July 2019.
 
-=== Planning/Collaboration
-
-* https://softailed.com/blog/benefits-of-agile-methodology[Benefits of the Agile Methodology^]
-* https://www.scrum.org/resources/what-is-scrum[What is SCRUM^]
-* https://www.atlassian.com/agile/scrum[SCRUM Framework^]
-* https://www.atlassian.com/agile/kanban[Kanban methodology^]
-* https://scrumguide.com/[Scrum Guide^]
-* https://github.com/[GitHub^]
-
 === Quality
 
 * https://www.gbif.org/document/80509/principles-of-data-quality[Principles of Data Quality^] +
@@ -126,12 +88,6 @@ Arthur Chapman 2005.
 * https://coffeehouse.dataone.org/2014/04/09/abandon-all-hope-ye-who-enter-dates-in-excel[Be careful with dates in Excel^] +
 DataOne 2014.
 * https://www.w3.org/International/questions/qa-what-is-encoding[Character encoding for beginners^]
-* http://mvz.berkeley.edu/Locality_Field_Recording_Notebooks.html[MVZ Guide for Recording Localities in Field Notes^]
-
-=== Sensitive species
-
-* https://doi.org/10.15468/doc-5jp4-5g10[Current Best Practices for Generalizing Sensitive Species Occurrence Data^] +
-Arthur D. Chapman 2020.
 
 === Taxonomy
 
